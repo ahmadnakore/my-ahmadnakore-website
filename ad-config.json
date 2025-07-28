@@ -14,6 +14,7 @@
         "ShowAzkarTab": false,
         "ShowPrayerTimesTab": false,
         "Show99NamesTab": false,
+        "ShowSettingsTab": true,
         
         
         "showAllAds": true,
@@ -28,8 +29,8 @@
         "loadAppOpenAds": true,
         "loadBannerAds": true,
         
-        "enableButtonEvenWithoutAds": ,
-        "showHStack": ,
+        "enableButtonEvenWithoutAds": true,
+        "showHStack": true,
         
         "": ,
         "": ,
