@@ -8,7 +8,7 @@
         "time_interval_seconds": 60
     },
     "com.ahmadnakore.Qusary": {
-        "ads_per_minute": 2,
+        "ads_per_minute": 5,
         "time_interval_seconds": 60
     },
     "com.ahmadnakore.AlAfasiiQuran": {
