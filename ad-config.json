@@ -13,7 +13,7 @@
         "ShowRecitersTab": true,
         "ShowAzkarTab": true,
         "ShowPrayerTimesTab": true,
-        "Show99NamesTab": true,
+        "Show99NamesTab": false,
         "ShowSettingsTab": true,
         
         
