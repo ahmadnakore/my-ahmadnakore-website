@@ -1,0 +1,2336 @@
+[
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/257348/vegan-pancakes/",
+    "name": "Vegan Pancakes",
+    "imageLink": "https://www.eatingwell.com/thmb/AS6_WPBnU2wOS4iHQR72Yo9C2LU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/pancakes20with20maple20syrup-938f4a9d4ce0452fb5c70d2af64ff369.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": true,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 174,
+    "fat": 6,
+    "carb": 27,
+    "protein": 6,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 6,
+    "serving": 6,
+    "cooksNote": "",
+    "prepTime": "30",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "15",
+    "marinateTime": "",
+    "totalTime": "45",
+    "Equipment": "",
+    "explanation": "Make classic light and fluffy pancakes vegan with this easy recipe. Try them topped with your favorite nut butter, maple syrup and fresh berries for a satisfying breakfast.",
+    "direction": [
+      {
+        "text": "Whisk flour, baking powder and salt in a large bowl. Whisk milk, applesauce, oil, sugar and vanilla in a medium bowl. Make a well in the center of the dry ingredients, add the wet ingredients and whisk just until combined. Resist overmixing--it will make the pancakes tough."
+      },
+      {
+        "text": "Let the batter sit, without stirring, for 10 to 15 minutes. (As the batter rests, the baking powder forms bubbles that create fluffy pancakes.)"
+      },
+      {
+        "text": "Coat a large nonstick skillet or griddle with cooking spray; heat over medium heat. Without stirring the batter, measure out pancakes using about 1/4 cup batter per pancake and pour into the pan (or onto the griddle). Cook until the edges are dry and you see bubbles on the surface, 2 to 4 minutes. Flip and cook until golden brown on the other side, 2 to 4 minutes more. Repeat with the remaining batter, coating the pan with cooking spray and reducing the heat as needed."
+      }
+    ],
+    "ingredients": [
+      {
+        "text": "1 ½ cups white whole-wheat flour (see Tip)"
+      },
+      {
+        "text": "2 teaspoons baking powder"
+      },
+      {
+        "text": "¼ teaspoon salt"
+      },
+      {
+        "text": "1 ½ cups unsweetened almond milk or other unsweetened nondairy milk"
+      },
+      {
+        "text": "¼ cup unsweetened applesauce"
+      },
+      {
+        "text": "2 tablespoons coconut oil, melted"
+      },
+      {
+        "text": "1 tablespoon sugar"
+      },
+      {
+        "text": "1 teaspoon vanilla extract"
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/261611/white-bean-avocado-toast/",
+    "name": "White Bean & Avocado Toast",
+    "imageLink": "https://www.eatingwell.com/thmb/LWIRrAd6x3nlyzQPDSJZU57dgzg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4582996-3c8c1d72224a463db59538b303835883.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "calories": 230,
+    "fat": 9,
+    "carb": 35,
+    "protein": 12,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "explanation": "",
+    "direction": [
+      {
+        "text": "Top toast with mashed avocado and white beans. Season with a pinch each of salt, pepper and crushed red pepper."
+      }
+    ],
+    "ingredients": [
+      {
+        "text": "1 slice whole-wheat bread, toasted"
+      },
+      {
+        "text": "¼ avocado, mashed"
+      },
+      {
+        "text": "½ cup canned white beans, rinsed and drained"
+      },
+      {
+        "text": "Kosher salt to taste"
+      },
+      {
+        "text": "Ground pepper to taste"
+      },
+      {
+        "text": "1 pinch Crushed red pepper"
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/253015/falafel-salad-with-lemon-tahini-dressing/",
+    "name": "Falafel Salad with Lemon-Tahini Dressing",
+    "imageLink": "https://www.eatingwell.com/thmb/k6BOMdAon-8YjZIQTii9E6B7pig=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/falafel-salad-2cc01b875d94446384cd5c5fe5239bb3.jpeg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 499,
+    "fat": 31,
+    "carb": 45,
+    "protein": 16,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 4,
+    "serving": 4,
+    "cooksNote": "50",
+    "prepTime": "",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "50",
+    "Equipment": "",
+    "explanation": "Deep-fried falafel can be a total grease bomb. But these pan-seared falafel still get crispy in just a few tablespoons of oil with equally satisfying results. Be sure to use dried, instead of canned, chickpeas in this healthy recipe—canned chickpeas add too much moisture.",
+    "direction": [
+      {
+        "text": "Soak chickpeas in cold water for 12 to 24 hours."
+      },
+      {
+        "text": "Drain the chickpeas and transfer to a food processor. Add 1 cup parsley, chopped onion, garlic, 1 tablespoon oil, 1 tablespoon lemon juice, cumin and 1/2 teaspoon salt; process until finely and evenly ground. Shape into 12 patties (1 1/2 inches wide), using a generous 2 tablespoons each."
+      },
+      {
+        "text": "Heat 2 tablespoons oil in a large nonstick skillet over medium-high heat. Reduce heat to medium. Cook the falafel until golden brown, 3 to 5 minutes. Turn, swirl in 1 tablespoon oil and cook until golden on the other side, 3 to 5 minutes more."
+      },
+      {
+        "text": "Meanwhile, whisk tahini, water and the remaining 2 tablespoons lemon juice, 1 tablespoon oil and 1/2 teaspoon salt in a large bowl. Transfer 1/4 cup to a small bowl. Add romaine and the remaining 1 cup parsley to the large bowl and toss to coat. Top with cucumbers and/or radishes, tomatoes, the sliced onion and the falafel. Drizzle with the reserved 1/4 cup dressing."
+      }
+    ],
+    "ingredients": [
+      {
+        "text": "1 cup dried chickpeas"
+      },
+      {
+        "text": "2 cups packed flat-leaf parsley, divided"
+      },
+      {
+        "text": "¼ cup chopped red onion plus 1/4 cup thinly sliced, divided"
+      },
+      {
+        "text": "2 cloves garlic"
+      },
+      {
+        "text": "5 tablespoons extra-virgin olive oil, divided"
+      },
+      {
+        "text": "3 tablespoons lemon juice, divided"
+      },
+      {
+        "text": "1 tablespoon ground cumin"
+      },
+      {
+        "text": "1 teaspoon salt, divided"
+      },
+      {
+        "text": "5 tablespoons tahini"
+      },
+      {
+        "text": "5 tablespoons warm water"
+      },
+      {
+        "text": "6 cups sliced romaine lettuce"
+      },
+      {
+        "text": "2 cups sliced cucumbers and/or radishes"
+      },
+      {
+        "text": "1 pint grape tomatoes, quartered"
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/255160/peanut-butter-chia-berry-jam-english-muffin/",
+    "name": "Peanut Butter & Chia Berry Jam English Muffin",
+    "imageLink": "https://www.eatingwell.com/thmb/gl0ts4vIfKi_LzfUioEkPxeuLaU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/3879396-5f9ef55bc11e42fc81beb252904bf674.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 262,
+    "fat": 9,
+    "carb": 41,
+    "protein": 10,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "",
+    "cookTime": "10",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "10",
+    "Equipment": "",
+    "explanation": "The addition of chia seeds in the quick “jam” topping adds heart-healthy omega-3s to this healthy breakfast recipe.",
+    "direction": [
+      {
+        "text": "Microwave berries in a medium microwave-safe bowl for 30 seconds; stir and microwave 30 seconds more. Stir in chia seeds."
+      },
+      {
+        "text": "Spread peanut butter on the English muffin. Top with the berry-chia mixture."
+      }
+    ],
+    "ingredients": [
+      {
+        "text": "½ cup unsweetened mixed frozen berries"
+      },
+      {
+        "text": "2 teaspoons chia seeds"
+      },
+      {
+        "text": "2 teaspoons natural peanut butter"
+      },
+      {
+        "text": "1 whole-wheat English muffin, toasted"
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/259819/white-bean-veggie-salad/",
+    "name": "White Bean & Veggie Salad",
+    "imageLink": "https://www.eatingwell.com/thmb/5f5lru6lpaqqidJ67kdK4VQwMuc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4548021-9d37a26dfdc34ad997b4797b620c31bb.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 360,
+    "fat": 25,
+    "carb": 30,
+    "protein": 10,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 4,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "10",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "10",
+    "Equipment": "",
+    "explanation": "",
+    "ingredients": [
+      {
+        "text": "2 cups mixed salad greens"
+      },
+      {
+        "text": "¾ cup veggies of your choice, such as chopped cucumbers and cherry tomatoes"
+      },
+      {
+        "text": "⅓ cup canned white beans, rinsed and drained"
+      },
+      {
+        "text": "½ avocado, diced"
+      },
+      {
+        "text": "1 tablespoon red-wine vinegar"
+      },
+      {
+        "text": "2 teaspoons extra-virgin olive oil"
+      },
+      {
+        "text": "¼ teaspoon kosher salt"
+      },
+      {
+        "text": "Freshly ground pepper to taste"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine greens, veggies, beans and avocado in a medium bowl. Drizzle with vinegar and oil and season with salt and pepper. Toss to combine and transfer to a large plate."
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/260726/black-bean-quinoa-buddha-bowl/",
+    "name": "Black Bean-Quinoa Bowl",
+    "imageLink": "https://www.eatingwell.com/thmb/2_e0XtUHDxNJj07uVppYzUnqKEQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4565089-13d53eaaf57f47869c5fe402a9b3e492.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 500,
+    "fat": 16,
+    "carb": 74,
+    "protein": 20,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 2,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "10",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "10",
+    "Equipment": "",
+    "explanation": "",
+    "ingredients": [
+      {
+        "text": "¾ cup canned black beans, rinsed"
+      },
+      {
+        "text": "⅔ cup cooked quinoa"
+      },
+      {
+        "text": "¼ cup hummus"
+      },
+      {
+        "text": "1 tablespoon lime juice"
+      },
+      {
+        "text": "¼ medium avocado, diced"
+      },
+      {
+        "text": "3 tablespoons pico de gallo"
+      },
+      {
+        "text": "2 tablespoons chopped fresh cilantro"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine beans and quinoa in a bowl. Stir hummus and lime juice together in a small bowl; thin with water to desired consistency. Drizzle the hummus dressing over the beans and quinoa. Top with avocado, pico de gallo and cilantro."
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/261628/peanut-butter-banana-cinnamon-toast/",
+    "name": "Peanut Butter-Banana Cinnamon Toast",
+    "imageLink": "https://www.eatingwell.com/thmb/WGF4H6fVw3BsYTxTvLG0r-BkK2k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4582997-32b604c4971e4aaeba9f5714ddf515d7.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 266,
+    "fat": 9,
+    "carb": 38,
+    "protein": 8,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "explanation": "This satisfying peanut butter-banana toast gets a sprinkle of cinnamon for an extra flavor boost.",
+    "ingredients": [
+      {
+        "text": "1 slice whole-wheat bread, toasted"
+      },
+      {
+        "text": "1 tablespoon peanut butter"
+      },
+      {
+        "text": "1 small banana, sliced"
+      },
+      {
+        "text": "Cinnamon, to taste"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Spread toast with peanut butter and top with banana slices. Sprinkle with cinnamon to taste."
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/259814/green-salad-with-edamame-beets/",
+    "name": "Green Salad with Edamame & Beets",
+    "imageLink": "https://www.eatingwell.com/thmb/hcBcid4exUlj3vAwy8HqYi0tE_I=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4548008-9e7b61595e364368aa220988b3281bbf.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 356,
+    "fat": 26,
+    "carb": 21,
+    "protein": 21,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "15",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "15",
+    "Equipment": "",
+    "explanation": "",
+    "ingredients": [
+      {
+        "text": "2 cups mixed salad greens"
+      },
+      {
+        "text": "1 cup shelled edamame, thawed"
+      },
+      {
+        "text": "½ medium raw beet, peeled and shredded (about 1/2 cup)"
+      },
+      {
+        "text": "2 tablespoons red-wine vinegar"
+      },
+      {
+        "text": "1 tablespoon chopped fresh cilantro"
+      },
+      {
+        "text": "1 tablespoon extra-virgin olive oil"
+      },
+      {
+        "text": "⅛ teaspoon salt"
+      },
+      {
+        "text": "Freshly ground pepper to taste"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Arrange greens, edamame and beet on a large plate. Whisk vinegar, cilantro, oil, salt and pepper in a small bowl. Drizzle one tablespoon of the dressing over the greens and toss gently to coat. Drizzle the remaining dressing over the entire salad."
+      },
+      {
+        "text": "To make ahead Refrigerate salad and dressing separately for up to 2 days; whisk dressing before drizzling over the salad."
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/256519/roasted-cauliflower-potato-curry-soup/",
+    "name": "Roasted Cauliflower & Potato Curry Soup",
+    "imageLink": "https://www.eatingwell.com/thmb/5vE1uRdcxtoRYt3Tvcwxeft1Ty8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4293537-3540838903f04bde9f3d6aca5176294b.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 272,
+    "fat": 15,
+    "carb": 33,
+    "protein": 5,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 8,
+    "serving": 8,
+    "cooksNote": "",
+    "prepTime": "50",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "40",
+    "marinateTime": "",
+    "totalTime": "90",
+    "Equipment": "",
+    "explanation": "",
+    "ingredients": [
+      {
+        "text": "2 teaspoons ground coriander"
+      },
+      {
+        "text": "2 teaspoons ground cumin"
+      },
+      {
+        "text": "1 ½ teaspoons ground cinnamon"
+      },
+      {
+        "text": "1 ½ teaspoons ground turmeric"
+      },
+      {
+        "text": "1 ¼ teaspoons salt"
+      },
+      {
+        "text": "¾ teaspoon ground pepper"
+      },
+      {
+        "text": "⅛ teaspoon cayenne pepper"
+      },
+      {
+        "text": "1 small head cauliflower, cut into small florets (about 6 cups)"
+      },
+      {
+        "text": "2 tablespoons extra-virgin olive oil, divided"
+      },
+      {
+        "text": "1 large onion, chopped"
+      },
+      {
+        "text": "1 cup diced carrot"
+      },
+      {
+        "text": "3 large cloves garlic, minced"
+      },
+      {
+        "text": "1 ½ teaspoons grated fresh ginger"
+      },
+      {
+        "text": "1 fresh red chile pepper, such as serrano or jalapeño, minced, plus more for garnish"
+      },
+      {
+        "text": "1 (14 ounce) can no-salt-added tomato sauce"
+      },
+      {
+        "text": "4 cups low-sodium vegetable broth"
+      },
+      {
+        "text": "3 cups diced peeled russet potatoes (1/2-inch)"
+      },
+      {
+        "text": "3 cups diced peeled sweet potatoes (1/2-inch)"
+      },
+      {
+        "text": "2 teaspoons lime zest"
+      },
+      {
+        "text": "2 tablespoons lime juice"
+      },
+      {
+        "text": "1 (14 ounce) can coconut milk"
+      },
+      {
+        "text": "Chopped fresh cilantro for garnish"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Preheat oven to 450 degrees F."
+      },
+      {
+        "text": "Combine coriander, cumin, cinnamon, turmeric, salt, pepper and cayenne in a small bowl. Toss cauliflower with 1 tablespoon oil in a large bowl, sprinkle with 1 tablespoon of the spice mixture and toss again. Spread in a single layer on a rimmed baking sheet. Roast the cauliflower until the edges are browned, 15 to 20 minutes. Set aside."
+      },
+      {
+        "text": "Meanwhile, heat the remaining 1 tablespoon oil in a large pot over medium-high heat. Add onion and carrot and cook, stirring often, until starting to brown, 3 to 4 minutes. Reduce heat to medium and continue cooking, stirring often, until the onion is soft, 3 to 4 minutes. Add garlic, ginger, chile and the remaining spice mixture. Cook, stirring, for 1 minute more."
+      },
+      {
+        "text": "Stir in tomato sauce, scraping up any browned bits, and simmer for 1 minute. Add broth, potatoes, sweet potatoes, lime zest and juice. Cover and bring to a boil over high heat. Reduce heat to maintain a gentle simmer and cook, partially covered and stirring occasionally, until the vegetables are tender, 35 to 40 minutes."
+      },
+      {
+        "text": "Stir in coconut milk and the roasted cauliflower. Return to a simmer to heat through. Serve garnished with cilantro and chiles, if desired."
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/255762/quinoa-chia-oatmeal-mix/",
+    "name": "Quinoa & Chia Oatmeal Mix",
+    "imageLink": "https://www.eatingwell.com/thmb/O-iaMu48CqhMNbjboN2iPO0quQ4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4027936-b67bca1910944fb1b109989c70083508.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 196,
+    "fat": 4,
+    "carb": 36,
+    "protein": 6,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 4,
+    "serving": 12,
+    "cooksNote": "",
+    "prepTime": "",
+    "cookTime": "10",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "10",
+    "Equipment": "",
+    "explanation": "Make your own hot cereal mix with this healthy recipe. Keep it on hand and just cook up the amount you need when you're ready for a hot breakfast. One serving of the warm cereal contains six grams of fiber—almost a quarter of your daily quota.",
+    "ingredients": [
+      {
+        "text": "2 cups old-fashioned rolled oats"
+      },
+      {
+        "text": "1 cup rolled wheat and/or barley flakes (see Tip)"
+      },
+      {
+        "text": "1 cup quinoa"
+      },
+      {
+        "text": "1 cup dried fruit, such as raisins, cranberries and/or chopped apricots"
+      },
+      {
+        "text": "½ cup chia and/or hemp seeds"
+      },
+      {
+        "text": "1 teaspoon ground cinnamon"
+      },
+      {
+        "text": "¾ teaspoon salt"
+      }
+    ],
+    "direction": [
+      {
+        "text": "To make the hot cereal dry mix: Combine oats, wheat and/or barley flakes, quinoa, dried fruit, seeds, cinnamon and salt in an airtight container."
+      },
+      {
+        "text": "To make 1 serving of hot cereal: Combine 1/3 cup Quinoa & Chia Oatmeal Mix with 1 1/4 cups water (or milk) in a small saucepan. Bring to a boil. Reduce heat, partially cover and simmer, stirring occasionally, until thickened, 12 to 15 minutes. Let stand, covered, for 5 minutes. Stir in a sweetener of your choice and top with nuts and/or more dried fruit, if desired. Makes 1 cup."
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/256519/roasted-cauliflower-potato-curry-soup/",
+    "name": "Roasted Cauliflower & Potato Curry Soup",
+    "imageLink": "https://www.eatingwell.com/thmb/5vE1uRdcxtoRYt3Tvcwxeft1Ty8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4293537-3540838903f04bde9f3d6aca5176294b.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 272,
+    "fat": 15,
+    "carb": 33,
+    "protein": 5,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 8,
+    "serving": 8,
+    "cooksNote": "",
+    "prepTime": "50",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "40",
+    "marinateTime": "",
+    "totalTime": "90",
+    "Equipment": "",
+    "explanation": "",
+    "ingredients": [
+      {
+        "text": "2 teaspoons ground coriander"
+      },
+      {
+        "text": "2 teaspoons ground cumin"
+      },
+      {
+        "text": "1 ½ teaspoons ground cinnamon"
+      },
+      {
+        "text": "1 ½ teaspoons ground turmeric"
+      },
+      {
+        "text": "1 ¼ teaspoons salt"
+      },
+      {
+        "text": "¾ teaspoon ground pepper"
+      },
+      {
+        "text": "⅛ teaspoon cayenne pepper"
+      },
+      {
+        "text": "1 small head cauliflower, cut into small florets (about 6 cups)"
+      },
+      {
+        "text": "2 tablespoons extra-virgin olive oil, divided"
+      },
+      {
+        "text": "1 large onion, chopped"
+      },
+      {
+        "text": "1 cup diced carrot"
+      },
+      {
+        "text": "3 large cloves garlic, minced"
+      },
+      {
+        "text": "1 ½ teaspoons grated fresh ginger"
+      },
+      {
+        "text": "1 fresh red chile pepper, such as serrano or jalapeño, minced, plus more for garnish"
+      },
+      {
+        "text": "1 (14 ounce) can no-salt-added tomato sauce"
+      },
+      {
+        "text": "4 cups low-sodium vegetable broth"
+      },
+      {
+        "text": "3 cups diced peeled russet potatoes (1/2-inch)"
+      },
+      {
+        "text": "3 cups diced peeled sweet potatoes (1/2-inch)"
+      },
+      {
+        "text": "2 teaspoons lime zest"
+      },
+      {
+        "text": "2 tablespoons lime juice"
+      },
+      {
+        "text": "1 (14 ounce) can coconut milk"
+      },
+      {
+        "text": "Chopped fresh cilantro for garnish"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Preheat oven to 450 degrees F."
+      },
+      {
+        "text": "Combine coriander, cumin, cinnamon, turmeric, salt, pepper and cayenne in a small bowl. Toss cauliflower with 1 tablespoon oil in a large bowl, sprinkle with 1 tablespoon of the spice mixture and toss again. Spread in a single layer on a rimmed baking sheet. Roast the cauliflower until the edges are browned, 15 to 20 minutes. Set aside."
+      },
+      {
+        "text": "Meanwhile, heat the remaining 1 tablespoon oil in a large pot over medium-high heat. Add onion and carrot and cook, stirring often, until starting to brown, 3 to 4 minutes. Reduce heat to medium and continue cooking, stirring often, until the onion is soft, 3 to 4 minutes. Add garlic, ginger, chile and the remaining spice mixture. Cook, stirring, for 1 minute more."
+      },
+      {
+        "text": "Stir in tomato sauce, scraping up any browned bits, and simmer for 1 minute. Add broth, potatoes, sweet potatoes, lime zest and juice. Cover and bring to a boil over high heat. Reduce heat to maintain a gentle simmer and cook, partially covered and stirring occasionally, until the vegetables are tender, 35 to 40 minutes."
+      },
+      {
+        "text": "Stir in coconut milk and the roasted cauliflower. Return to a simmer to heat through. Serve garnished with cilantro and chiles, if desired."
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/260717/stuffed-sweet-potato-with-hummus-dressing/",
+    "name": "Stuffed Sweet Potato with Hummus Dressing",
+    "imageLink": "https://www.eatingwell.com/thmb/URUc72IU3w4hGR0hROntyBYD_80=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4565006-246ba274a2b645fdad6a9d0274a41b88.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 472,
+    "fat": 7,
+    "carb": 85,
+    "protein": 21,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "15",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "5",
+    "marinateTime": "",
+    "totalTime": "20",
+    "Equipment": "",
+    "explanation": "Hearty yet simple to prepare, this stuffed sweet potato with black beans, kale and hummus dressing is a fantastic 5-ingredient lunch for one!",
+    "ingredients": [
+      {
+        "text": "1 large sweet potato, scrubbed"
+      },
+      {
+        "text": "¾ cup chopped kale"
+      },
+      {
+        "text": "1 cup canned black beans, rinsed"
+      },
+      {
+        "text": "¼ cup hummus"
+      },
+      {
+        "text": "2 tablespoons water"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Prick sweet potato all over with a fork. Microwave on High until cooked through, 7 to 10 minutes."
+      },
+      {
+        "text": "Meanwhile, wash kale and drain, allowing water to cling to the leaves. Place in a medium saucepan; cover and cook over medium-high heat, stirring once or twice, until wilted. Add beans; add a tablespoon or two of water if the pot is dry. Continue cooking, uncovered, stirring occasionally, until the mixture is steaming hot, 1 to 2 minutes."
+      },
+      {
+        "text": "Split the sweet potato open and top with the kale and bean mixture. Combine hummus and 2 tablespoons water in a small dish. Add additional water as needed to reach desired consistency. Drizzle the hummus dressing over the stuffed sweet potato."
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/257348/vegan-pancakes/",
+    "name": "Vegan Pancakes",
+    "imageLink": "https://www.eatingwell.com/thmb/AS6_WPBnU2wOS4iHQR72Yo9C2LU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/pancakes20with20maple20syrup-938f4a9d4ce0452fb5c70d2af64ff369.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": true,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 174,
+    "fat": 6,
+    "carb": 27,
+    "protein": 6,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 6,
+    "serving": 6,
+    "cooksNote": "",
+    "prepTime": "30",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "15",
+    "marinateTime": "",
+    "totalTime": "45",
+    "Equipment": "",
+    "explanation": "Make classic light and fluffy pancakes vegan with this easy recipe. Try them topped with your favorite nut butter, maple syrup and fresh berries for a satisfying breakfast.",
+    "direction": [
+      {
+        "text": "Whisk flour, baking powder and salt in a large bowl. Whisk milk, applesauce, oil, sugar and vanilla in a medium bowl. Make a well in the center of the dry ingredients, add the wet ingredients and whisk just until combined. Resist overmixing--it will make the pancakes tough."
+      },
+      {
+        "text": "Let the batter sit, without stirring, for 10 to 15 minutes. (As the batter rests, the baking powder forms bubbles that create fluffy pancakes.)"
+      },
+      {
+        "text": "Coat a large nonstick skillet or griddle with cooking spray; heat over medium heat. Without stirring the batter, measure out pancakes using about 1/4 cup batter per pancake and pour into the pan (or onto the griddle). Cook until the edges are dry and you see bubbles on the surface, 2 to 4 minutes. Flip and cook until golden brown on the other side, 2 to 4 minutes more. Repeat with the remaining batter, coating the pan with cooking spray and reducing the heat as needed."
+      }
+    ],
+    "ingredients": [
+      {
+        "text": "1 ½ cups white whole-wheat flour (see Tip)"
+      },
+      {
+        "text": "2 teaspoons baking powder"
+      },
+      {
+        "text": "¼ teaspoon salt"
+      },
+      {
+        "text": "1 ½ cups unsweetened almond milk or other unsweetened nondairy milk"
+      },
+      {
+        "text": "¼ cup unsweetened applesauce"
+      },
+      {
+        "text": "2 tablespoons coconut oil, melted"
+      },
+      {
+        "text": "1 tablespoon sugar"
+      },
+      {
+        "text": "1 teaspoon vanilla extract"
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/259817/veggie-hummus-sandwich/",
+    "name": "Veggie & Hummus Sandwich",
+    "imageLink": "https://www.eatingwell.com/thmb/pyXZIBIUZQFs1LnJ_elOSfj5K0Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4549578-ad455cc7747f439d90229a6e8b2c587a.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 325,
+    "fat": 14,
+    "carb": 40,
+    "protein": 13,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "10",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "10",
+    "Equipment": "",
+    "explanation": "This mile-high vegetable and hummus sandwich makes the perfect heart-healthy vegetarian lunch to go. Mix it up with different flavors of hummus and different types of vegetables, depending on your mood.",
+    "ingredients": [
+      {
+        "text": "2 slices whole-grain bread"
+      },
+      {
+        "text": "3 tablespoons hummus"
+      },
+      {
+        "text": "¼ avocado, mashed"
+      },
+      {
+        "text": "½ cup mixed salad greens"
+      },
+      {
+        "text": "¼ medium red bell pepper, sliced"
+      },
+      {
+        "text": "¼ cup sliced cucumber"
+      },
+      {
+        "text": "¼ cup shredded carrot"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Spread 1 slice of bread with hummus and the other with avocado. Fill the sandwich with greens, bell pepper, cucumber and carrot. Slice in half and serve."
+      }
+    ],
+    "tips": [
+      {
+        "text": "The Bread : We prefer the nutty flavor and fiber-boosting benefits of whole-grain bread for our veggie and hummus sandwich. And we like country bread or bread with a firm crust instead of sandwich bread which has a softer texture, but either will work."
+      },
+      {
+        "text": "The Spreads : We use both hummus and mashed avocado as spreads for our sandwich. They help keep the veggies in place and also form a barrier between the bread and the veggies that helps prevent the bread from getting soggy. If you don't have avocado, you can double up on the hummus or try whipped cream cheese (either plain or combined with basil or sun-dried tomato pesto). Just be sure to spread whatever you're using over both slices of the bread. You can use regular hummus, or try a flavored hummus of your choice."
+      },
+      {
+        "text": "The Veggies : We keep our sandwich simple by including salad greens, shredded carrot, cucumber and red bell pepper, but that's just scratching the surface! Try adding spinach, sprouts, sliced red onion, sliced tomato, broccoli slaw, thinly sliced radish and tender fresh herbs like cilantro or basil. Briny ingredients like banana peppers and pickles are good, too, but keep in mind that they will also add sodium. Try and keep your variations simple and pick three to four veggies instead of piling on the entire produce aisle. Wet ingredients like sliced tomatoes should be patted dry to remove excess moisture before adding to the sandwich."
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/255186/chickpea-curry-chhole/",
+    "name": "Chhole (Chickpea Curry)",
+    "imageLink": "https://www.eatingwell.com/thmb/7az3BT5k-74kntVRyt5tlCzG6cI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/38793671-094ef5584ee444219803492374646bd0.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 278,
+    "fat": 16,
+    "carb": 30,
+    "protein": 6,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 6,
+    "serving": 6,
+    "cooksNote": "",
+    "prepTime": "15",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "20",
+    "Equipment": "",
+    "explanation": "This healthy Indian recipe is a flavorful chickpea curry that you can make in just 20 minutes. Also called chana masala, this dish is a comforting and delicious dinner.",
+    "ingredients": [
+      {
+        "text": "1 medium serrano pepper, cut into thirds"
+      },
+      {
+        "text": "4 large cloves garlic"
+      },
+      {
+        "text": "1 2-inch piece fresh ginger, peeled and coarsely chopped"
+      },
+      {
+        "text": "1 medium yellow onion, chopped (1-inch)"
+      },
+      {
+        "text": "6 tablespoons canola oil or grapeseed oil"
+      },
+      {
+        "text": "2 teaspoons ground coriander"
+      },
+      {
+        "text": "2 teaspoons ground cumin"
+      },
+      {
+        "text": "½ teaspoon ground turmeric"
+      },
+      {
+        "text": "2 ¼ cups no-salt-added canned diced tomatoes with their juice (from a 28-ounce can)"
+      },
+      {
+        "text": "¾ teaspoon  kosher salt"
+      },
+      {
+        "text": "2 15-ounce cans chickpeas, rinsed"
+      },
+      {
+        "text": "2 teaspoons garam masala"
+      },
+      {
+        "text": "Fresh cilantro for garnish"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Pulse serrano, garlic and ginger in a food processor until minced. Scrape down the sides and pulse again. Add onion; pulse until finely chopped, but not watery."
+      },
+      {
+        "text": "Heat oil in a large saucepan over medium-high heat. Add the onion mixture and cook, stirring occasionally, until softened, 3 to 5 minutes. Add coriander, cumin and turmeric and cook, stirring, for 2 minutes."
+      },
+      {
+        "text": "Pulse tomatoes in the food processor until finely chopped. Add to the pan along with salt. Reduce heat to maintain a simmer and cook, stirring occasionally, for 4 minutes. Add chickpeas and garam masala, reduce heat to a gentle simmer, cover and cook, stirring occasionally, for 5 minutes more. Serve topped with cilantro, if desired."
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/255160/peanut-butter-chia-berry-jam-english-muffin/",
+    "name": "Peanut Butter & Chia Berry Jam English Muffin",
+    "imageLink": "https://www.eatingwell.com/thmb/gl0ts4vIfKi_LzfUioEkPxeuLaU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/3879396-5f9ef55bc11e42fc81beb252904bf674.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 262,
+    "fat": 9,
+    "carb": 41,
+    "protein": 10,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "",
+    "cookTime": "10",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "10",
+    "Equipment": "",
+    "explanation": "The addition of chia seeds in the quick “jam” topping adds heart-healthy omega-3s to this healthy breakfast recipe.",
+    "direction": [
+      {
+        "text": "Microwave berries in a medium microwave-safe bowl for 30 seconds; stir and microwave 30 seconds more. Stir in chia seeds."
+      },
+      {
+        "text": "Spread peanut butter on the English muffin. Top with the berry-chia mixture."
+      }
+    ],
+    "ingredients": [
+      {
+        "text": "½ cup unsweetened mixed frozen berries"
+      },
+      {
+        "text": "2 teaspoons chia seeds"
+      },
+      {
+        "text": "2 teaspoons natural peanut butter"
+      },
+      {
+        "text": "1 whole-wheat English muffin, toasted"
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/264674/vegan-bistro-lunch-box/",
+    "name": "Vegan Bistro Lunch Box",
+    "imageLink": "https://www.eatingwell.com/thmb/3RajtQaGYC0XnGEJOYofMU7voa8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/5397870-9a417277ccd341d7953b274e029ecd20.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 194,
+    "fat": 9,
+    "carb": 23,
+    "protein": 8,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "explanation": "Perfect to pack for lunch to take to work or for a picnic in the park, this vegan bistro box is filled with Mediterranean diet-inspired crunchy vegetables, pita bread, creamy hummus and olives.",
+    "ingredients": [
+      {
+        "text": "¼ cup hummus"
+      },
+      {
+        "text": "½ whole-wheat pita bread, cut into 4 wedges"
+      },
+      {
+        "text": "2 tablespoons mixed olives"
+      },
+      {
+        "text": "1 Persian cucumber or 1/2 English cucumber, cut into spears"
+      },
+      {
+        "text": "¼ large red bell pepper, sliced"
+      },
+      {
+        "text": "¼ teaspoon chopped fresh dill"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Arrange hummus, pita, olives, cucumber and bell peppers in a 4-cup divided sealable container. (If desired, the hummus and olives can be kept separate by placing them in silicone baking cups before arranging.) Sprinkle cucumber with dill. Keep refrigerated until ready to use."
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/266648/thai-spaghetti-squash-with-peanut-sauce/",
+    "name": "Spaghetti Squash with Peanut Sauce & Edamame",
+    "imageLink": "https://www.eatingwell.com/thmb/aPXvX0fiG4OrcCs5p5AFlB4C3D0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/5571680-cc0403f668954b7b8f8e4f04754e8865.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 419,
+    "fat": 24,
+    "carb": 33,
+    "protein": 18,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 4,
+    "serving": 4,
+    "cooksNote": "",
+    "prepTime": "25",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "15",
+    "marinateTime": "",
+    "totalTime": "40",
+    "Equipment": "",
+    "explanation": "This gluten-free, vegan version of peanut noodles has a high protein content thanks to edamame and peanut butter. Spaghetti squash turns delicately sweet when roasted, which pairs wonderfully with the peanut sauce.",
+    "ingredients": [
+      {
+        "text": "1 2 1/2- to 3-pound spaghetti squash, halved lengthwise and seeded"
+      },
+      {
+        "text": "½ cup smooth natural peanut butter"
+      },
+      {
+        "text": "¼ cup reduced-sodium tamari or soy sauce"
+      },
+      {
+        "text": "¼ cup water"
+      },
+      {
+        "text": "1 tablespoon rice vinegar"
+      },
+      {
+        "text": "1 tablespoon maple syrup"
+      },
+      {
+        "text": "1 teaspoon minced garlic"
+      },
+      {
+        "text": "1/4-1/2 teaspoon crushed red pepper"
+      },
+      {
+        "text": "1 cup frozen shelled edamame, thawed (see Ingredient Note)"
+      },
+      {
+        "text": "½ cup thinly sliced red bell pepper, slices cut in half crosswise"
+      },
+      {
+        "text": "1 medium carrot, shredded"
+      },
+      {
+        "text": "¼ cup sliced scallions"
+      },
+      {
+        "text": "¼ cup chopped unsalted roasted peanuts"
+      },
+      {
+        "text": "¼ cup chopped fresh cilantro"
+      },
+      {
+        "text": "Lime wedges for serving"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Place squash halves, cut-side down, in a microwave-safe dish; add 2 tablespoons water. Microwave, uncovered, on High until flesh is tender, 10 to 15 minutes. (Alternatively, place squash halves, cut-side down, on a rimmed baking sheet. Bake in a 400 degrees F oven until tender, 40 to 50 minutes.) When cool enough to handle, scrape flesh into a large bowl with a fork. Let cool for 10 minutes."
+      },
+      {
+        "text": "Meanwhile, whisk peanut butter, tamari (or soy sauce), water, vinegar, maple syrup, garlic and crushed red pepper in a small bowl until smooth."
+      },
+      {
+        "text": "When the squash has cooled, add edamame, bell pepper, carrot and scallions to the bowl. Drizzle with the peanut sauce; toss to coat. Sprinkle with peanuts and cilantro. Serve with lime wedges."
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/257348/vegan-pancakes/",
+    "name": "Vegan Pancakes",
+    "imageLink": "https://www.eatingwell.com/thmb/AS6_WPBnU2wOS4iHQR72Yo9C2LU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/pancakes20with20maple20syrup-938f4a9d4ce0452fb5c70d2af64ff369.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": true,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 174,
+    "fat": 6,
+    "carb": 27,
+    "protein": 6,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 6,
+    "serving": 6,
+    "cooksNote": "",
+    "prepTime": "30",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "15",
+    "marinateTime": "",
+    "totalTime": "45",
+    "Equipment": "",
+    "explanation": "Make classic light and fluffy pancakes vegan with this easy recipe. Try them topped with your favorite nut butter, maple syrup and fresh berries for a satisfying breakfast.",
+    "direction": [
+      {
+        "text": "Whisk flour, baking powder and salt in a large bowl. Whisk milk, applesauce, oil, sugar and vanilla in a medium bowl. Make a well in the center of the dry ingredients, add the wet ingredients and whisk just until combined. Resist overmixing--it will make the pancakes tough."
+      },
+      {
+        "text": "Let the batter sit, without stirring, for 10 to 15 minutes. (As the batter rests, the baking powder forms bubbles that create fluffy pancakes.)"
+      },
+      {
+        "text": "Coat a large nonstick skillet or griddle with cooking spray; heat over medium heat. Without stirring the batter, measure out pancakes using about 1/4 cup batter per pancake and pour into the pan (or onto the griddle). Cook until the edges are dry and you see bubbles on the surface, 2 to 4 minutes. Flip and cook until golden brown on the other side, 2 to 4 minutes more. Repeat with the remaining batter, coating the pan with cooking spray and reducing the heat as needed."
+      }
+    ],
+    "ingredients": [
+      {
+        "text": "1 ½ cups white whole-wheat flour (see Tip)"
+      },
+      {
+        "text": "2 teaspoons baking powder"
+      },
+      {
+        "text": "¼ teaspoon salt"
+      },
+      {
+        "text": "1 ½ cups unsweetened almond milk or other unsweetened nondairy milk"
+      },
+      {
+        "text": "¼ cup unsweetened applesauce"
+      },
+      {
+        "text": "2 tablespoons coconut oil, melted"
+      },
+      {
+        "text": "1 tablespoon sugar"
+      },
+      {
+        "text": "1 teaspoon vanilla extract"
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/259814/green-salad-with-edamame-beets/",
+    "name": "Green Salad with Edamame & Beets",
+    "imageLink": "https://www.eatingwell.com/thmb/hcBcid4exUlj3vAwy8HqYi0tE_I=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4548008-9e7b61595e364368aa220988b3281bbf.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 356,
+    "fat": 26,
+    "carb": 21,
+    "protein": 21,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "15",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "15",
+    "Equipment": "",
+    "explanation": "",
+    "ingredients": [
+      {
+        "text": "2 cups mixed salad greens"
+      },
+      {
+        "text": "1 cup shelled edamame, thawed"
+      },
+      {
+        "text": "½ medium raw beet, peeled and shredded (about 1/2 cup)"
+      },
+      {
+        "text": "2 tablespoons red-wine vinegar"
+      },
+      {
+        "text": "1 tablespoon chopped fresh cilantro"
+      },
+      {
+        "text": "1 tablespoon extra-virgin olive oil"
+      },
+      {
+        "text": "⅛ teaspoon salt"
+      },
+      {
+        "text": "Freshly ground pepper to taste"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Arrange greens, edamame and beet on a large plate. Whisk vinegar, cilantro, oil, salt and pepper in a small bowl. Drizzle one tablespoon of the dressing over the greens and toss gently to coat. Drizzle the remaining dressing over the entire salad."
+      },
+      {
+        "text": "To make ahead Refrigerate salad and dressing separately for up to 2 days; whisk dressing before drizzling over the salad."
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/255570/noodle-bowl-rainbow-veggies-peanut-sauce/",
+    "name": "Noodle Bowl with Rainbow Veggies & Peanut Sauce",
+    "imageLink": "https://www.eatingwell.com/thmb/WKOKXhBEfH4m0_hyHjr2tr0wllo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/39999061-b338f88cee1e45c9b4f69d080ea95d0d.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": true,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": true,
+    "vegetarian": false,
+    "calories": 434,
+    "fat": 20,
+    "carb": 51,
+    "protein": 12,
+    "fiber": 0,
+    "sodium": 0,
+    "yield": 4,
+    "serving": 4,
+    "cooksNote": "",
+    "prepTime": "",
+    "cookTime": "45",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "45",
+    "Equipment": "",
+    "explanation": "With tons of colorful vegetables, sesame rice noodles and a healthy peanut sauce, this noodle bowl is a hit with adults and kids alike. Assemble the bowls before serving or let everyone make their own. Serve with Sriracha hot sauce, if desired.",
+    "ingredients": [
+      {
+        "text": "Noodle Bowl: 4 ounces bean thread noodles (see Tip) or thin rice noodles"
+      },
+      {
+        "text": "1 tablespoon toasted (dark) sesame oil"
+      },
+      {
+        "text": "24 asparagus spears, trimmed"
+      },
+      {
+        "text": "2 cups shredded green or napa cabbage"
+      },
+      {
+        "text": "2 tablespoons chopped fresh basil"
+      },
+      {
+        "text": "2 tablespoons chopped fresh mint"
+      },
+      {
+        "text": "2 teaspoons rice vinegar"
+      },
+      {
+        "text": "1 cup thinly sliced carrot"
+      },
+      {
+        "text": "1 cup thinly sliced beets"
+      },
+      {
+        "text": "1 cup thinly sliced red bell pepper"
+      },
+      {
+        "text": "1 cup thinly sliced yellow bell pepper"
+      },
+      {
+        "text": "Peanut Sauce: ½ cup smooth natural peanut butter"
+      },
+      {
+        "text": "¼ cup reduced-sodium tamari or soy sauce"
+      },
+      {
+        "text": "¼ cup water"
+      },
+      {
+        "text": "1 tablespoon rice vinegar"
+      },
+      {
+        "text": "1 tablespoon maple syrup"
+      },
+      {
+        "text": "1 teaspoon minced garlic"
+      },
+      {
+        "text": "¼ teaspoon crushed red pepper (Optional)"
+      }
+    ],
+    "direction": [
+      {
+        "text": "To prepare noodle bowl: Prepare noodles according to package directions. Rinse well with cold water. Toss with sesame oil."
+      },
+      {
+        "text": "Bring 1 inch of water to a boil in a large pot. Place a medium bowl of ice water next to the stove. Cook asparagus in the boiling water for 30 seconds, then transfer to the ice water. Drain well, pat dry and cut into 2-inch pieces."
+      },
+      {
+        "text": "Combine cabbage, basil, mint and rice vinegar in a medium bowl."
+      },
+      {
+        "text": "Divide the noodles among 4 bowls. Top each bowl with 1/2 cup of the cabbage mixture, some asparagus, carrot, beet and red and yellow bell pepper."
+      },
+      {
+        "text": "To prepare sauce: Whisk peanut butter, tamari (or soy sauce), water, rice vinegar, maple syrup, garlic and crushed red pepper (if using) in a small bowl until smooth. Drizzle 1/4 cup sauce over each bowl."
+      }
+    ],
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  }
+]

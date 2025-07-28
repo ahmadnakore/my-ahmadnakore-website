@@ -1,0 +1,1421 @@
+[
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/266247/rainbow-frittata/",
+    "name": "Rainbow Frittata",
+    "explanation": "This delicious frittata is loaded with heart-healthy, omega-3 enriched eggs and a medley of colorful vegetables. Start cooking the vegetables on the stove and finish them up in the oven with the egg mixture. To serve, top with avocado slices, grape tomatoes and a touch of sriracha.",
+    "imageLink": "https://www.eatingwell.com/thmb/RbZaW_L28FiLo-UirOiyGtuj8wI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/5533684-c0ecc04654154a9796a1210d4300f6f3.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": true,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": true,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 4,
+    "serving": 4,
+    "cooksNote": "",
+    "prepTime": "30",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "30",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "Nonstick cooking spray"
+      },
+      {
+        "text": "¼ cup 1/2-inch pieces sweet potato"
+      },
+      {
+        "text": "¼ cup 1/2-inch pieces yellow sweet pepper"
+      },
+      {
+        "text": "¼ cup coarsely chopped fresh broccoli"
+      },
+      {
+        "text": "8 omega-3 enriched eggs"
+      },
+      {
+        "text": "1 teaspoon snipped fresh basil"
+      },
+      {
+        "text": "½ teaspoon snipped fresh thyme"
+      },
+      {
+        "text": "⅛ teaspoon salt"
+      },
+      {
+        "text": "⅛ teaspoon cracked black pepper"
+      },
+      {
+        "text": "1 avocado, halved, seeded, peeled and thinly sliced"
+      },
+      {
+        "text": "5 ½ cups grape or cherry tomatoes, halved"
+      },
+      {
+        "text": "Sriracha sauce"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Preheat oven to 350 F. Coat an ovenproof 10-inch nonstick skillet with cooking spray. Add sweet potato, sweet pepper and broccoli; cook and stir over medium 5 to 7 minutes or until tender."
+      },
+      {
+        "text": "In a medium bowl whisk together eggs, basil, thyme, salt and black pepper. Pour mixture over vegetables in skillet. Cook, without stirring, until mixture begins to set on bottom and around edges. Using a spatula, lift egg mixture so uncooked portion flows underneath."
+      },
+      {
+        "text": "Transfer skillet to oven; cook 5 minutes or until egg mixture is set. Remove from oven. Let stand 2 minutes. Top servings with avocado and tomatoes. Drizzle with sriracha."
+      }
+    ],
+    "calories": 219,
+    "fat": 15,
+    "carb": 8,
+    "protein": 14,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/259821/green-salad-with-pita-bread-hummus/",
+    "name": "Green Salad with Pita Bread & Hummus",
+    "explanation": "Elevate hummus and pita by piling your plate high with cucumbers, carrots and mixed greens! Just a drizzle of balsamic vinegar and extra-virgin olive oil is all it takes to dress it up.",
+    "imageLink": "https://www.eatingwell.com/thmb/UkinU4ZSTOdm1s5s_2MowNm7IK8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4548033-c4468ab3c04b4a48b3ce57ab7ffd225f.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": true,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": true,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "10",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "10",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "2 cups mixed salad greens"
+      },
+      {
+        "text": "½ cup sliced cucumber"
+      },
+      {
+        "text": "2 tablespoons grated carrot"
+      },
+      {
+        "text": "1 ½ teaspoons extra-virgin olive oil"
+      },
+      {
+        "text": "1 ½ teaspoons balsamic vinegar"
+      },
+      {
+        "text": "Pinch of salt"
+      },
+      {
+        "text": "Pinch of ground pepper"
+      },
+      {
+        "text": "1 6 1/2-inch whole-wheat pita bread, toasted"
+      },
+      {
+        "text": "¼ cup hummus"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Arrange greens, cucumber and carrot on a large plate. Drizzle with oil and vinegar. Sprinkle with salt and pepper. Serve with pita and hummus."
+      }
+    ],
+    "calories": 374,
+    "fat": 15,
+    "carb": 53,
+    "protein": 14,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/255150/dijon-salmon-with-green-bean-pilaf/",
+    "name": "Dijon Salmon with Green Bean Pilaf",
+    "explanation": "In this quick dinner recipe, the delicious garlicky-mustardy mayo that tops baked salmon is very versatile. Make extra to use as a dip for fries or to jazz up tuna salad. Precooked brown rice helps get this healthy dinner on the table fast, but if you have other leftover whole grains, such as quinoa or farro, they work well here too.",
+    "imageLink": "https://www.eatingwell.com/thmb/ky8tAxdORNSgclekxOcaWDkAPOA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/38794061-6a10a7add606423782980f4def22949d.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": true,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": true,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 4,
+    "serving": 4,
+    "cooksNote": "",
+    "prepTime": "30",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "30",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 ¼ pounds wild salmon (see Tip), skinned and cut into 4 portions"
+      },
+      {
+        "text": "3 tablespoons extra-virgin olive oil, divided"
+      },
+      {
+        "text": "1 tablespoon minced garlic"
+      },
+      {
+        "text": "¾ teaspoon salt"
+      },
+      {
+        "text": "2 tablespoons mayonnaise"
+      },
+      {
+        "text": "2 teaspoons whole-grain mustard"
+      },
+      {
+        "text": "½ teaspoon ground pepper, divided"
+      },
+      {
+        "text": "12 ounces pretrimmed haricots verts or thin green beans, cut into thirds"
+      },
+      {
+        "text": "1 small lemon, zested and cut into 4 wedges"
+      },
+      {
+        "text": "2 tablespoons pine nuts"
+      },
+      {
+        "text": "1 8-ounce package precooked brown rice"
+      },
+      {
+        "text": "2 tablespoons water"
+      },
+      {
+        "text": "Chopped fresh parsley for garnish"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Preheat oven to 425 degrees F. Line a rimmed baking sheet with foil or parchment paper."
+      },
+      {
+        "text": "Brush salmon with 1 tablespoon oil and place on the prepared baking sheet. Mash garlic and salt into a paste with the side of a chef's knife or a fork. Combine a scant 1 teaspoon of the garlic paste in a small bowl with mayonnaise, mustard and 1/4 teaspoon pepper. Spread the mixture on top of the fish."
+      },
+      {
+        "text": "Roast the salmon until it flakes easily with a fork in the thickest part, 6 to 8 minutes per inch of thickness."
+      },
+      {
+        "text": "Meanwhile, heat the remaining 2 tablespoons oil in a large skillet over medium-high heat. Add green beans, lemon zest, pine nuts, the remaining garlic paste and 1/4 teaspoon pepper; cook, stirring, until the beans are just tender, 2 to 4 minutes. Reduce heat to medium. Add rice and water and cook, stirring, until hot, 2 to 3 minutes more."
+      },
+      {
+        "text": "Sprinkle the salmon with parsley, if desired, and serve with the green bean pilaf and lemon wedges."
+      }
+    ],
+    "calories": 442,
+    "fat": 25,
+    "carb": 22,
+    "protein": 32,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/265712/muesli-with-raspberries/",
+    "name": "Muesli with Raspberries",
+    "explanation": "Start your day off with whole grains, fiber and protein with this easy breakfast.",
+    "imageLink": "https://www.eatingwell.com/thmb/HaMrW0hmheqyt1Zqu1I4KhhA_jw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/5486559-31d94027c1d54acd9152eb10fab834d5.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": true,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": true,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 2,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "⅓ cup muesli"
+      },
+      {
+        "text": "1 cup raspberries"
+      },
+      {
+        "text": "¾ cup low-fat milk"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Top muesli with raspberries and serve with milk."
+      }
+    ],
+    "calories": 288,
+    "fat": 7,
+    "carb": 52,
+    "protein": 13,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/276888/brussels-sprouts-salad-with-crunchy-chickpeas/",
+    "name": "Brussels Sprouts Salad with Crunchy Chickpeas",
+    "explanation": "This healthy high-fiber salad comes together in just 10 minutes. Serve it right away or pack it in individual servings for four super-satisfying high-fiber lunches for the week ahead. To cut down on prep time, we're using preshredded Brussels sprouts from the produce department and store-bought roasted chickpeas. Look for roasted chickpea snacks with the healthy snacks or nuts at your grocery store.",
+    "imageLink": "https://www.eatingwell.com/thmb/i0dR-7ehOp4J_C8KDxzgHSaq40M=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/7218334-ed5ee33f606246beac490659590154ec.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": true,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": true,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 4,
+    "serving": 4,
+    "cooksNote": "",
+    "prepTime": "10",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "10",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 (9 to 10 ounce) package shredded or shaved Brussels sprouts"
+      },
+      {
+        "text": "4 cups chopped kale"
+      },
+      {
+        "text": "1/2 cup Tahini Sauce with Lemon & Garlic (see Associated Recipes)"
+      },
+      {
+        "text": "1 cup roasted chickpea snacks with sea salt"
+      },
+      {
+        "text": "1 medium avocado, pitted and quartered"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Divide Brussels sprouts and kale among 4 single-serving lidded containers (you'll have about 3 1/2 cups of greens in each container). Seal and refrigerate for up to 4 days."
+      },
+      {
+        "text": "Transfer 2 tablespoons tahini sauce into each of 4 small lidded containers; refrigerate for up to 4 days."
+      },
+      {
+        "text": "Just before serving each salad, drizzle with 1 portion of tahini sauce and toss well to coat. Top with 1/4 cup roasted chickpeas and 1/4 avocado."
+      }
+    ],
+    "calories": 337,
+    "fat": 20,
+    "carb": 31,
+    "protein": 12,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/275763/linguine-with-creamy-mushroom-sauce/",
+    "name": "Linguine with Creamy Mushroom Sauce",
+    "explanation": "This easy pasta recipe is an excuse to buy wild mushrooms, available at many grocery stores these days. Or if you prefer white buttons, those will work well too. The creamy linguine is ready in 40 minutes, so it's quick enough for an easy weeknight recipe but it feels fancy enough for entertaining.",
+    "imageLink": "https://www.eatingwell.com/thmb/3QSU3bspQ10x4uGq3RHOfi4fOhU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/7012315-949090a0ebd3428b9e1cb68eae20efcd.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": true,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": true,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 6,
+    "serving": 4,
+    "cooksNote": "",
+    "prepTime": "40",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "40",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "8 ounces whole-wheat linguine pasta"
+      },
+      {
+        "text": "2 tablespoons extra-virgin olive oil"
+      },
+      {
+        "text": "6 cloves garlic, sliced"
+      },
+      {
+        "text": "1 ½ pounds mixed mushrooms, sliced"
+      },
+      {
+        "text": "1 cup diced shallots"
+      },
+      {
+        "text": "1 tablespoon chopped fresh thyme"
+      },
+      {
+        "text": "1 cup dry white"
+      },
+      {
+        "text": "½ cup sour cream or crème fraîche"
+      },
+      {
+        "text": "¼ cup grated Parmesan cheese plus more for garnish"
+      },
+      {
+        "text": "1 tablespoon butter"
+      },
+      {
+        "text": "½ teaspoon salt"
+      },
+      {
+        "text": "¼ teaspoon ground pepper"
+      },
+      {
+        "text": "Finely chopped fresh parsley for garnish"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Bring a large pot of water to a boil over high heat. Cook pasta according to package directions. Reserve 1/2 cup of the pasta water, then drain the pasta."
+      },
+      {
+        "text": "Meanwhile, heat oil and garlic in a large skillet over medium heat until fragrant, about 2 minutes. Add mushrooms, shallots and thyme and increase heat to high. Cook, stirring occasionally, until the liquid the mushrooms release has evaporated and the mushrooms are starting to brown, 11 to 13 minutes."
+      },
+      {
+        "text": "Add to the pan and cook until it is reduced by about half, about 3 minutes. Stir in the reserved pasta water, sour cream (or crème fraîche), Parmesan, butter, salt and pepper. Add the pasta and toss to coat. Serve topped with more Parmesan and parsley, if desired."
+      }
+    ],
+    "calories": 479,
+    "fat": 18,
+    "carb": 59,
+    "protein": 17,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/256575/fig-ricotta-toast/",
+    "name": "Fig & Ricotta Toast",
+    "explanation": "This easy toast makes a quick breakfast for any day of the week.",
+    "imageLink": "https://www.eatingwell.com/thmb/_lmuMFm98frJ78m4uEVONpVamHw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4326938-2685a87657d34a789cc4edccb71b1fad.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": true,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": true,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 slice crusty whole-grain bread (1/2-inch thick)"
+      },
+      {
+        "text": "¼ cup part-skim ricotta cheese"
+      },
+      {
+        "text": "1 fresh fig or 2 dried, sliced"
+      },
+      {
+        "text": "1 teaspoon sliced almonds, toasted"
+      },
+      {
+        "text": "1 teaspoon honey"
+      },
+      {
+        "text": "Pinch of flaky sea salt, such as Maldon"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Toast bread. Top with ricotta cheese, figs and almonds. Drizzle with honey and sprinkle with sea salt."
+      }
+    ],
+    "calories": 252,
+    "fat": 9,
+    "carb": 32,
+    "protein": 13,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/250022/cod-with-tomato-cream-sauce/",
+    "name": "Cod with Tomato Cream Sauce",
+    "explanation": "This silky tomato sauce with a touch of cream makes mild-flavored cod sing. Serve with: Farro or rice and a salad of mixed greens.",
+    "imageLink": "https://www.eatingwell.com/thmb/IX1IB3ldpd_5pAlt_V7bS-2vPT4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/3747960-4e9aeea9b0764b18baa52ef01e504cf6.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": true,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": true,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 4,
+    "serving": 4,
+    "cooksNote": "",
+    "prepTime": "25",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "25",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1-1 1/4 pounds cod (see Tip) or tilapia fillets, cut into 4 pieces"
+      },
+      {
+        "text": "3 teaspoons chopped fresh thyme, divided"
+      },
+      {
+        "text": "1/2 teaspoon salt, divided"
+      },
+      {
+        "text": "¼ teaspoon freshly ground pepper"
+      },
+      {
+        "text": "1 tablespoon extra-virgin olive oil"
+      },
+      {
+        "text": "1 shallot, chopped"
+      },
+      {
+        "text": "2 cloves garlic, minced"
+      },
+      {
+        "text": "¾ cup white"
+      },
+      {
+        "text": "1 14-ounce can diced tomatoes"
+      },
+      {
+        "text": "1/4 cup heavy cream or half-and-half"
+      },
+      {
+        "text": "½ teaspoon cornstarch"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Season fish with 1 teaspoon thyme, 1/4 teaspoon salt and pepper. Heat oil in a large skillet over medium heat. Add shallot, garlic and 1 teaspoon thyme; cook, stirring, until beginning to soften, about 1 minute. Add wine, tomatoes and the fish to the pan; bring to a simmer. Cover and cook until the fish is cooked through, 4 to 6 minutes. Transfer the fish to a large plate; keep warm."
+      },
+      {
+        "text": "Whisk cream and cornstarch in a small bowl. Add to the pan, along with the remaining 1 teaspoon thyme and 1/4 teaspoon salt. Cook, stirring, for 1 minute. Divide the fish and sauce among 4 shallow bowls."
+      }
+    ],
+    "calories": 219,
+    "fat": 10,
+    "carb": 6,
+    "protein": 19,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/251127/creamy-blueberry-pecan-overnight-oatmeal/",
+    "name": "Creamy Blueberry-Pecan Overnight Oatmeal",
+    "explanation": "These overnight oats with Greek yogurt, blueberries and pecans are an easy, on-the-go-breakfast. If desired, reheat the oatmeal before adding the toppings.",
+    "imageLink": "https://www.eatingwell.com/thmb/UhV-CfEHIOumd3EjtKeJY4Smr2E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/3758906-3fe4e58538bf4b04a0fc772ddc4b19f8.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": true,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": true,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "10",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "8hrs",
+    "marinateTime": "",
+    "totalTime": "8hrs 10min",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "½ cup old-fashioned rolled oats"
+      },
+      {
+        "text": "½ cup water"
+      },
+      {
+        "text": "Pinch of salt"
+      },
+      {
+        "text": "½ cup blueberries, fresh or frozen, thawed"
+      },
+      {
+        "text": "2 tablespoons nonfat plain Greek yogurt"
+      },
+      {
+        "text": "1 tablespoon toasted chopped pecans"
+      },
+      {
+        "text": "2 teaspoons pure maple syrup"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine oats, water and salt in a jar or bowl. Cover and refrigerate overnight. In the morning, heat if desired, and top with blueberries, yogurt, pecans and syrup."
+      }
+    ],
+    "calories": 291,
+    "fat": 8,
+    "carb": 49,
+    "protein": 9,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/258195/chickpea-quinoa-bowl-with-roasted-red-pepper-sauce/",
+    "name": "Chickpea & Quinoa Bowl with Roasted Red Pepper Sauce",
+    "explanation": "Quinoa and chickpeas pack this vegetarian grain bowl with plenty of plant-based protein. Whip up a batch of these flavorful grain bowls and pack them in lidded containers to stash in the fridge for easy, healthy grab-and-go lunches all week long.",
+    "imageLink": "https://www.eatingwell.com/thmb/fJ4hAyGenZ0qqbAHduJP7Ia141s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/45135861-c014d8bde351416f9413493b62091fbe.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": true,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": true,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 4,
+    "serving": 4,
+    "cooksNote": "",
+    "prepTime": "20",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "20",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 (7 ounce) jar roasted red peppers, rinsed"
+      },
+      {
+        "text": "¼ cup slivered almonds"
+      },
+      {
+        "text": "4 tablespoons extra-virgin olive oil, divided"
+      },
+      {
+        "text": "1 small clove garlic, minced"
+      },
+      {
+        "text": "1 teaspoon paprika"
+      },
+      {
+        "text": "½ teaspoon ground cumin"
+      },
+      {
+        "text": "¼ teaspoon crushed red pepper (optional)"
+      },
+      {
+        "text": "2 cups cooked quinoa"
+      },
+      {
+        "text": "¼ cup Kalamata olives, chopped"
+      },
+      {
+        "text": "¼ cup finely chopped red onion"
+      },
+      {
+        "text": "1 (15 ounce) can chickpeas, rinsed"
+      },
+      {
+        "text": "1 cup diced cucumber"
+      },
+      {
+        "text": "¼ cup crumbled feta cheese"
+      },
+      {
+        "text": "2 tablespoons finely chopped fresh parsley"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Place peppers, almonds, 2 tablespoons oil, garlic, paprika, cumin and crushed red pepper (if using) in a mini food processor. Puree until fairly smooth."
+      },
+      {
+        "text": "Combine quinoa, olives, red onion and the remaining 2 tablespoons oil in a medium bowl."
+      },
+      {
+        "text": "To serve, divide the quinoa mixture among 4 bowls and top with equal amounts of the chickpeas, cucumber and the red pepper sauce. Sprinkle with feta and parsley."
+      }
+    ],
+    "calories": 479,
+    "fat": 25,
+    "carb": 50,
+    "protein": 13,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/248881/chicken-white-bean-soup/",
+    "name": "Chicken & White Bean Soup",
+    "explanation": "Once again, rotisserie chickens can really relieve the dinner-rush pressure-especially in this Italian-inspired soup that cries out for a piece of crusty bread.",
+    "imageLink": "https://www.eatingwell.com/thmb/ypNwDg6z5-ZLhuaO7FqV1DhqmWo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/39338781-52822260ec974d08be232da08240be26.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": true,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": true,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1.5,
+    "serving": 6,
+    "cooksNote": "",
+    "prepTime": "25",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "25",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "2 teaspoons extra-virgin olive oil"
+      },
+      {
+        "text": "2 leeks, white and light green parts only, cut into 1/4-inch rounds"
+      },
+      {
+        "text": "1 tablespoon chopped fresh sage, or 1/4 teaspoon dried"
+      },
+      {
+        "text": "2 14-ounce cans reduced-sodium chicken broth"
+      },
+      {
+        "text": "2 cups water"
+      },
+      {
+        "text": "1 15-ounce can cannellini beans, rinsed"
+      },
+      {
+        "text": "1 2-pound roasted chicken, skin discarded, meat removed from bones and shredded (4 cups)"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Heat oil in a Dutch oven over medium-high heat. Add leeks and cook, stirring often, until soft, about 3 minutes. Stir in sage and continue cooking until aromatic, about 30 seconds. Stir in broth and water, increase heat to high, cover and bring to a boil. Add beans and chicken and cook, uncovered, stirring occasionally, until heated through, about 3 minutes. Serve hot."
+      }
+    ],
+    "calories": 248,
+    "fat": 6,
+    "carb": 15,
+    "protein": 35,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/266652/eggs-in-tomato-sauce-with-chickpeas-spinach/",
+    "name": "Eggs in Tomato Sauce with Chickpeas & Spinach",
+    "explanation": "Simmer eggs in a rich tomatoey cream sauce studded with chickpeas and silky spinach for a super-fast vegetarian dinner. Serve with a piece of crusty bread to soak up the sauce. Be sure to use heavy cream; a lower-fat option might curdle when mixed with acidic tomatoes.",
+    "imageLink": "https://www.eatingwell.com/thmb/abeAJC6gIJgx0VTlYHaiPF9_H6M=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Eggs-in-Tomato-Sauce-with-Chickpeas-Spinach-bc5dc086e0414f709d33ff90556e0046.jpeg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": true,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": true,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 4,
+    "serving": 4,
+    "cooksNote": "",
+    "prepTime": "20",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "5",
+    "marinateTime": "",
+    "totalTime": "25",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "2 tablespoons extra-virgin olive oil"
+      },
+      {
+        "text": "4 cups baby spinach, chopped (about 5 ounces)"
+      },
+      {
+        "text": "4 cloves garlic, sliced"
+      },
+      {
+        "text": "2 cups canned crushed tomatoes"
+      },
+      {
+        "text": "1 (15 ounce) can no-salt-added chickpeas, rinsed"
+      },
+      {
+        "text": "¼ cup heavy cream"
+      },
+      {
+        "text": "½ teaspoon salt"
+      },
+      {
+        "text": "4 large eggs"
+      },
+      {
+        "text": "1 tablespoon chopped fresh thyme"
+      },
+      {
+        "text": "½ teaspoon ground pepper"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Heat oil in large skillet over medium heat. Add spinach and garlic. Cook, stirring, until the spinach has wilted and the garlic is beginning to brown, about 2 minutes."
+      },
+      {
+        "text": "Reduce heat to medium-low. Add tomatoes, chickpeas, cream and salt. Adjust heat to maintain a simmer. Crack an egg into a small bowl, taking care not to break the yolk. Make a well in the sauce roughly large enough to hold the egg and slip it in so that the yolk and most of the white is contained (some white may spread out). Repeat with the remaining eggs, evenly spacing them around the pan. Sprinkle the sauce with thyme; cover and cook until the eggs reach desired doneness, 6 to 8 minutes for medium-set. Remove from the heat and sprinkle with pepper."
+      }
+    ],
+    "calories": 323,
+    "fat": 18,
+    "carb": 26,
+    "protein": 14,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/262157/slow-cooker-chicken-orzo-with-tomatoes-olives/",
+    "name": "Slow-Cooker Chicken & Orzo with Tomatoes & Olives",
+    "explanation": "Perk up basic chicken breast and whole-wheat orzo with the vibrant flavors of the Mediterranean, like lemon and olives. This load-and-go recipe makes a complete and satisfying meal; just add a green salad.",
+    "imageLink": "https://www.eatingwell.com/thmb/K90hw70ln9xqiZmcgaGxhssnscY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4784212-d9648d9ec98640a681dc04af352c910c.jpg",
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": true,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": true,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 4,
+    "serving": 4,
+    "cooksNote": "",
+    "prepTime": "15",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "2hrs 15min",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 pound boneless, skinless chicken breasts, trimmed"
+      },
+      {
+        "text": "1 cup low-sodium chicken broth"
+      },
+      {
+        "text": "2 medium tomatoes, chopped"
+      },
+      {
+        "text": "1 medium onion, halved and sliced"
+      },
+      {
+        "text": "Zest and juice of 1 lemon"
+      },
+      {
+        "text": "1 teaspoon herbes de Provence"
+      },
+      {
+        "text": "½ teaspoon salt"
+      },
+      {
+        "text": "½ teaspoon ground pepper"
+      },
+      {
+        "text": "¾ cup whole-wheat orzo"
+      },
+      {
+        "text": "⅓ cup quartered black or green olives"
+      },
+      {
+        "text": "2 tablespoons chopped fresh parsley"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Cut each chicken breast half into 4 pieces. Combine the chicken, broth, tomatoes, onion, lemon zest, lemon juice, herbes de Provence, salt and pepper in a 6-quart slow cooker. Cook on High for 1 hour, 30 minutes or on Low for 3 hours, 30 minutes. Stir in orzo and olives; cover and cook until the orzo is tender, about 30 minutes more. Let cool slightly. Sprinkle with parsley before serving."
+      }
+    ],
+    "calories": 278,
+    "fat": 5,
+    "carb": 30,
+    "protein": 29,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  }
+]

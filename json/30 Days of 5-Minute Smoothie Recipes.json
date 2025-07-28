@@ -1,0 +1,2891 @@
+[
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/8048382/the-best-mango-passion-fruit-green-smoothie/",
+    "name": "Anti-Inflammatory Breakfast Smoothie",
+    "explanation": "This mango green smoothie gets bright tart flavor from frozen passion fruit, and inflammation-fighting benefits from fresh kale. Dates add natural sweetness without added sugar. While cilantro may not be a typical smoothie ingredient, we love the herbal notes it adds to this smoothie. Feel free to leave it out if that's not your thing—it's just as delicious without.",
+    "imageLink": "https://www.eatingwell.com/thmb/iSLHwVjdsYjLLviHCfTTtAmEJiw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Best-Mango-Passion-Fruit-Green-Smoothie-Recipe-2000-00859d0eab5841f7a81699b12838c158.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 0,
+    "serving": 2,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "4 cups kale, stemmed and roughly chopped"
+      },
+      {
+        "text": "2 cups frozen mango chunks, thawed slightly (see Tip)"
+      },
+      {
+        "text": "1 cup frozen unsweetened seedless passion fruit cubes"
+      },
+      {
+        "text": "1 cup whole-milk plain yogurt"
+      },
+      {
+        "text": "½ cup water"
+      },
+      {
+        "text": "3 Medjool dates, pitted"
+      },
+      {
+        "text": "1 sprig fresh cilantro (optional)"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Add kale, mango, passion fruit, yogurt, water, dates and cilantro (if using) to a blender. Blend on medium-low speed, adjusting speed as necessary, until well combined and creamy."
+      }
+    ],
+    "calories": 465,
+    "fat": 6,
+    "carb": 95,
+    "protein": 17,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/7899650/blackberry-smoothie/",
+    "name": "Blackberry Smoothie",
+    "explanation": "This blackberry smoothie has plenty of fresh berry flavor and sweetness from banana and honey. And with only 5 minutes from start to finish, it's the perfect breakfast for busy mornings. If fresh blackberries aren't available, feel free to use frozen in this easy and healthy smoothie.",
+    "imageLink": "https://www.eatingwell.com/thmb/dLp_rvaSY_g5puyDQnFff_OGXd0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/blackberry-smoothie-273274d2161a415698646fe28d7e32c8.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 0,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 cup fresh blackberries (6 ounces)"
+      },
+      {
+        "text": "½ medium banana"
+      },
+      {
+        "text": "½ cup plain whole-milk Greek yogurt"
+      },
+      {
+        "text": "1 tablespoon honey"
+      },
+      {
+        "text": "1 ½ teaspoons fresh lemon juice"
+      },
+      {
+        "text": "1 teaspoon finely chopped fresh ginger"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine blackberries, banana, yogurt, honey, lemon juice and ginger in a blender. Cover and process until completely smooth, about 2 minutes. Serve immediately."
+      }
+    ],
+    "calories": 316,
+    "fat": 7,
+    "carb": 53,
+    "protein": 15,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/248476/mango-passion-fruit-smoothie/",
+    "name": "Mango-Passion Fruit Smoothie",
+    "explanation": "Tangy passion fruit pairs well with mango in this tropical-flavored smoothie.",
+    "imageLink": "https://www.eatingwell.com/thmb/69r2zRUHHeMKRZD1b_d-4rqVJLo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/3728021-240542ded9164bd6ad6747d3806946c4.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 2,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 ripe mango, peeled and diced (1 cup)"
+      },
+      {
+        "text": "⅔ cup nonfat vanilla yogurt"
+      },
+      {
+        "text": "1/3-1/2 cup frozen passion fruit juice concentrate"
+      },
+      {
+        "text": "¼ cup water"
+      },
+      {
+        "text": "2 ice cubes, crushed"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine mango, yogurt, 1/3 cup juice concentrate, water and crushed ice in a blender; cover and blend until smooth and frothy. Add more concentrate, if desired. Serve immediately."
+      }
+    ],
+    "calories": 291,
+    "fat": 2,
+    "carb": 60,
+    "protein": 9,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/8035296/beet-smoothie/",
+    "name": "Anti-Inflammatory Beet Smoothie",
+    "explanation": "This vibrant beet smoothie combines sweet and earthy beets with berries, banana and orange juice for a well-balanced flavor. Look for packaged cooked beets where the prepared fruits and vegetables are sold. Beets are high in belatins, an antioxidant that may help decrease inflammation in the body. Other nutrient-packed ingredients add even more anti-inflammatory power, like the anthocyanins in blueberries and the gingerol found in ginger.",
+    "imageLink": "https://www.eatingwell.com/thmb/eTjKPZu7UmK44dd1aaX-DX0WSuw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Beet-Smoothie-ddmfs-Beauty-02-98b491857f274908babb13d70b5b4075.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 0,
+    "serving": 2,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 cup frozen strawberries"
+      },
+      {
+        "text": "1 cup frozen blueberries"
+      },
+      {
+        "text": "1 cup orange juice"
+      },
+      {
+        "text": "1 (8.8-ounce) package refrigerated cooked beets (such as Love Beets)"
+      },
+      {
+        "text": "1 medium banana, peeled"
+      },
+      {
+        "text": "1 medium carrot, peeled and sliced"
+      },
+      {
+        "text": "1 (1/2 inch) piece fresh ginger, peeled and grated"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine strawberries, blueberries, orange juice, beets, banana, carrot and ginger in a blender; process until combined, about 30 seconds. Divide between 2 glasses. Serve immediately."
+      }
+    ],
+    "calories": 248,
+    "fat": 1,
+    "carb": 58,
+    "protein": 4,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/281100/golden-milk-frappe/",
+    "name": "Golden Milk Frappe",
+    "explanation": "This frappe harnesses the flavor power of a turmeric spice mixture for a cool treat. The golden-milk spice mix is combined with kefir, coconut milk and honey before being whirred together for a frothy delight.",
+    "imageLink": "https://www.eatingwell.com/thmb/V832cAJ5TvoXbYRAHpaN5kmLm_E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/8385586-39e46412e8df4adf990d55dcdf98404a.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 2,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "¾ cup plain kefir"
+      },
+      {
+        "text": "½ cup canned light coconut milk"
+      },
+      {
+        "text": "2 teaspoons honey"
+      },
+      {
+        "text": "1 teaspoon ground turmeric"
+      },
+      {
+        "text": "⅛ teaspoon ground cinnamon"
+      },
+      {
+        "text": "Pinch of ground pepper"
+      },
+      {
+        "text": "1 cup ice cubes"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine kefir, coconut milk, honey, turmeric, cinnamon, pepper and ice cubes in a blender. Blend until smooth and frothy."
+      }
+    ],
+    "calories": 181,
+    "fat": 6,
+    "carb": 24,
+    "protein": 9,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/255705/apple-peanut-butter-smoothie/",
+    "name": "Apple-Peanut Butter Smoothie",
+    "explanation": "Apples and peanut butter are a classic pair. Try them blended together in this healthy smoothie recipe.",
+    "imageLink": "https://www.eatingwell.com/thmb/cJyq3BQ8H54kAecNViiVUlcPo98=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4019479-3dc5e4f9f1bb4671aa3c4371fc75eac4.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 cup unsweetened almond milk"
+      },
+      {
+        "text": "1 small apple, chopped"
+      },
+      {
+        "text": "2 tablespoons natural peanut butter"
+      },
+      {
+        "text": "2 teaspoons honey (Optional)"
+      },
+      {
+        "text": "1 teaspoon vanilla extract"
+      },
+      {
+        "text": "¼ teaspoon ground cinnamon"
+      },
+      {
+        "text": "4-6 ice cubes"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine almond milk, apple, peanut butter, honey (if using), vanilla, cinnamon and ice cubes in a blender. Puree until smooth."
+      }
+    ],
+    "calories": 317,
+    "fat": 19,
+    "carb": 25,
+    "protein": 8,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/270514/really-green-smoothie/",
+    "name": "Really Green Smoothie",
+    "explanation": "The combination of kale and avocado makes this healthy smoothie recipe extra green. Chia seeds lend a heart-healthy punch of fiber and omega-3 fatty acids.",
+    "imageLink": "https://www.eatingwell.com/thmb/YVrNPIJ4998buWD3-5-Hgqq56nU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/6343074-26ec68f29c14402798f67dcb84b1e123.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 large ripe banana"
+      },
+      {
+        "text": "1 cup packed baby kale or coarsely chopped mature kale"
+      },
+      {
+        "text": "1 cup unsweetened vanilla almond milk"
+      },
+      {
+        "text": "¼ ripe avocado"
+      },
+      {
+        "text": "1 tablespoon chia seeds"
+      },
+      {
+        "text": "2 teaspoons honey"
+      },
+      {
+        "text": "1 cup ice cubes"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine banana, kale, almond milk, avocado, chia seeds and honey in a blender. Blend on high until creamy and smooth. Add ice and blend until smooth."
+      }
+    ],
+    "calories": 343,
+    "fat": 14,
+    "carb": 55,
+    "protein": 6,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/271091/strawberry-pineapple-smoothie/",
+    "name": "Strawberry-Pineapple Smoothie",
+    "explanation": "Blend almond milk, strawberry and pineapple for a smoothie that's so easy you can make it on busy mornings. A bit of almond butter adds richness and filling protein. Freeze some of the almond milk for an extra-icy texture.",
+    "imageLink": "https://www.eatingwell.com/thmb/iWiEVnA4cM2VE9jM8GL2Y9iqkqo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/6440442-542d8674072440f2b10e8da6f806af11.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 2,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 cup frozen strawberries"
+      },
+      {
+        "text": "1 cup chopped fresh pineapple"
+      },
+      {
+        "text": "¾ cup chilled unsweetened almond milk, plus more if needed"
+      },
+      {
+        "text": "1 tablespoon almond butter"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine strawberries, pineapple, almond milk and almond butter in a blender. Process until smooth, adding more almond milk, if needed, for desired consistency. Serve immediately."
+      }
+    ],
+    "calories": 255,
+    "fat": 11,
+    "carb": 39,
+    "protein": 6,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/261428/chocolate-peanut-butter-protein-shake/",
+    "name": "Chocolate-Peanut Butter Protein Shake",
+    "explanation": "This creamy high-protein shake will keep you satisfied for hours and tastes like a chocolate-peanut butter banana milkshake. You don't even need to add protein powder, thanks to the naturally occurring protein in the soymilk, Greek yogurt and peanut butter.",
+    "imageLink": "https://www.eatingwell.com/thmb/g-x993a75XtjfWRCBvS57KNTY7Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/45788721-ce5e8a651b7646dfaea77124427ffaa4.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 2,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 cup unsweetened vanilla soymilk"
+      },
+      {
+        "text": "¾ cup sliced frozen banana"
+      },
+      {
+        "text": "½ cup reduced-fat plain Greek yogurt"
+      },
+      {
+        "text": "1 tablespoon cocoa powder"
+      },
+      {
+        "text": "1 tablespoon natural peanut butter"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine soymilk, banana, yogurt, cocoa powder and peanut butter in a blender; blend until smooth."
+      }
+    ],
+    "calories": 402,
+    "fat": 16,
+    "carb": 41,
+    "protein": 26,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/251038/pineapple-green-smoothie/",
+    "name": "Pineapple Green Smoothie",
+    "explanation": "Use ripe bananas for this creamy Greek yogurt, spinach and pineapple smoothie. Chia seeds add healthy omega-3 fats, fiber and a little protein for an extra nutritional boost.",
+    "imageLink": "https://www.eatingwell.com/thmb/pIE7uKqedkXp9GAJrUjc70mEFjE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pineapple-Green-Smoothie-934cb0d850be440ba208757baae25a31.jpeg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "½ cup unsweetened almond milk"
+      },
+      {
+        "text": "⅓ cup nonfat plain Greek yogurt"
+      },
+      {
+        "text": "1 cup baby spinach"
+      },
+      {
+        "text": "1 cup frozen banana slices (about 1 medium banana)"
+      },
+      {
+        "text": "½ cup frozen pineapple chunks"
+      },
+      {
+        "text": "1 tablespoon chia seeds"
+      },
+      {
+        "text": "1-2 teaspoons pure maple syrup or honey (optional)"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Add almond milk and yogurt to a blender, then add spinach, banana, pineapple, chia seeds and sweetener (if using); blend until smooth."
+      }
+    ],
+    "calories": 297,
+    "fat": 6,
+    "carb": 54,
+    "protein": 13,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/257793/berry-kefir-smoothie/",
+    "name": "Berry-Kefir Smoothie",
+    "explanation": "Get a probiotic boost at breakfast when you add kefir to your smoothie. Feel free to use any berries and nut butter you have on hand in this healthy smoothie recipe.",
+    "imageLink": "https://www.eatingwell.com/thmb/RoCwUwlTRA5mg1jauevBUJMknWA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/EWL-57793-berry-kefir-smoothie-Hero-01-A-ae9e20c50f1843928b81c102bfa80b4c.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 ½ cups frozen mixed berries"
+      },
+      {
+        "text": "1 cup plain kefir"
+      },
+      {
+        "text": "½ medium banana"
+      },
+      {
+        "text": "2 teaspoons almond butter"
+      },
+      {
+        "text": "½ teaspoon vanilla extract"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine berries, kefir, banana, almond butter and vanilla in a blender. Blend until smooth."
+      }
+    ],
+    "calories": 304,
+    "fat": 7,
+    "carb": 53,
+    "protein": 15,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/271088/strawberry-blueberry-banana-smoothie/",
+    "name": "Strawberry-Blueberry-Banana Smoothie",
+    "explanation": "A smoothie with strawberries, blueberries and banana is delicately sweet and entirely kid-friendly, even with a boost of protein from hemp seeds. Freeze the fruits ahead of time for an extra frosty texture once blended.",
+    "imageLink": "https://www.eatingwell.com/thmb/E1QZ2jMH18FIdjid7nmhYlcB-cE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/6440439-595dbfabe26345808f41f1998a6ea311.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 2,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "½ cup frozen strawberries"
+      },
+      {
+        "text": "½ cup frozen blueberries"
+      },
+      {
+        "text": "1 small ripe banana (frozen, if desired)"
+      },
+      {
+        "text": "¾ cup chilled unsweetened cashew milk, plus more if needed"
+      },
+      {
+        "text": "1 tablespoon cashew butter"
+      },
+      {
+        "text": "1 tablespoon hulled hemp seeds"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine strawberries, blueberries, banana, cashew milk, cashew butter and hemp seeds in a blender. Process until smooth, adding more cashew milk, if needed, for desired consistency. Serve immediately."
+      }
+    ],
+    "calories": 335,
+    "fat": 17,
+    "carb": 46,
+    "protein": 7,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/262759/spinach-avocado-smoothie/",
+    "name": "Spinach-Avocado Smoothie",
+    "explanation": "This healthy green smoothie gets super creamy from the frozen banana and avocado. Make ahead (up to 1 day) and store it in the fridge until you need a veggie boost.",
+    "imageLink": "https://www.eatingwell.com/thmb/aI4uPcPm0iJ9blZ4PjzTiiytyQU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/5147278-e29c6615000c4cc983c27de97e19ad4b.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 2,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 cup nonfat plain yogurt"
+      },
+      {
+        "text": "1 cup fresh spinach"
+      },
+      {
+        "text": "1 frozen banana"
+      },
+      {
+        "text": "¼ avocado"
+      },
+      {
+        "text": "2 tablespoons water"
+      },
+      {
+        "text": "1 teaspoon honey"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine yogurt, spinach, banana, avocado, water and honey in a blender. Puree until smooth."
+      }
+    ],
+    "calories": 357,
+    "fat": 8,
+    "carb": 58,
+    "protein": 18,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/271089/strawberry-chocolate-smoothie/",
+    "name": "Strawberry-Chocolate Smoothie",
+    "explanation": "This creamy, rich strawberry-chocolate smoothie will satisfy any chocolate cravings. It's so decadent you might want it as a dessert, too.",
+    "imageLink": "https://www.eatingwell.com/thmb/-zyqf7TPOk_oUaa6FjgZHWyyTms=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/6440440-495d68a4c54d474bae94395846432238.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 2,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 ½ cups frozen strawberries"
+      },
+      {
+        "text": "1 cup chilled unsweetened chocolate almond milk, plus more if needed"
+      },
+      {
+        "text": "1 tablespoon almond butter"
+      },
+      {
+        "text": "1 tablespoon unsweetened cocoa powder"
+      },
+      {
+        "text": "1 tablespoon honey"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine strawberries, almond milk, almond butter, cocoa and honey in a blender. Process until smooth, adding more almond milk, if needed, for desired consistency. Serve immediately."
+      }
+    ],
+    "calories": 303,
+    "fat": 13,
+    "carb": 47,
+    "protein": 7,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/251254/almond-butter-banana-protein-smoothie/",
+    "name": "Almond Butter & Banana Protein Smoothie",
+    "explanation": "Almond butter adds nutty flavor plus 7 grams of protein to this healthy, protein-rich banana smoothie.",
+    "imageLink": "https://www.eatingwell.com/thmb/BXLRDUBnC109eJcGEhByVEsty30=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/3759133-ebdd948e605d413fb41ecaee67307cf8.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 small frozen banana"
+      },
+      {
+        "text": "1 cup unsweetened almond milk"
+      },
+      {
+        "text": "2 tablespoons almond butter"
+      },
+      {
+        "text": "2 tablespoons unflavored protein powder"
+      },
+      {
+        "text": "1 tablespoon sweetener of your choice (optional)"
+      },
+      {
+        "text": "½ teaspoon ground cinnamon"
+      },
+      {
+        "text": "4-6 ice cubes"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine all ingredients in a blender and blend until smooth."
+      }
+    ],
+    "calories": 402,
+    "fat": 22,
+    "carb": 37,
+    "protein": 19,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/274309/anti-inflammatory-cherry-spinach-smoothie/",
+    "name": "Anti-Inflammatory Cherry-Spinach Smoothie",
+    "explanation": "This healthy smoothie is not only delicious--it also boosts your daily dose of anti-inflammatory foods. It starts with a base of creamy gut-friendly kefir and includes cherries, which can lower the inflammatory marker C-reactive protein. Heart-healthy fats in avocado, almond butter and chia seeds deliver additional anti-inflammatory compounds to the body, while spinach offers a mix of antioxidants that sweep up harmful free radicals. Fresh ginger adds zing, plus a compound called gingerol, which preliminary studies suggest may improve inflammatory markers of heart disease if consumed daily.",
+    "imageLink": "https://www.eatingwell.com/thmb/B27MZlMYA4ZjRt6bH4HIp1ZClJw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/6768424-77d7e78e07c94d1fb42ce2fc939a3fda.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1.7,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 cup plain low-fat kefir"
+      },
+      {
+        "text": "1 cup frozen cherries"
+      },
+      {
+        "text": "½ cup baby spinach leaves"
+      },
+      {
+        "text": "¼ cup mashed ripe avocado"
+      },
+      {
+        "text": "1 tablespoon salted almond butter"
+      },
+      {
+        "text": "1 (1/2 inch) piece peeled ginger"
+      },
+      {
+        "text": "1 teaspoon chia seeds, plus more for garnish"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Place kefir in a blender. Add cherries, spinach, avocado, almond butter, ginger and chia seeds; puree until smooth. Pour into a glass; garnish with more chia seeds, if desired."
+      }
+    ],
+    "calories": 410,
+    "fat": 20,
+    "carb": 47,
+    "protein": 17,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/251353/strawberry-banana-green-smoothie/",
+    "name": "Strawberry-Banana Green Smoothie",
+    "explanation": "This green smoothie recipe is sweetened only with fruit and gets an extra dose of healthy omega-3s from flaxseeds.",
+    "imageLink": "https://www.eatingwell.com/thmb/U_81EtJUy4Hnu3OZhKOsXHWFhbY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/37592851-baca726fa0054619bf285842cbcb15bd.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 medium banana"
+      },
+      {
+        "text": "1 cup baby spinach"
+      },
+      {
+        "text": "½ cup low-fat plain Greek yogurt"
+      },
+      {
+        "text": "½ cup nonfat milk"
+      },
+      {
+        "text": "6 frozen strawberries"
+      },
+      {
+        "text": "1 tablespoon flaxseeds"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Puree banana, spinach, yogurt, milk, strawberries and flaxseeds in a blender until smooth."
+      }
+    ],
+    "calories": 318,
+    "fat": 7,
+    "carb": 47,
+    "protein": 20,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/267226/berry-mint-kefir-smoothies/",
+    "name": "Berry-Mint Kefir Smoothies",
+    "explanation": "Kefir is similar to yogurt, full of gut-friendly probiotics. But it has fewer carbs and a more drinkable consistency--perfect for smoothies.",
+    "imageLink": "https://www.eatingwell.com/thmb/FpV7nzuThdv8zxD3C2M24SBWtQk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/5633957-79dd4e4ee057447c8174c280c79e1728.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 2,
+    "serving": 2,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 cup low-fat plain kefir (see Tip)"
+      },
+      {
+        "text": "1 cup frozen mixed berries"
+      },
+      {
+        "text": "¼ cup orange juice"
+      },
+      {
+        "text": "1-2 tablespoons fresh mint"
+      },
+      {
+        "text": "1 tablespoon honey"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine kefir, berries, juice, mint to taste and honey in a blender. Process until smooth. (The smoothies will keep in the refrigerator for up to 1 day or in the freezer for up to 3 months.)"
+      }
+    ],
+    "calories": 137,
+    "fat": 1,
+    "carb": 27,
+    "protein": 6,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/255707/peanut-butter-chocolate-banana-smoothie/",
+    "name": "Peanut Butter & Chocolate Banana Smoothie",
+    "explanation": "Whir up frozen bananas with peanut butter and cocoa in this sweet, creamy drink recipe to get all the delicious flavors of a milkshake with the health benefits of a smoothie.",
+    "imageLink": "https://www.eatingwell.com/thmb/sbCNtbgvNENbJcR_N_rgmXwlwQc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4019482-8cfe5cf89e0d48cc8165b78976c9bbec.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 2,
+    "serving": 2,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 cup nonfat milk"
+      },
+      {
+        "text": "1 frozen medium banana"
+      },
+      {
+        "text": "2 tablespoons natural peanut butter"
+      },
+      {
+        "text": "1 tablespoon unsweetened cocoa powder"
+      },
+      {
+        "text": "1 tablespoon chia or hemp seeds (optional)"
+      },
+      {
+        "text": "1 teaspoon vanilla extract"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine milk, banana, peanut butter, cocoa, chia or hemp seeds (if using) and vanilla in a blender. Puree until smooth"
+      }
+    ],
+    "calories": 211,
+    "fat": 9,
+    "carb": 24,
+    "protein": 9,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/280738/spinach-peanut-butter-banana-smoothie/",
+    "name": "Spinach, Peanut Butter & Banana Smoothie",
+    "explanation": "Peanut butter and banana is a classic combo that's even more delicious with the addition of tangy probiotic-rich kefir. Plus, this peanut butter banana smoothie helps you up your veggie servings for the day with a bit of mild-flavored spinach mixed in.",
+    "imageLink": "https://www.eatingwell.com/thmb/dZ4ixSoh2KYvbNXFdUBHYkyUEN8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Spinach-Peanut-Butter-Banana-Smoothie-750fcf958cc74b60adefa7c811d2831b.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 cup plain kefir"
+      },
+      {
+        "text": "1 tablespoon peanut butter"
+      },
+      {
+        "text": "1 cup spinach"
+      },
+      {
+        "text": "1 frozen banana"
+      },
+      {
+        "text": "1 tablespoon honey (Optional)"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Add kefir, peanut butter, spinach, banana and honey (if using) to a blender. Blend until smooth."
+      }
+    ],
+    "calories": 324,
+    "fat": 11,
+    "carb": 45,
+    "protein": 16,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/254614/watermelon-strawberry-smoothie/",
+    "name": "Watermelon-Strawberry Smoothie",
+    "explanation": "Strawberry and watermelon combine in this easy, 4-ingredient healthy fruit smoothie recipe.",
+    "imageLink": "https://www.eatingwell.com/thmb/T9KH6ZF2YuUAr8nu993ifdquGe0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/3759445-4c6e2749e9ec4b16883b7fd30d08c694.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 3,
+    "serving": 2,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "2 cups frozen strawberries"
+      },
+      {
+        "text": "1 cup chopped watermelon"
+      },
+      {
+        "text": "1 cup low-fat plain yogurt"
+      },
+      {
+        "text": "2 teaspoons honey (optional)"
+      },
+      {
+        "text": "Squeeze of lime juice"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine strawberries, watermelon, yogurt, honey (if using) and lime juice in a blender. Puree until smooth."
+      }
+    ],
+    "calories": 152,
+    "fat": 2,
+    "carb": 28,
+    "protein": 8,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/262123/raspberry-kefir-power-smoothie/",
+    "name": "Raspberry-Kefir Power Smoothie",
+    "explanation": "Keeping ripe peeled bananas in your freezer means you're always just one step away from a healthy smoothie. Kefir, peanut butter and flaxmeal add protein, probiotics and healthy fats.",
+    "imageLink": "https://www.eatingwell.com/thmb/DudG68xAV3kc0pDmH3098lQsbKc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4784570-2e8a2f95fb744edd9eb8b9db188d3e26.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "½ frozen banana"
+      },
+      {
+        "text": "½ cup raspberries, fresh or frozen"
+      },
+      {
+        "text": "⅓ cup low-fat plain kefir"
+      },
+      {
+        "text": "2 teaspoons natural peanut butter"
+      },
+      {
+        "text": "½ teaspoon flaxmeal"
+      },
+      {
+        "text": "1 tablespoon 1-2 tablespoons water"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine banana, raspberries, kefir, peanut butter and flaxmeal in a blender. Process until smooth, adding water a tablespoon at a time, if necessary."
+      }
+    ],
+    "calories": 249,
+    "fat": 7,
+    "carb": 41,
+    "protein": 8,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/267647/chocolate-banana-protein-smoothie/",
+    "name": "Chocolate-Banana Protein Smoothie",
+    "explanation": "Red lentils give this smoothie a plant-based protein boost. To make this smoothie vegan, try using unsweetened coconut beverage or almond milk in place of the dairy milk.",
+    "imageLink": "https://www.eatingwell.com/thmb/RnPGvGPSzRvbcuiLUPuCs5vwapg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/5678189-e39b0d9f62c543b7aa87ee927fe0cb61.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 banana, frozen"
+      },
+      {
+        "text": "½ cup cooked red lentils"
+      },
+      {
+        "text": "½ cup nonfat milk"
+      },
+      {
+        "text": "2 teaspoons unsweetened cocoa powder"
+      },
+      {
+        "text": "1 teaspoon pure maple syrup"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine banana, lentils, milk, cocoa and syrup in a blender. Puree until smooth."
+      }
+    ],
+    "calories": 310,
+    "fat": 2,
+    "carb": 64,
+    "protein": 15,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/260736/pumpkin-pie-smoothie/",
+    "name": "Pumpkin Pie Smoothie",
+    "explanation": "This healthy smoothie recipe has all the flavor of a pumpkin spice latte without all the sugar. Made with real pumpkin and frozen banana, this whips into a creamy, luscious grab-&-go breakfast (or snack) in just 5 minutes.",
+    "imageLink": "https://www.eatingwell.com/thmb/sqTVcHz6ic6u19WOTVOUmmpKnSs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/4565457-208bc60531dc403790b7df1b1094be3b.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 medium frozen banana"
+      },
+      {
+        "text": "½ cup unsweetened almond milk or other nut milk"
+      },
+      {
+        "text": "⅓ cup plain whole-milk Greek yogurt"
+      },
+      {
+        "text": "⅓ cup canned pumpkin puree"
+      },
+      {
+        "text": "⅛ teaspoon pumpkin pie spice"
+      },
+      {
+        "text": "1-2 teaspoons pure maple syrup"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Place banana, almond milk (or other nut milk), yogurt, pumpkin puree, pumpkin pie spice and maple syrup in a blender. Blend until smooth."
+      }
+    ],
+    "calories": 247,
+    "fat": 6,
+    "carb": 42,
+    "protein": 10,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/280734/mango-raspberry-smoothie/",
+    "name": "Mango Raspberry Smoothie",
+    "explanation": "A squeeze of lemon juice adds bright flavor to this frozen fruit smoothie. Mango provides plenty of sweetness without having to add juice, but if it's too tart for you, a touch of agave will do the trick.",
+    "imageLink": "https://www.eatingwell.com/thmb/AveqSWVRDajjYCUZFcoWW6QMkSI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Mango-Raspberry-Smoothie-f7a9fcb5920b4aa2bd9d91be8bc9b3fc.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "½ cup water"
+      },
+      {
+        "text": "¼ medium avocado"
+      },
+      {
+        "text": "1 tablespoon lemon juice"
+      },
+      {
+        "text": "¾ cup frozen mango"
+      },
+      {
+        "text": "¼ cup frozen raspberries"
+      },
+      {
+        "text": "1 tablespoon agave (Optional)"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Add water, avocado, lemon juice, mango, raspberries and agave (if using) to a blender. Blend until smooth."
+      }
+    ],
+    "calories": 188,
+    "fat": 7,
+    "carb": 32,
+    "protein": 2,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/254613/watermelon-mango-smoothie/",
+    "name": "Watermelon-Mango Smoothie",
+    "explanation": "This satisfying fruit smoothie recipe has only four ingredients for a quick and easy healthy breakfast on the go.",
+    "imageLink": "https://www.eatingwell.com/thmb/AzkbvC7HzNkyb9ltYrsOAmJxMzs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/3759444-1754a1bce64b40dfa6588dd38622aa59.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 2.5,
+    "serving": 2,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 cup chopped watermelon"
+      },
+      {
+        "text": "1 cup frozen mango chunks"
+      },
+      {
+        "text": "½ frozen medium banana"
+      },
+      {
+        "text": "1 cup low-fat plain yogurt"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Combine watermelon, mango, banana and yogurt in a blender. Puree until smooth."
+      }
+    ],
+    "calories": 176,
+    "fat": 2,
+    "carb": 34,
+    "protein": 8,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/255163/berry-flax-smoothie/",
+    "name": "Berry & Flax Smoothie",
+    "explanation": "For the prettiest color, use a mixture of berries with a lot of blueberries in this healthy smoothie recipe. Flaxseed oil adds heart-healthy omega-3 fats, making this a serious power smoothie.",
+    "imageLink": "https://www.eatingwell.com/thmb/5qzMrWiA-uvr_MuWwcs0ipm03OU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/3879393-d430d332983a409f816eea041292c5ab.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "1 cup frozen mixed berries"
+      },
+      {
+        "text": "1 cup baby spinach"
+      },
+      {
+        "text": "½ cup plain nonfat yogurt"
+      },
+      {
+        "text": "2 teaspoons flaxseed oil"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Blend berries, spinach, yogurt and flaxseed oil in a blender until smooth, stopping to scrape down the sides and stir as needed."
+      }
+    ],
+    "calories": 216,
+    "fat": 10,
+    "carb": 28,
+    "protein": 9,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/280735/strawberry-peach-smoothie/",
+    "name": "Strawberry Peach Smoothie",
+    "explanation": "Cauliflower in a smoothie might sound like a deal breaker, but trust us, it's worth it. Not only does it boost your veggie servings for the day, it also makes this peach smoothie even creamier.",
+    "imageLink": "https://www.eatingwell.com/thmb/ncaBXhWIDXvXhcozbEkHPTn2WIY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Strawberry-Peach-Smoothie-50af1cca5d704b49986fdcab50a7da61.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 0.5,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "½ cup apple juice"
+      },
+      {
+        "text": "¼ cup low-fat plain yogurt"
+      },
+      {
+        "text": "½ cup frozen cauliflower rice"
+      },
+      {
+        "text": "½ cup frozen strawberries"
+      },
+      {
+        "text": "½ cup frozen peaches"
+      },
+      {
+        "text": "1 tablespoon granulated sugar (Optional)"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Add apple juice, yogurt, cauliflower rice, strawberries, peaches and sugar (if using) to a blender. Blend until smooth."
+      }
+    ],
+    "calories": 170,
+    "fat": 1,
+    "carb": 36,
+    "protein": 5,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/280739/coconut-blueberry-smoothie/",
+    "name": "Coconut Blueberry Smoothie",
+    "explanation": "Give your blueberry smoothie a tropical update with the rich flavors of coconut milk and coconut cream. Freshly squeezed orange juice lends bright flavor to this healthy smoothie recipe, but if you're short on time, bottled will work just fine.",
+    "imageLink": "https://www.eatingwell.com/thmb/bCJU2nzrs1K_UM73KXdQdZxhRE0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Coconut-Blueberry-Smoothie-ea8291f82ea94f548dcc41157925614c.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 1,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "¼ cup light coconut milk"
+      },
+      {
+        "text": "¼ cup orange juice"
+      },
+      {
+        "text": "2 tablespoons coconut cream"
+      },
+      {
+        "text": "1 cup frozen blueberries"
+      },
+      {
+        "text": "1 tablespoon maple syrup (Optional)"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Add coconut milk, orange juice, coconut cream, blueberries and maple syrup (if using) to a blender. Blend until smooth."
+      }
+    ],
+    "calories": 283,
+    "fat": 11,
+    "carb": 47,
+    "protein": 2,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "Recipelink": "https://www.eatingwell.com/recipe/280741/cherry-smoothie/",
+    "name": "Cherry Smoothie",
+    "explanation": "The combination of oat milk, vanilla extract and sweet cherries makes this recipe taste like a cherry pie smoothie. Adding a bit of brown sugar boosts that nostalgia even more.",
+    "imageLink": "https://www.eatingwell.com/thmb/d9GtIy8cnh-qYEASAycUX8djl04=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cherry-Smoothie-997c5ef405af48b59bdc52039764e248.jpg",
+    "isFavorite": false,
+    "atkins": false,
+    "alkaline": false,
+    "dash": false,
+    "detox": false,
+    "dukan": false,
+    "keto": false,
+    "intermittentFasting": false,
+    "mediterranean": false,
+    "plantBased": false,
+    "paleolithic": false,
+    "southBeach": false,
+    "boneHealth": false,
+    "dairyFree": false,
+    "diabeticAppropriate": false,
+    "eggFree": false,
+    "glutenFree": false,
+    "heartHealty": false,
+    "highFiber": false,
+    "highProtien": false,
+    "highCalcium": false,
+    "healthyImmunity": false,
+    "healthyAging": false,
+    "healthyPregnancy": false,
+    "highBloodPressure": false,
+    "lowAddedSugar": false,
+    "lowCarb": false,
+    "lowCalorie": false,
+    "lowFat": false,
+    "lowSodium": false,
+    "nutFree": false,
+    "soyFree": false,
+    "sesameFree": false,
+    "vegan": false,
+    "vegetarian": false,
+    "yield": 0.5,
+    "serving": 1,
+    "cooksNote": "",
+    "prepTime": "5",
+    "cookTime": "",
+    "restTime": "",
+    "additionalTime": "",
+    "marinateTime": "",
+    "totalTime": "5",
+    "Equipment": "",
+    "ingredients": [
+      {
+        "text": "½ cup oat milk"
+      },
+      {
+        "text": "1 tablespoon almond butter"
+      },
+      {
+        "text": "1 teaspoon cocoa powder"
+      },
+      {
+        "text": "½ teaspoon vanilla extract"
+      },
+      {
+        "text": "1 cup frozen dark sweet cherries"
+      },
+      {
+        "text": "1 tablespoon brown sugar (Optional)"
+      }
+    ],
+    "direction": [
+      {
+        "text": "Add oat milk, almond butter, cocoa, vanilla, cherries and sugar (if using) to a blender. Blend until smooth."
+      }
+    ],
+    "calories": 232,
+    "fat": 9,
+    "carb": 32,
+    "protein": 6,
+    "fiber": 0,
+    "sodium": 0,
+    "tips": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  }
+]

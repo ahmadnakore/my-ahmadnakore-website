@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "arabic": "الفاتحة",
+        "name": "Al-Fatiha",
+        "total_verses": 7,
+        "translation": "The Opener",
+        "type": "meccan",
+        
+        "reciter": [
+          {
+            "id": 1,
+            "name": "sudais",
+            "downloadStatus": "a",
+            "link": "https://ia904702.us.archive.org/33/items/018_20221109/001.mp3",
+            "time_array": []
+          },
+          
+          {
+            "id": 2,
+            "name": "a2",
+            "downloadStatus": "b",
+            "link": "https://ia904702.us.archive.org/33/items/018_20221109/002.mp3",
+            "time_array": []
+          }
+          ]
+
+    },
+    
+    
+    
+    {
+        "id": 1,
+        "arabic": "الفاتحة",
+        "name": "Al-Fatiha",
+        "total_verses": 7,
+        "translation": "The Opener",
+        "type": "meccan",
+        
+        "reciter": [
+          {
+            "id": 3,
+            "name": "sudais",
+            "downloadStatus": "c",
+            "link": "https://ia904702.us.archive.org/33/items/018_20221109/003.mp3",
+            "time_array": []
+          },
+          
+          {
+            "id": 4,
+            "name": "b2",
+            "downloadStatus": "d",
+            "link": "https://ia904702.us.archive.org/33/items/018_20221109/004.mp3",
+            "time_array": []
+          }
+          ]
+
+    }
+
+
+]
