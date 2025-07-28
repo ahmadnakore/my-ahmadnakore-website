@@ -5,7 +5,8 @@
     },
     "com.ahmadnakore.Shiekhsudaisquran": {
         "ads_per_minute": 2,
-        "time_interval_seconds": 60
+        "time_interval_seconds": 60,
+        "ShowQuranTab": false
     },
     "com.ahmadnakore.Qusary": {
         "ads_per_minute": 2,
