@@ -30,11 +30,7 @@
         "loadBannerAds": true,
         
         "enableButtonEvenWithoutAds": true,
-        "showHStack": true,
-        
-        "": ,
-        "": ,
-        "": ,
+        "showHStack": true
     },
     "com.ahmadnakore.Qusary": {
         "ads_per_minute": 2,
