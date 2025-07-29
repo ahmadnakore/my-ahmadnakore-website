@@ -16,7 +16,7 @@
         "ShowSettingsTab": true,
         
         
-        "showAllAds": false,
+        "showAllAds": true,
         "showInterAds": true,
         "showRewardedAds": true,
         "showAppOpenAds": true,
