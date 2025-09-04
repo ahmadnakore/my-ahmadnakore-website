@@ -11,7 +11,7 @@
         "ShowQuranTab": true,
         "ShowRecitersTab": true,
         "ShowAzkarTab": false,
-        "ShowPrayerTimesTab": false,
+        "ShowPrayerTimesTab": true,
         "Show99NamesTab": false,
         "ShowSettingsTab": true,
         
