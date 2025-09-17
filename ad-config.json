@@ -35,6 +35,10 @@
         "ads_per_minute": 2,
         "time_interval_seconds": 60
     },
+    "com.ahmadnakore.SheikhNoreen": {
+        "ads_per_minute": 2,
+        "time_interval_seconds": 60
+    },
     "com.ahmadnakore.AlAfasiiQuran": {
         "ads_per_minute": 2,
         "time_interval_seconds": 60
