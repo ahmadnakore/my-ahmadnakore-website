@@ -37,7 +37,31 @@
     },
     "com.ahmadnakore.SheikhNoreen": {
         "ads_per_minute": 2,
-        "time_interval_seconds": 60
+        "time_interval_seconds": 60,
+        
+        "ShowHomeTab": true,
+        "ShowQuranTab": true,
+        "ShowRecitersTab": true,
+        "ShowAzkarTab": true,
+        "ShowPrayerTimesTab": true,
+        "Show99NamesTab": true,
+        "ShowSettingsTab": true,
+        
+        
+        "showAllAds": true,
+        "showInterAds": true,
+        "showRewardedAds": true,
+        "showAppOpenAds": true,
+        "showBannerAds": true,
+        
+        "loadAds": true,
+        "loadInterAds": true,
+        "loadRewardedAds": true,
+        "loadAppOpenAds": true,
+        "loadBannerAds": true,
+        
+        "enableButtonEvenWithoutAds": true,
+        "showHStack": true
     },
     "com.ahmadnakore.AlAfasiiQuran": {
         "ads_per_minute": 2,
