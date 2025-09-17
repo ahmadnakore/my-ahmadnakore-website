@@ -39,12 +39,12 @@
         "ads_per_minute": 2,
         "time_interval_seconds": 60,
         
-        "ShowHomeTab": true,
+        "ShowHomeTab": false,
         "ShowQuranTab": true,
         "ShowRecitersTab": true,
         "ShowAzkarTab": true,
         "ShowPrayerTimesTab": true,
-        "Show99NamesTab": true,
+        "Show99NamesTab": false,
         "ShowSettingsTab": true,
         
         
