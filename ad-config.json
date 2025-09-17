@@ -61,7 +61,7 @@
         "loadBannerAds": true,
         
         "enableButtonEvenWithoutAds": true,
-        "showHStack": true
+        "showHStack": false
     },
     "com.ahmadnakore.AlAfasiiQuran": {
         "ads_per_minute": 2,
