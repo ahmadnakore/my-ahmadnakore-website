@@ -19,7 +19,7 @@
         "showAllAds": true,
         "showInterAds": true,
         "showRewardedAds": true,
-        "showAppOpenAds": false,
+        "showAppOpenAds": true,
         "showBannerAds": true,
         
         "loadAds": true,
@@ -51,12 +51,12 @@
         "showAllAds": true,
         "showInterAds": true,
         "showRewardedAds": true,
-        "showAppOpenAds": true,
+        "showAppOpenAds": false,
         "showBannerAds": true,
         
         "loadAds": true,
         "loadInterAds": true,
-        "loadRewardedAds": true,
+        "loadRewardedAds": false,
         "loadAppOpenAds": true,
         "loadBannerAds": true,
         
