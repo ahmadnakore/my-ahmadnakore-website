@@ -19,7 +19,7 @@
         "showAllAds": true,
         "showInterAds": true,
         "showRewardedAds": true,
-        "showAppOpenAds": true,
+        "showAppOpenAds": false,
         "showBannerAds": true,
         
         "loadAds": true,
