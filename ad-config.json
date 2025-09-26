@@ -56,7 +56,7 @@
         
         "loadAds": true,
         "loadInterAds": true,
-        "loadRewardedAds": false,
+        "loadRewardedAds": true,
         "loadAppOpenAds": true,
         "loadBannerAds": true,
         
