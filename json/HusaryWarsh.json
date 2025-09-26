@@ -1,0 +1,1712 @@
+[
+  {
+    "translation" : "The Opener",
+    "name" : "Al-Fatiha",
+    "isDownloading" : false,
+    "total_verses" : 7,
+    "id" : 1,
+    "downloadStatus" : 0,
+    "arabic" : "الفاتحة",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/001.mp3"
+  },
+  {
+    "name" : "Al-Baqara",
+    "translation" : "The Cow",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/002.mp3",
+    "id" : 2,
+    "time_array" : [
+
+    ],
+    "total_verses" : 286,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "البقرة"
+  },
+  {
+    "name" : "Al Imran",
+    "id" : 3,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/003.mp3",
+    "arabic" : "آل عمران",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 200,
+    "translation" : "Family of Imran",
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false
+  },
+  {
+    "id" : 4,
+    "time_array" : [
+
+    ],
+    "total_verses" : 176,
+    "name" : "An-Nisa",
+    "arabic" : "النساء",
+    "translation" : "The Women",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/004.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "medinan",
+    "downloadStatus" : 0
+  },
+  {
+    "id" : 5,
+    "downloadStatus" : 0,
+    "arabic" : "المائدة",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Maida",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/005.mp3",
+    "total_verses" : 120,
+    "translation" : "The Table Spread",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "medinan"
+  },
+  {
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/006.mp3",
+    "arabic" : "الأنعام",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Cattle",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "total_verses" : 165,
+    "id" : 6,
+    "name" : "Al-Anam"
+  },
+  {
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/007.mp3",
+    "total_verses" : 206,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "id" : 7,
+    "downloadStatus" : 0,
+    "arabic" : "الأعراف",
+    "time_array" : [
+
+    ],
+    "translation" : "The Heights",
+    "type" : "meccan",
+    "name" : "Al-Araf"
+  },
+  {
+    "translation" : "The Spoils of War",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/008.mp3",
+    "name" : "Al-Anfal",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الأنفال",
+    "type" : "medinan",
+    "total_verses" : 75,
+    "isDownloading" : false,
+    "id" : 8
+  },
+  {
+    "time_array" : [
+
+    ],
+    "name" : "At-Tawba",
+    "arabic" : "التوبة",
+    "id" : 9,
+    "downloadStatus" : 0,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/009.mp3",
+    "total_verses" : 129,
+    "isDownloading" : false,
+    "translation" : "The Repentance",
+    "type" : "medinan",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/010.mp3",
+    "total_verses" : 109,
+    "isDownloading" : false,
+    "id" : 10,
+    "arabic" : "يونس",
+    "translation" : "Jonah",
+    "name" : "Yunus",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "هود",
+    "id" : 11,
+    "time_array" : [
+
+    ],
+    "total_verses" : 123,
+    "isDownloaded" : false,
+    "name" : "Hud",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/011.mp3",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "translation" : "Hud"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 12,
+    "translation" : "Joseph",
+    "total_verses" : 111,
+    "name" : "Yusuf",
+    "arabic" : "يوسف",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/012.mp3"
+  },
+  {
+    "translation" : "The Thunder",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/013.mp3",
+    "isDownloading" : false,
+    "name" : "Ar-Rad",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "arabic" : "الرعد",
+    "total_verses" : 43,
+    "id" : 13,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "meccan",
+    "id" : 14,
+    "downloadStatus" : 0,
+    "translation" : "Abraham",
+    "total_verses" : 52,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/014.mp3",
+    "arabic" : "ابراهيم",
+    "name" : "Ibrahim"
+  },
+  {
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/015.mp3",
+    "id" : 15,
+    "time_array" : [
+
+    ],
+    "translation" : "The Rocky Tract",
+    "arabic" : "الحجر",
+    "isDownloaded" : false,
+    "name" : "Al-Hijr",
+    "total_verses" : 99,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "name" : "An-Nahl",
+    "total_verses" : 128,
+    "type" : "meccan",
+    "translation" : "The Bee",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/016.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 16,
+    "arabic" : "النحل"
+  },
+  {
+    "translation" : "The Night Journey",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/017.mp3",
+    "arabic" : "الإسراء",
+    "name" : "Al-Isra",
+    "total_verses" : 111,
+    "id" : 17,
+    "type" : "meccan",
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Cave",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "id" : 18,
+    "time_array" : [
+
+    ],
+    "arabic" : "الكهف",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/018.mp3",
+    "total_verses" : 110,
+    "isDownloaded" : false,
+    "name" : "Al-Kahf"
+  },
+  {
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/019.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 19,
+    "name" : "Maryam",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "translation" : "Mary",
+    "type" : "meccan",
+    "total_verses" : 98,
+    "downloadStatus" : 0,
+    "arabic" : "مريم"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "id" : 20,
+    "total_verses" : 135,
+    "downloadStatus" : 0,
+    "name" : "Ta-Ha",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "translation" : "Ta-Ha",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/020.mp3",
+    "arabic" : "طه",
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الأنبياء",
+    "isDownloaded" : false,
+    "id" : 21,
+    "name" : "Al-Anbiya",
+    "time_array" : [
+
+    ],
+    "total_verses" : 112,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/021.mp3",
+    "translation" : "The Prophets"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 78,
+    "translation" : "The Pilgrimage",
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "arabic" : "الحج",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/022.mp3",
+    "id" : 22,
+    "name" : "Al-Hajj",
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/023.mp3",
+    "name" : "Al-Muminoon",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "translation" : "The Believers",
+    "type" : "meccan",
+    "id" : 23,
+    "total_verses" : 118,
+    "downloadStatus" : 0,
+    "arabic" : "المؤمنون",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 64,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "An-Nur",
+    "id" : 24,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/024.mp3",
+    "arabic" : "النور",
+    "translation" : "The Light"
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Criterion",
+    "name" : "Al-Furqan",
+    "id" : 25,
+    "total_verses" : 77,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "الفرقان",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/025.mp3",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "الشعراء",
+    "name" : "Ash-Shuara",
+    "translation" : "The Poets",
+    "id" : 26,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 227,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/026.mp3"
+  },
+  {
+    "name" : "An-Naml",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/027.mp3",
+    "translation" : "The Ant",
+    "type" : "meccan",
+    "total_verses" : 93,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "النمل",
+    "id" : 27,
+    "isDownloaded" : false
+  },
+  {
+    "name" : "Al-Qasas",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/028.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "القصص",
+    "total_verses" : 88,
+    "id" : 28,
+    "translation" : "The Stories"
+  },
+  {
+    "id" : 29,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/029.mp3",
+    "translation" : "The Spider",
+    "arabic" : "العنكبوت",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Ankabut",
+    "isDownloading" : false,
+    "total_verses" : 69,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "total_verses" : 60,
+    "translation" : "The Romans",
+    "name" : "Ar-Rum",
+    "id" : 30,
+    "isDownloading" : false,
+    "arabic" : "الروم",
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/030.mp3"
+  },
+  {
+    "id" : 31,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/031.mp3",
+    "translation" : "Luqman",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 34,
+    "name" : "Luqman",
+    "type" : "meccan",
+    "arabic" : "لقمان"
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/032.mp3",
+    "id" : 32,
+    "downloadStatus" : 0,
+    "translation" : "The Prostration",
+    "name" : "As-Sajda",
+    "arabic" : "السجدة",
+    "time_array" : [
+
+    ],
+    "total_verses" : 30,
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Ahzab",
+    "downloadStatus" : 0,
+    "total_verses" : 73,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/033.mp3",
+    "translation" : "The Combined Forces",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "arabic" : "الأحزاب",
+    "id" : 33,
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/034.mp3",
+    "id" : 34,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Saba",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "سبإ",
+    "total_verses" : 54,
+    "time_array" : [
+
+    ],
+    "translation" : "Sheba"
+  },
+  {
+    "name" : "Fatir",
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/035.mp3",
+    "arabic" : "فاطر",
+    "isDownloading" : false,
+    "translation" : "Originator",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 45,
+    "id" : 35,
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/036.mp3",
+    "downloadStatus" : 0,
+    "translation" : "Ya Sin",
+    "arabic" : "يس",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "id" : 36,
+    "name" : "Ya Sin",
+    "total_verses" : 83,
+    "isDownloaded" : false
+  },
+  {
+    "translation" : "Those who set the Ranks",
+    "arabic" : "الصافات",
+    "id" : 37,
+    "downloadStatus" : 0,
+    "name" : "As-Saaffat",
+    "time_array" : [
+
+    ],
+    "total_verses" : 182,
+    "type" : "meccan",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/037.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 88,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Sad",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/038.mp3",
+    "isDownloaded" : false,
+    "arabic" : "ص",
+    "time_array" : [
+
+    ],
+    "translation" : "The Letter Saad",
+    "id" : 38,
+    "isDownloading" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 39,
+    "translation" : "The Troops",
+    "isDownloading" : false,
+    "arabic" : "الزمر",
+    "name" : "Az-Zumar",
+    "time_array" : [
+
+    ],
+    "total_verses" : 75,
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/039.mp3",
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "id" : 40,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/040.mp3",
+    "arabic" : "غافر",
+    "translation" : "The Forgiver",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "Ghafir",
+    "total_verses" : 85
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/041.mp3",
+    "arabic" : "فصلت",
+    "translation" : "Explained in Detail",
+    "id" : 41,
+    "total_verses" : 54,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "Fussilat"
+  },
+  {
+    "name" : "Ash-Shura",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/042.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 53,
+    "arabic" : "الشورى",
+    "downloadStatus" : 0,
+    "id" : 42,
+    "isDownloading" : false,
+    "translation" : "The Consultation",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Az-Zukhruf",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 89,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/043.mp3",
+    "id" : 43,
+    "translation" : "The Ornaments of Gold",
+    "arabic" : "الزخرف",
+    "type" : "meccan",
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "total_verses" : 59,
+    "isDownloading" : false,
+    "id" : 44,
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/044.mp3",
+    "translation" : "The Smoke",
+    "arabic" : "الدخان",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "name" : "Ad-Dukhan"
+  },
+  {
+    "translation" : "The Crouching",
+    "arabic" : "الجاثية",
+    "downloadStatus" : 0,
+    "id" : 45,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "total_verses" : 37,
+    "name" : "Al-Jathiya",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/045.mp3",
+    "isDownloading" : false,
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "الأحقاف",
+    "name" : "Al-Ahqaf",
+    "downloadStatus" : 0,
+    "translation" : "The Wind-Curved Sandhills",
+    "type" : "meccan",
+    "total_verses" : 35,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/046.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 46,
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "محمد",
+    "translation" : "Muhammad",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "id" : 47,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/047.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 38,
+    "name" : "Muhammad"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 29,
+    "id" : 48,
+    "name" : "Al-Fath",
+    "translation" : "The Victory",
+    "type" : "medinan",
+    "arabic" : "الفتح",
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/048.mp3"
+  },
+  {
+    "type" : "medinan",
+    "id" : 49,
+    "time_array" : [
+
+    ],
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/049.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Hujurat",
+    "arabic" : "الحجرات",
+    "total_verses" : 18,
+    "translation" : "The Rooms",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "translation" : "The Letter Qaf",
+    "id" : 50,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/050.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Qaf",
+    "total_verses" : 45,
+    "downloadStatus" : 0,
+    "arabic" : "ق"
+  },
+  {
+    "isDownloaded" : false,
+    "translation" : "The Winnowing Winds",
+    "type" : "meccan",
+    "arabic" : "الذاريات",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/051.mp3",
+    "isDownloading" : false,
+    "id" : 51,
+    "total_verses" : 60,
+    "name" : "Adh-Dhariyat"
+  },
+  {
+    "arabic" : "الطور",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Mount",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/052.mp3",
+    "name" : "At-Tur",
+    "type" : "meccan",
+    "id" : 52,
+    "isDownloading" : false,
+    "total_verses" : 49
+  },
+  {
+    "translation" : "The Star",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 53,
+    "name" : "An-Najm",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/053.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "النجم",
+    "total_verses" : 62
+  },
+  {
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/054.mp3",
+    "total_verses" : 55,
+    "translation" : "The Moon",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "القمر",
+    "type" : "meccan",
+    "id" : 54,
+    "name" : "Al-Qamar"
+  },
+  {
+    "name" : "Ar-Rahman",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/055.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "الرحمن",
+    "id" : 55,
+    "total_verses" : 78,
+    "isDownloaded" : false,
+    "translation" : "The Beneficent",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Waqia",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 56,
+    "time_array" : [
+
+    ],
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/056.mp3",
+    "translation" : "The Inevitable",
+    "total_verses" : 96,
+    "downloadStatus" : 0,
+    "arabic" : "الواقعة",
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/057.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الحديد",
+    "total_verses" : 29,
+    "translation" : "The Iron",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Hadid",
+    "type" : "medinan",
+    "id" : 57
+  },
+  {
+    "arabic" : "المجادلة",
+    "total_verses" : 22,
+    "translation" : "The Pleading Woman",
+    "id" : 58,
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/058.mp3",
+    "name" : "Al-Mujadila",
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "الحشر",
+    "name" : "Al-Hashr",
+    "time_array" : [
+
+    ],
+    "id" : 59,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "translation" : "The Exile",
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/059.mp3",
+    "downloadStatus" : 0,
+    "total_verses" : 24
+  },
+  {
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/060.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "الممتحنة",
+    "id" : 60,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Mumtahina",
+    "total_verses" : 13,
+    "type" : "medinan",
+    "translation" : "She that is to be examined",
+    "isDownloaded" : false
+  },
+  {
+    "total_verses" : 14,
+    "translation" : "The Ranks",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/061.mp3",
+    "isDownloading" : false,
+    "id" : 61,
+    "arabic" : "الصف",
+    "name" : "As-Saff",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false
+  },
+  {
+    "translation" : "The Congregation, Friday",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/062.mp3",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "name" : "Al-Jumua",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 11,
+    "id" : 62,
+    "downloadStatus" : 0,
+    "arabic" : "الجمعة"
+  },
+  {
+    "total_verses" : 11,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/063.mp3",
+    "arabic" : "المنافقون",
+    "translation" : "The Hypocrites",
+    "id" : 63,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "name" : "Al-Munafiqun"
+  },
+  {
+    "translation" : "The Mutual Disillusion",
+    "time_array" : [
+
+    ],
+    "name" : "At-Taghabun",
+    "isDownloaded" : false,
+    "id" : 64,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 18,
+    "type" : "medinan",
+    "arabic" : "التغابن",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/064.mp3"
+  },
+  {
+    "translation" : "The Divorce",
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/065.mp3",
+    "type" : "medinan",
+    "total_verses" : 12,
+    "isDownloaded" : false,
+    "id" : 65,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "At-Talaq",
+    "arabic" : "الطلاق"
+  },
+  {
+    "id" : 66,
+    "downloadStatus" : 0,
+    "translation" : "The Prohibition",
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "arabic" : "التحريم",
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/066.mp3",
+    "isDownloaded" : false,
+    "name" : "At-Tahrim",
+    "total_verses" : 12
+  },
+  {
+    "arabic" : "الملك",
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/067.mp3",
+    "downloadStatus" : 0,
+    "translation" : "The Sovereignty",
+    "id" : 67,
+    "time_array" : [
+
+    ],
+    "total_verses" : 30,
+    "name" : "Al-Mulk",
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "القلم",
+    "name" : "Al-Qalam",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The Pen",
+    "total_verses" : 52,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 68,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/068.mp3"
+  },
+  {
+    "id" : 69,
+    "translation" : "The Reality",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "name" : "Al-Haaqqa",
+    "downloadStatus" : 0,
+    "arabic" : "الحاقة",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/069.mp3",
+    "total_verses" : 52
+  },
+  {
+    "type" : "meccan",
+    "id" : 70,
+    "name" : "Al-Maarij",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/070.mp3",
+    "total_verses" : 44,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "المعارج",
+    "translation" : "The Ascending Stairways",
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Nuh",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "translation" : "Noah",
+    "isDownloading" : false,
+    "arabic" : "نوح",
+    "isDownloaded" : false,
+    "id" : 71,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/071.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 28
+  },
+  {
+    "arabic" : "الجن",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/072.mp3",
+    "id" : 72,
+    "name" : "Al-Jinn",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 28,
+    "downloadStatus" : 0,
+    "translation" : "The Jinn",
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "arabic" : "المزمل",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/073.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 20,
+    "id" : 73,
+    "name" : "Al-Muzzammil",
+    "translation" : "The Enshrouded One"
+  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Cloaked One",
+    "arabic" : "المدثر",
+    "type" : "meccan",
+    "id" : 74,
+    "isDownloading" : false,
+    "name" : "Al-Muddathir",
+    "time_array" : [
+
+    ],
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/074.mp3",
+    "isDownloaded" : false,
+    "total_verses" : 56
+  },
+  {
+    "translation" : "The Resurrection",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "id" : 75,
+    "arabic" : "القيامة",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/075.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 40,
+    "name" : "Al-Qiyama",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 76,
+    "name" : "Al-Insan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Man",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/076.mp3",
+    "arabic" : "الانسان",
+    "total_verses" : 31
+  },
+  {
+    "total_verses" : 50,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/077.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "translation" : "The Emissaries",
+    "arabic" : "المرسلات",
+    "id" : 77,
+    "isDownloaded" : false,
+    "name" : "Al-Mursalat"
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 78,
+    "total_verses" : 40,
+    "type" : "meccan",
+    "name" : "An-Naba",
+    "translation" : "The Tidings",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/078.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "النبإ",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "النازعات",
+    "name" : "An-Naziat",
+    "time_array" : [
+
+    ],
+    "id" : 79,
+    "total_verses" : 46,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/079.mp3",
+    "isDownloaded" : false,
+    "translation" : "Those who drag forth"
+  },
+  {
+    "id" : 80,
+    "downloadStatus" : 0,
+    "name" : "Abasa",
+    "isDownloaded" : false,
+    "total_verses" : 42,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/080.mp3",
+    "isDownloading" : false,
+    "translation" : "He Frowned",
+    "type" : "meccan",
+    "arabic" : "عبس",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "At-Takwir",
+    "type" : "meccan",
+    "id" : 81,
+    "translation" : "The Overthrowing",
+    "time_array" : [
+
+    ],
+    "total_verses" : 29,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/081.mp3",
+    "arabic" : "التكوير",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 19,
+    "type" : "meccan",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/082.mp3",
+    "name" : "Al-Infitar",
+    "arabic" : "الإنفطار",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Cleaving",
+    "id" : 82
+  },
+  {
+    "translation" : "The Defrauding",
+    "isDownloading" : false,
+    "id" : 83,
+    "downloadStatus" : 0,
+    "arabic" : "المطففين",
+    "type" : "meccan",
+    "total_verses" : 36,
+    "name" : "Al-Mutaffifin",
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/083.mp3",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/084.mp3",
+    "id" : 84,
+    "name" : "Al-Inshiqaq",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 25,
+    "translation" : "The Sundering",
+    "arabic" : "الإنشقاق",
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "total_verses" : 22,
+    "downloadStatus" : 0,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/085.mp3",
+    "arabic" : "البروج",
+    "isDownloading" : false,
+    "id" : 85,
+    "name" : "Al-Burooj",
+    "translation" : "The Mansions of the Stars",
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Nightcommer",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الطارق",
+    "isDownloaded" : false,
+    "name" : "At-Tariq",
+    "type" : "meccan",
+    "id" : 86,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/086.mp3",
+    "total_verses" : 17
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 87,
+    "translation" : "The Most High",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Ala",
+    "arabic" : "الأعلى",
+    "total_verses" : 19,
+    "type" : "meccan",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/087.mp3"
+  },
+  {
+    "name" : "Al-Ghashiyah",
+    "time_array" : [
+
+    ],
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/088.mp3",
+    "isDownloading" : false,
+    "total_verses" : 26,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "translation" : "The Overwhelming",
+    "isDownloaded" : false,
+    "id" : 88,
+    "arabic" : "الغاشية"
+  },
+  {
+    "total_verses" : 30,
+    "id" : 89,
+    "arabic" : "الفجر",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Fajr",
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/089.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Dawn"
+  },
+  {
+    "total_verses" : 20,
+    "isDownloaded" : false,
+    "name" : "Al-Balad",
+    "downloadStatus" : 0,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/090.mp3",
+    "translation" : "The City",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 90,
+    "time_array" : [
+
+    ],
+    "arabic" : "البلد"
+  },
+  {
+    "arabic" : "الشمس",
+    "name" : "Ash-Shams",
+    "id" : 91,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/091.mp3",
+    "translation" : "The Sun",
+    "total_verses" : 15
+  },
+  {
+    "translation" : "The Night",
+    "id" : 92,
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/092.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 21,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الليل",
+    "isDownloaded" : false,
+    "name" : "Al-Lail"
+  },
+  {
+    "arabic" : "الضحى",
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/093.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 93,
+    "name" : "Ad-Dhuha",
+    "total_verses" : 11,
+    "translation" : "The Morning Hours",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "الشرح",
+    "total_verses" : 8,
+    "isDownloaded" : false,
+    "translation" : "The Relief",
+    "id" : 94,
+    "type" : "meccan",
+    "name" : "Al-Inshirah",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/094.mp3",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "The Fig",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 95,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/095.mp3",
+    "arabic" : "التين",
+    "name" : "At-Tin",
+    "total_verses" : 8,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Alaq",
+    "translation" : "The Clot",
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/096.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "arabic" : "العلق",
+    "type" : "meccan",
+    "total_verses" : 19,
+    "id" : 96
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "القدر",
+    "time_array" : [
+
+    ],
+    "total_verses" : 5,
+    "id" : 97,
+    "name" : "Al-Qadr",
+    "translation" : "The Power",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/097.mp3",
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/098.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Bayyina",
+    "id" : 98,
+    "time_array" : [
+
+    ],
+    "total_verses" : 8,
+    "translation" : "The Clear Proof",
+    "arabic" : "البينة",
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "isDownloaded" : false
+  },
+  {
+    "type" : "medinan",
+    "id" : 99,
+    "downloadStatus" : 0,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/099.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 8,
+    "translation" : "The Earthquake",
+    "arabic" : "الزلزلة",
+    "isDownloading" : false,
+    "name" : "Az-Zalzala"
+  },
+  {
+    "translation" : "The Courser",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 100,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/100.mp3",
+    "name" : "Al-Adiyat",
+    "total_verses" : 11,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "arabic" : "العاديات",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "القارعة",
+    "translation" : "The Calamity",
+    "name" : "Al-Qaria",
+    "id" : 101,
+    "time_array" : [
+
+    ],
+    "total_verses" : 11,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/101.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "التكاثر",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 8,
+    "id" : 102,
+    "translation" : "The Rivalry in world increase",
+    "name" : "At-Takathur",
+    "type" : "meccan",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/102.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "العصر",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/103.mp3",
+    "id" : 103,
+    "downloadStatus" : 0,
+    "name" : "Al-Asr",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "type" : "meccan",
+    "translation" : "The Declining Day"
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/104.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 104,
+    "type" : "meccan",
+    "name" : "Al-Humaza",
+    "downloadStatus" : 0,
+    "arabic" : "الهمزة",
+    "total_verses" : 9,
+    "translation" : "The Traducer",
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 5,
+    "translation" : "The Elephant",
+    "arabic" : "الفيل",
+    "downloadStatus" : 0,
+    "id" : 105,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/105.mp3",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Fil",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "قريش",
+    "name" : "Quraysh",
+    "total_verses" : 4,
+    "type" : "meccan",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/106.mp3",
+    "translation" : "Quraysh",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 106
+  },
+  {
+    "arabic" : "الماعون",
+    "time_array" : [
+
+    ],
+    "translation" : "The Small kindnesses",
+    "id" : 107,
+    "isDownloading" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/107.mp3",
+    "downloadStatus" : 0,
+    "name" : "Al-Maun",
+    "total_verses" : 7,
+    "type" : "meccan",
+    "isDownloaded" : false
+  },
+  {
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 3,
+    "isDownloaded" : false,
+    "name" : "Al-Kawthar",
+    "id" : 108,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/108.mp3",
+    "translation" : "The Abundance",
+    "arabic" : "الكوثر",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Kafirun",
+    "downloadStatus" : 0,
+    "id" : 109,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/109.mp3",
+    "type" : "meccan",
+    "total_verses" : 6,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "الكافرون",
+    "translation" : "The Disbelievers"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/110.mp3",
+    "arabic" : "النصر",
+    "id" : 110,
+    "time_array" : [
+
+    ],
+    "name" : "An-Nasr",
+    "total_verses" : 3,
+    "translation" : "The Divine Support",
+    "type" : "medinan",
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 5,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 111,
+    "downloadStatus" : 0,
+    "arabic" : "المسد",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/111.mp3",
+    "name" : "Al-Masad",
+    "time_array" : [
+
+    ],
+    "translation" : "The Palm Fiber"
+  },
+  {
+    "id" : 112,
+    "downloadStatus" : 0,
+    "arabic" : "الإخلاص",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/112.mp3",
+    "total_verses" : 4,
+    "name" : "Al-Ikhlas",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "translation" : "The Sincerity"
+  },
+  {
+    "isDownloading" : false,
+    "type" : "meccan",
+    "arabic" : "الفلق",
+    "time_array" : [
+
+    ],
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/113.mp3",
+    "isDownloaded" : false,
+    "translation" : "The Daybreak",
+    "name" : "Al-Falaq",
+    "id" : 113,
+    "total_verses" : 5,
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "Mankind",
+    "type" : "meccan",
+    "name" : "Al-Nas",
+    "downloadStatus" : 0,
+    "id" : 114,
+    "link" : "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/114.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "arabic" : "الناس",
+    "total_verses" : 6
+  }
+]
