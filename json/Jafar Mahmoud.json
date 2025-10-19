@@ -1,0 +1,1712 @@
+[
+  {
+    "total_verses" : 7,
+    "translation" : "The Opener",
+    "name" : "Al-Fatiha",
+    "isDownloaded" : false,
+    "arabic" : "الفاتحة",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S001_Al-Fatiha.mp3",
+    "isDownloading" : false,
+    "id" : 1,
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Cow",
+    "total_verses" : 286,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "البقرة",
+    "id" : 2,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S002_Al-Baqrah.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Baqara"
+  },
+  {
+    "arabic" : "آل عمران",
+    "total_verses" : 200,
+    "translation" : "Family of Imran",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "id" : 3,
+    "isDownloaded" : false,
+    "name" : "Al Imran",
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S003_Al_Imran.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Women",
+    "total_verses" : 176,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "النساء",
+    "id" : 4,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S004_An-Nisa'i.mp3",
+    "name" : "An-Nisa",
+    "type" : "medinan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "المائدة",
+    "total_verses" : 120,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S005_Al-Ma'idah.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Maida",
+    "time_array" : [
+
+    ],
+    "id" : 5,
+    "translation" : "The Table Spread",
+    "downloadStatus" : 0,
+    "type" : "medinan"
+  },
+  {
+    "total_verses" : 165,
+    "type" : "meccan",
+    "id" : 6,
+    "translation" : "The Cattle",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "arabic" : "الأنعام",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S006_Al-Anaam.mp3",
+    "downloadStatus" : 0,
+    "name" : "Al-Anam"
+  },
+  {
+    "translation" : "The Heights",
+    "id" : 7,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S007_Al-A'raf.mp3",
+    "arabic" : "الأعراف",
+    "name" : "Al-Araf",
+    "time_array" : [
+
+    ],
+    "total_verses" : 206,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "type" : "meccan"
+  },
+  {
+    "id" : 8,
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S008_Al-Anfal.mp3",
+    "total_verses" : 75,
+    "isDownloaded" : false,
+    "arabic" : "الأنفال",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "translation" : "The Spoils of War",
+    "name" : "Al-Anfal",
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 129,
+    "arabic" : "التوبة",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S009_At-Tauba.mp3",
+    "id" : 9,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Repentance",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "name" : "At-Tawba"
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "يونس",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S010_Yunus.mp3",
+    "name" : "Yunus",
+    "total_verses" : 109,
+    "type" : "meccan",
+    "id" : 10,
+    "time_array" : [
+
+    ],
+    "translation" : "Jonah",
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S011_Hud.mp3",
+    "arabic" : "هود",
+    "total_verses" : 123,
+    "translation" : "Hud",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "name" : "Hud",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 11,
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "يوسف",
+    "total_verses" : 111,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S012_Yusuf.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "Joseph",
+    "name" : "Yusuf",
+    "type" : "meccan",
+    "id" : 12
+  },
+  {
+    "name" : "Ar-Rad",
+    "total_verses" : 43,
+    "translation" : "The Thunder",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S013_Ar-Ra'd.mp3",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "id" : 13,
+    "arabic" : "الرعد",
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S014_Ibrahim.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Ibrahim",
+    "type" : "meccan",
+    "arabic" : "ابراهيم",
+    "downloadStatus" : 0,
+    "id" : 14,
+    "total_verses" : 52,
+    "translation" : "Abraham",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "The Rocky Tract",
+    "arabic" : "الحجر",
+    "total_verses" : 99,
+    "type" : "meccan",
+    "id" : 15,
+    "name" : "Al-Hijr",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S015_Al-Hijr.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 16,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S016_An-Nahl.mp3",
+    "name" : "An-Nahl",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "arabic" : "النحل",
+    "total_verses" : 128,
+    "translation" : "The Bee"
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S017_Al-Isra.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 111,
+    "type" : "meccan",
+    "name" : "Al-Isra",
+    "id" : 17,
+    "isDownloading" : false,
+    "translation" : "The Night Journey",
+    "arabic" : "الإسراء",
+    "downloadStatus" : 0
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "The Cave",
+    "type" : "meccan",
+    "arabic" : "الكهف",
+    "downloadStatus" : 0,
+    "id" : 18,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S018_Al-Kahf.mp3",
+    "isDownloaded" : false,
+    "total_verses" : 110,
+    "name" : "Al-Kahf",
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S019_Maryam.mp3",
+    "name" : "Maryam",
+    "translation" : "Mary",
+    "isDownloading" : false,
+    "total_verses" : 98,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 19,
+    "downloadStatus" : 0,
+    "arabic" : "مريم"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "arabic" : "طه",
+    "name" : "Ta-Ha",
+    "total_verses" : 135,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 20,
+    "translation" : "Ta-Ha",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S020_Taha.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "id" : 21,
+    "total_verses" : 112,
+    "name" : "Al-Anbiya",
+    "arabic" : "الأنبياء",
+    "translation" : "The Prophets",
+    "type" : "meccan",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S021_Al-Anbiya.mp3"
+  },
+  {
+    "type" : "medinan",
+    "name" : "Al-Hajj",
+    "id" : 22,
+    "total_verses" : 78,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S022_Al-Hajj.mp3",
+    "arabic" : "الحج",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "translation" : "The Pilgrimage"
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S023_Al-Mu'minun.mp3",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "arabic" : "المؤمنون",
+    "name" : "Al-Muminoon",
+    "isDownloaded" : false,
+    "id" : 23,
+    "isDownloading" : false,
+    "translation" : "The Believers",
+    "total_verses" : 118
+  },
+  {
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "arabic" : "النور",
+    "isDownloading" : false,
+    "id" : 24,
+    "name" : "An-Nur",
+    "time_array" : [
+
+    ],
+    "total_verses" : 64,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S024_An-Nur.mp3",
+    "translation" : "The Light",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "الفرقان",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S025_Al-Furqan.mp3",
+    "id" : 25,
+    "time_array" : [
+
+    ],
+    "total_verses" : 77,
+    "downloadStatus" : 0,
+    "translation" : "The Criterion",
+    "type" : "meccan",
+    "name" : "Al-Furqan",
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S026_Ash-Shuara.mp3",
+    "id" : 26,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 227,
+    "arabic" : "الشعراء",
+    "translation" : "The Poets",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "name" : "Ash-Shuara"
+  },
+  {
+    "name" : "An-Naml",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 27,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S027_An-Naml.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 93,
+    "isDownloaded" : false,
+    "translation" : "The Ant",
+    "arabic" : "النمل",
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "القصص",
+    "id" : 28,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Al-Qasas",
+    "total_verses" : 88,
+    "translation" : "The Stories",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S028_Al-Qasas.mp3"
+  },
+  {
+    "arabic" : "العنكبوت",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 69,
+    "translation" : "The Spider",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S029_Al-Ankabut.mp3",
+    "type" : "meccan",
+    "id" : 29,
+    "downloadStatus" : 0,
+    "name" : "Al-Ankabut",
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Romans",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "id" : 30,
+    "name" : "Ar-Rum",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S030_Ar-Rum.mp3",
+    "total_verses" : 60,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "الروم"
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "Luqman",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "لقمان",
+    "time_array" : [
+
+    ],
+    "id" : 31,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S031_Luqman.mp3",
+    "isDownloaded" : false,
+    "name" : "Luqman",
+    "total_verses" : 34
+  },
+  {
+    "arabic" : "السجدة",
+    "name" : "As-Sajda",
+    "isDownloading" : false,
+    "id" : 32,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S032_As-Sajdah.mp3",
+    "translation" : "The Prostration",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "total_verses" : 30
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S033_Al-Ahzab.mp3",
+    "arabic" : "الأحزاب",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Ahzab",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "id" : 33,
+    "total_verses" : 73,
+    "translation" : "The Combined Forces",
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S034_Saba.mp3",
+    "arabic" : "سبإ",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "Saba",
+    "downloadStatus" : 0,
+    "translation" : "Sheba",
+    "id" : 34,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 54
+  },
+  {
+    "translation" : "Originator",
+    "type" : "meccan",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S035_Fatir.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "id" : 35,
+    "arabic" : "فاطر",
+    "name" : "Fatir",
+    "total_verses" : 45
+  },
+  {
+    "type" : "meccan",
+    "id" : 36,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "Ya Sin",
+    "name" : "Ya Sin",
+    "total_verses" : 83,
+    "isDownloading" : false,
+    "arabic" : "يس",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S036_Ya-sin.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "id" : 37,
+    "isDownloading" : false,
+    "translation" : "Those who set the Ranks",
+    "type" : "meccan",
+    "name" : "As-Saaffat",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "الصافات",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S037_As-Saffat.mp3",
+    "total_verses" : 182
+  },
+  {
+    "time_array" : [
+
+    ],
+    "name" : "Sad",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S038_Suad.mp3",
+    "arabic" : "ص",
+    "total_verses" : 88,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "translation" : "The Letter Saad",
+    "id" : 38
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "الزمر",
+    "translation" : "The Troops",
+    "name" : "Az-Zumar",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S039_Az-Zumar.mp3",
+    "type" : "meccan",
+    "total_verses" : 75,
+    "id" : 39
+  },
+  {
+    "name" : "Ghafir",
+    "total_verses" : 85,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S040_Ghafir.mp3",
+    "downloadStatus" : 0,
+    "translation" : "The Forgiver",
+    "time_array" : [
+
+    ],
+    "arabic" : "غافر",
+    "id" : 40,
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 54,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S041_Fussilat.mp3",
+    "translation" : "Explained in Detail",
+    "arabic" : "فصلت",
+    "name" : "Fussilat",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 41
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Ash-Shura",
+    "total_verses" : 53,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S042_Ash-Shura.mp3",
+    "arabic" : "الشورى",
+    "id" : 42,
+    "type" : "meccan",
+    "translation" : "The Consultation"
+  },
+  {
+    "type" : "meccan",
+    "id" : 43,
+    "translation" : "The Ornaments of Gold",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 89,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S043_Az-Zukhruf.mp3",
+    "name" : "Az-Zukhruf",
+    "arabic" : "الزخرف",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Ad-Dukhan",
+    "id" : 44,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S044_Ad-Dukhan.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 59,
+    "arabic" : "الدخان",
+    "translation" : "The Smoke"
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Jathiya",
+    "total_verses" : 37,
+    "translation" : "The Crouching",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S045_Al-Jathiyah.mp3",
+    "type" : "meccan",
+    "arabic" : "الجاثية",
+    "id" : 45
+  },
+  {
+    "type" : "meccan",
+    "name" : "Al-Ahqaf",
+    "isDownloading" : false,
+    "arabic" : "الأحقاف",
+    "total_verses" : 35,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S046_Al-Ahqaf.mp3",
+    "downloadStatus" : 0,
+    "id" : 46,
+    "time_array" : [
+
+    ],
+    "translation" : "The Wind-Curved Sandhills"
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Muhammad",
+    "time_array" : [
+
+    ],
+    "id" : 47,
+    "translation" : "Muhammad",
+    "type" : "medinan",
+    "total_verses" : 38,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S047_Muhammad.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "محمد"
+  },
+  {
+    "arabic" : "الفتح",
+    "name" : "Al-Fath",
+    "type" : "medinan",
+    "translation" : "The Victory",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S048_Al-Fath.mp3",
+    "id" : 48,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "total_verses" : 29,
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Rooms",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "arabic" : "الحجرات",
+    "isDownloading" : false,
+    "id" : 49,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S049_Al-Hujurat.mp3",
+    "name" : "Al-Hujurat",
+    "total_verses" : 18
+  },
+  {
+    "name" : "Qaf",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 50,
+    "translation" : "The Letter Qaf",
+    "isDownloaded" : false,
+    "arabic" : "ق",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S050_Qaf.mp3",
+    "total_verses" : 45
+  },
+  {
+    "isDownloading" : false,
+    "id" : 51,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "الذاريات",
+    "translation" : "The Winnowing Winds",
+    "total_verses" : 60,
+    "name" : "Adh-Dhariyat",
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S051_Adh-Dhariyat.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Mount",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S052_At-Tur.mp3",
+    "total_verses" : 49,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "name" : "At-Tur",
+    "isDownloading" : false,
+    "arabic" : "الطور",
+    "type" : "meccan",
+    "id" : 52,
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S053_An-Najm.mp3",
+    "name" : "An-Najm",
+    "id" : 53,
+    "time_array" : [
+
+    ],
+    "total_verses" : 62,
+    "translation" : "The Star",
+    "arabic" : "النجم",
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "translation" : "The Moon",
+    "isDownloading" : false,
+    "arabic" : "القمر",
+    "id" : 54,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S054_Al-Qamar.mp3",
+    "name" : "Al-Qamar",
+    "total_verses" : 55
+  },
+  {
+    "arabic" : "الرحمن",
+    "name" : "Ar-Rahman",
+    "isDownloaded" : false,
+    "id" : 55,
+    "time_array" : [
+
+    ],
+    "total_verses" : 78,
+    "translation" : "The Beneficent",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S055_Ar-Rahman.mp3"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 56,
+    "translation" : "The Inevitable",
+    "type" : "meccan",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S056_Al-Waqi'a.mp3",
+    "arabic" : "الواقعة",
+    "isDownloaded" : false,
+    "name" : "Al-Waqia",
+    "total_verses" : 96
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 29,
+    "downloadStatus" : 0,
+    "name" : "Al-Hadid",
+    "translation" : "The Iron",
+    "isDownloading" : false,
+    "id" : 57,
+    "arabic" : "الحديد",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S057_Al-Hadid.mp3"
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S058_Al-Mujadilah.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Pleading Woman",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "id" : 58,
+    "arabic" : "المجادلة",
+    "total_verses" : 22,
+    "name" : "Al-Mujadila"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 24,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "translation" : "The Exile",
+    "id" : 59,
+    "arabic" : "الحشر",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S059_Al-Hashr.mp3",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "name" : "Al-Hashr"
+  },
+  {
+    "translation" : "She that is to be examined",
+    "id" : 60,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S060_Al-Mumtahanah.mp3",
+    "arabic" : "الممتحنة",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "Al-Mumtahina",
+    "total_verses" : 13
+  },
+  {
+    "type" : "medinan",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S061_As-Saff.mp3",
+    "total_verses" : 14,
+    "arabic" : "الصف",
+    "name" : "As-Saff",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 61,
+    "downloadStatus" : 0,
+    "translation" : "The Ranks"
+  },
+  {
+    "id" : 62,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "name" : "Al-Jumua",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S062_Al-Jumu'ah.mp3",
+    "arabic" : "الجمعة",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 11,
+    "translation" : "The Congregation, Friday"
+  },
+  {
+    "id" : 63,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S063_Al-Munafiqun.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "المنافقون",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "name" : "Al-Munafiqun",
+    "total_verses" : 11,
+    "translation" : "The Hypocrites"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "التغابن",
+    "downloadStatus" : 0,
+    "name" : "At-Taghabun",
+    "id" : 64,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S064_At-Taghabun.mp3",
+    "isDownloaded" : false,
+    "translation" : "The Mutual Disillusion",
+    "total_verses" : 18,
+    "type" : "medinan"
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S065_At-Talaq.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "translation" : "The Divorce",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "total_verses" : 12,
+    "arabic" : "الطلاق",
+    "id" : 65,
+    "name" : "At-Talaq",
+    "isDownloaded" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "At-Tahrim",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S066_At-Tahrim.mp3",
+    "isDownloading" : false,
+    "arabic" : "التحريم",
+    "id" : 66,
+    "translation" : "The Prohibition",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "total_verses" : 12
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S067_Al-Mulk.mp3",
+    "downloadStatus" : 0,
+    "total_verses" : 30,
+    "arabic" : "الملك",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "translation" : "The Sovereignty",
+    "id" : 67,
+    "name" : "Al-Mulk"
+  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Pen",
+    "id" : 68,
+    "total_verses" : 52,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "arabic" : "القلم",
+    "isDownloading" : false,
+    "name" : "Al-Qalam",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S068_Al-Qalam.mp3"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "translation" : "The Reality",
+    "arabic" : "الحاقة",
+    "id" : 69,
+    "total_verses" : 52,
+    "name" : "Al-Haaqqa",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S069_Al-Haqqah.mp3"
+  },
+  {
+    "id" : 70,
+    "downloadStatus" : 0,
+    "total_verses" : 44,
+    "isDownloaded" : false,
+    "arabic" : "المعارج",
+    "isDownloading" : false,
+    "name" : "Al-Maarij",
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S070_Al-Ma'arij.mp3",
+    "type" : "meccan",
+    "translation" : "The Ascending Stairways"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Nuh",
+    "type" : "meccan",
+    "id" : 71,
+    "isDownloaded" : false,
+    "arabic" : "نوح",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S071_Nuh.mp3",
+    "total_verses" : 28,
+    "translation" : "Noah"
+  },
+  {
+    "arabic" : "الجن",
+    "downloadStatus" : 0,
+    "id" : 72,
+    "name" : "Al-Jinn",
+    "total_verses" : 28,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S072_Al-Jinn.mp3",
+    "translation" : "The Jinn",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "isDownloaded" : false
+  },
+  {
+    "translation" : "The Enshrouded One",
+    "total_verses" : 20,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S073_Al-Muzzammil.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "المزمل",
+    "type" : "meccan",
+    "name" : "Al-Muzzammil",
+    "isDownloading" : false,
+    "id" : 73,
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S074_Al-Muddaththir.mp3",
+    "isDownloading" : false,
+    "id" : 74,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "المدثر",
+    "name" : "Al-Muddathir",
+    "time_array" : [
+
+    ],
+    "total_verses" : 56,
+    "translation" : "The Cloaked One",
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "القيامة",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 75,
+    "total_verses" : 40,
+    "translation" : "The Resurrection",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S075_Al-Qiyamah.mp3",
+    "type" : "meccan",
+    "name" : "Al-Qiyama"
+  },
+  {
+    "translation" : "The Man",
+    "arabic" : "الانسان",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Al-Insan",
+    "total_verses" : 31,
+    "id" : 76,
+    "type" : "medinan",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S076_An-Insan.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Mursalat",
+    "translation" : "The Emissaries",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S077_Al-Mursalat.mp3",
+    "total_verses" : 50,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 77,
+    "arabic" : "المرسلات"
+  },
+  {
+    "total_verses" : 40,
+    "name" : "An-Naba",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S078_An-Naba'.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Tidings",
+    "id" : 78,
+    "type" : "meccan",
+    "arabic" : "النبإ"
+  },
+  {
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 79,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S079_An-Nazi'at.mp3",
+    "arabic" : "النازعات",
+    "name" : "An-Naziat",
+    "time_array" : [
+
+    ],
+    "total_verses" : 46,
+    "translation" : "Those who drag forth"
+  },
+  {
+    "total_verses" : 42,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S080_Abasa.mp3",
+    "isDownloaded" : false,
+    "arabic" : "عبس",
+    "name" : "Abasa",
+    "time_array" : [
+
+    ],
+    "translation" : "He Frowned",
+    "type" : "meccan",
+    "id" : 80,
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S081_At-Takwir.mp3",
+    "isDownloaded" : false,
+    "arabic" : "التكوير",
+    "name" : "At-Takwir",
+    "total_verses" : 29,
+    "downloadStatus" : 0,
+    "id" : 81,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Overthrowing",
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S082_Al-Infitar.mp3",
+    "translation" : "The Cleaving",
+    "arabic" : "الإنفطار",
+    "isDownloaded" : false,
+    "id" : 82,
+    "total_verses" : 19,
+    "name" : "Al-Infitar"
+  },
+  {
+    "total_verses" : 36,
+    "downloadStatus" : 0,
+    "arabic" : "المطففين",
+    "translation" : "The Defrauding",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S083_Al-Mutaffifin.mp3",
+    "id" : 83,
+    "isDownloading" : false,
+    "name" : "Al-Mutaffifin"
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 25,
+    "type" : "meccan",
+    "translation" : "The Sundering",
+    "arabic" : "الإنشقاق",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S084_Al-Inshiqaq.mp3",
+    "id" : 84,
+    "downloadStatus" : 0,
+    "name" : "Al-Inshiqaq",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 85,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Burooj",
+    "total_verses" : 22,
+    "translation" : "The Mansions of the Stars",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S085_Al-Buruj.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "البروج"
+  },
+  {
+    "total_verses" : 17,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S086_Al-Tariq.mp3",
+    "arabic" : "الطارق",
+    "name" : "At-Tariq",
+    "translation" : "The Nightcommer",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "id" : 86
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "The Most High",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الأعلى",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S087_Al-A'la.mp3",
+    "id" : 87,
+    "name" : "Al-Ala",
+    "total_verses" : 19,
+    "isDownloaded" : false,
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Al-Ghashiyah",
+    "isDownloading" : false,
+    "arabic" : "الغاشية",
+    "id" : 88,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S088_Al-Ghashiyah.mp3",
+    "translation" : "The Overwhelming",
+    "total_verses" : 26
+  },
+  {
+    "name" : "Al-Fajr",
+    "id" : 89,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "الفجر",
+    "type" : "meccan",
+    "translation" : "The Dawn",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S089_Al-Fajr.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 30
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S090_Al-Balad.mp3",
+    "isDownloading" : false,
+    "id" : 90,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "name" : "Al-Balad",
+    "total_verses" : 20,
+    "translation" : "The City",
+    "arabic" : "البلد",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Ash-Shams",
+    "total_verses" : 15,
+    "isDownloaded" : false,
+    "arabic" : "الشمس",
+    "translation" : "The Sun",
+    "isDownloading" : false,
+    "id" : 91,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S091_Ash-Shams.mp3"
+  },
+  {
+    "translation" : "The Night",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "name" : "Al-Lail",
+    "arabic" : "الليل",
+    "total_verses" : 21,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S092_Al-Lail.mp3",
+    "id" : 92,
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Ad-Dhuha",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S093_Ad-Duha.mp3",
+    "arabic" : "الضحى",
+    "time_array" : [
+
+    ],
+    "translation" : "The Morning Hours",
+    "id" : 93,
+    "total_verses" : 11,
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Relief",
+    "id" : 94,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S094_Ash-Sharh.mp3",
+    "total_verses" : 8,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "arabic" : "الشرح",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Al-Inshirah"
+  },
+  {
+    "translation" : "The Fig",
+    "name" : "At-Tin",
+    "isDownloaded" : false,
+    "total_verses" : 8,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S095_At-tin.mp3",
+    "type" : "meccan",
+    "id" : 95,
+    "downloadStatus" : 0,
+    "arabic" : "التين",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "العلق",
+    "isDownloading" : false,
+    "id" : 96,
+    "name" : "Al-Alaq",
+    "total_verses" : 19,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S096_Al-'Alaq.mp3",
+    "translation" : "The Clot",
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "القدر",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S097_Al-Qadr.mp3",
+    "id" : 97,
+    "downloadStatus" : 0,
+    "name" : "Al-Qadr",
+    "time_array" : [
+
+    ],
+    "translation" : "The Power",
+    "total_verses" : 5,
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S098_Al-Bayyinah.mp3",
+    "translation" : "The Clear Proof",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "arabic" : "البينة",
+    "id" : 98,
+    "name" : "Al-Bayyina",
+    "total_verses" : 8,
+    "isDownloaded" : false
+  },
+  {
+    "id" : 99,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S099_Az-Zalzalah.mp3",
+    "total_verses" : 8,
+    "arabic" : "الزلزلة",
+    "name" : "Az-Zalzala",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The Earthquake"
+  },
+  {
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S100_Al-Adiyat.mp3",
+    "downloadStatus" : 0,
+    "translation" : "The Courser",
+    "id" : 100,
+    "type" : "meccan",
+    "total_verses" : 11,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "العاديات",
+    "isDownloaded" : false,
+    "name" : "Al-Adiyat"
+  },
+  {
+    "translation" : "The Calamity",
+    "id" : 101,
+    "name" : "Al-Qaria",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S101_Al-Qari'ah.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 11,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "القارعة"
+  },
+  {
+    "downloadStatus" : 0,
+    "total_verses" : 8,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "name" : "At-Takathur",
+    "isDownloading" : false,
+    "translation" : "The Rivalry in world increase",
+    "id" : 102,
+    "arabic" : "التكاثر",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S102_At-Takathur.mp3"
+  },
+  {
+    "downloadStatus" : 0,
+    "total_verses" : 3,
+    "translation" : "The Declining Day",
+    "id" : 103,
+    "arabic" : "العصر",
+    "name" : "Al-Asr",
+    "type" : "meccan",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S103_Al-Asr.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "type" : "meccan",
+    "id" : 104,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S104_Al-Humazah.mp3",
+    "name" : "Al-Humaza",
+    "translation" : "The Traducer",
+    "time_array" : [
+
+    ],
+    "total_verses" : 9,
+    "arabic" : "الهمزة",
+    "isDownloading" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Al-Fil",
+    "time_array" : [
+
+    ],
+    "translation" : "The Elephant",
+    "id" : 105,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 5,
+    "type" : "meccan",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S105_Al-Fil.mp3",
+    "arabic" : "الفيل",
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "Quraysh",
+    "time_array" : [
+
+    ],
+    "arabic" : "قريش",
+    "id" : 106,
+    "total_verses" : 4,
+    "translation" : "Quraysh",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S106_Quraish.mp3",
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "The Small kindnesses",
+    "id" : 107,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S107_Al-Ma'un.mp3",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "name" : "Al-Maun",
+    "downloadStatus" : 0,
+    "arabic" : "الماعون",
+    "isDownloaded" : false,
+    "total_verses" : 7
+  },
+  {
+    "arabic" : "الكوثر",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloading" : false,
+    "name" : "Al-Kawthar",
+    "total_verses" : 3,
+    "isDownloaded" : false,
+    "translation" : "The Abundance",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S108_Al-kauthar.mp3",
+    "id" : 108,
+    "downloadStatus" : 0
+  },
+  {
+    "time_array" : [
+
+    ],
+    "id" : 109,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "الكافرون",
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S109_Al-Kafirun.mp3",
+    "total_verses" : 6,
+    "name" : "Al-Kafirun",
+    "translation" : "The Disbelievers",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "النصر",
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S110_An-Nasr.mp3",
+    "translation" : "The Divine Support",
+    "id" : 110,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 3,
+    "isDownloading" : false,
+    "type" : "medinan",
+    "name" : "An-Nasr",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "المسد",
+    "isDownloaded" : false,
+    "id" : 111,
+    "name" : "Al-Masad",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S111_Al-Masad.mp3",
+    "type" : "meccan",
+    "translation" : "The Palm Fiber",
+    "downloadStatus" : 0,
+    "total_verses" : 5,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 4,
+    "name" : "Al-Ikhlas",
+    "arabic" : "الإخلاص",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 112,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S112_Al-Ikhlas.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Sincerity",
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "translation" : "The Daybreak",
+    "id" : 113,
+    "arabic" : "الفلق",
+    "downloadStatus" : 0,
+    "total_verses" : 5,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S113_Al-Falaq.mp3",
+    "name" : "Al-Falaq"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "name" : "Al-Nas",
+    "id" : 114,
+    "link" : "https://archive.org/download/koran-quran-full--114-sora-and--do3aa---by--ga3far-ma7mood--aadam------64-kb--/S114_An-Nas.mp3",
+    "total_verses" : 6,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الناس",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "translation" : "Mankind"
+  }
+]
