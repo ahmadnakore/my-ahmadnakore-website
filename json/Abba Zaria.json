@@ -1,0 +1,1712 @@
+[
+  {
+    "translation" : "The Opener",
+    "isDownloaded" : false,
+    "arabic" : "الفاتحة",
+    "id" : 1,
+    "name" : "Al-Fatiha",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 7,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/001%20-%20Surat%20Al%20Fatiha%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 286,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/002%20-%20Surat%20Al%20Baqara%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Al-Baqara",
+    "isDownloaded" : false,
+    "translation" : "The Cow",
+    "id" : 2,
+    "type" : "medinan",
+    "arabic" : "البقرة"
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/003%20-%20Surat%20Ali%20Imran%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "arabic" : "آل عمران",
+    "name" : "Al Imran",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "id" : 3,
+    "total_verses" : 200,
+    "translation" : "Family of Imran",
+    "type" : "medinan"
+  },
+  {
+    "downloadStatus" : 0,
+    "name" : "An-Nisa",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/004%20-%20Surat%20An%20Nisa_i%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "id" : 4,
+    "total_verses" : 176,
+    "translation" : "The Women",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "النساء"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "المائدة",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/005%20-%20Surat%20Al%20Ma_idah%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Al-Maida",
+    "total_verses" : 120,
+    "translation" : "The Table Spread",
+    "isDownloading" : false,
+    "id" : 5,
+    "type" : "medinan",
+    "isDownloaded" : false
+  },
+  {
+    "id" : 6,
+    "total_verses" : 165,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Al-Anam",
+    "arabic" : "الأنعام",
+    "translation" : "The Cattle",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/006%20-%20Surat%20Al%20An_am%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3"
+  },
+  {
+    "arabic" : "الأعراف",
+    "name" : "Al-Araf",
+    "total_verses" : 206,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/007%20-%20Surat%20Al%20A_araf%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "downloadStatus" : 0,
+    "translation" : "The Heights",
+    "id" : 7,
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 75,
+    "arabic" : "الأنفال",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 8,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/008%20-%20Surat%20Al%20Anfal%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Anfal",
+    "translation" : "The Spoils of War",
+    "type" : "medinan"
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/009%20-%20Surat%20At%20Taubah%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "At-Tawba",
+    "time_array" : [
+
+    ],
+    "total_verses" : 129,
+    "type" : "medinan",
+    "translation" : "The Repentance",
+    "isDownloading" : false,
+    "id" : 9,
+    "arabic" : "التوبة"
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 10,
+    "time_array" : [
+
+    ],
+    "total_verses" : 109,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/010%20-%20Surat%20Yunus%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "translation" : "Jonah",
+    "arabic" : "يونس",
+    "name" : "Yunus"
+  },
+  {
+    "arabic" : "هود",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/011%20-%20Surat%20Hud%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Hud",
+    "isDownloaded" : false,
+    "total_verses" : 123,
+    "time_array" : [
+
+    ],
+    "translation" : "Hud",
+    "id" : 11,
+    "isDownloading" : false,
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "يوسف",
+    "name" : "Yusuf",
+    "translation" : "Joseph",
+    "type" : "meccan",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/012%20-%20Surat%20Yusuf%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 111,
+    "id" : 12
+  },
+  {
+    "isDownloading" : false,
+    "id" : 13,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/013%20-%20Surat%20Ar%20Ra_ad%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Ar-Rad",
+    "downloadStatus" : 0,
+    "arabic" : "الرعد",
+    "total_verses" : 43,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Thunder",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Ibrahim",
+    "id" : 14,
+    "isDownloaded" : false,
+    "arabic" : "ابراهيم",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/014%20-%20Surat%20Ibrahim%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "total_verses" : 52,
+    "translation" : "Abraham",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Rocky Tract",
+    "name" : "Al-Hijr",
+    "type" : "meccan",
+    "total_verses" : 99,
+    "arabic" : "الحجر",
+    "downloadStatus" : 0,
+    "id" : 15,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/015%20-%20Surat%20Al%20Hijr%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "id" : 16,
+    "name" : "An-Nahl",
+    "translation" : "The Bee",
+    "total_verses" : 128,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/016%20-%20Surat%20An%20Nahl%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "النحل"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "The Night Journey",
+    "name" : "Al-Isra",
+    "id" : 17,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "arabic" : "الإسراء",
+    "total_verses" : 111,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/017%20-%20Surat%20Al%20Isra%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "meccan",
+    "isDownloading" : false,
+    "name" : "Al-Kahf",
+    "total_verses" : 110,
+    "id" : 18,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/018%20-%20Surat%20Al%20Kahf%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "الكهف",
+    "translation" : "The Cave"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 98,
+    "translation" : "Mary",
+    "type" : "meccan",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/019%20-%20Surat%20Maryam%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "id" : 19,
+    "isDownloading" : false,
+    "name" : "Maryam",
+    "time_array" : [
+
+    ],
+    "arabic" : "مريم"
+  },
+  {
+    "translation" : "Ta-Ha",
+    "type" : "meccan",
+    "total_verses" : 135,
+    "name" : "Ta-Ha",
+    "arabic" : "طه",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 20,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/020%20-%20Surat%20Ta%20Ha%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "الأنبياء",
+    "time_array" : [
+
+    ],
+    "translation" : "The Prophets",
+    "type" : "meccan",
+    "total_verses" : 112,
+    "id" : 21,
+    "isDownloaded" : false,
+    "name" : "Al-Anbiya",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/021%20-%20Surat%20Al%20Anbiya%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3"
+  },
+  {
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/022%20-%20Surat%20Al%20Hajj%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "id" : 22,
+    "isDownloading" : false,
+    "translation" : "The Pilgrimage",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Al-Hajj",
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 78,
+    "arabic" : "الحج"
+  },
+  {
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/023%20-%20Surat%20Al%20Mu_minun%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "arabic" : "المؤمنون",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 118,
+    "type" : "meccan",
+    "translation" : "The Believers",
+    "name" : "Al-Muminoon",
+    "downloadStatus" : 0,
+    "id" : 23
+  },
+  {
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/024%20-%20Surat%20An%20Nur%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "النور",
+    "name" : "An-Nur",
+    "isDownloaded" : false,
+    "translation" : "The Light",
+    "id" : 24,
+    "total_verses" : 64,
+    "type" : "medinan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "الفرقان",
+    "time_array" : [
+
+    ],
+    "id" : 25,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/025%20-%20Surat%20Al%20Furqan%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Al-Furqan",
+    "total_verses" : 77,
+    "isDownloaded" : false,
+    "translation" : "The Criterion",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/026%20-%20Surat%20Ash%20Shu_ara%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "arabic" : "الشعراء",
+    "translation" : "The Poets",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 26,
+    "isDownloading" : false,
+    "name" : "Ash-Shuara",
+    "total_verses" : 227,
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 93,
+    "translation" : "The Ant",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/027%20-%20Surat%20An%20Naml%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "id" : 27,
+    "name" : "An-Naml",
+    "time_array" : [
+
+    ],
+    "arabic" : "النمل",
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/028%20-%20Surat%20Al%20Qasas%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "id" : 28,
+    "arabic" : "القصص",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Qasas",
+    "time_array" : [
+
+    ],
+    "translation" : "The Stories",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "total_verses" : 88
+  },
+  {
+    "time_array" : [
+
+    ],
+    "id" : 29,
+    "total_verses" : 69,
+    "translation" : "The Spider",
+    "isDownloading" : false,
+    "arabic" : "العنكبوت",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/029%20-%20Surat%20Al%20Ankabut%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Al-Ankabut",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "id" : 30,
+    "name" : "Ar-Rum",
+    "isDownloaded" : false,
+    "arabic" : "الروم",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 60,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/030%20-%20Surat%20Ar%20Rum%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "translation" : "The Romans",
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 34,
+    "arabic" : "لقمان",
+    "downloadStatus" : 0,
+    "translation" : "Luqman",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "id" : 31,
+    "type" : "meccan",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/031%20-%20Surat%20Luqman%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "time_array" : [
+
+    ],
+    "name" : "Luqman"
+  },
+  {
+    "name" : "As-Sajda",
+    "total_verses" : 30,
+    "isDownloaded" : false,
+    "id" : 32,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/032%20-%20Surat%20As%20Sajdah%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "arabic" : "السجدة",
+    "translation" : "The Prostration",
+    "downloadStatus" : 0
+  },
+  {
+    "id" : 33,
+    "name" : "Al-Ahzab",
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 73,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/033%20-%20Surat%20Al%20Ahzab%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "translation" : "The Combined Forces",
+    "isDownloading" : false,
+    "arabic" : "الأحزاب",
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "Sheba",
+    "arabic" : "سبإ",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/034%20-%20Surat%20Saba%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Saba",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "id" : 34,
+    "total_verses" : 54,
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "name" : "Fatir",
+    "isDownloaded" : false,
+    "arabic" : "فاطر",
+    "isDownloading" : false,
+    "id" : 35,
+    "total_verses" : 45,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/035%20-%20Surat%20Fatir%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "translation" : "Originator"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "يس",
+    "name" : "Ya Sin",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/036%20-%20Surat%20Ya%20Sin%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 83,
+    "id" : 36,
+    "translation" : "Ya Sin",
+    "type" : "meccan",
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/037%20-%20Surat%20As%20Saffat%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "id" : 37,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 182,
+    "translation" : "Those who set the Ranks",
+    "name" : "As-Saaffat",
+    "arabic" : "الصافات",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "Sad",
+    "total_verses" : 88,
+    "translation" : "The Letter Saad",
+    "time_array" : [
+
+    ],
+    "arabic" : "ص",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/038%20-%20Surat%20Saa_d%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "id" : 38
+  },
+  {
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/039%20-%20Surat%20Az%20Zumar%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "arabic" : "الزمر",
+    "type" : "meccan",
+    "name" : "Az-Zumar",
+    "total_verses" : 75,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 39,
+    "translation" : "The Troops",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "غافر",
+    "name" : "Ghafir",
+    "translation" : "The Forgiver",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/040%20-%20Surat%20Ghafir%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 40,
+    "time_array" : [
+
+    ],
+    "total_verses" : 85,
+    "isDownloaded" : false
+  },
+  {
+    "type" : "meccan",
+    "arabic" : "فصلت",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "Explained in Detail",
+    "total_verses" : 54,
+    "name" : "Fussilat",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/041%20-%20Surat%20Fussilat%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 41
+  },
+  {
+    "translation" : "The Consultation",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 53,
+    "arabic" : "الشورى",
+    "name" : "Ash-Shura",
+    "id" : 42,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/042%20-%20Surat%20Ash%20Shura%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3"
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الزخرف",
+    "type" : "meccan",
+    "name" : "Az-Zukhruf",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/043%20-%20Surat%20Az%20Zukhruf%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "id" : 43,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 89,
+    "translation" : "The Ornaments of Gold"
+  },
+  {
+    "id" : 44,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 59,
+    "translation" : "The Smoke",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "name" : "Ad-Dukhan",
+    "arabic" : "الدخان",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/044%20-%20Surat%20Ad%20Dukhan%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3"
+  },
+  {
+    "arabic" : "الجاثية",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 45,
+    "total_verses" : 37,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Jathiya",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/045%20-%20Surat%20Al%20Jathiyah%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "translation" : "The Crouching"
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "الأحقاف",
+    "time_array" : [
+
+    ],
+    "total_verses" : 35,
+    "translation" : "The Wind-Curved Sandhills",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 46,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/046%20-%20Surat%20Al%20Ahqaf%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Al-Ahqaf"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "محمد",
+    "isDownloading" : false,
+    "id" : 47,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/047%20-%20Surat%20Muhammad%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "downloadStatus" : 0,
+    "name" : "Muhammad",
+    "total_verses" : 38,
+    "translation" : "Muhammad",
+    "type" : "medinan"
+  },
+  {
+    "name" : "Al-Fath",
+    "time_array" : [
+
+    ],
+    "total_verses" : 29,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/048%20-%20Surat%20Al%20Fath%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "type" : "medinan",
+    "translation" : "The Victory",
+    "arabic" : "الفتح",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 48
+  },
+  {
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 49,
+    "arabic" : "الحجرات",
+    "total_verses" : 18,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/049%20-%20Surat%20Al%20Hujurat%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Hujurat",
+    "translation" : "The Rooms",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/050%20-%20Surat%20Qaaf%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "arabic" : "ق",
+    "downloadStatus" : 0,
+    "name" : "Qaf",
+    "total_verses" : 45,
+    "time_array" : [
+
+    ],
+    "translation" : "The Letter Qaf",
+    "isDownloaded" : false,
+    "id" : 50
+  },
+  {
+    "translation" : "The Winnowing Winds",
+    "name" : "Adh-Dhariyat",
+    "arabic" : "الذاريات",
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/051%20-%20Surat%20Az%20Zariyat%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "id" : 51,
+    "total_verses" : 60
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "الطور",
+    "id" : 52,
+    "name" : "At-Tur",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/052%20-%20Surat%20At%20Tur%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "translation" : "The Mount",
+    "total_verses" : 49,
+    "type" : "meccan"
+  },
+  {
+    "name" : "An-Najm",
+    "isDownloaded" : false,
+    "id" : 53,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/053%20-%20Surat%20An%20Najm%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "النجم",
+    "translation" : "The Star",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 62
+  },
+  {
+    "arabic" : "القمر",
+    "id" : 54,
+    "total_verses" : 55,
+    "translation" : "The Moon",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Al-Qamar",
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/054%20-%20Surat%20Al%20Qamar%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3"
+  },
+  {
+    "name" : "Ar-Rahman",
+    "translation" : "The Beneficent",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/055%20-%20Surat%20Ar%20Rahman%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "total_verses" : 78,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "isDownloading" : false,
+    "id" : 55,
+    "isDownloaded" : false,
+    "arabic" : "الرحمن"
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 96,
+    "translation" : "The Inevitable",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/056%20-%20Surat%20Al%20Waqi_a%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Al-Waqia",
+    "arabic" : "الواقعة",
+    "id" : 56,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 29,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/057%20-%20Surat%20Al%20Hadiid%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "id" : 57,
+    "isDownloaded" : false,
+    "arabic" : "الحديد",
+    "type" : "medinan",
+    "translation" : "The Iron",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Hadid"
+  },
+  {
+    "id" : 58,
+    "type" : "medinan",
+    "name" : "Al-Mujadila",
+    "isDownloaded" : false,
+    "translation" : "The Pleading Woman",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/058%20-%20Surat%20Al%20Mujadalah%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "المجادلة",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 22
+  },
+  {
+    "arabic" : "الحشر",
+    "name" : "Al-Hashr",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/059%20-%20Surat%20Al%20Hashr%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "id" : 59,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Exile",
+    "total_verses" : 24,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "type" : "medinan"
+  },
+  {
+    "translation" : "She that is to be examined",
+    "type" : "medinan",
+    "arabic" : "الممتحنة",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Mumtahina",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/060%20-%20Surat%20Al%20Mumtahinah%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 60,
+    "total_verses" : 13
+  },
+  {
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/061%20-%20Surat%20As%20Saff%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "arabic" : "الصف",
+    "name" : "As-Saff",
+    "time_array" : [
+
+    ],
+    "translation" : "The Ranks",
+    "type" : "medinan",
+    "total_verses" : 14,
+    "isDownloaded" : false,
+    "id" : 61,
+    "isDownloading" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "id" : 62,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "total_verses" : 11,
+    "name" : "Al-Jumua",
+    "type" : "medinan",
+    "translation" : "The Congregation, Friday",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/062%20-%20Surat%20Al%20Jumua%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "arabic" : "الجمعة",
+    "downloadStatus" : 0
+  },
+  {
+    "time_array" : [
+
+    ],
+    "arabic" : "المنافقون",
+    "translation" : "The Hypocrites",
+    "id" : 63,
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "name" : "Al-Munafiqun",
+    "total_verses" : 11,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/063%20-%20Surat%20Al%20Munafiqun%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3"
+  },
+  {
+    "id" : 64,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "total_verses" : 18,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/064%20-%20Surat%20At%20Taghabun%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "التغابن",
+    "translation" : "The Mutual Disillusion",
+    "name" : "At-Taghabun",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "type" : "medinan",
+    "isDownloading" : false,
+    "name" : "At-Talaq",
+    "translation" : "The Divorce",
+    "id" : 65,
+    "arabic" : "الطلاق",
+    "total_verses" : 12,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/065%20-%20Surat%20At%20Talaq%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "التحريم",
+    "downloadStatus" : 0,
+    "name" : "At-Tahrim",
+    "total_verses" : 12,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Prohibition",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "id" : 66,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/066%20-%20Surat%20At%20Tahrim%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3"
+  },
+  {
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/067%20-%20Surat%20Al%20Mulk%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "translation" : "The Sovereignty",
+    "time_array" : [
+
+    ],
+    "id" : 67,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 30,
+    "arabic" : "الملك",
+    "name" : "Al-Mulk"
+  },
+  {
+    "total_verses" : 52,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "القلم",
+    "downloadStatus" : 0,
+    "name" : "Al-Qalam",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/068%20-%20Surat%20Al%20Qalam%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "id" : 68,
+    "isDownloading" : false,
+    "translation" : "The Pen",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "id" : 69,
+    "translation" : "The Reality",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/069%20-%20Surat%20Al%20Haqqah%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "الحاقة",
+    "total_verses" : 52,
+    "downloadStatus" : 0,
+    "name" : "Al-Haaqqa"
+  },
+  {
+    "translation" : "The Ascending Stairways",
+    "name" : "Al-Maarij",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 44,
+    "isDownloaded" : false,
+    "id" : 70,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/070%20-%20Surat%20Al%20Ma_arij%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "arabic" : "المعارج",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 28,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Nuh",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/071%20-%20Surat%20Nooh%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "arabic" : "نوح",
+    "id" : 71,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "translation" : "Noah",
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Jinn",
+    "arabic" : "الجن",
+    "id" : 72,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/072%20-%20Surat%20Al%20Jinn%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Al-Jinn",
+    "total_verses" : 28,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Enshrouded One",
+    "total_verses" : 20,
+    "isDownloaded" : false,
+    "id" : 73,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/073%20-%20Surat%20Al%20Muzammil%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "arabic" : "المزمل",
+    "name" : "Al-Muzzammil",
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "المدثر",
+    "type" : "meccan",
+    "name" : "Al-Muddathir",
+    "id" : 74,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/074%20-%20Surat%20Al%20Muddathir%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "total_verses" : 56,
+    "time_array" : [
+
+    ],
+    "translation" : "The Cloaked One"
+  },
+  {
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "total_verses" : 40,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/075%20-%20Surat%20Al%20Qiyamah%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "arabic" : "القيامة",
+    "id" : 75,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "translation" : "The Resurrection",
+    "name" : "Al-Qiyama"
+  },
+  {
+    "id" : 76,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 31,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "arabic" : "الانسان",
+    "name" : "Al-Insan",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/076%20-%20Surat%20Al%20Insan%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Man"
+  },
+  {
+    "type" : "meccan",
+    "id" : 77,
+    "isDownloading" : false,
+    "arabic" : "المرسلات",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/077%20-%20Surat%20Al%20Mursalat%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Al-Mursalat",
+    "time_array" : [
+
+    ],
+    "translation" : "The Emissaries",
+    "isDownloaded" : false,
+    "total_verses" : 50
+  },
+  {
+    "total_verses" : 40,
+    "translation" : "The Tidings",
+    "name" : "An-Naba",
+    "time_array" : [
+
+    ],
+    "id" : 78,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "النبإ",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/078%20-%20Surat%20An%20Naba%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "An-Naziat",
+    "translation" : "Those who drag forth",
+    "arabic" : "النازعات",
+    "id" : 79,
+    "total_verses" : 46,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/079%20-%20Surat%20An%20Naziat%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "He Frowned",
+    "id" : 80,
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/080%20-%20Surat%20Abasa%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "type" : "meccan",
+    "arabic" : "عبس",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 42,
+    "name" : "Abasa"
+  },
+  {
+    "id" : 81,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/081%20-%20Surat%20At%20Takwir%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "total_verses" : 29,
+    "translation" : "The Overthrowing",
+    "downloadStatus" : 0,
+    "name" : "At-Takwir",
+    "arabic" : "التكوير",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "الإنفطار",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/082%20-%20Surat%20Al%20Infitar%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "total_verses" : 19,
+    "translation" : "The Cleaving",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Infitar",
+    "id" : 82,
+    "type" : "meccan"
+  },
+  {
+    "id" : 83,
+    "isDownloading" : false,
+    "arabic" : "المطففين",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/083%20-%20Surat%20Al%20Mutaffifin%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "downloadStatus" : 0,
+    "name" : "Al-Mutaffifin",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 36,
+    "translation" : "The Defrauding",
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Inshiqaq",
+    "id" : 84,
+    "time_array" : [
+
+    ],
+    "arabic" : "الإنشقاق",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/084%20-%20Surat%20Inshiqaq%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "translation" : "The Sundering",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 25
+  },
+  {
+    "type" : "meccan",
+    "arabic" : "البروج",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/085%20-%20Surat%20Al%20Burooj%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloaded" : false,
+    "name" : "Al-Burooj",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 85,
+    "time_array" : [
+
+    ],
+    "total_verses" : 22,
+    "translation" : "The Mansions of the Stars"
+  },
+  {
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/086%20-%20Surat%20At%20Tariq%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "translation" : "The Nightcommer",
+    "arabic" : "الطارق",
+    "id" : 86,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "At-Tariq",
+    "time_array" : [
+
+    ],
+    "total_verses" : 17,
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/087%20-%20Surat%20Al%20A_a%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Al-Ala",
+    "total_verses" : 19,
+    "downloadStatus" : 0,
+    "translation" : "The Most High",
+    "arabic" : "الأعلى",
+    "isDownloading" : false,
+    "id" : 87,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 88,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/088%20-%20Surat%20Al%20Ghashiyah%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Ghashiyah",
+    "time_array" : [
+
+    ],
+    "translation" : "The Overwhelming",
+    "arabic" : "الغاشية",
+    "total_verses" : 26
+  },
+  {
+    "id" : 89,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "total_verses" : 30,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/089%20-%20Surat%20Al%20Fajr%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "translation" : "The Dawn",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Al-Fajr",
+    "arabic" : "الفجر"
+  },
+  {
+    "arabic" : "البلد",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Balad",
+    "isDownloaded" : false,
+    "total_verses" : 20,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/090%20-%20Surat%20Al%20Balad%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "translation" : "The City",
+    "id" : 90
+  },
+  {
+    "total_verses" : 15,
+    "translation" : "The Sun",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "الشمس",
+    "isDownloading" : false,
+    "id" : 91,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/091%20-%20Surat%20Ash%20Shams%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloaded" : false,
+    "name" : "Ash-Shams",
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Al-Lail",
+    "total_verses" : 21,
+    "translation" : "The Night",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/092%20-%20Surat%20Al%20Layl%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "id" : 92,
+    "arabic" : "الليل",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Morning Hours",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 11,
+    "arabic" : "الضحى",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/093%20-%20Surat%20Al%20Duha%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "type" : "meccan",
+    "id" : 93,
+    "name" : "Ad-Dhuha"
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/094%20-%20Surat%20As%20Sharh%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 8,
+    "translation" : "The Relief",
+    "isDownloaded" : false,
+    "id" : 94,
+    "isDownloading" : false,
+    "name" : "Al-Inshirah",
+    "type" : "meccan",
+    "arabic" : "الشرح"
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Fig",
+    "arabic" : "التين",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/095%20-%20Surat%20At%20Tin%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "id" : 95,
+    "type" : "meccan",
+    "total_verses" : 8,
+    "name" : "At-Tin",
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "العلق",
+    "type" : "meccan",
+    "name" : "Al-Alaq",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/096%20-%20Surat%20Al%20Alaq%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "id" : 96,
+    "total_verses" : 19,
+    "translation" : "The Clot"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 97,
+    "arabic" : "القدر",
+    "name" : "Al-Qadr",
+    "type" : "meccan",
+    "total_verses" : 5,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/097%20-%20Surat%20Al%20Qadr%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Power"
+  },
+  {
+    "id" : 98,
+    "translation" : "The Clear Proof",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "arabic" : "البينة",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/098%20-%20Surat%20Al%20Bayyinah%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Al-Bayyina",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 8
+  },
+  {
+    "total_verses" : 8,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "الزلزلة",
+    "time_array" : [
+
+    ],
+    "translation" : "The Earthquake",
+    "name" : "Az-Zalzala",
+    "id" : 99,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/099%20-%20Surat%20Az%20Zalzalah%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3"
+  },
+  {
+    "arabic" : "العاديات",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "id" : 100,
+    "name" : "Al-Adiyat",
+    "type" : "meccan",
+    "translation" : "The Courser",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/100%20-%20Surat%20Al%20Adiyat%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "total_verses" : 11,
+    "isDownloaded" : false
+  },
+  {
+    "type" : "meccan",
+    "id" : 101,
+    "translation" : "The Calamity",
+    "isDownloading" : false,
+    "arabic" : "القارعة",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/101%20-%20Surat%20Al%20Qari_ah%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Al-Qaria",
+    "time_array" : [
+
+    ],
+    "total_verses" : 11
+  },
+  {
+    "arabic" : "التكاثر",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "At-Takathur",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/102%20-%20Surat%20At%20Takathur%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "translation" : "The Rivalry in world increase",
+    "type" : "meccan",
+    "id" : 102,
+    "total_verses" : 8
+  },
+  {
+    "translation" : "The Declining Day",
+    "isDownloaded" : false,
+    "total_verses" : 3,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Al-Asr",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/103%20-%20Surat%20Al%20Asr%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "arabic" : "العصر",
+    "id" : 103,
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/104%20-%20Surat%20Al%20Humazah%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "total_verses" : 9,
+    "translation" : "The Traducer",
+    "arabic" : "الهمزة",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Humaza",
+    "id" : 104,
+    "downloadStatus" : 0
+  },
+  {
+    "id" : 105,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/105%20-%20Surat%20Al%20Fil%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "arabic" : "الفيل",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Al-Fil",
+    "total_verses" : 5,
+    "translation" : "The Elephant",
+    "type" : "meccan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 106,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/106%20-%20Surat%20Quraish%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "translation" : "Quraysh",
+    "arabic" : "قريش",
+    "name" : "Quraysh",
+    "total_verses" : 4
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 7,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/107%20-%20Surat%20Al%20Ma_un%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "name" : "Al-Maun",
+    "id" : 107,
+    "isDownloading" : false,
+    "translation" : "The Small kindnesses",
+    "type" : "meccan",
+    "arabic" : "الماعون",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Kawthar",
+    "time_array" : [
+
+    ],
+    "translation" : "The Abundance",
+    "total_verses" : 3,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 108,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/108%20-%20Surat%20Al%20Kauthar%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "type" : "meccan",
+    "arabic" : "الكوثر",
+    "isDownloading" : false
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Al-Kafirun",
+    "id" : 109,
+    "translation" : "The Disbelievers",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 6,
+    "arabic" : "الكافرون",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/109%20-%20Surat%20Al%20Kafiroon%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3"
+  },
+  {
+    "arabic" : "النصر",
+    "total_verses" : 3,
+    "translation" : "The Divine Support",
+    "id" : 110,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/110%20-%20Surat%20An%20Nasr%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "An-Nasr"
+  },
+  {
+    "arabic" : "المسد",
+    "translation" : "The Palm Fiber",
+    "type" : "meccan",
+    "name" : "Al-Masad",
+    "total_verses" : 5,
+    "id" : 111,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/111%20-%20Surat%20Al%20Masad%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/112%20-%20Surat%20Al%20Ikhlas%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Sincerity",
+    "id" : 112,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "الإخلاص",
+    "total_verses" : 4,
+    "downloadStatus" : 0,
+    "name" : "Al-Ikhlas",
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Daybreak",
+    "arabic" : "الفلق",
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/113%20-%20Surat%20Al%20Falaq%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "id" : 113,
+    "type" : "meccan",
+    "name" : "Al-Falaq",
+    "total_verses" : 5
+  },
+  {
+    "total_verses" : 6,
+    "type" : "meccan",
+    "name" : "Al-Nas",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/sunna4u.com_Zaria/114%20-%20Surat%20An%20Nas%20-%20Sheikh%20Abdullahi%20Abba%20Zaria%20-%20sunna4u.com%20%20.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "الناس",
+    "id" : 114,
+    "translation" : "Mankind",
+    "isDownloaded" : false
+  }
+]
