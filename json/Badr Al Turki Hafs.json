@@ -1,0 +1,1712 @@
+[
+  {
+    "arabic" : "الفاتحة",
+    "isDownloading" : false,
+    "total_verses" : 7,
+    "downloadStatus" : 0,
+    "translation" : "The Opener",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Al-Fatiha",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/001.mp3",
+    "id" : 1,
+    "isDownloaded" : false
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "البقرة",
+    "total_verses" : 286,
+    "name" : "Al-Baqara",
+    "time_array" : [
+
+    ],
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/002.mp3",
+    "translation" : "The Cow",
+    "isDownloading" : false,
+    "id" : 2,
+    "type" : "medinan"
+  },
+  {
+    "translation" : "Family of Imran",
+    "name" : "Al Imran",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/003.mp3",
+    "arabic" : "آل عمران",
+    "total_verses" : 200,
+    "isDownloading" : false,
+    "id" : 3,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "The Women",
+    "total_verses" : 176,
+    "isDownloading" : false,
+    "id" : 4,
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/004.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "النساء",
+    "name" : "An-Nisa"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 5,
+    "name" : "Al-Maida",
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/005.mp3",
+    "total_verses" : 120,
+    "downloadStatus" : 0,
+    "arabic" : "المائدة",
+    "isDownloading" : false,
+    "translation" : "The Table Spread"
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Cattle",
+    "name" : "Al-Anam",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/006.mp3",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 6,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "total_verses" : 165,
+    "arabic" : "الأنعام"
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "الأعراف",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Al-Araf",
+    "total_verses" : 206,
+    "id" : 7,
+    "translation" : "The Heights",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/007.mp3"
+  },
+  {
+    "type" : "medinan",
+    "total_verses" : 75,
+    "arabic" : "الأنفال",
+    "isDownloaded" : false,
+    "translation" : "The Spoils of War",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 8,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/008.mp3",
+    "name" : "Al-Anfal",
+    "isDownloading" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 9,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/009.mp3",
+    "name" : "At-Tawba",
+    "total_verses" : 129,
+    "translation" : "The Repentance",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "arabic" : "التوبة"
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/010.mp3",
+    "total_verses" : 109,
+    "translation" : "Jonah",
+    "name" : "Yunus",
+    "id" : 10,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "arabic" : "يونس"
+  },
+  {
+    "name" : "Hud",
+    "time_array" : [
+
+    ],
+    "translation" : "Hud",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "هود",
+    "id" : 11,
+    "total_verses" : 123,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/011.mp3",
+    "isDownloading" : false,
+    "type" : "meccan"
+  },
+  {
+    "id" : 12,
+    "time_array" : [
+
+    ],
+    "total_verses" : 111,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Yusuf",
+    "arabic" : "يوسف",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/012.mp3",
+    "translation" : "Joseph",
+    "type" : "meccan",
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "الرعد",
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Ar-Rad",
+    "translation" : "The Thunder",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/013.mp3",
+    "id" : 13,
+    "downloadStatus" : 0,
+    "total_verses" : 43
+  },
+  {
+    "translation" : "Abraham",
+    "downloadStatus" : 0,
+    "name" : "Ibrahim",
+    "id" : 14,
+    "type" : "meccan",
+    "arabic" : "ابراهيم",
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/014.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 52
+  },
+  {
+    "translation" : "The Rocky Tract",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/015.mp3",
+    "name" : "Al-Hijr",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الحجر",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 99,
+    "id" : 15
+  },
+  {
+    "translation" : "The Bee",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "id" : 16,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "An-Nahl",
+    "arabic" : "النحل",
+    "total_verses" : 128,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/016.mp3",
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 111,
+    "downloadStatus" : 0,
+    "id" : 17,
+    "type" : "meccan",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/017.mp3",
+    "name" : "Al-Isra",
+    "translation" : "The Night Journey",
+    "arabic" : "الإسراء",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "الكهف",
+    "isDownloaded" : false,
+    "name" : "Al-Kahf",
+    "total_verses" : 110,
+    "translation" : "The Cave",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/018.mp3",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "id" : 18,
+    "isDownloading" : false
+  },
+  {
+    "id" : 19,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/019.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Maryam",
+    "translation" : "Mary",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "total_verses" : 98,
+    "arabic" : "مريم"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 135,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/020.mp3",
+    "arabic" : "طه",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Ta-Ha",
+    "id" : 20,
+    "translation" : "Ta-Ha",
+    "isDownloading" : false
+  },
+  {
+    "id" : 21,
+    "time_array" : [
+
+    ],
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/021.mp3",
+    "translation" : "The Prophets",
+    "downloadStatus" : 0,
+    "total_verses" : 112,
+    "arabic" : "الأنبياء",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "name" : "Al-Anbiya"
+  },
+  {
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/022.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الحج",
+    "time_array" : [
+
+    ],
+    "total_verses" : 78,
+    "name" : "Al-Hajj",
+    "translation" : "The Pilgrimage",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "id" : 22
+  },
+  {
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/023.mp3",
+    "total_verses" : 118,
+    "translation" : "The Believers",
+    "id" : 23,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "Al-Muminoon",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "المؤمنون"
+  },
+  {
+    "downloadStatus" : 0,
+    "total_verses" : 64,
+    "translation" : "The Light",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 24,
+    "arabic" : "النور",
+    "name" : "An-Nur",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/024.mp3"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 77,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/025.mp3",
+    "name" : "Al-Furqan",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 25,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "الفرقان",
+    "translation" : "The Criterion"
+  },
+  {
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/026.mp3",
+    "name" : "Ash-Shuara",
+    "downloadStatus" : 0,
+    "arabic" : "الشعراء",
+    "isDownloaded" : false,
+    "total_verses" : 227,
+    "translation" : "The Poets",
+    "isDownloading" : false,
+    "id" : 26,
+    "type" : "meccan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 93,
+    "name" : "An-Naml",
+    "type" : "meccan",
+    "arabic" : "النمل",
+    "translation" : "The Ant",
+    "id" : 27,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/027.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/028.mp3",
+    "arabic" : "القصص",
+    "name" : "Al-Qasas",
+    "total_verses" : 88,
+    "translation" : "The Stories",
+    "id" : 28,
+    "type" : "meccan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 29,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Spider",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/029.mp3",
+    "arabic" : "العنكبوت",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Ankabut",
+    "total_verses" : 69,
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/030.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "الروم",
+    "name" : "Ar-Rum",
+    "translation" : "The Romans",
+    "total_verses" : 60,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 30,
+    "isDownloading" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 34,
+    "translation" : "Luqman",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "arabic" : "لقمان",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/031.mp3",
+    "name" : "Luqman",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 31
+  },
+  {
+    "name" : "As-Sajda",
+    "arabic" : "السجدة",
+    "total_verses" : 30,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "id" : 32,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/032.mp3",
+    "translation" : "The Prostration",
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Combined Forces",
+    "name" : "Al-Ahzab",
+    "total_verses" : 73,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "arabic" : "الأحزاب",
+    "id" : 33,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/033.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/034.mp3",
+    "isDownloaded" : false,
+    "arabic" : "سبإ",
+    "id" : 34,
+    "isDownloading" : false,
+    "name" : "Saba",
+    "translation" : "Sheba",
+    "total_verses" : 54,
+    "type" : "meccan"
+  },
+  {
+    "id" : 35,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/035.mp3",
+    "name" : "Fatir",
+    "total_verses" : 45,
+    "arabic" : "فاطر",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "Originator",
+    "type" : "meccan"
+  },
+  {
+    "id" : 36,
+    "time_array" : [
+
+    ],
+    "arabic" : "يس",
+    "isDownloaded" : false,
+    "translation" : "Ya Sin",
+    "type" : "meccan",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/036.mp3",
+    "downloadStatus" : 0,
+    "name" : "Ya Sin",
+    "isDownloading" : false,
+    "total_verses" : 83
+  },
+  {
+    "type" : "meccan",
+    "arabic" : "الصافات",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "As-Saaffat",
+    "time_array" : [
+
+    ],
+    "total_verses" : 182,
+    "downloadStatus" : 0,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/037.mp3",
+    "translation" : "Those who set the Ranks",
+    "id" : 37
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/038.mp3",
+    "name" : "Sad",
+    "arabic" : "ص",
+    "type" : "meccan",
+    "translation" : "The Letter Saad",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 88,
+    "id" : 38
+  },
+  {
+    "isDownloading" : false,
+    "id" : 39,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/039.mp3",
+    "name" : "Az-Zumar",
+    "downloadStatus" : 0,
+    "arabic" : "الزمر",
+    "total_verses" : 75,
+    "translation" : "The Troops",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "The Forgiver",
+    "id" : 40,
+    "isDownloading" : false,
+    "arabic" : "غافر",
+    "downloadStatus" : 0,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/040.mp3",
+    "type" : "meccan",
+    "total_verses" : 85,
+    "name" : "Ghafir",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 41,
+    "type" : "meccan",
+    "arabic" : "فصلت",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/041.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 54,
+    "translation" : "Explained in Detail",
+    "name" : "Fussilat"
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Consultation",
+    "arabic" : "الشورى",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 42,
+    "isDownloading" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/042.mp3",
+    "name" : "Ash-Shura",
+    "total_verses" : 53
+  },
+  {
+    "translation" : "The Ornaments of Gold",
+    "isDownloading" : false,
+    "id" : 43,
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/043.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 89,
+    "arabic" : "الزخرف",
+    "name" : "Az-Zukhruf",
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "الدخان",
+    "name" : "Ad-Dukhan",
+    "time_array" : [
+
+    ],
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/044.mp3",
+    "id" : 44,
+    "total_verses" : 59,
+    "type" : "meccan",
+    "translation" : "The Smoke",
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/045.mp3",
+    "name" : "Al-Jathiya",
+    "time_array" : [
+
+    ],
+    "total_verses" : 37,
+    "type" : "meccan",
+    "translation" : "The Crouching",
+    "id" : 45,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "الجاثية",
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 35,
+    "isDownloaded" : false,
+    "id" : 46,
+    "isDownloading" : false,
+    "name" : "Al-Ahqaf",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/046.mp3",
+    "translation" : "The Wind-Curved Sandhills",
+    "arabic" : "الأحقاف",
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/047.mp3",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "name" : "Muhammad",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "arabic" : "محمد",
+    "total_verses" : 38,
+    "translation" : "Muhammad",
+    "id" : 47,
+    "isDownloading" : false
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 29,
+    "downloadStatus" : 0,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/048.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Fath",
+    "translation" : "The Victory",
+    "id" : 48,
+    "type" : "medinan",
+    "arabic" : "الفتح"
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/049.mp3",
+    "id" : 49,
+    "name" : "Al-Hujurat",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Rooms",
+    "total_verses" : 18,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "arabic" : "الحجرات"
+  },
+  {
+    "id" : 50,
+    "translation" : "The Letter Qaf",
+    "total_verses" : 45,
+    "arabic" : "ق",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/050.mp3",
+    "isDownloading" : false,
+    "name" : "Qaf",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 60,
+    "translation" : "The Winnowing Winds",
+    "name" : "Adh-Dhariyat",
+    "time_array" : [
+
+    ],
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/051.mp3",
+    "type" : "meccan",
+    "arabic" : "الذاريات",
+    "id" : 51,
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/052.mp3",
+    "name" : "At-Tur",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "translation" : "The Mount",
+    "arabic" : "الطور",
+    "type" : "meccan",
+    "id" : 52,
+    "total_verses" : 49,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "An-Najm",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "translation" : "The Star",
+    "isDownloading" : false,
+    "id" : 53,
+    "downloadStatus" : 0,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/053.mp3",
+    "total_verses" : 62,
+    "arabic" : "النجم"
+  },
+  {
+    "type" : "meccan",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Qamar",
+    "arabic" : "القمر",
+    "id" : 54,
+    "total_verses" : 55,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/054.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Moon"
+  },
+  {
+    "total_verses" : 78,
+    "type" : "medinan",
+    "arabic" : "الرحمن",
+    "downloadStatus" : 0,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/055.mp3",
+    "isDownloading" : false,
+    "name" : "Ar-Rahman",
+    "time_array" : [
+
+    ],
+    "id" : 55,
+    "translation" : "The Beneficent",
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/056.mp3",
+    "total_verses" : 96,
+    "arabic" : "الواقعة",
+    "name" : "Al-Waqia",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Inevitable",
+    "id" : 56
+  },
+  {
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "الحديد",
+    "name" : "Al-Hadid",
+    "total_verses" : 29,
+    "isDownloading" : false,
+    "translation" : "The Iron",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/057.mp3",
+    "id" : 57,
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Pleading Woman",
+    "arabic" : "المجادلة",
+    "total_verses" : 22,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 58,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/058.mp3",
+    "name" : "Al-Mujadila",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "type" : "medinan"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "الحشر",
+    "time_array" : [
+
+    ],
+    "id" : 59,
+    "name" : "Al-Hashr",
+    "isDownloading" : false,
+    "total_verses" : 24,
+    "translation" : "The Exile",
+    "type" : "medinan",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/059.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "id" : 60,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "total_verses" : 13,
+    "arabic" : "الممتحنة",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/060.mp3",
+    "translation" : "She that is to be examined",
+    "downloadStatus" : 0,
+    "name" : "Al-Mumtahina",
+    "isDownloaded" : false
+  },
+  {
+    "id" : 61,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "total_verses" : 14,
+    "translation" : "The Ranks",
+    "arabic" : "الصف",
+    "downloadStatus" : 0,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/061.mp3",
+    "name" : "As-Saff"
+  },
+  {
+    "total_verses" : 11,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/062.mp3",
+    "type" : "medinan",
+    "translation" : "The Congregation, Friday",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "Al-Jumua",
+    "arabic" : "الجمعة",
+    "downloadStatus" : 0,
+    "id" : 62
+  },
+  {
+    "arabic" : "المنافقون",
+    "downloadStatus" : 0,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/063.mp3",
+    "name" : "Al-Munafiqun",
+    "total_verses" : 11,
+    "translation" : "The Hypocrites",
+    "isDownloaded" : false,
+    "id" : 63,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 18,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/064.mp3",
+    "id" : 64,
+    "translation" : "The Mutual Disillusion",
+    "time_array" : [
+
+    ],
+    "arabic" : "التغابن",
+    "isDownloading" : false,
+    "name" : "At-Taghabun",
+    "type" : "medinan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 12,
+    "translation" : "The Divorce",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "arabic" : "الطلاق",
+    "name" : "At-Talaq",
+    "id" : 65,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/065.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "type" : "medinan",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/066.mp3",
+    "id" : 66,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 12,
+    "translation" : "The Prohibition",
+    "arabic" : "التحريم",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "At-Tahrim"
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 67,
+    "name" : "Al-Mulk",
+    "time_array" : [
+
+    ],
+    "translation" : "The Sovereignty",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/067.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الملك",
+    "total_verses" : 30,
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/068.mp3",
+    "isDownloading" : false,
+    "translation" : "The Pen",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 68,
+    "name" : "Al-Qalam",
+    "time_array" : [
+
+    ],
+    "total_verses" : 52,
+    "arabic" : "القلم",
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "الحاقة",
+    "isDownloading" : false,
+    "translation" : "The Reality",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/069.mp3",
+    "id" : 69,
+    "name" : "Al-Haaqqa",
+    "downloadStatus" : 0,
+    "total_verses" : 52,
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "المعارج",
+    "id" : 70,
+    "total_verses" : 44,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/070.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Ascending Stairways",
+    "name" : "Al-Maarij"
+  },
+  {
+    "arabic" : "نوح",
+    "id" : 71,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/071.mp3",
+    "isDownloading" : false,
+    "translation" : "Noah",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Nuh",
+    "total_verses" : 28,
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Jinn",
+    "type" : "meccan",
+    "id" : 72,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/072.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Jinn",
+    "arabic" : "الجن",
+    "total_verses" : 28,
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "المزمل",
+    "translation" : "The Enshrouded One",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/073.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "total_verses" : 20,
+    "name" : "Al-Muzzammil",
+    "id" : 73
+  },
+  {
+    "isDownloading" : false,
+    "id" : 74,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/074.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Cloaked One",
+    "name" : "Al-Muddathir",
+    "total_verses" : 56,
+    "downloadStatus" : 0,
+    "arabic" : "المدثر",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "القيامة",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/075.mp3",
+    "id" : 75,
+    "name" : "Al-Qiyama",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 40,
+    "translation" : "The Resurrection",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 31,
+    "id" : 76,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "name" : "Al-Insan",
+    "arabic" : "الانسان",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/076.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Man"
+  },
+  {
+    "total_verses" : 50,
+    "arabic" : "المرسلات",
+    "id" : 77,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "name" : "Al-Mursalat",
+    "time_array" : [
+
+    ],
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/077.mp3",
+    "translation" : "The Emissaries",
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "النبإ",
+    "isDownloaded" : false,
+    "total_verses" : 40,
+    "translation" : "The Tidings",
+    "name" : "An-Naba",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/078.mp3",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "id" : 78,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "An-Naziat",
+    "downloadStatus" : 0,
+    "id" : 79,
+    "isDownloaded" : false,
+    "total_verses" : 46,
+    "type" : "meccan",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/079.mp3",
+    "isDownloading" : false,
+    "translation" : "Those who drag forth",
+    "arabic" : "النازعات",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "He Frowned",
+    "total_verses" : 42,
+    "type" : "meccan",
+    "arabic" : "عبس",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/080.mp3",
+    "id" : 80,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "Abasa"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 81,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/081.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Overthrowing",
+    "downloadStatus" : 0,
+    "arabic" : "التكوير",
+    "name" : "At-Takwir",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 29
+  },
+  {
+    "total_verses" : 19,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الإنفطار",
+    "isDownloading" : false,
+    "id" : 82,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/082.mp3",
+    "isDownloaded" : false,
+    "name" : "Al-Infitar",
+    "time_array" : [
+
+    ],
+    "translation" : "The Cleaving"
+  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Defrauding",
+    "type" : "meccan",
+    "arabic" : "المطففين",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Mutaffifin",
+    "total_verses" : 36,
+    "id" : 83,
+    "isDownloading" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/083.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "id" : 84,
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/084.mp3",
+    "total_verses" : 25,
+    "translation" : "The Sundering",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الإنشقاق",
+    "name" : "Al-Inshiqaq"
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 22,
+    "type" : "meccan",
+    "id" : 85,
+    "name" : "Al-Burooj",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The Mansions of the Stars",
+    "arabic" : "البروج",
+    "isDownloading" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/085.mp3"
+  },
+  {
+    "arabic" : "الطارق",
+    "name" : "At-Tariq",
+    "total_verses" : 17,
+    "type" : "meccan",
+    "id" : 86,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Nightcommer",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/086.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "translation" : "The Most High",
+    "time_array" : [
+
+    ],
+    "arabic" : "الأعلى",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 19,
+    "type" : "meccan",
+    "id" : 87,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/087.mp3",
+    "name" : "Al-Ala"
+  },
+  {
+    "arabic" : "الغاشية",
+    "translation" : "The Overwhelming",
+    "isDownloaded" : false,
+    "total_verses" : 26,
+    "name" : "Al-Ghashiyah",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "id" : 88,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/088.mp3",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Fajr",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 30,
+    "isDownloading" : false,
+    "translation" : "The Dawn",
+    "arabic" : "الفجر",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/089.mp3",
+    "id" : 89
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/090.mp3",
+    "downloadStatus" : 0,
+    "total_verses" : 20,
+    "translation" : "The City",
+    "time_array" : [
+
+    ],
+    "id" : 90,
+    "arabic" : "البلد",
+    "name" : "Al-Balad",
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "name" : "Ash-Shams",
+    "id" : 91,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/091.mp3",
+    "isDownloading" : false,
+    "total_verses" : 15,
+    "downloadStatus" : 0,
+    "arabic" : "الشمس",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "The Sun",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "id" : 92,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/092.mp3",
+    "name" : "Al-Lail",
+    "translation" : "The Night",
+    "arabic" : "الليل",
+    "total_verses" : 21,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 11,
+    "name" : "Ad-Dhuha",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "translation" : "The Morning Hours",
+    "isDownloading" : false,
+    "id" : 93,
+    "arabic" : "الضحى",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/093.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "الشرح",
+    "translation" : "The Relief",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Al-Inshirah",
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/094.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "id" : 94,
+    "total_verses" : 8
+  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Fig",
+    "time_array" : [
+
+    ],
+    "arabic" : "التين",
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/095.mp3",
+    "isDownloading" : false,
+    "name" : "At-Tin",
+    "type" : "meccan",
+    "id" : 95,
+    "total_verses" : 8
+  },
+  {
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 96,
+    "name" : "Al-Alaq",
+    "time_array" : [
+
+    ],
+    "total_verses" : 19,
+    "isDownloaded" : false,
+    "translation" : "The Clot",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/096.mp3",
+    "arabic" : "العلق",
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 97,
+    "total_verses" : 5,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/097.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Power",
+    "isDownloaded" : false,
+    "name" : "Al-Qadr",
+    "arabic" : "القدر",
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Clear Proof",
+    "id" : 98,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/098.mp3",
+    "total_verses" : 8,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "name" : "Al-Bayyina",
+    "downloadStatus" : 0,
+    "arabic" : "البينة",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false
+  },
+  {
+    "type" : "medinan",
+    "arabic" : "الزلزلة",
+    "translation" : "The Earthquake",
+    "isDownloaded" : false,
+    "id" : 99,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Az-Zalzala",
+    "total_verses" : 8,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/099.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 100,
+    "time_array" : [
+
+    ],
+    "translation" : "The Courser",
+    "name" : "Al-Adiyat",
+    "downloadStatus" : 0,
+    "arabic" : "العاديات",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/100.mp3",
+    "total_verses" : 11
+  },
+  {
+    "translation" : "The Calamity",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/101.mp3",
+    "total_verses" : 11,
+    "id" : 101,
+    "name" : "Al-Qaria",
+    "time_array" : [
+
+    ],
+    "arabic" : "القارعة"
+  },
+  {
+    "type" : "meccan",
+    "name" : "At-Takathur",
+    "total_verses" : 8,
+    "id" : 102,
+    "translation" : "The Rivalry in world increase",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "التكاثر",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/102.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 3,
+    "type" : "meccan",
+    "arabic" : "العصر",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/103.mp3",
+    "name" : "Al-Asr",
+    "translation" : "The Declining Day",
+    "id" : 103
+  },
+  {
+    "translation" : "The Traducer",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Humaza",
+    "isDownloaded" : false,
+    "arabic" : "الهمزة",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/104.mp3",
+    "isDownloading" : false,
+    "id" : 104,
+    "downloadStatus" : 0,
+    "total_verses" : 9
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 5,
+    "time_array" : [
+
+    ],
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/105.mp3",
+    "translation" : "The Elephant",
+    "type" : "meccan",
+    "id" : 105,
+    "arabic" : "الفيل",
+    "isDownloaded" : false,
+    "name" : "Al-Fil"
+  },
+  {
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/106.mp3",
+    "isDownloading" : false,
+    "name" : "Quraysh",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 4,
+    "arabic" : "قريش",
+    "id" : 106,
+    "translation" : "Quraysh",
+    "type" : "meccan",
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "الماعون",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Al-Maun",
+    "time_array" : [
+
+    ],
+    "total_verses" : 7,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "translation" : "The Small kindnesses",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/107.mp3",
+    "id" : 107
+  },
+  {
+    "name" : "Al-Kawthar",
+    "time_array" : [
+
+    ],
+    "translation" : "The Abundance",
+    "isDownloading" : false,
+    "arabic" : "الكوثر",
+    "id" : 108,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "total_verses" : 3,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/108.mp3"
+  },
+  {
+    "total_verses" : 6,
+    "arabic" : "الكافرون",
+    "isDownloaded" : false,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/109.mp3",
+    "id" : 109,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Kafirun",
+    "time_array" : [
+
+    ],
+    "translation" : "The Disbelievers",
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 110,
+    "translation" : "The Divine Support",
+    "total_verses" : 3,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "arabic" : "النصر",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/110.mp3",
+    "name" : "An-Nasr"
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "name" : "Al-Masad",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/111.mp3",
+    "translation" : "The Palm Fiber",
+    "downloadStatus" : 0,
+    "total_verses" : 5,
+    "arabic" : "المسد",
+    "id" : 111
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "الإخلاص",
+    "total_verses" : 4,
+    "translation" : "The Sincerity",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 112,
+    "isDownloading" : false,
+    "name" : "Al-Ikhlas",
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/112.mp3"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 113,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/113.mp3",
+    "isDownloading" : false,
+    "total_verses" : 5,
+    "isDownloaded" : false,
+    "name" : "Al-Falaq",
+    "arabic" : "الفلق",
+    "translation" : "The Daybreak"
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/114.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 114,
+    "isDownloaded" : false,
+    "name" : "Al-Nas",
+    "total_verses" : 6,
+    "arabic" : "الناس",
+    "translation" : "Mankind",
+    "isDownloading" : false
+  }
+]

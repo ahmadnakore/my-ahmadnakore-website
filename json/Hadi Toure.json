@@ -1,0 +1,1712 @@
+[
+  {
+    "name" : "Al-Fatiha",
+    "isDownloaded" : false,
+    "total_verses" : 7,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الفاتحة",
+    "id" : 1,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/001.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Opener"
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Al-Baqara",
+    "arabic" : "البقرة",
+    "id" : 2,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/002.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "medinan",
+    "total_verses" : 286,
+    "translation" : "The Cow"
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 200,
+    "arabic" : "آل عمران",
+    "name" : "Al Imran",
+    "id" : 3,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/003.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "Family of Imran",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 176,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "An-Nisa",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/004.mp3",
+    "translation" : "The Women",
+    "arabic" : "النساء",
+    "id" : 4
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "Al-Maida",
+    "total_verses" : 120,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/005.mp3",
+    "downloadStatus" : 0,
+    "id" : 5,
+    "isDownloading" : false,
+    "arabic" : "المائدة",
+    "translation" : "The Table Spread",
+    "type" : "medinan"
+  },
+  {
+    "name" : "Al-Anam",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/006.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 6,
+    "arabic" : "الأنعام",
+    "translation" : "The Cattle",
+    "time_array" : [
+
+    ],
+    "total_verses" : 165,
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 206,
+    "id" : 7,
+    "arabic" : "الأعراف",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/007.mp3",
+    "translation" : "The Heights",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Al-Araf"
+  },
+  {
+    "translation" : "The Spoils of War",
+    "id" : 8,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/008.mp3",
+    "isDownloaded" : false,
+    "total_verses" : 75,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Anfal",
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "arabic" : "الأنفال"
+  },
+  {
+    "total_verses" : 129,
+    "name" : "At-Tawba",
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "arabic" : "التوبة",
+    "time_array" : [
+
+    ],
+    "translation" : "The Repentance",
+    "isDownloading" : false,
+    "id" : 9,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/009.mp3"
+  },
+  {
+    "translation" : "Jonah",
+    "arabic" : "يونس",
+    "type" : "meccan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/010.mp3",
+    "id" : 10,
+    "isDownloading" : false,
+    "name" : "Yunus",
+    "total_verses" : 109,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "total_verses" : 123,
+    "type" : "meccan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/011.mp3",
+    "name" : "Hud",
+    "time_array" : [
+
+    ],
+    "id" : 11,
+    "translation" : "Hud",
+    "isDownloading" : false,
+    "arabic" : "هود",
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "يوسف",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 111,
+    "name" : "Yusuf",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "translation" : "Joseph",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/012.mp3",
+    "id" : 12,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 43,
+    "isDownloaded" : false,
+    "translation" : "The Thunder",
+    "type" : "medinan",
+    "arabic" : "الرعد",
+    "isDownloading" : false,
+    "name" : "Ar-Rad",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/013.mp3",
+    "downloadStatus" : 0,
+    "id" : 13
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 14,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/014.mp3",
+    "isDownloaded" : false,
+    "arabic" : "ابراهيم",
+    "time_array" : [
+
+    ],
+    "total_verses" : 52,
+    "name" : "Ibrahim",
+    "translation" : "Abraham",
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 15,
+    "name" : "Al-Hijr",
+    "time_array" : [
+
+    ],
+    "translation" : "The Rocky Tract",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/015.mp3",
+    "total_verses" : 99,
+    "arabic" : "الحجر"
+  },
+  {
+    "arabic" : "النحل",
+    "name" : "An-Nahl",
+    "translation" : "The Bee",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/016.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 128,
+    "id" : 16,
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 17,
+    "arabic" : "الإسراء",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/017.mp3",
+    "downloadStatus" : 0,
+    "name" : "Al-Isra",
+    "time_array" : [
+
+    ],
+    "translation" : "The Night Journey",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 111
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 18,
+    "isDownloading" : false,
+    "arabic" : "الكهف",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/018.mp3",
+    "total_verses" : 110,
+    "translation" : "The Cave",
+    "type" : "meccan",
+    "name" : "Al-Kahf"
+  },
+  {
+    "name" : "Maryam",
+    "isDownloaded" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/019.mp3",
+    "total_verses" : 98,
+    "id" : 19,
+    "time_array" : [
+
+    ],
+    "translation" : "Mary",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "مريم"
+  },
+  {
+    "arabic" : "طه",
+    "name" : "Ta-Ha",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "id" : 20,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/020.mp3",
+    "total_verses" : 135,
+    "time_array" : [
+
+    ],
+    "translation" : "Ta-Ha",
+    "downloadStatus" : 0,
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "الأنبياء",
+    "name" : "Al-Anbiya",
+    "total_verses" : 112,
+    "translation" : "The Prophets",
+    "isDownloading" : false,
+    "id" : 21,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/021.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 22,
+    "arabic" : "الحج",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "medinan",
+    "total_verses" : 78,
+    "name" : "Al-Hajj",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/022.mp3",
+    "translation" : "The Pilgrimage",
+    "downloadStatus" : 0
+  },
+  {
+    "id" : 23,
+    "arabic" : "المؤمنون",
+    "translation" : "The Believers",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "name" : "Al-Muminoon",
+    "time_array" : [
+
+    ],
+    "total_verses" : 118,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/023.mp3"
+  },
+  {
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/024.mp3",
+    "downloadStatus" : 0,
+    "id" : 24,
+    "total_verses" : 64,
+    "isDownloading" : false,
+    "name" : "An-Nur",
+    "translation" : "The Light",
+    "isDownloaded" : false,
+    "arabic" : "النور",
+    "type" : "medinan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Furqan",
+    "isDownloading" : false,
+    "id" : 25,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 77,
+    "translation" : "The Criterion",
+    "isDownloaded" : false,
+    "arabic" : "الفرقان",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/025.mp3",
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/026.mp3",
+    "name" : "Ash-Shuara",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 227,
+    "id" : 26,
+    "translation" : "The Poets",
+    "downloadStatus" : 0,
+    "arabic" : "الشعراء",
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/027.mp3",
+    "name" : "An-Naml",
+    "translation" : "The Ant",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "total_verses" : 93,
+    "arabic" : "النمل",
+    "id" : 27
+  },
+  {
+    "arabic" : "القصص",
+    "isDownloaded" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/028.mp3",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "total_verses" : 88,
+    "translation" : "The Stories",
+    "time_array" : [
+
+    ],
+    "id" : 28,
+    "name" : "Al-Qasas",
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/029.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 29,
+    "arabic" : "العنكبوت",
+    "name" : "Al-Ankabut",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "translation" : "The Spider",
+    "type" : "meccan",
+    "total_verses" : 69
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 30,
+    "isDownloaded" : false,
+    "total_verses" : 60,
+    "downloadStatus" : 0,
+    "arabic" : "الروم",
+    "translation" : "The Romans",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/030.mp3",
+    "name" : "Ar-Rum",
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "لقمان",
+    "isDownloaded" : false,
+    "name" : "Luqman",
+    "total_verses" : 34,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/031.mp3",
+    "downloadStatus" : 0,
+    "id" : 31,
+    "translation" : "Luqman"
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/032.mp3",
+    "arabic" : "السجدة",
+    "name" : "As-Sajda",
+    "translation" : "The Prostration",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 30,
+    "id" : 32
+  },
+  {
+    "name" : "Al-Ahzab",
+    "arabic" : "الأحزاب",
+    "id" : 33,
+    "isDownloaded" : false,
+    "total_verses" : 73,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/033.mp3",
+    "translation" : "The Combined Forces"
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/034.mp3",
+    "total_verses" : 54,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 34,
+    "arabic" : "سبإ",
+    "translation" : "Sheba",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Saba"
+  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "Originator",
+    "name" : "Fatir",
+    "id" : 35,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/035.mp3",
+    "type" : "meccan",
+    "arabic" : "فاطر",
+    "isDownloaded" : false,
+    "total_verses" : 45
+  },
+  {
+    "translation" : "Ya Sin",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 83,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/036.mp3",
+    "name" : "Ya Sin",
+    "time_array" : [
+
+    ],
+    "id" : 36,
+    "arabic" : "يس"
+  },
+  {
+    "translation" : "Those who set the Ranks",
+    "type" : "meccan",
+    "id" : 37,
+    "arabic" : "الصافات",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/037.mp3",
+    "name" : "As-Saaffat",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 182,
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/038.mp3",
+    "name" : "Sad",
+    "translation" : "The Letter Saad",
+    "total_verses" : 88,
+    "type" : "meccan",
+    "arabic" : "ص",
+    "id" : 38,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "الزمر",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/039.mp3",
+    "name" : "Az-Zumar",
+    "total_verses" : 75,
+    "translation" : "The Troops",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "id" : 39
+  },
+  {
+    "arabic" : "غافر",
+    "isDownloading" : false,
+    "translation" : "The Forgiver",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "name" : "Ghafir",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/040.mp3",
+    "total_verses" : 85,
+    "id" : 40
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Fussilat",
+    "id" : 41,
+    "isDownloaded" : false,
+    "total_verses" : 54,
+    "time_array" : [
+
+    ],
+    "translation" : "Explained in Detail",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/041.mp3",
+    "arabic" : "فصلت"
+  },
+  {
+    "name" : "Ash-Shura",
+    "translation" : "The Consultation",
+    "total_verses" : 53,
+    "isDownloading" : false,
+    "arabic" : "الشورى",
+    "downloadStatus" : 0,
+    "id" : 42,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/042.mp3"
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/043.mp3",
+    "name" : "Az-Zukhruf",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 43,
+    "time_array" : [
+
+    ],
+    "total_verses" : 89,
+    "type" : "meccan",
+    "translation" : "The Ornaments of Gold",
+    "arabic" : "الزخرف"
+  },
+  {
+    "translation" : "The Smoke",
+    "arabic" : "الدخان",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 44,
+    "type" : "meccan",
+    "total_verses" : 59,
+    "name" : "Ad-Dukhan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/044.mp3"
+  },
+  {
+    "translation" : "The Crouching",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Jathiya",
+    "arabic" : "الجاثية",
+    "time_array" : [
+
+    ],
+    "total_verses" : 37,
+    "type" : "meccan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/045.mp3",
+    "id" : 45
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 46,
+    "arabic" : "الأحقاف",
+    "translation" : "The Wind-Curved Sandhills",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/046.mp3",
+    "total_verses" : 35,
+    "name" : "Al-Ahqaf"
+  },
+  {
+    "translation" : "Muhammad",
+    "name" : "Muhammad",
+    "id" : 47,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "محمد",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/047.mp3",
+    "total_verses" : 38,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 48,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/048.mp3",
+    "translation" : "The Victory",
+    "arabic" : "الفتح",
+    "name" : "Al-Fath",
+    "downloadStatus" : 0,
+    "total_verses" : 29,
+    "type" : "medinan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Al-Hujurat",
+    "id" : 49,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "total_verses" : 18,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Rooms",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/049.mp3",
+    "arabic" : "الحجرات"
+  },
+  {
+    "total_verses" : 45,
+    "arabic" : "ق",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/050.mp3",
+    "isDownloading" : false,
+    "id" : 50,
+    "translation" : "The Letter Qaf",
+    "name" : "Qaf",
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "arabic" : "الذاريات",
+    "translation" : "The Winnowing Winds",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/051.mp3",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 51,
+    "isDownloading" : false,
+    "total_verses" : 60,
+    "name" : "Adh-Dhariyat"
+  },
+  {
+    "id" : 52,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "At-Tur",
+    "translation" : "The Mount",
+    "downloadStatus" : 0,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/052.mp3",
+    "arabic" : "الطور",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 49
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "النجم",
+    "id" : 53,
+    "translation" : "The Star",
+    "type" : "meccan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/053.mp3",
+    "name" : "An-Najm",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 62
+  },
+  {
+    "id" : 54,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 55,
+    "type" : "meccan",
+    "name" : "Al-Qamar",
+    "isDownloaded" : false,
+    "translation" : "The Moon",
+    "arabic" : "القمر",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/054.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Beneficent",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "arabic" : "الرحمن",
+    "total_verses" : 78,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/055.mp3",
+    "name" : "Ar-Rahman",
+    "id" : 55
+  },
+  {
+    "total_verses" : 96,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/056.mp3",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "id" : 56,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "الواقعة",
+    "downloadStatus" : 0,
+    "translation" : "The Inevitable",
+    "name" : "Al-Waqia"
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 29,
+    "translation" : "The Iron",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "name" : "Al-Hadid",
+    "id" : 57,
+    "arabic" : "الحديد",
+    "isDownloaded" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/057.mp3"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "المجادلة",
+    "isDownloaded" : false,
+    "name" : "Al-Mujadila",
+    "id" : 58,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/058.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Pleading Woman",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "total_verses" : 22
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 24,
+    "type" : "medinan",
+    "translation" : "The Exile",
+    "id" : 59,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/059.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Al-Hashr",
+    "arabic" : "الحشر"
+  },
+  {
+    "id" : 60,
+    "total_verses" : 13,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "translation" : "She that is to be examined",
+    "arabic" : "الممتحنة",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/060.mp3",
+    "type" : "medinan",
+    "name" : "Al-Mumtahina"
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 14,
+    "time_array" : [
+
+    ],
+    "name" : "As-Saff",
+    "id" : 61,
+    "arabic" : "الصف",
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/061.mp3",
+    "isDownloaded" : false,
+    "translation" : "The Ranks"
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Congregation, Friday",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/062.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 11,
+    "id" : 62,
+    "arabic" : "الجمعة",
+    "isDownloaded" : false,
+    "name" : "Al-Jumua",
+    "type" : "medinan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "arabic" : "المنافقون",
+    "isDownloaded" : false,
+    "id" : 63,
+    "type" : "medinan",
+    "name" : "Al-Munafiqun",
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/063.mp3",
+    "total_verses" : 11,
+    "downloadStatus" : 0,
+    "translation" : "The Hypocrites"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "التغابن",
+    "total_verses" : 18,
+    "isDownloading" : false,
+    "translation" : "The Mutual Disillusion",
+    "type" : "medinan",
+    "name" : "At-Taghabun",
+    "id" : 64,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/064.mp3"
+  },
+  {
+    "name" : "At-Talaq",
+    "downloadStatus" : 0,
+    "total_verses" : 12,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/065.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Divorce",
+    "isDownloading" : false,
+    "id" : 65,
+    "arabic" : "الطلاق",
+    "type" : "medinan"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "التحريم",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "total_verses" : 12,
+    "time_array" : [
+
+    ],
+    "translation" : "The Prohibition",
+    "id" : 66,
+    "downloadStatus" : 0,
+    "name" : "At-Tahrim",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/066.mp3"
+  },
+  {
+    "name" : "Al-Mulk",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/067.mp3",
+    "arabic" : "الملك",
+    "total_verses" : 30,
+    "id" : 67,
+    "translation" : "The Sovereignty",
+    "type" : "meccan",
+    "downloadStatus" : 0
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 68,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/068.mp3",
+    "name" : "Al-Qalam",
+    "isDownloaded" : false,
+    "arabic" : "القلم",
+    "total_verses" : 52,
+    "translation" : "The Pen",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "الحاقة",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/069.mp3",
+    "name" : "Al-Haaqqa",
+    "time_array" : [
+
+    ],
+    "total_verses" : 52,
+    "id" : 69,
+    "type" : "meccan",
+    "translation" : "The Reality",
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Al-Maarij",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/070.mp3",
+    "arabic" : "المعارج",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 70,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 44,
+    "translation" : "The Ascending Stairways",
+    "type" : "meccan"
+  },
+  {
+    "id" : 71,
+    "type" : "meccan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/071.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 28,
+    "translation" : "Noah",
+    "arabic" : "نوح",
+    "isDownloaded" : false,
+    "name" : "Nuh",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "الجن",
+    "id" : 72,
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/072.mp3",
+    "name" : "Al-Jinn",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 28,
+    "translation" : "The Jinn",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "المزمل",
+    "total_verses" : 20,
+    "translation" : "The Enshrouded One",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 73,
+    "isDownloading" : false,
+    "name" : "Al-Muzzammil",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/073.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Cloaked One",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/074.mp3",
+    "total_verses" : 56,
+    "arabic" : "المدثر",
+    "id" : 74,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Al-Muddathir"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "id" : 75,
+    "arabic" : "القيامة",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 40,
+    "name" : "Al-Qiyama",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/075.mp3",
+    "translation" : "The Resurrection",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "id" : 76,
+    "arabic" : "الانسان",
+    "isDownloaded" : false,
+    "name" : "Al-Insan",
+    "total_verses" : 31,
+    "time_array" : [
+
+    ],
+    "translation" : "The Man",
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/076.mp3"
+  },
+  {
+    "total_verses" : 50,
+    "type" : "meccan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/077.mp3",
+    "isDownloaded" : false,
+    "translation" : "The Emissaries",
+    "id" : 77,
+    "downloadStatus" : 0,
+    "name" : "Al-Mursalat",
+    "time_array" : [
+
+    ],
+    "arabic" : "المرسلات",
+    "isDownloading" : false
+  },
+  {
+    "name" : "An-Naba",
+    "time_array" : [
+
+    ],
+    "total_verses" : 40,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/078.mp3",
+    "translation" : "The Tidings",
+    "id" : 78,
+    "arabic" : "النبإ",
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "id" : 79,
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/079.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "Those who drag forth",
+    "total_verses" : 46,
+    "name" : "An-Naziat",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "arabic" : "النازعات",
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Abasa",
+    "total_verses" : 42,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/080.mp3",
+    "id" : 80,
+    "translation" : "He Frowned",
+    "type" : "meccan",
+    "arabic" : "عبس"
+  },
+  {
+    "id" : 81,
+    "type" : "meccan",
+    "name" : "At-Takwir",
+    "total_verses" : 29,
+    "translation" : "The Overthrowing",
+    "arabic" : "التكوير",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/081.mp3",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Infitar",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/082.mp3",
+    "id" : 82,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الإنفطار",
+    "isDownloading" : false,
+    "total_verses" : 19,
+    "translation" : "The Cleaving",
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/083.mp3",
+    "id" : 83,
+    "total_verses" : 36,
+    "arabic" : "المطففين",
+    "name" : "Al-Mutaffifin",
+    "translation" : "The Defrauding",
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Al-Inshiqaq",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 25,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/084.mp3",
+    "id" : 84,
+    "downloadStatus" : 0,
+    "arabic" : "الإنشقاق",
+    "translation" : "The Sundering"
+  },
+  {
+    "isDownloading" : false,
+    "id" : 85,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/085.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 22,
+    "translation" : "The Mansions of the Stars",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "البروج",
+    "name" : "Al-Burooj"
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 17,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 86,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The Nightcommer",
+    "name" : "At-Tariq",
+    "arabic" : "الطارق",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/086.mp3"
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 87,
+    "time_array" : [
+
+    ],
+    "arabic" : "الأعلى",
+    "isDownloaded" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/087.mp3",
+    "total_verses" : 19,
+    "type" : "meccan",
+    "translation" : "The Most High",
+    "name" : "Al-Ala",
+    "isDownloading" : false
+  },
+  {
+    "id" : 88,
+    "translation" : "The Overwhelming",
+    "type" : "meccan",
+    "arabic" : "الغاشية",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/088.mp3",
+    "name" : "Al-Ghashiyah",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 26,
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 89,
+    "total_verses" : 30,
+    "arabic" : "الفجر",
+    "isDownloaded" : false,
+    "name" : "Al-Fajr",
+    "translation" : "The Dawn",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/089.mp3",
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Balad",
+    "time_array" : [
+
+    ],
+    "total_verses" : 20,
+    "translation" : "The City",
+    "arabic" : "البلد",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 90,
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/090.mp3"
+  },
+  {
+    "downloadStatus" : 0,
+    "name" : "Ash-Shams",
+    "translation" : "The Sun",
+    "arabic" : "الشمس",
+    "id" : 91,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/091.mp3",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 15
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Al-Lail",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/092.mp3",
+    "id" : 92,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "arabic" : "الليل",
+    "total_verses" : 21,
+    "time_array" : [
+
+    ],
+    "translation" : "The Night",
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "meccan",
+    "total_verses" : 11,
+    "translation" : "The Morning Hours",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الضحى",
+    "name" : "Ad-Dhuha",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "id" : 93,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/093.mp3"
+  },
+  {
+    "translation" : "The Relief",
+    "type" : "meccan",
+    "arabic" : "الشرح",
+    "downloadStatus" : 0,
+    "total_verses" : 8,
+    "id" : 94,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/094.mp3",
+    "name" : "Al-Inshirah"
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/095.mp3",
+    "name" : "At-Tin",
+    "id" : 95,
+    "time_array" : [
+
+    ],
+    "arabic" : "التين",
+    "downloadStatus" : 0,
+    "total_verses" : 8,
+    "translation" : "The Fig",
+    "type" : "meccan",
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/096.mp3",
+    "translation" : "The Clot",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 96,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 19,
+    "arabic" : "العلق",
+    "name" : "Al-Alaq"
+  },
+  {
+    "id" : 97,
+    "name" : "Al-Qadr",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/097.mp3",
+    "arabic" : "القدر",
+    "translation" : "The Power",
+    "downloadStatus" : 0,
+    "total_verses" : 5
+  },
+  {
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/098.mp3",
+    "total_verses" : 8,
+    "name" : "Al-Bayyina",
+    "translation" : "The Clear Proof",
+    "arabic" : "البينة",
+    "id" : 98,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 8,
+    "id" : 99,
+    "isDownloaded" : false,
+    "arabic" : "الزلزلة",
+    "name" : "Az-Zalzala",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/099.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Earthquake",
+    "type" : "medinan"
+  },
+  {
+    "id" : 100,
+    "arabic" : "العاديات",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/100.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 11,
+    "translation" : "The Courser",
+    "name" : "Al-Adiyat",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "القارعة",
+    "id" : 101,
+    "translation" : "The Calamity",
+    "total_verses" : 11,
+    "name" : "Al-Qaria",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/101.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 102,
+    "arabic" : "التكاثر",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/102.mp3",
+    "translation" : "The Rivalry in world increase",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "name" : "At-Takathur",
+    "total_verses" : 8
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/103.mp3",
+    "id" : 103,
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "arabic" : "العصر",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "translation" : "The Declining Day",
+    "name" : "Al-Asr",
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "meccan",
+    "name" : "Al-Humaza",
+    "isDownloaded" : false,
+    "arabic" : "الهمزة",
+    "isDownloading" : false,
+    "id" : 104,
+    "downloadStatus" : 0,
+    "translation" : "The Traducer",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/104.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 9
+  },
+  {
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Elephant",
+    "id" : 105,
+    "downloadStatus" : 0,
+    "name" : "Al-Fil",
+    "total_verses" : 5,
+    "arabic" : "الفيل",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/105.mp3",
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/106.mp3",
+    "isDownloaded" : false,
+    "name" : "Quraysh",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 4,
+    "translation" : "Quraysh",
+    "id" : 106,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "arabic" : "قريش"
+  },
+  {
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/107.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Maun",
+    "translation" : "The Small kindnesses",
+    "time_array" : [
+
+    ],
+    "total_verses" : 7,
+    "type" : "meccan",
+    "id" : 107,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "الماعون"
+  },
+  {
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/108.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Al-Kawthar",
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "translation" : "The Abundance",
+    "type" : "meccan",
+    "arabic" : "الكوثر",
+    "id" : 108
+  },
+  {
+    "name" : "Al-Kafirun",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "translation" : "The Disbelievers",
+    "arabic" : "الكافرون",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/109.mp3",
+    "isDownloaded" : false,
+    "id" : 109,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 6
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "translation" : "The Divine Support",
+    "id" : 110,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/110.mp3",
+    "name" : "An-Nasr",
+    "isDownloading" : false,
+    "arabic" : "النصر"
+  },
+  {
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/111.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "المسد",
+    "id" : 111,
+    "downloadStatus" : 0,
+    "name" : "Al-Masad",
+    "total_verses" : 5,
+    "translation" : "The Palm Fiber",
+    "isDownloading" : false
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Al-Ikhlas",
+    "id" : 112,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "translation" : "The Sincerity",
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/112.mp3",
+    "arabic" : "الإخلاص",
+    "total_verses" : 4
+  },
+  {
+    "id" : 113,
+    "arabic" : "الفلق",
+    "time_array" : [
+
+    ],
+    "translation" : "The Daybreak",
+    "name" : "Al-Falaq",
+    "total_verses" : 5,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/113.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "translation" : "Mankind",
+    "id" : 114,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia801908.us.archive.org/1/items/hadi-turi/114.mp3",
+    "type" : "meccan",
+    "name" : "Al-Nas",
+    "downloadStatus" : 0,
+    "arabic" : "الناس",
+    "total_verses" : 6
+  }
+]

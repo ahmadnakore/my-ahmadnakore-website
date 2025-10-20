@@ -1,0 +1,1712 @@
+[
+  {
+    "translation" : "The Opener",
+    "link" : "https://server11.mp3quran.net/a_jbr/001.mp3",
+    "id" : 1,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 7,
+    "isDownloading" : false,
+    "arabic" : "الفاتحة",
+    "name" : "Al-Fatiha",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Al-Baqara",
+    "translation" : "The Cow",
+    "arabic" : "البقرة",
+    "link" : "https://server11.mp3quran.net/a_jbr/002.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 286,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "id" : 2
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/003.mp3",
+    "id" : 3,
+    "total_verses" : 200,
+    "time_array" : [
+
+    ],
+    "arabic" : "آل عمران",
+    "name" : "Al Imran",
+    "translation" : "Family of Imran",
+    "type" : "medinan"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "النساء",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://server11.mp3quran.net/a_jbr/004.mp3",
+    "name" : "An-Nisa",
+    "type" : "medinan",
+    "id" : 4,
+    "total_verses" : 176,
+    "translation" : "The Women"
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://server11.mp3quran.net/a_jbr/005.mp3",
+    "isDownloaded" : false,
+    "total_verses" : 120,
+    "translation" : "The Table Spread",
+    "arabic" : "المائدة",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Maida",
+    "type" : "medinan",
+    "id" : 5,
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 165,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "translation" : "The Cattle",
+    "name" : "Al-Anam",
+    "id" : 6,
+    "link" : "https://server11.mp3quran.net/a_jbr/006.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "الأنعام",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "الأعراف",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 7,
+    "time_array" : [
+
+    ],
+    "translation" : "The Heights",
+    "total_verses" : 206,
+    "link" : "https://server11.mp3quran.net/a_jbr/007.mp3",
+    "name" : "Al-Araf",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "id" : 8,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 75,
+    "type" : "medinan",
+    "link" : "https://server11.mp3quran.net/a_jbr/008.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "الأنفال",
+    "name" : "Al-Anfal",
+    "translation" : "The Spoils of War"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "id" : 9,
+    "arabic" : "التوبة",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 129,
+    "link" : "https://server11.mp3quran.net/a_jbr/009.mp3",
+    "translation" : "The Repentance",
+    "isDownloading" : false,
+    "name" : "At-Tawba"
+  },
+  {
+    "name" : "Yunus",
+    "id" : 10,
+    "arabic" : "يونس",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "total_verses" : 109,
+    "translation" : "Jonah",
+    "link" : "https://server11.mp3quran.net/a_jbr/010.mp3"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "هود",
+    "id" : 11,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "translation" : "Hud",
+    "link" : "https://server11.mp3quran.net/a_jbr/011.mp3",
+    "name" : "Hud",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 123
+  },
+  {
+    "downloadStatus" : 0,
+    "total_verses" : 111,
+    "link" : "https://server11.mp3quran.net/a_jbr/012.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "Joseph",
+    "type" : "meccan",
+    "id" : 12,
+    "isDownloading" : false,
+    "name" : "Yusuf",
+    "arabic" : "يوسف"
+  },
+  {
+    "id" : 13,
+    "downloadStatus" : 0,
+    "name" : "Ar-Rad",
+    "total_verses" : 43,
+    "type" : "medinan",
+    "translation" : "The Thunder",
+    "link" : "https://server11.mp3quran.net/a_jbr/013.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "الرعد",
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "name" : "Ibrahim",
+    "total_verses" : 52,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "translation" : "Abraham",
+    "link" : "https://server11.mp3quran.net/a_jbr/014.mp3",
+    "id" : 14,
+    "arabic" : "ابراهيم",
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Rocky Tract",
+    "link" : "https://server11.mp3quran.net/a_jbr/015.mp3",
+    "name" : "Al-Hijr",
+    "id" : 15,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "الحجر",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 99
+  },
+  {
+    "type" : "meccan",
+    "isDownloading" : false,
+    "arabic" : "النحل",
+    "name" : "An-Nahl",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 128,
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/016.mp3",
+    "id" : 16,
+    "translation" : "The Bee"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "الإسراء",
+    "link" : "https://server11.mp3quran.net/a_jbr/017.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 111,
+    "translation" : "The Night Journey",
+    "name" : "Al-Isra",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 17
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/018.mp3",
+    "downloadStatus" : 0,
+    "id" : 18,
+    "isDownloading" : false,
+    "arabic" : "الكهف",
+    "name" : "Al-Kahf",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 110,
+    "translation" : "The Cave"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "مريم",
+    "name" : "Maryam",
+    "total_verses" : 98,
+    "translation" : "Mary",
+    "link" : "https://server11.mp3quran.net/a_jbr/019.mp3",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "id" : 19,
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Ta-Ha",
+    "total_verses" : 135,
+    "downloadStatus" : 0,
+    "id" : 20,
+    "link" : "https://server11.mp3quran.net/a_jbr/020.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "Ta-Ha",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "arabic" : "طه"
+  },
+  {
+    "type" : "meccan",
+    "id" : 21,
+    "downloadStatus" : 0,
+    "name" : "Al-Anbiya",
+    "total_verses" : 112,
+    "time_array" : [
+
+    ],
+    "link" : "https://server11.mp3quran.net/a_jbr/021.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "الأنبياء",
+    "translation" : "The Prophets"
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Al-Hajj",
+    "id" : 22,
+    "isDownloaded" : false,
+    "arabic" : "الحج",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "link" : "https://server11.mp3quran.net/a_jbr/022.mp3",
+    "translation" : "The Pilgrimage",
+    "downloadStatus" : 0,
+    "total_verses" : 78
+  },
+  {
+    "name" : "Al-Muminoon",
+    "total_verses" : 118,
+    "translation" : "The Believers",
+    "arabic" : "المؤمنون",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://server11.mp3quran.net/a_jbr/023.mp3",
+    "type" : "meccan",
+    "id" : 23,
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "النور",
+    "link" : "https://server11.mp3quran.net/a_jbr/024.mp3",
+    "name" : "An-Nur",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 64,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "id" : 24,
+    "downloadStatus" : 0,
+    "translation" : "The Light"
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Criterion",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 25,
+    "link" : "https://server11.mp3quran.net/a_jbr/025.mp3",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Furqan",
+    "type" : "meccan",
+    "total_verses" : 77,
+    "arabic" : "الفرقان"
+  },
+  {
+    "id" : 26,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 227,
+    "arabic" : "الشعراء",
+    "link" : "https://server11.mp3quran.net/a_jbr/026.mp3",
+    "type" : "meccan",
+    "name" : "Ash-Shuara",
+    "translation" : "The Poets",
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "النمل",
+    "translation" : "The Ant",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 93,
+    "isDownloaded" : false,
+    "id" : 27,
+    "name" : "An-Naml",
+    "link" : "https://server11.mp3quran.net/a_jbr/027.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Stories",
+    "link" : "https://server11.mp3quran.net/a_jbr/028.mp3",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "name" : "Al-Qasas",
+    "arabic" : "القصص",
+    "id" : 28,
+    "total_verses" : 88,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Ankabut",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://server11.mp3quran.net/a_jbr/029.mp3",
+    "id" : 29,
+    "downloadStatus" : 0,
+    "arabic" : "العنكبوت",
+    "total_verses" : 69,
+    "translation" : "The Spider",
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Ar-Rum",
+    "id" : 30,
+    "type" : "meccan",
+    "total_verses" : 60,
+    "time_array" : [
+
+    ],
+    "arabic" : "الروم",
+    "isDownloading" : false,
+    "translation" : "The Romans",
+    "downloadStatus" : 0,
+    "link" : "https://server11.mp3quran.net/a_jbr/030.mp3"
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "لقمان",
+    "time_array" : [
+
+    ],
+    "id" : 31,
+    "total_verses" : 34,
+    "translation" : "Luqman",
+    "type" : "meccan",
+    "name" : "Luqman",
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/031.mp3"
+  },
+  {
+    "arabic" : "السجدة",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "id" : 32,
+    "type" : "meccan",
+    "name" : "As-Sajda",
+    "total_verses" : 30,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Prostration",
+    "link" : "https://server11.mp3quran.net/a_jbr/032.mp3"
+  },
+  {
+    "id" : 33,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "type" : "medinan",
+    "name" : "Al-Ahzab",
+    "link" : "https://server11.mp3quran.net/a_jbr/033.mp3",
+    "total_verses" : 73,
+    "arabic" : "الأحزاب",
+    "translation" : "The Combined Forces",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "Sheba",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 54,
+    "type" : "meccan",
+    "id" : 34,
+    "downloadStatus" : 0,
+    "link" : "https://server11.mp3quran.net/a_jbr/034.mp3",
+    "time_array" : [
+
+    ],
+    "name" : "Saba",
+    "arabic" : "سبإ"
+  },
+  {
+    "total_verses" : 45,
+    "isDownloading" : false,
+    "translation" : "Originator",
+    "type" : "meccan",
+    "link" : "https://server11.mp3quran.net/a_jbr/035.mp3",
+    "arabic" : "فاطر",
+    "downloadStatus" : 0,
+    "id" : 35,
+    "isDownloaded" : false,
+    "name" : "Fatir",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 36,
+    "total_verses" : 83,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "name" : "Ya Sin",
+    "translation" : "Ya Sin",
+    "link" : "https://server11.mp3quran.net/a_jbr/036.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "arabic" : "يس"
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "As-Saaffat",
+    "time_array" : [
+
+    ],
+    "total_verses" : 182,
+    "link" : "https://server11.mp3quran.net/a_jbr/037.mp3",
+    "translation" : "Those who set the Ranks",
+    "downloadStatus" : 0,
+    "arabic" : "الصافات",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 37
+  },
+  {
+    "total_verses" : 88,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "arabic" : "ص",
+    "isDownloading" : false,
+    "name" : "Sad",
+    "translation" : "The Letter Saad",
+    "time_array" : [
+
+    ],
+    "id" : 38,
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/038.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Az-Zumar",
+    "total_verses" : 75,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Troops",
+    "type" : "meccan",
+    "link" : "https://server11.mp3quran.net/a_jbr/039.mp3",
+    "isDownloading" : false,
+    "arabic" : "الزمر",
+    "id" : 39
+  },
+  {
+    "total_verses" : 85,
+    "type" : "meccan",
+    "translation" : "The Forgiver",
+    "id" : 40,
+    "link" : "https://server11.mp3quran.net/a_jbr/040.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "غافر",
+    "name" : "Ghafir",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "Explained in Detail",
+    "type" : "meccan",
+    "link" : "https://server11.mp3quran.net/a_jbr/041.mp3",
+    "total_verses" : 54,
+    "arabic" : "فصلت",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 41,
+    "name" : "Fussilat",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "الشورى",
+    "type" : "meccan",
+    "translation" : "The Consultation",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 42,
+    "name" : "Ash-Shura",
+    "isDownloading" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/042.mp3",
+    "total_verses" : 53
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 89,
+    "arabic" : "الزخرف",
+    "name" : "Az-Zukhruf",
+    "id" : 43,
+    "isDownloaded" : false,
+    "translation" : "The Ornaments of Gold",
+    "type" : "meccan",
+    "link" : "https://server11.mp3quran.net/a_jbr/043.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 59,
+    "downloadStatus" : 0,
+    "name" : "Ad-Dukhan",
+    "translation" : "The Smoke",
+    "type" : "meccan",
+    "link" : "https://server11.mp3quran.net/a_jbr/044.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 44,
+    "arabic" : "الدخان"
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 45,
+    "total_verses" : 37,
+    "link" : "https://server11.mp3quran.net/a_jbr/045.mp3",
+    "translation" : "The Crouching",
+    "arabic" : "الجاثية",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Al-Jathiya"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 35,
+    "arabic" : "الأحقاف",
+    "isDownloading" : false,
+    "translation" : "The Wind-Curved Sandhills",
+    "isDownloaded" : false,
+    "id" : 46,
+    "downloadStatus" : 0,
+    "name" : "Al-Ahqaf",
+    "link" : "https://server11.mp3quran.net/a_jbr/046.mp3",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "محمد",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/047.mp3",
+    "translation" : "Muhammad",
+    "type" : "medinan",
+    "name" : "Muhammad",
+    "total_verses" : 38,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 47
+  },
+  {
+    "name" : "Al-Fath",
+    "translation" : "The Victory",
+    "total_verses" : 29,
+    "link" : "https://server11.mp3quran.net/a_jbr/048.mp3",
+    "id" : 48,
+    "arabic" : "الفتح",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "medinan"
+  },
+  {
+    "link" : "https://server11.mp3quran.net/a_jbr/049.mp3",
+    "id" : 49,
+    "time_array" : [
+
+    ],
+    "arabic" : "الحجرات",
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Hujurat",
+    "total_verses" : 18,
+    "translation" : "The Rooms"
+  },
+  {
+    "translation" : "The Letter Qaf",
+    "type" : "meccan",
+    "arabic" : "ق",
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/050.mp3",
+    "isDownloading" : false,
+    "id" : 50,
+    "downloadStatus" : 0,
+    "name" : "Qaf",
+    "time_array" : [
+
+    ],
+    "total_verses" : 45
+  },
+  {
+    "arabic" : "الذاريات",
+    "id" : 51,
+    "link" : "https://server11.mp3quran.net/a_jbr/051.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Winnowing Winds",
+    "name" : "Adh-Dhariyat",
+    "total_verses" : 60,
+    "type" : "meccan",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 49,
+    "time_array" : [
+
+    ],
+    "id" : 52,
+    "name" : "At-Tur",
+    "isDownloaded" : false,
+    "translation" : "The Mount",
+    "type" : "meccan",
+    "arabic" : "الطور",
+    "link" : "https://server11.mp3quran.net/a_jbr/052.mp3"
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "النجم",
+    "type" : "meccan",
+    "translation" : "The Star",
+    "id" : 53,
+    "total_verses" : 62,
+    "link" : "https://server11.mp3quran.net/a_jbr/053.mp3",
+    "downloadStatus" : 0,
+    "name" : "An-Najm"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "القمر",
+    "id" : 54,
+    "link" : "https://server11.mp3quran.net/a_jbr/054.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Al-Qamar",
+    "total_verses" : 55,
+    "translation" : "The Moon"
+  },
+  {
+    "link" : "https://server11.mp3quran.net/a_jbr/055.mp3",
+    "isDownloading" : false,
+    "id" : 55,
+    "translation" : "The Beneficent",
+    "total_verses" : 78,
+    "arabic" : "الرحمن",
+    "name" : "Ar-Rahman",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "name" : "Al-Waqia",
+    "arabic" : "الواقعة",
+    "id" : 56,
+    "link" : "https://server11.mp3quran.net/a_jbr/056.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Inevitable",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "total_verses" : 96
+  },
+  {
+    "time_array" : [
+
+    ],
+    "name" : "Al-Hadid",
+    "arabic" : "الحديد",
+    "total_verses" : 29,
+    "id" : 57,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/057.mp3",
+    "isDownloading" : false,
+    "translation" : "The Iron",
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Pleading Woman",
+    "isDownloading" : false,
+    "name" : "Al-Mujadila",
+    "total_verses" : 22,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "link" : "https://server11.mp3quran.net/a_jbr/058.mp3",
+    "isDownloaded" : false,
+    "id" : 58,
+    "arabic" : "المجادلة"
+  },
+  {
+    "total_verses" : 24,
+    "arabic" : "الحشر",
+    "translation" : "The Exile",
+    "link" : "https://server11.mp3quran.net/a_jbr/059.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 59,
+    "name" : "Al-Hashr",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "medinan"
+  },
+  {
+    "total_verses" : 13,
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "id" : 60,
+    "time_array" : [
+
+    ],
+    "arabic" : "الممتحنة",
+    "name" : "Al-Mumtahina",
+    "isDownloaded" : false,
+    "translation" : "She that is to be examined",
+    "link" : "https://server11.mp3quran.net/a_jbr/060.mp3",
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 14,
+    "arabic" : "الصف",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "link" : "https://server11.mp3quran.net/a_jbr/061.mp3",
+    "name" : "As-Saff",
+    "id" : 61,
+    "isDownloaded" : false,
+    "translation" : "The Ranks",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "The Congregation, Friday",
+    "total_verses" : 11,
+    "id" : 62,
+    "downloadStatus" : 0,
+    "name" : "Al-Jumua",
+    "type" : "medinan",
+    "arabic" : "الجمعة",
+    "isDownloading" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/062.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/063.mp3",
+    "total_verses" : 11,
+    "name" : "Al-Munafiqun",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "id" : 63,
+    "arabic" : "المنافقون",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The Hypocrites"
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Mutual Disillusion",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://server11.mp3quran.net/a_jbr/064.mp3",
+    "id" : 64,
+    "isDownloaded" : false,
+    "name" : "At-Taghabun",
+    "total_verses" : 18,
+    "type" : "medinan",
+    "arabic" : "التغابن"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 12,
+    "id" : 65,
+    "arabic" : "الطلاق",
+    "link" : "https://server11.mp3quran.net/a_jbr/065.mp3",
+    "isDownloading" : false,
+    "name" : "At-Talaq",
+    "translation" : "The Divorce",
+    "type" : "medinan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://server11.mp3quran.net/a_jbr/066.mp3",
+    "name" : "At-Tahrim",
+    "translation" : "The Prohibition",
+    "isDownloaded" : false,
+    "total_verses" : 12,
+    "arabic" : "التحريم",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "id" : 66,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 30,
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/067.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Mulk",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الملك",
+    "time_array" : [
+
+    ],
+    "id" : 67,
+    "translation" : "The Sovereignty"
+  },
+  {
+    "name" : "Al-Qalam",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 52,
+    "translation" : "The Pen",
+    "isDownloaded" : false,
+    "id" : 68,
+    "time_array" : [
+
+    ],
+    "arabic" : "القلم",
+    "type" : "meccan",
+    "link" : "https://server11.mp3quran.net/a_jbr/068.mp3"
+  },
+  {
+    "link" : "https://server11.mp3quran.net/a_jbr/069.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "Al-Haaqqa",
+    "id" : 69,
+    "total_verses" : 52,
+    "translation" : "The Reality",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الحاقة"
+  },
+  {
+    "id" : 70,
+    "arabic" : "المعارج",
+    "isDownloaded" : false,
+    "translation" : "The Ascending Stairways",
+    "downloadStatus" : 0,
+    "link" : "https://server11.mp3quran.net/a_jbr/070.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Maarij",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 44
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "نوح",
+    "time_array" : [
+
+    ],
+    "id" : 71,
+    "link" : "https://server11.mp3quran.net/a_jbr/071.mp3",
+    "translation" : "Noah",
+    "isDownloaded" : false,
+    "total_verses" : 28,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Nuh"
+  },
+  {
+    "total_verses" : 28,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://server11.mp3quran.net/a_jbr/072.mp3",
+    "id" : 72,
+    "translation" : "The Jinn",
+    "isDownloading" : false,
+    "arabic" : "الجن",
+    "name" : "Al-Jinn",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "link" : "https://server11.mp3quran.net/a_jbr/073.mp3",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "translation" : "The Enshrouded One",
+    "arabic" : "المزمل",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 20,
+    "id" : 73,
+    "name" : "Al-Muzzammil"
+  },
+  {
+    "translation" : "The Cloaked One",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "link" : "https://server11.mp3quran.net/a_jbr/074.mp3",
+    "arabic" : "المدثر",
+    "isDownloading" : false,
+    "name" : "Al-Muddathir",
+    "time_array" : [
+
+    ],
+    "id" : 74,
+    "isDownloaded" : false,
+    "total_verses" : 56
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "The Resurrection",
+    "id" : 75,
+    "type" : "meccan",
+    "arabic" : "القيامة",
+    "isDownloading" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/075.mp3",
+    "name" : "Al-Qiyama",
+    "downloadStatus" : 0,
+    "total_verses" : 40,
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "الانسان",
+    "isDownloading" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/076.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Man",
+    "id" : 76,
+    "name" : "Al-Insan",
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "total_verses" : 31,
+    "isDownloaded" : false
+  },
+  {
+    "id" : 77,
+    "isDownloading" : false,
+    "total_verses" : 50,
+    "name" : "Al-Mursalat",
+    "translation" : "The Emissaries",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "arabic" : "المرسلات",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/077.mp3"
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "id" : 78,
+    "downloadStatus" : 0,
+    "name" : "An-Naba",
+    "total_verses" : 40,
+    "type" : "meccan",
+    "arabic" : "النبإ",
+    "link" : "https://server11.mp3quran.net/a_jbr/078.mp3",
+    "isDownloaded" : false,
+    "translation" : "The Tidings"
+  },
+  {
+    "total_verses" : 46,
+    "isDownloaded" : false,
+    "id" : 79,
+    "translation" : "Those who drag forth",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://server11.mp3quran.net/a_jbr/079.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "النازعات",
+    "name" : "An-Naziat"
+  },
+  {
+    "id" : 80,
+    "downloadStatus" : 0,
+    "total_verses" : 42,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "translation" : "He Frowned",
+    "arabic" : "عبس",
+    "link" : "https://server11.mp3quran.net/a_jbr/080.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Abasa"
+  },
+  {
+    "name" : "At-Takwir",
+    "isDownloading" : false,
+    "id" : 81,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Overthrowing",
+    "type" : "meccan",
+    "total_verses" : 29,
+    "arabic" : "التكوير",
+    "link" : "https://server11.mp3quran.net/a_jbr/081.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 82,
+    "total_verses" : 19,
+    "translation" : "The Cleaving",
+    "isDownloading" : false,
+    "name" : "Al-Infitar",
+    "arabic" : "الإنفطار",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "link" : "https://server11.mp3quran.net/a_jbr/082.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/083.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 36,
+    "name" : "Al-Mutaffifin",
+    "id" : 83,
+    "arabic" : "المطففين",
+    "translation" : "The Defrauding",
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://server11.mp3quran.net/a_jbr/084.mp3",
+    "type" : "meccan",
+    "arabic" : "الإنشقاق",
+    "isDownloading" : false,
+    "name" : "Al-Inshiqaq",
+    "isDownloaded" : false,
+    "translation" : "The Sundering",
+    "time_array" : [
+
+    ],
+    "id" : 84,
+    "total_verses" : 25,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Mansions of the Stars",
+    "total_verses" : 22,
+    "type" : "meccan",
+    "id" : 85,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "arabic" : "البروج",
+    "name" : "Al-Burooj",
+    "link" : "https://server11.mp3quran.net/a_jbr/085.mp3"
+  },
+  {
+    "link" : "https://server11.mp3quran.net/a_jbr/086.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 17,
+    "translation" : "The Nightcommer",
+    "id" : 86,
+    "downloadStatus" : 0,
+    "arabic" : "الطارق",
+    "isDownloaded" : false,
+    "name" : "At-Tariq",
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 87,
+    "name" : "Al-Ala",
+    "arabic" : "الأعلى",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The Most High",
+    "type" : "meccan",
+    "link" : "https://server11.mp3quran.net/a_jbr/087.mp3",
+    "total_verses" : 19
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "الغاشية",
+    "isDownloaded" : false,
+    "translation" : "The Overwhelming",
+    "id" : 88,
+    "total_verses" : 26,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Ghashiyah",
+    "link" : "https://server11.mp3quran.net/a_jbr/088.mp3"
+  },
+  {
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "total_verses" : 30,
+    "id" : 89,
+    "translation" : "The Dawn",
+    "arabic" : "الفجر",
+    "name" : "Al-Fajr",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://server11.mp3quran.net/a_jbr/089.mp3",
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "البلد",
+    "id" : 90,
+    "total_verses" : 20,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The City",
+    "name" : "Al-Balad",
+    "link" : "https://server11.mp3quran.net/a_jbr/090.mp3",
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Sun",
+    "id" : 91,
+    "downloadStatus" : 0,
+    "name" : "Ash-Shams",
+    "total_verses" : 15,
+    "isDownloading" : false,
+    "arabic" : "الشمس",
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/091.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 21,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "الليل",
+    "link" : "https://server11.mp3quran.net/a_jbr/092.mp3",
+    "isDownloading" : false,
+    "translation" : "The Night",
+    "name" : "Al-Lail",
+    "type" : "meccan",
+    "id" : 92,
+    "isDownloaded" : false
+  },
+  {
+    "name" : "Ad-Dhuha",
+    "isDownloaded" : false,
+    "arabic" : "الضحى",
+    "type" : "meccan",
+    "id" : 93,
+    "link" : "https://server11.mp3quran.net/a_jbr/093.mp3",
+    "isDownloading" : false,
+    "total_verses" : 11,
+    "translation" : "The Morning Hours",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "الشرح",
+    "link" : "https://server11.mp3quran.net/a_jbr/094.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Relief",
+    "downloadStatus" : 0,
+    "name" : "Al-Inshirah",
+    "id" : 94,
+    "total_verses" : 8,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://server11.mp3quran.net/a_jbr/095.mp3",
+    "isDownloading" : false,
+    "name" : "At-Tin",
+    "total_verses" : 8,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "التين",
+    "id" : 95,
+    "translation" : "The Fig",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false
+  },
+  {
+    "total_verses" : 19,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/096.mp3",
+    "downloadStatus" : 0,
+    "name" : "Al-Alaq",
+    "translation" : "The Clot",
+    "id" : 96,
+    "arabic" : "العلق",
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 5,
+    "translation" : "The Power",
+    "id" : 97,
+    "downloadStatus" : 0,
+    "link" : "https://server11.mp3quran.net/a_jbr/097.mp3",
+    "arabic" : "القدر",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Al-Qadr",
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Clear Proof",
+    "total_verses" : 8,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 98,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Bayyina",
+    "arabic" : "البينة",
+    "link" : "https://server11.mp3quran.net/a_jbr/098.mp3"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 99,
+    "translation" : "The Earthquake",
+    "link" : "https://server11.mp3quran.net/a_jbr/099.mp3",
+    "type" : "medinan",
+    "total_verses" : 8,
+    "isDownloading" : false,
+    "name" : "Az-Zalzala",
+    "isDownloaded" : false,
+    "arabic" : "الزلزلة"
+  },
+  {
+    "arabic" : "العاديات",
+    "downloadStatus" : 0,
+    "id" : 100,
+    "link" : "https://server11.mp3quran.net/a_jbr/100.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Courser",
+    "total_verses" : 11,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "name" : "Al-Adiyat",
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "القارعة",
+    "total_verses" : 11,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 101,
+    "translation" : "The Calamity",
+    "name" : "Al-Qaria",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/101.mp3"
+  },
+  {
+    "total_verses" : 8,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "التكاثر",
+    "link" : "https://server11.mp3quran.net/a_jbr/102.mp3",
+    "name" : "At-Takathur",
+    "id" : 102,
+    "time_array" : [
+
+    ],
+    "translation" : "The Rivalry in world increase"
+  },
+  {
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "العصر",
+    "total_verses" : 3,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Asr",
+    "translation" : "The Declining Day",
+    "id" : 103,
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/103.mp3"
+  },
+  {
+    "translation" : "The Traducer",
+    "type" : "meccan",
+    "name" : "Al-Humaza",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "id" : 104,
+    "downloadStatus" : 0,
+    "link" : "https://server11.mp3quran.net/a_jbr/104.mp3",
+    "arabic" : "الهمزة",
+    "isDownloading" : false,
+    "total_verses" : 9
+  },
+  {
+    "arabic" : "الفيل",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "total_verses" : 5,
+    "translation" : "The Elephant",
+    "isDownloaded" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/105.mp3",
+    "isDownloading" : false,
+    "id" : 105,
+    "name" : "Al-Fil",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "قريش",
+    "name" : "Quraysh",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/106.mp3",
+    "translation" : "Quraysh",
+    "downloadStatus" : 0,
+    "id" : 106,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "total_verses" : 4
+  },
+  {
+    "total_verses" : 7,
+    "type" : "meccan",
+    "arabic" : "الماعون",
+    "id" : 107,
+    "link" : "https://server11.mp3quran.net/a_jbr/107.mp3",
+    "name" : "Al-Maun",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "translation" : "The Small kindnesses"
+  },
+  {
+    "link" : "https://server11.mp3quran.net/a_jbr/108.mp3",
+    "isDownloaded" : false,
+    "name" : "Al-Kawthar",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The Abundance",
+    "id" : 108,
+    "arabic" : "الكوثر",
+    "total_verses" : 3,
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Disbelievers",
+    "total_verses" : 6,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الكافرون",
+    "isDownloading" : false,
+    "id" : 109,
+    "link" : "https://server11.mp3quran.net/a_jbr/109.mp3",
+    "name" : "Al-Kafirun"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "النصر",
+    "isDownloading" : false,
+    "id" : 110,
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "name" : "An-Nasr",
+    "type" : "medinan",
+    "link" : "https://server11.mp3quran.net/a_jbr/110.mp3",
+    "translation" : "The Divine Support",
+    "isDownloaded" : false
+  },
+  {
+    "id" : 111,
+    "link" : "https://server11.mp3quran.net/a_jbr/111.mp3",
+    "name" : "Al-Masad",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "total_verses" : 5,
+    "downloadStatus" : 0,
+    "translation" : "The Palm Fiber",
+    "type" : "meccan",
+    "arabic" : "المسد"
+  },
+  {
+    "total_verses" : 4,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Sincerity",
+    "downloadStatus" : 0,
+    "arabic" : "الإخلاص",
+    "isDownloading" : false,
+    "link" : "https://server11.mp3quran.net/a_jbr/112.mp3",
+    "name" : "Al-Ikhlas",
+    "isDownloaded" : false,
+    "id" : 112
+  },
+  {
+    "type" : "meccan",
+    "id" : 113,
+    "link" : "https://server11.mp3quran.net/a_jbr/113.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 5,
+    "arabic" : "الفلق",
+    "name" : "Al-Falaq",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Daybreak"
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "Mankind",
+    "isDownloaded" : false,
+    "id" : 114,
+    "link" : "https://server11.mp3quran.net/a_jbr/114.mp3",
+    "total_verses" : 6,
+    "arabic" : "الناس",
+    "name" : "Al-Nas",
+    "type" : "meccan"
+  }
+]
