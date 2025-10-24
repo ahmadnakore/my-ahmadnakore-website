@@ -26,6 +26,32 @@
         "type": "medinan"
     },
     {
+        "arabic": "آل عمران",
+        "downloadStatus": 0,
+        "id": 3,
+        "isDownloaded": false,
+        "isDownloading": false,
+        "link": "https://server11.mp3quran.net/sds/003.mp3",
+        "name": "Al Imran",
+        "time_array": [],
+        "total_verses": 200,
+        "translation": "Family of Imran",
+        "type": "medinan"
+    },
+    {
+        "arabic": "النساء",
+        "downloadStatus": 0,
+        "id": 4,
+        "isDownloaded": false,
+        "isDownloading": false,
+        "link": "https://server11.mp3quran.net/sds/004.mp3",
+        "name": "An-Nisa",
+        "time_array": [],
+        "total_verses": 176,
+        "translation": "The Women",
+        "type": "medinan"
+    },
+    {
         "arabic": "يوسف",
         "downloadStatus": 0,
         "id": 12,
