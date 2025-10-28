@@ -10,7 +10,7 @@
         "ShowHomeTab": true,
         "ShowQuranTab": true,
         "ShowRecitersTab": true,
-        "ShowAzkarTab": false,
+        "ShowAzkarTab": true,
         "ShowPrayerTimesTab": true,
         "Show99NamesTab": false,
         "ShowSettingsTab": true,
