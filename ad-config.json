@@ -65,7 +65,7 @@
     },
     "com.ahmadnakore.Abubakarshadir": {
         "ads_per_minute": 1,
-        "time_interval_seconds": 160,
+        "time_interval_seconds": 560,
         
         "ShowHomeTab": false,
         "ShowQuranTab": true,
