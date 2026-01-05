@@ -37,7 +37,7 @@
     },
     "com.ahmadnakore.SheikhNoreen": {
         "ads_per_minute": 1,
-        "time_interval_seconds": 160,
+        "time_interval_seconds": 100,
         
         "ShowHomeTab": false,
         "ShowQuranTab": true,
@@ -126,7 +126,7 @@
     },
     "com.ahmadnakore.AbdullahAliJabir": {
         "ads_per_minute": 2,
-        "time_interval_seconds": 560,
+        "time_interval_seconds": 100,
         
         
         "ShowHomeTab": false,
