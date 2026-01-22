@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Al Quran – Simple & Offline</title>
+
+  <style>
+    :root {
+      --bg: #0f1c17;
+      --card: #162822;
+      --primary: #c7a44a;
+      --text: #f4f4f4;
+      --muted: #b9c2bd;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+
+    body {
+      background: linear-gradient(180deg, #0f1c17, #0b1411);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: auto;
+      padding: 24px;
+    }
+
+    /* HERO */
+    .hero {
+      text-align: center;
+      padding: 3px 16px;
+    }
+
+    .app-icon {
+      width: 110px;
+      height: 110px;
+      border-radius: 24px;
+      background: #1f332c;
+      margin: 0 auto 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .app-icon {
+  width: 110px;
+  height: 110px;
+  border-radius: 24px;
+  margin: 0 auto 20px;
+  object-fit: cover;
+  display: block;
+  background: #1f332c;
+}
+
+    h1 {
+      font-size: 2.2rem;
+      margin-bottom: 12px;
+    }
+
+    .tagline {
+      font-size: 1.05rem;
+      color: var(--muted);
+      max-width: 520px;
+      margin: 0 auto 28px;
+    }
+
+    .buttons {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      text-decoration: none;
+      padding: 14px 22px;
+      border-radius: 10px;
+      font-weight: 600;
+      font-size: 0.95rem;
+      min-width: 200px;
+      text-align: center;
+    }
+
+    .btn-ios {
+      background: var(--primary);
+      color: #000;
+    }
+
+    .btn-android {
+      background: transparent;
+      color: var(--primary);
+      border: 1px solid var(--primary);
+    }
+
+    /* SECTION */
+    section {
+      margin-top: 56px;
+    }
+
+    .section-title {
+      text-align: center;
+      font-size: 1.5rem;
+      margin-bottom: 28px;
+    }
+
+    /* FEATURES */
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+    }
+
+    .feature {
+      background: var(--card);
+      padding: 20px;
+      border-radius: 14px;
+      text-align: center;
+    }
+
+    .feature span {
+      font-size: 1.6rem;
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    /* SCREENSHOTS */
+    .screenshots {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 16px;
+    }
+
+
+
+    .shot {
+  background: #1f332c;
+  border-radius: 18px;
+  overflow: hidden;
+  height: 620px;
+  box-shadow: 0 10px 25px rgba(191, 133, 133, 0.35);
+}
+
+.shot img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+    /* TRUST */
+    .trust {
+      background: var(--card);
+      padding: 28px;
+      border-radius: 18px;
+      text-align: center;
+      max-width: 720px;
+      margin: auto;
+    }
+
+    .trust p {
+      color: var(--muted);
+      margin-top: 8px;
+    }
+
+    /* FOOTER */
+    footer {
+      margin-top: 64px;
+      text-align: center;
+      font-size: 0.85rem;
+      color: var(--muted);
+      padding-bottom: 32px;
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 1.9rem;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- HERO -->
+    <div class="hero">
+      <img src="appIcon.png" alt="Al Quran App Icon" class="app-icon"/>
+      <h1>Al Quran – Simple & Offline</h1>
+
+      <p class="tagline">
+        Listen to the Holy Qur’an with clarity, focus, and peace.
+        Designed for distraction-free daily listening on iOS and Android.
+      </p>
+
+      <div class="buttons">
+        <a href="https://apps.apple.com/eg/app/al-quran-majeed-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/id1471708417" class="btn btn-ios">
+           Download on App Store
+        </a>
+
+        <a href="https://play.google.com/store/apps/details?id=com.ahmadnakore.quranmajeedandroid" class="btn btn-android">
+          ▶ Get it on Google Play
+        </a>
+      </div>
+    </div>
+
+        <!-- SCREENSHOTS -->
+    <section>
+      <h2 class="section-title">App Screenshots</h2>
+
+      <!-- <div class="screenshots">
+        <div class="shot">Screenshot 1</div>
+        <div class="shot">Screenshot 2</div>
+        <div class="shot">Screenshot 3</div>
+        <div class="shot">Screenshot 4</div>
+        <div class="shot">Screenshot 5</div>
+        <div class="shot">Screenshot 6</div>
+      </div> -->
+
+            <div class="screenshots">
+
+        <div class="shot">
+          <img src="Screenshot1.png" alt="Quran App Screenshot1">
+        </div>
+
+        <div class="shot">
+          <img src="Screenshot2.png" alt="Quran App Screenshot 2">
+        </div>
+
+        <div class="shot">
+          <img src="Screenshot3.png" alt="Quran App Screenshot 3">
+        </div>
+
+        <div class="shot">
+          <img src="Screenshot4.png" alt="Quran App Screenshot 4">
+        </div>
+
+        <div class="shot">
+          <img src="Screenshot5.png" alt="Quran App Screenshot 5">
+        </div>
+
+        <div class="shot">
+          <img src="Screenshot6.png" alt="Quran App Screenshot 6">
+        </div>
+
+      </div>
+    </section>
+
+    <!-- FEATURES -->
+    <section>
+      <h2 class="section-title">Why This App?</h2>
+
+      <div class="features">
+        <div class="feature">
+          <span>🎧</span>
+          High-quality Qur’an recitations by renowned reciters
+        </div>
+
+        <div class="feature">
+          <span>📖</span>
+          Clean and simple interface with no distractions
+        </div>
+
+        <div class="feature">
+          <span>🔁</span>
+          Easily repeat verses for memorization and reflection
+        </div>
+
+        <div class="feature">
+          <span>📶</span>
+          Works fully offline after first use
+        </div>
+
+        <div class="feature">
+          <span>🕌</span>
+          Designed to help you listen with focus and khushu’
+        </div>
+
+        <div class="feature">
+          <span>🤍</span>
+          Built with care for Muslims worldwide
+        </div>
+      </div>
+    </section>
+
+
+
+    <!-- TRUST -->
+    <section>
+      <div class="trust">
+        <h2>Trusted by Users Worldwide</h2>
+        <p>⭐ Rated 4.7+ on App Stores</p>
+        <p>🤲 Used daily by millions of listeners</p>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+      © 2026 Nakore Apps • Made with sincerity and purpose
+    </footer>
+
+  </div>
+
+</body>
+</html>
