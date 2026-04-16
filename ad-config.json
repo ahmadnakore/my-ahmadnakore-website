@@ -24,7 +24,7 @@
         
         "premiumPlanOrder": "Yearly,Lifetime,Monthly",
         "premiumPlanVisibility": "Yearly,Monthly,Lifetime",
-        "premiumHighlightPlan": "Yearly",
+        "premiumHighlightPlan": "Monthly",
         "showWeeklyInOtherOptions": true,
         
         "loadAds": true,
