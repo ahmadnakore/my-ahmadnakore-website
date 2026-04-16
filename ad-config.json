@@ -22,6 +22,11 @@
         "showAppOpenAds": true,
         "showBannerAds": true,
         
+        "premiumPlanOrder": "Yearly,Monthly,Lifetime",
+        "premiumPlanVisibility": "Yearly,Monthly,Lifetime",
+        "premiumHighlightPlan": "Yearly",
+        "showWeeklyInOtherOptions": true,
+        
         "loadAds": true,
         "loadInterAds": true,
         "loadRewardedAds": true,
