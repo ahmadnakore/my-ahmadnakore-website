@@ -34,7 +34,8 @@
         "loadBannerAds": true,
         
         "enableButtonEvenWithoutAds": true,
-        "showHStack": true
+        "showHStack": true,
+        "forceNonPremiumToViewAds": false
     },
     "com.ahmadnakore.Qusary": {
         "ads_per_minute": 2,
