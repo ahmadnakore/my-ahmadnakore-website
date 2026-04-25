@@ -67,7 +67,12 @@
         "loadBannerAds": true,
         
         "enableButtonEvenWithoutAds": true,
-        "showHStack": false
+        "showHStack": false,
+        
+        "interstitialLoadCount": 1,
+        "rewardedLoadCount": 1,
+        "appOpenLoadCount": 1,
+        "rewardedInterLoadCount": 1
     },
     "com.ahmadnakore.Abubakarshadir": {
         "ads_per_minute": 1,
