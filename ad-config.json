@@ -5,7 +5,7 @@
     },
     "com.ahmadnakore.Shiekhsudaisquran": {
         "adsPerMinute": 1,
-        "timeIntervalSeconds": 100,
+        "timeIntervalSeconds": 50,
         
         "ShowHomeTab": true,
         "ShowQuranTab": true,
