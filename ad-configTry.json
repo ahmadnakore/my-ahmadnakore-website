@@ -1,0 +1,112 @@
+{
+    "default": {
+        
+        "adsPerMinute": 2,
+        "timeIntervalSeconds": 60,
+        
+        "showAllAds": true,
+        "showInterAds": true,
+        "showRewardedAds": true,
+        "showAppOpenAds": true,
+        "showBannerAds": true,
+        
+        "loadAds": true,
+        "loadInterAds": true,
+        "loadRewardedAds": true,
+        "loadAppOpenAds": true,
+        "loadBannerAds": true,
+        
+        "ShowHomeTab": false,
+        "ShowQuranTab": true,
+        "ShowRecitersTab": true,
+        "ShowAzkarTab": true,
+        "ShowPrayerTimesTab": true,
+        "Show99NamesTab": false,
+        "ShowSettingsTab": true,
+        
+        "showHStack": false,
+        "enableButtonEvenWithoutAds": true,
+        
+        "premiumPlanOrder": "Yearly,Monthly,Lifetime,Weekly",
+        "premiumPlanVisibility": "Yearly,Monthly,Lifetime,Weekly",
+        "premiumHighlightPlan": "Yearly",
+        
+        "premiumPriceStyle": "weeklyFirst",
+        
+        "showSavingsPercent": false,
+        "showEquivalentWeekly": false,
+        "showEquivalentMonthly": false,
+        "showBilledAnnuallyText": false,
+        "showFreeMonthsText": false,
+        
+        "premiumProducts": [
+            
+            {
+                "productId": "yearly",
+                "visible": true,
+                "highlight": true,
+                "bestValue": false,
+                "badge": "MOST POPULAR",
+                "displayOrder": 1,
+                "showFreeTrial": true
+            },
+            
+            {
+                "productId": "monthly",
+                "visible": true,
+                "highlight": false,
+                "bestValue": true,
+                "badge": "BEST VALUE",
+                "displayOrder": 2,
+                "showFreeTrial": true
+            },
+            
+            {
+                "productId": "weekly",
+                "visible": true,
+                "highlight": false,
+                "bestValue": false,
+                "displayOrder": 3,
+                "showFreeTrial": false
+            },
+            
+            {
+                "productId": "lifetime",
+                "visible": true,
+                "highlight": false,
+                "bestValue": false,
+                "badge": "LIMITED OFFER",
+                "displayOrder": 4,
+                "showCountdown": true
+            }
+        ]
+    },
+    
+    "com.ahmadnakore.Shiekhsudaisquran": {
+        "adsPerMinute": 2,
+        "timeIntervalSeconds": 100,
+        "ShowHomeTab": true,
+        "showHStack": true,
+        "forceNonPremiumToViewAds": false
+    },
+    
+    "com.ahmadnakore.SheikhNoreen": {
+        "timeIntervalSeconds": 100
+    },
+    
+    "com.ahmadnakore.Abubakarshadir": {
+        "adsPerMinute": 1,
+        "timeIntervalSeconds": 100
+    },
+    
+    "com.ahmadnakore.AbdullahiAbbaZaria": {
+        "ShowHomeTab": true,
+        "showHStack": true,
+        "forceNonPremiumToViewAds": false,
+        
+        "interstitialLoadCount": 1,
+        "rewardedLoadCount": 1,
+        "appOpenLoadCount": 1,
+        "rewardedInterLoadCount": 1
+    }
+}
