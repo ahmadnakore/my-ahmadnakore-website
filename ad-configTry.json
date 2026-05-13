@@ -55,8 +55,8 @@
                 "visible": true,
                 "highlight": true,
                 "bestValue": false,
-                "badge": "MOST POPULAR",
-                "displayOrder": 1,
+                "badge": "POPULAR",
+                "displayOrder": 5,
                 "showFreeTrial": true
             },
             
