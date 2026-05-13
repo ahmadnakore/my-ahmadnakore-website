@@ -53,7 +53,7 @@
             {
                 "productId": "yearly2",
                 "visible": true,
-                "highlight": true,
+                "highlight": false,
                 "bestValue": false,
                 "badge": "POPULAR",
                 "displayOrder": 5,
