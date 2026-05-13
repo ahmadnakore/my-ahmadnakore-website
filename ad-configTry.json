@@ -96,7 +96,30 @@
         "timeIntervalSeconds": 100,
         "ShowHomeTab": true,
         "showHStack": true,
-        "forceNonPremiumToViewAds": false
+        "forceNonPremiumToViewAds": false,
+        "premiumProducts": [
+            
+           
+            
+            {
+                "productId": "weekly",
+                "visible": true,
+                "highlight": false,
+                "bestValue": false,
+                "displayOrder": 3,
+                "showFreeTrial": false
+            },
+            
+            {
+                "productId": "lifetime",
+                "visible": true,
+                "highlight": false,
+                "bestValue": false,
+                "badge": "LIMITED OFFER",
+                "displayOrder": 4,
+                "showCountdown": true
+            }
+        ]
     },
     
     "com.ahmadnakore.SheikhNoreen": {
