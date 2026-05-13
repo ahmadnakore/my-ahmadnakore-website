@@ -50,6 +50,15 @@
                 "displayOrder": 1,
                 "showFreeTrial": true
             },
+            {
+                "productId": "yearly2",
+                "visible": true,
+                "highlight": true,
+                "bestValue": false,
+                "badge": "MOST POPULAR",
+                "displayOrder": 1,
+                "showFreeTrial": true
+            },
             
             {
                 "productId": "monthly",
