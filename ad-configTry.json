@@ -94,36 +94,7 @@
         "timeIntervalSeconds": 100,
         "ShowHomeTab": true,
         "showHStack": true,
-        "forceNonPremiumToViewAds": false,
-        "premiumProducts": [
-            
-            {
-                "productId": "weekly",
-                "visible": true,
-                "highlight": false,
-                "bestValue": false,
-                "displayOrder": 3,
-                "showFreeTrial": false
-            },
-            
-            {
-                "productId": "lifetime",
-                "visible": true,
-                "highlight": false,
-                "bestValue": false,
-                "badge": "LIMITED OFFER",
-                "displayOrder": 4,
-                "showCountdown": true
-            },
-            {
-                "productId": "monthly",
-                "visible": true,
-                "highlight": false,
-                "bestValue": true,
-                "badge": "BEST VALUE",
-                "displayOrder": 2,
-                "showFreeTrial": true
-            }
+        "forceNonPremiumToViewAds": false
         ]
     },
     
