@@ -55,7 +55,7 @@
                 "visible": true,
                 "highlight": false,
                 "bestValue": false,
-                "badge": "POPULAR",
+                "badge": "non",
                 "displayOrder": 5,
                 "showFreeTrial": true
             },
@@ -98,8 +98,6 @@
         "showHStack": true,
         "forceNonPremiumToViewAds": false,
         "premiumProducts": [
-            
-           
             
             {
                 "productId": "weekly",
