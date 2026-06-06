@@ -42,15 +42,15 @@
             {
                 "productId": "yearly",
                 "visible": true,
-                "highlight": true,
+                "highlight": false,
                 "bestValue": false,
                 "badge": "MOST POPULAR",
-                "displayOrder": 1,
+                "displayOrder": 2,
                 "showFreeTrial": true
             },
             {
                 "productId": "yearly2",
-                "visible": true,
+                "visible": false,
                 "highlight": false,
                 "bestValue": false,
                 "badge": "non",
@@ -61,10 +61,10 @@
             {
                 "productId": "monthly",
                 "visible": true,
-                "highlight": false,
+                "highlight": true,
                 "bestValue": true,
                 "badge": "BEST VALUE",
-                "displayOrder": 2,
+                "displayOrder": 1,
                 "showFreeTrial": true
             },
             
@@ -73,7 +73,7 @@
                 "visible": true,
                 "highlight": false,
                 "bestValue": false,
-                "displayOrder": 3,
+                "displayOrder": 4,
                 "showFreeTrial": false
             },
             
@@ -83,7 +83,7 @@
                 "highlight": false,
                 "bestValue": false,
                 "badge": "LIMITED OFFER",
-                "displayOrder": 4,
+                "displayOrder": 3,
                 "showCountdown": true
             }
         ]
