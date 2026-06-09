@@ -65,7 +65,7 @@
                 "bestValue": true,
                 "badge": "BEST VALUE",
                 "displayOrder": 1,
-                "showFreeTrial": false
+                "showFreeTrial": true
             },
             
             {
