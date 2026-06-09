@@ -46,7 +46,7 @@
                 "bestValue": false,
                 "badge": "MOST POPULAR",
                 "displayOrder": 2,
-                "showFreeTrial": true
+                "showFreeTrial": false
             },
             {
                 "productId": "yearly2",
@@ -65,7 +65,7 @@
                 "bestValue": true,
                 "badge": "BEST VALUE",
                 "displayOrder": 1,
-                "showFreeTrial": false
+                "showFreeTrial": true
             },
             
             {
