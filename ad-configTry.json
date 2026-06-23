@@ -45,7 +45,7 @@
                 "highlight": false,
                 "bestValue": false,
                 "badge": "MOST POPULAR",
-                "displayOrder": 2,
+                "displayOrder": 3,
                 "showFreeTrial": false
             },
             {
@@ -64,7 +64,7 @@
                 "highlight": true,
                 "bestValue": true,
                 "badge": "BEST VALUE",
-                "displayOrder": 1,
+                "displayOrder": 2,
                 "showFreeTrial": true
             },
             
@@ -83,7 +83,7 @@
                 "highlight": false,
                 "bestValue": false,
                 "badge": "LIMITED OFFER",
-                "displayOrder": 3,
+                "displayOrder": 1,
                 "showCountdown": true
             }
         ]
