@@ -30,7 +30,7 @@
         "premiumPlanVisibility": "Yearly,Monthly,Lifetime,Weekly",
         "premiumHighlightPlan": "Yearly",
         
-        "premiumPriceStyle": "monthlyFirst",
+        "premiumPriceStyle": "classic",
         
         "showSavingsPercent": false,
         "showEquivalentWeekly": false,
@@ -64,7 +64,7 @@
                 "highlight": true,
                 "bestValue": true,
                 "badge": "BEST VALUE",
-                "displayOrder": 2,
+                "displayOrder": 1,
                 "showFreeTrial": true
             },
             
@@ -83,7 +83,7 @@
                 "highlight": false,
                 "bestValue": false,
                 "badge": "LIMITED OFFER",
-                "displayOrder": 1,
+                "displayOrder": 2,
                 "showCountdown": true
             }
         ]
