@@ -30,7 +30,7 @@
         "premiumPlanVisibility": "Yearly,Monthly,Lifetime,Weekly",
         "premiumHighlightPlan": "Yearly",
         
-        "premiumPriceStyle": "weeklyFirst",
+        "premiumPriceStyle": "monthlyFirst",
         
         "showSavingsPercent": false,
         "showEquivalentWeekly": false,
