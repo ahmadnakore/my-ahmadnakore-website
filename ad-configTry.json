@@ -32,8 +32,8 @@
         
         "premiumPriceStyle": "classic",
         
-        "showSavingsPercent": true,
-        "showEquivalentWeekly": true,
+        "showSavingsPercent": false,
+        "showEquivalentWeekly": false,
         "showEquivalentMonthly": false,
         "showBilledAnnuallyText": false,
         "showFreeMonthsText": false,
