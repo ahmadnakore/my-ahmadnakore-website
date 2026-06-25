@@ -1,0 +1,34 @@
+{
+    "version": 1,
+    "mnemonics": [
+        {
+            "id": 100,
+            "slug": "cranial-nerves",
+            "subject": "Anatomy",
+            "region": "Head and Neck",
+            "system": "Nervous System",
+            "title": "Cranial Nerves",
+            "mnemonicType": "Phrase",
+            "mnemonicText": "Oh Oh Oh To Touch And Feel Very Good Velvet AH",
+            "highlights": ["Oh","Touch","Feel"],
+            "breakdown": [],
+            "concepts": ["CN I","CN II"],
+            "keywords": ["cranial"],
+            "background": "Background",
+            "explanation": "Explanation",
+            "difficulty": 1,
+            "studyScore": 0,
+            "isPremium": false,
+            "favorite": false,
+            "reviewCount": 0,
+            "lastReviewed": "",
+            "variants": [],
+            "relatedConcepts": [],
+            "clinicalPearl": null,
+            "imageName": null,
+            "quizQuestion": null,
+            "correctAnswer": null,
+            "distractors": null
+        }
+    ]
+}
