@@ -103,7 +103,8 @@
     
     "com.ahmadnakore.Qusary": {
         "timeIntervalSeconds": 100,
-        "ShowHomeTab": true
+        "adsPerMinute": 1,
+        "ShowHomeTab": false
     },
     
     "com.ahmadnakore.Abubakarshadir": {
