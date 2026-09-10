@@ -100,9 +100,10 @@
     "com.ahmadnakore.SheikhNoreen": {
         "timeIntervalSeconds": 100
     },
+    
     "com.ahmadnakore.Qusary": {
         "timeIntervalSeconds": 100,
-        "ShowHomeTab": true,
+        "ShowHomeTab": true
     },
     
     "com.ahmadnakore.Abubakarshadir": {
