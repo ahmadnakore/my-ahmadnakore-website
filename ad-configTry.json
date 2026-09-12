@@ -107,6 +107,12 @@
         "ShowHomeTab": false
     },
     
+    "com.ahmadnakore.ShuraimShiekh": {
+        "timeIntervalSeconds": 100,
+        "adsPerMinute": 1,
+        "ShowHomeTab": true
+    },
+    
     "com.ahmadnakore.Abubakarshadir": {
         "adsPerMinute": 1,
         "timeIntervalSeconds": 100
