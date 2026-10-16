@@ -45,17 +45,17 @@
                 "highlight": false,
                 "bestValue": false,
                 "badge": "MOST POPULAR",
-                "displayOrder": 3,
+                "displayOrder": 5,
                 "showFreeTrial": false
             },
             {
                 "productId": "yearly2",
-                "visible": false,
+                "visible": true,
                 "highlight": false,
                 "bestValue": false,
-                "badge": "non",
-                "displayOrder": 5,
-                "showFreeTrial": true
+                "badge": "",
+                "displayOrder": 3,
+                "showFreeTrial": false
             },
             
             {
