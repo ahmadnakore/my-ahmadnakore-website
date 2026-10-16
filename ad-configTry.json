@@ -40,8 +40,8 @@
         
         "premiumProducts": [
             {
-                "productId": "yearly",
-                "visible": true,
+                "productId": "yearly1",
+                "visible": false,
                 "highlight": false,
                 "bestValue": false,
                 "badge": "MOST POPULAR",
@@ -49,7 +49,7 @@
                 "showFreeTrial": false
             },
             {
-                "productId": "yearly2",
+                "productId": "yearly",
                 "visible": true,
                 "highlight": false,
                 "bestValue": false,
