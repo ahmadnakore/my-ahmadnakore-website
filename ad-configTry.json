@@ -41,6 +41,64 @@
         "premiumProducts": [
             {
                 "productId": "yearly",
+                "visible": true,
+                "highlight": false,
+                "bestValue": false,
+                "badge": "MOST POPULAR",
+                "displayOrder": 3,
+                "showFreeTrial": false
+            },
+            {
+                "productId": "yearly2",
+                "visible": false,
+                "highlight": false,
+                "bestValue": false,
+                "badge": "",
+                "displayOrder": 5,
+                "showFreeTrial": false
+            },
+            
+            {
+                "productId": "monthly",
+                "visible": true,
+                "highlight": true,
+                "bestValue": true,
+                "badge": "BEST VALUE",
+                "displayOrder": 2,
+                "showFreeTrial": true
+            },
+            
+            {
+                "productId": "weekly",
+                "visible": true,
+                "highlight": false,
+                "bestValue": false,
+                "displayOrder": 4,
+                "showFreeTrial": false
+            },
+            
+            {
+                "productId": "lifetime",
+                "visible": true,
+                "highlight": false,
+                "bestValue": false,
+                "badge": "LIMITED OFFER",
+                "displayOrder": 1,
+                "showCountdown": true
+            }
+        ]
+    },
+    
+    "com.ahmadnakore.Shiekhsudaisquran": {
+        "adsPerMinute": 2,
+        "timeIntervalSeconds": 100,
+        "ShowHomeTab": true,
+        "showHStack": true,
+        "forceNonPremiumToViewAds": false,
+        
+        "premiumProducts": [
+            {
+                "productId": "yearly",
                 "visible": false,
                 "highlight": false,
                 "bestValue": false,
@@ -87,14 +145,6 @@
                 "showCountdown": true
             }
         ]
-    },
-    
-    "com.ahmadnakore.Shiekhsudaisquran": {
-        "adsPerMinute": 2,
-        "timeIntervalSeconds": 100,
-        "ShowHomeTab": true,
-        "showHStack": true,
-        "forceNonPremiumToViewAds": false
     },
     
     "com.ahmadnakore.SheikhNoreen": {
