@@ -40,7 +40,7 @@
         
         "premiumProducts": [
             {
-                "productId": "yearly1",
+                "productId": "yearly",
                 "visible": false,
                 "highlight": false,
                 "bestValue": false,
@@ -49,7 +49,7 @@
                 "showFreeTrial": false
             },
             {
-                "productId": "yearly",
+                "productId": "yearly2",
                 "visible": true,
                 "highlight": false,
                 "bestValue": false,
