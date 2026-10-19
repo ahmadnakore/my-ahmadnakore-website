@@ -1,0 +1,1712 @@
+[
+  {
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "arabic" : "الفاتحة",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/001.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 7,
+    "translation" : "The Opener",
+    "name" : "Al-Fatiha",
+    "id" : 1,
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Al-Baqara",
+    "translation" : "The Cow",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/002.mp3",
+    "type" : "medinan",
+    "arabic" : "البقرة",
+    "time_array" : [
+
+    ],
+    "id" : 2,
+    "isDownloaded" : false,
+    "total_verses" : 286
+  },
+  {
+    "arabic" : "آل عمران",
+    "name" : "Al Imran",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/003.mp3",
+    "isDownloaded" : false,
+    "total_verses" : 200,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "translation" : "Family of Imran",
+    "id" : 3
+  },
+  {
+    "name" : "An-Nisa",
+    "isDownloading" : false,
+    "id" : 4,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/004.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "total_verses" : 176,
+    "arabic" : "النساء",
+    "translation" : "The Women",
+    "type" : "medinan"
+  },
+  {
+    "type" : "medinan",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/005.mp3",
+    "name" : "Al-Maida",
+    "total_verses" : 120,
+    "translation" : "The Table Spread",
+    "id" : 5,
+    "arabic" : "المائدة",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/006.mp3",
+    "name" : "Al-Anam",
+    "total_verses" : 165,
+    "id" : 6,
+    "arabic" : "الأنعام",
+    "translation" : "The Cattle",
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Araf",
+    "id" : 7,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/007.mp3",
+    "translation" : "The Heights",
+    "isDownloaded" : false,
+    "arabic" : "الأعراف",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 206,
+    "type" : "meccan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Al-Anfal",
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Spoils of War",
+    "downloadStatus" : 0,
+    "arabic" : "الأنفال",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/008.mp3",
+    "total_verses" : 75,
+    "id" : 8
+  },
+  {
+    "id" : 9,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/009.mp3",
+    "type" : "medinan",
+    "translation" : "The Repentance",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "التوبة",
+    "name" : "At-Tawba",
+    "total_verses" : 129,
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "Jonah",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "total_verses" : 109,
+    "name" : "Yunus",
+    "arabic" : "يونس",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/010.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 10
+  },
+  {
+    "id" : 11,
+    "name" : "Hud",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/011.mp3",
+    "total_verses" : 123,
+    "translation" : "Hud",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "هود"
+  },
+  {
+    "id" : 12,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "Joseph",
+    "arabic" : "يوسف",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/012.mp3",
+    "name" : "Yusuf",
+    "total_verses" : 111,
+    "type" : "meccan",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "arabic" : "الرعد",
+    "name" : "Ar-Rad",
+    "id" : 13,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Thunder",
+    "total_verses" : 43,
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/013.mp3"
+  },
+  {
+    "type" : "meccan",
+    "name" : "Ibrahim",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/014.mp3",
+    "isDownloaded" : false,
+    "arabic" : "ابراهيم",
+    "total_verses" : 52,
+    "translation" : "Abraham",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "id" : 14
+  },
+  {
+    "name" : "Al-Hijr",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 15,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "الحجر",
+    "translation" : "The Rocky Tract",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/015.mp3",
+    "total_verses" : 99,
+    "type" : "meccan"
+  },
+  {
+    "name" : "An-Nahl",
+    "isDownloaded" : false,
+    "id" : 16,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/016.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 128,
+    "isDownloading" : false,
+    "translation" : "The Bee",
+    "arabic" : "النحل",
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "الإسراء",
+    "time_array" : [
+
+    ],
+    "translation" : "The Night Journey",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/017.mp3",
+    "total_verses" : 111,
+    "id" : 17,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "name" : "Al-Isra"
+  },
+  {
+    "arabic" : "الكهف",
+    "id" : 18,
+    "name" : "Al-Kahf",
+    "downloadStatus" : 0,
+    "total_verses" : 110,
+    "isDownloading" : false,
+    "translation" : "The Cave",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/018.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "id" : 19,
+    "isDownloaded" : false,
+    "arabic" : "مريم",
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/019.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 98,
+    "name" : "Maryam",
+    "translation" : "Mary"
+  },
+  {
+    "arabic" : "طه",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/020.mp3",
+    "total_verses" : 135,
+    "isDownloading" : false,
+    "name" : "Ta-Ha",
+    "translation" : "Ta-Ha",
+    "id" : 20,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "translation" : "The Prophets",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Anbiya",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/021.mp3",
+    "arabic" : "الأنبياء",
+    "total_verses" : 112,
+    "id" : 21
+  },
+  {
+    "translation" : "The Pilgrimage",
+    "downloadStatus" : 0,
+    "arabic" : "الحج",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/022.mp3",
+    "name" : "Al-Hajj",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "isDownloading" : false,
+    "total_verses" : 78,
+    "isDownloaded" : false,
+    "id" : 22
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Believers",
+    "isDownloaded" : false,
+    "arabic" : "المؤمنون",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/023.mp3",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "id" : 23,
+    "total_verses" : 118,
+    "name" : "Al-Muminoon"
+  },
+  {
+    "name" : "An-Nur",
+    "id" : 24,
+    "downloadStatus" : 0,
+    "translation" : "The Light",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/024.mp3",
+    "isDownloading" : false,
+    "arabic" : "النور",
+    "total_verses" : 64,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "type" : "medinan"
+  },
+  {
+    "id" : 25,
+    "arabic" : "الفرقان",
+    "name" : "Al-Furqan",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/025.mp3",
+    "type" : "meccan",
+    "total_verses" : 77,
+    "translation" : "The Criterion",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 26,
+    "isDownloading" : false,
+    "name" : "Ash-Shuara",
+    "arabic" : "الشعراء",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/026.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 227,
+    "translation" : "The Poets",
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "id" : 27,
+    "name" : "An-Naml",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/027.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 93,
+    "downloadStatus" : 0,
+    "translation" : "The Ant",
+    "isDownloading" : false,
+    "arabic" : "النمل"
+  },
+  {
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 28,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/028.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "القصص",
+    "name" : "Al-Qasas",
+    "isDownloading" : false,
+    "total_verses" : 88,
+    "translation" : "The Stories"
+  },
+  {
+    "id" : 29,
+    "isDownloaded" : false,
+    "arabic" : "العنكبوت",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/029.mp3",
+    "name" : "Al-Ankabut",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 69,
+    "translation" : "The Spider",
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "الروم",
+    "isDownloading" : false,
+    "translation" : "The Romans",
+    "name" : "Ar-Rum",
+    "total_verses" : 60,
+    "id" : 30,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/030.mp3"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "id" : 31,
+    "downloadStatus" : 0,
+    "total_verses" : 34,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/031.mp3",
+    "type" : "meccan",
+    "arabic" : "لقمان",
+    "translation" : "Luqman",
+    "name" : "Luqman",
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "name" : "As-Sajda",
+    "arabic" : "السجدة",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 30,
+    "id" : 32,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/032.mp3",
+    "translation" : "The Prostration",
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Al-Ahzab",
+    "arabic" : "الأحزاب",
+    "downloadStatus" : 0,
+    "id" : 33,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/033.mp3",
+    "translation" : "The Combined Forces",
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 73,
+    "isDownloaded" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "id" : 34,
+    "arabic" : "سبإ",
+    "total_verses" : 54,
+    "translation" : "Sheba",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/034.mp3",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Saba"
+  },
+  {
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 45,
+    "translation" : "Originator",
+    "name" : "Fatir",
+    "id" : 35,
+    "isDownloaded" : false,
+    "arabic" : "فاطر",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/035.mp3"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/036.mp3",
+    "id" : 36,
+    "type" : "meccan",
+    "total_verses" : 83,
+    "arabic" : "يس",
+    "downloadStatus" : 0,
+    "name" : "Ya Sin",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "translation" : "Ya Sin"
+  },
+  {
+    "total_verses" : 182,
+    "id" : 37,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "translation" : "Those who set the Ranks",
+    "arabic" : "الصافات",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "As-Saaffat",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/037.mp3"
+  },
+  {
+    "arabic" : "ص",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/038.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Sad",
+    "total_verses" : 88,
+    "translation" : "The Letter Saad",
+    "id" : 38,
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 39,
+    "translation" : "The Troops",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/039.mp3",
+    "arabic" : "الزمر",
+    "total_verses" : 75,
+    "name" : "Az-Zumar",
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/040.mp3",
+    "arabic" : "غافر",
+    "name" : "Ghafir",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 85,
+    "id" : 40,
+    "translation" : "The Forgiver",
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/041.mp3",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 54,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Fussilat",
+    "id" : 41,
+    "arabic" : "فصلت",
+    "translation" : "Explained in Detail"
+  },
+  {
+    "isDownloading" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "translation" : "The Consultation",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/042.mp3",
+    "name" : "Ash-Shura",
+    "id" : 42,
+    "total_verses" : 53,
+    "arabic" : "الشورى",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "Az-Zukhruf",
+    "total_verses" : 89,
+    "downloadStatus" : 0,
+    "id" : 43,
+    "arabic" : "الزخرف",
+    "translation" : "The Ornaments of Gold",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/043.mp3"
+  },
+  {
+    "arabic" : "الدخان",
+    "total_verses" : 59,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 44,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/044.mp3",
+    "type" : "meccan",
+    "name" : "Ad-Dukhan",
+    "translation" : "The Smoke"
+  },
+  {
+    "total_verses" : 37,
+    "name" : "Al-Jathiya",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/045.mp3",
+    "type" : "meccan",
+    "id" : 45,
+    "translation" : "The Crouching",
+    "arabic" : "الجاثية",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/046.mp3",
+    "name" : "Al-Ahqaf",
+    "arabic" : "الأحقاف",
+    "time_array" : [
+
+    ],
+    "total_verses" : 35,
+    "translation" : "The Wind-Curved Sandhills",
+    "isDownloading" : false,
+    "id" : 46,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/047.mp3",
+    "arabic" : "محمد",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 38,
+    "id" : 47,
+    "name" : "Muhammad",
+    "translation" : "Muhammad",
+    "type" : "medinan",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "id" : 48,
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/048.mp3",
+    "isDownloaded" : false,
+    "total_verses" : 29,
+    "type" : "medinan",
+    "translation" : "The Victory",
+    "name" : "Al-Fath",
+    "time_array" : [
+
+    ],
+    "arabic" : "الفتح"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/049.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 18,
+    "type" : "medinan",
+    "name" : "Al-Hujurat",
+    "id" : 49,
+    "isDownloading" : false,
+    "arabic" : "الحجرات",
+    "isDownloaded" : false,
+    "translation" : "The Rooms",
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "ق",
+    "type" : "meccan",
+    "total_verses" : 45,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 50,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/050.mp3",
+    "name" : "Qaf",
+    "time_array" : [
+
+    ],
+    "translation" : "The Letter Qaf"
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/051.mp3",
+    "arabic" : "الذاريات",
+    "name" : "Adh-Dhariyat",
+    "type" : "meccan",
+    "translation" : "The Winnowing Winds",
+    "isDownloading" : false,
+    "id" : 51,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 60
+  },
+  {
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/052.mp3",
+    "type" : "meccan",
+    "arabic" : "الطور",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 49,
+    "name" : "At-Tur",
+    "translation" : "The Mount",
+    "id" : 52,
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Star",
+    "type" : "meccan",
+    "id" : 53,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/053.mp3",
+    "isDownloading" : false,
+    "arabic" : "النجم",
+    "name" : "An-Najm",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 62,
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "القمر",
+    "id" : 54,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloading" : false,
+    "translation" : "The Moon",
+    "name" : "Al-Qamar",
+    "total_verses" : 55,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/054.mp3"
+  },
+  {
+    "name" : "Ar-Rahman",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/055.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "الرحمن",
+    "total_verses" : 78,
+    "downloadStatus" : 0,
+    "translation" : "The Beneficent",
+    "id" : 55,
+    "time_array" : [
+
+    ],
+    "type" : "medinan"
+  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Inevitable",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/056.mp3",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 56,
+    "arabic" : "الواقعة",
+    "name" : "Al-Waqia",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 96
+  },
+  {
+    "name" : "Al-Hadid",
+    "total_verses" : 29,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/057.mp3",
+    "arabic" : "الحديد",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "translation" : "The Iron",
+    "id" : 57,
+    "isDownloading" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/058.mp3",
+    "total_verses" : 22,
+    "name" : "Al-Mujadila",
+    "arabic" : "المجادلة",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Pleading Woman",
+    "id" : 58
+  },
+  {
+    "name" : "Al-Hashr",
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/059.mp3",
+    "isDownloaded" : false,
+    "total_verses" : 24,
+    "arabic" : "الحشر",
+    "translation" : "The Exile",
+    "id" : 59
+  },
+  {
+    "type" : "medinan",
+    "isDownloading" : false,
+    "arabic" : "الممتحنة",
+    "name" : "Al-Mumtahina",
+    "id" : 60,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "She that is to be examined",
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/060.mp3",
+    "total_verses" : 13
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/061.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "الصف",
+    "name" : "As-Saff",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "id" : 61,
+    "type" : "medinan",
+    "translation" : "The Ranks",
+    "total_verses" : 14
+  },
+  {
+    "id" : 62,
+    "translation" : "The Congregation, Friday",
+    "total_verses" : 11,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/062.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Jumua",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "arabic" : "الجمعة",
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/063.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 11,
+    "translation" : "The Hypocrites",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "id" : 63,
+    "name" : "Al-Munafiqun",
+    "arabic" : "المنافقون"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 18,
+    "isDownloading" : false,
+    "id" : 64,
+    "arabic" : "التغابن",
+    "name" : "At-Taghabun",
+    "type" : "medinan",
+    "translation" : "The Mutual Disillusion",
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/064.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "name" : "At-Talaq",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/065.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الطلاق",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "translation" : "The Divorce",
+    "type" : "medinan",
+    "total_verses" : 12,
+    "id" : 65
+  },
+  {
+    "id" : 66,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/066.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 12,
+    "translation" : "The Prohibition",
+    "downloadStatus" : 0,
+    "name" : "At-Tahrim",
+    "arabic" : "التحريم"
+  },
+  {
+    "id" : 67,
+    "isDownloaded" : false,
+    "arabic" : "الملك",
+    "downloadStatus" : 0,
+    "name" : "Al-Mulk",
+    "total_verses" : 30,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/067.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Sovereignty",
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Qalam",
+    "total_verses" : 52,
+    "arabic" : "القلم",
+    "translation" : "The Pen",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "id" : 68,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/068.mp3"
+  },
+  {
+    "arabic" : "الحاقة",
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/069.mp3",
+    "isDownloaded" : false,
+    "name" : "Al-Haaqqa",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 52,
+    "translation" : "The Reality",
+    "isDownloading" : false,
+    "id" : 69
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/070.mp3",
+    "name" : "Al-Maarij",
+    "time_array" : [
+
+    ],
+    "id" : 70,
+    "total_verses" : 44,
+    "translation" : "The Ascending Stairways",
+    "type" : "meccan",
+    "arabic" : "المعارج",
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/071.mp3",
+    "total_verses" : 28,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "نوح",
+    "translation" : "Noah",
+    "id" : 71,
+    "name" : "Nuh",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "name" : "Al-Jinn",
+    "isDownloading" : false,
+    "id" : 72,
+    "time_array" : [
+
+    ],
+    "translation" : "The Jinn",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "total_verses" : 28,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/072.mp3",
+    "arabic" : "الجن"
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "المزمل",
+    "translation" : "The Enshrouded One",
+    "downloadStatus" : 0,
+    "id" : 73,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/073.mp3",
+    "type" : "meccan",
+    "name" : "Al-Muzzammil",
+    "total_verses" : 20
+  },
+  {
+    "total_verses" : 56,
+    "type" : "meccan",
+    "arabic" : "المدثر",
+    "name" : "Al-Muddathir",
+    "id" : 74,
+    "translation" : "The Cloaked One",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/074.mp3"
+  },
+  {
+    "id" : 75,
+    "arabic" : "القيامة",
+    "name" : "Al-Qiyama",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/075.mp3",
+    "total_verses" : 40,
+    "translation" : "The Resurrection",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "الانسان",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 76,
+    "isDownloading" : false,
+    "name" : "Al-Insan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Man",
+    "total_verses" : 31,
+    "type" : "medinan",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/076.mp3"
+  },
+  {
+    "id" : 77,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "total_verses" : 50,
+    "translation" : "The Emissaries",
+    "arabic" : "المرسلات",
+    "downloadStatus" : 0,
+    "name" : "Al-Mursalat",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/077.mp3"
+  },
+  {
+    "translation" : "The Tidings",
+    "id" : 78,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/078.mp3",
+    "arabic" : "النبإ",
+    "time_array" : [
+
+    ],
+    "total_verses" : 40,
+    "name" : "An-Naba",
+    "type" : "meccan"
+  },
+  {
+    "name" : "An-Naziat",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 79,
+    "total_verses" : 46,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "arabic" : "النازعات",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/079.mp3",
+    "translation" : "Those who drag forth"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/080.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 42,
+    "translation" : "He Frowned",
+    "downloadStatus" : 0,
+    "name" : "Abasa",
+    "type" : "meccan",
+    "id" : 80,
+    "arabic" : "عبس",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "At-Takwir",
+    "id" : 81,
+    "translation" : "The Overthrowing",
+    "type" : "meccan",
+    "arabic" : "التكوير",
+    "total_verses" : 29,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/081.mp3"
+  },
+  {
+    "translation" : "The Cleaving",
+    "arabic" : "الإنفطار",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Infitar",
+    "id" : 82,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/082.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 19
+  },
+  {
+    "isDownloading" : false,
+    "id" : 83,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/083.mp3",
+    "total_verses" : 36,
+    "translation" : "The Defrauding",
+    "downloadStatus" : 0,
+    "name" : "Al-Mutaffifin",
+    "arabic" : "المطففين",
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "الإنشقاق",
+    "time_array" : [
+
+    ],
+    "translation" : "The Sundering",
+    "total_verses" : 25,
+    "id" : 84,
+    "name" : "Al-Inshiqaq",
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/084.mp3",
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/085.mp3",
+    "name" : "Al-Burooj",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "id" : 85,
+    "total_verses" : 22,
+    "type" : "meccan",
+    "arabic" : "البروج",
+    "translation" : "The Mansions of the Stars",
+    "isDownloaded" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 17,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/086.mp3",
+    "id" : 86,
+    "isDownloading" : false,
+    "name" : "At-Tariq",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "translation" : "The Nightcommer",
+    "isDownloaded" : false,
+    "arabic" : "الطارق"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/087.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 19,
+    "translation" : "The Most High",
+    "type" : "meccan",
+    "id" : 87,
+    "isDownloading" : false,
+    "name" : "Al-Ala",
+    "arabic" : "الأعلى",
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 88,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/088.mp3",
+    "name" : "Al-Ghashiyah",
+    "time_array" : [
+
+    ],
+    "translation" : "The Overwhelming",
+    "total_verses" : 26,
+    "isDownloaded" : false,
+    "arabic" : "الغاشية",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "الفجر",
+    "time_array" : [
+
+    ],
+    "total_verses" : 30,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/089.mp3",
+    "name" : "Al-Fajr",
+    "translation" : "The Dawn",
+    "downloadStatus" : 0,
+    "id" : 89,
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "id" : 90,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/090.mp3",
+    "arabic" : "البلد",
+    "total_verses" : 20,
+    "isDownloaded" : false,
+    "name" : "Al-Balad",
+    "time_array" : [
+
+    ],
+    "translation" : "The City",
+    "type" : "meccan",
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "الشمس",
+    "translation" : "The Sun",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "Ash-Shams",
+    "downloadStatus" : 0,
+    "total_verses" : 15,
+    "isDownloading" : false,
+    "id" : 91,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/091.mp3",
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/092.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 21,
+    "translation" : "The Night",
+    "id" : 92,
+    "arabic" : "الليل",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Al-Lail"
+  },
+  {
+    "isDownloading" : false,
+    "id" : 93,
+    "downloadStatus" : 0,
+    "total_verses" : 11,
+    "isDownloaded" : false,
+    "name" : "Ad-Dhuha",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/093.mp3",
+    "arabic" : "الضحى",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "translation" : "The Morning Hours"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 94,
+    "total_verses" : 8,
+    "isDownloading" : false,
+    "arabic" : "الشرح",
+    "downloadStatus" : 0,
+    "name" : "Al-Inshirah",
+    "time_array" : [
+
+    ],
+    "translation" : "The Relief",
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/094.mp3"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "التين",
+    "total_verses" : 8,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "At-Tin",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/095.mp3",
+    "translation" : "The Fig",
+    "isDownloaded" : false,
+    "id" : 95,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 96,
+    "arabic" : "العلق",
+    "name" : "Al-Alaq",
+    "translation" : "The Clot",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/096.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 19,
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Power",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/097.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 97,
+    "isDownloaded" : false,
+    "arabic" : "القدر",
+    "name" : "Al-Qadr",
+    "total_verses" : 5
+  },
+  {
+    "translation" : "The Clear Proof",
+    "name" : "Al-Bayyina",
+    "total_verses" : 8,
+    "arabic" : "البينة",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/098.mp3",
+    "isDownloading" : false,
+    "id" : 98,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Az-Zalzala",
+    "total_verses" : 8,
+    "downloadStatus" : 0,
+    "translation" : "The Earthquake",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "arabic" : "الزلزلة",
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/099.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 99
+  },
+  {
+    "type" : "meccan",
+    "arabic" : "العاديات",
+    "total_verses" : 11,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/100.mp3",
+    "name" : "Al-Adiyat",
+    "time_array" : [
+
+    ],
+    "id" : 100,
+    "translation" : "The Courser",
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 101,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/101.mp3",
+    "isDownloaded" : false,
+    "total_verses" : 11,
+    "type" : "meccan",
+    "arabic" : "القارعة",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Qaria",
+    "isDownloading" : false,
+    "translation" : "The Calamity"
+  },
+  {
+    "arabic" : "التكاثر",
+    "isDownloading" : false,
+    "translation" : "The Rivalry in world increase",
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/102.mp3",
+    "type" : "meccan",
+    "name" : "At-Takathur",
+    "id" : 102,
+    "total_verses" : 8,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false
+  },
+  {
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "translation" : "The Declining Day",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "id" : 103,
+    "name" : "Al-Asr",
+    "isDownloading" : false,
+    "arabic" : "العصر",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/103.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 9,
+    "time_array" : [
+
+    ],
+    "id" : 104,
+    "name" : "Al-Humaza",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/104.mp3",
+    "translation" : "The Traducer",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الهمزة",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "الفيل",
+    "time_array" : [
+
+    ],
+    "total_verses" : 5,
+    "id" : 105,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/105.mp3",
+    "isDownloaded" : false,
+    "name" : "Al-Fil",
+    "downloadStatus" : 0,
+    "translation" : "The Elephant",
+    "isDownloading" : false,
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "قريش",
+    "downloadStatus" : 0,
+    "id" : 106,
+    "name" : "Quraysh",
+    "translation" : "Quraysh",
+    "type" : "meccan",
+    "total_verses" : 4,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/106.mp3"
+  },
+  {
+    "downloadStatus" : 0,
+    "name" : "Al-Maun",
+    "type" : "meccan",
+    "total_verses" : 7,
+    "id" : 107,
+    "arabic" : "الماعون",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "The Small kindnesses",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/107.mp3"
+  },
+  {
+    "id" : 108,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/108.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Kawthar",
+    "time_array" : [
+
+    ],
+    "arabic" : "الكوثر",
+    "translation" : "The Abundance",
+    "total_verses" : 3,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "name" : "Al-Kafirun",
+    "arabic" : "الكافرون",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "id" : 109,
+    "isDownloaded" : false,
+    "total_verses" : 6,
+    "translation" : "The Disbelievers",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/109.mp3"
+  },
+  {
+    "translation" : "The Divine Support",
+    "type" : "medinan",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/110.mp3",
+    "time_array" : [
+
+    ],
+    "name" : "An-Nasr",
+    "id" : 110,
+    "isDownloaded" : false,
+    "total_verses" : 3,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "النصر"
+  },
+  {
+    "downloadStatus" : 0,
+    "name" : "Al-Masad",
+    "id" : 111,
+    "translation" : "The Palm Fiber",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/111.mp3",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 5,
+    "arabic" : "المسد"
+  },
+  {
+    "total_verses" : 4,
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/112.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "id" : 112,
+    "name" : "Al-Ikhlas",
+    "time_array" : [
+
+    ],
+    "translation" : "The Sincerity",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الإخلاص"
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الفلق",
+    "type" : "meccan",
+    "name" : "Al-Falaq",
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/113.mp3",
+    "id" : 113,
+    "total_verses" : 5,
+    "isDownloaded" : false,
+    "translation" : "The Daybreak",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/114.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 114,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 6,
+    "name" : "Al-Nas",
+    "type" : "meccan",
+    "arabic" : "الناس",
+    "translation" : "Mankind"
+  }
+]

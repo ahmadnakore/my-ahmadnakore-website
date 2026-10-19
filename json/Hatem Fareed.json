@@ -1,0 +1,1712 @@
+[
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Opener",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/001.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الفاتحة",
+    "isDownloading" : false,
+    "name" : "Al-Fatiha",
+    "type" : "meccan",
+    "total_verses" : 7,
+    "id" : 1
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 2,
+    "name" : "Al-Baqara",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 286,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/002.mp3",
+    "arabic" : "البقرة",
+    "translation" : "The Cow",
+    "downloadStatus" : 0,
+    "type" : "medinan"
+  },
+  {
+    "id" : 3,
+    "name" : "Al Imran",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "Family of Imran",
+    "type" : "medinan",
+    "total_verses" : 200,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/003.mp3",
+    "isDownloading" : false,
+    "arabic" : "آل عمران"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "النساء",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/004.mp3",
+    "isDownloaded" : false,
+    "translation" : "The Women",
+    "type" : "medinan",
+    "name" : "An-Nisa",
+    "id" : 4,
+    "time_array" : [
+
+    ],
+    "total_verses" : 176
+  },
+  {
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "arabic" : "المائدة",
+    "name" : "Al-Maida",
+    "total_verses" : 120,
+    "isDownloading" : false,
+    "translation" : "The Table Spread",
+    "isDownloaded" : false,
+    "id" : 5,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/005.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Anam",
+    "time_array" : [
+
+    ],
+    "id" : 6,
+    "total_verses" : 165,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/006.mp3",
+    "isDownloading" : false,
+    "translation" : "The Cattle",
+    "arabic" : "الأنعام"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/007.mp3",
+    "arabic" : "الأعراف",
+    "name" : "Al-Araf",
+    "time_array" : [
+
+    ],
+    "translation" : "The Heights",
+    "id" : 7,
+    "total_verses" : 206
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "الأنفال",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/008.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Anfal",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "id" : 8,
+    "time_array" : [
+
+    ],
+    "total_verses" : 75,
+    "translation" : "The Spoils of War"
+  },
+  {
+    "translation" : "The Repentance",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "id" : 9,
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/009.mp3",
+    "name" : "At-Tawba",
+    "arabic" : "التوبة",
+    "time_array" : [
+
+    ],
+    "total_verses" : 129
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 109,
+    "arabic" : "يونس",
+    "id" : 10,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Yunus",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/010.mp3",
+    "translation" : "Jonah",
+    "isDownloaded" : false
+  },
+  {
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/011.mp3",
+    "arabic" : "هود",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Hud",
+    "time_array" : [
+
+    ],
+    "id" : 11,
+    "total_verses" : 123,
+    "translation" : "Hud"
+  },
+  {
+    "name" : "Yusuf",
+    "isDownloaded" : false,
+    "total_verses" : 111,
+    "translation" : "Joseph",
+    "isDownloading" : false,
+    "arabic" : "يوسف",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/012.mp3",
+    "id" : 12,
+    "downloadStatus" : 0,
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Thunder",
+    "arabic" : "الرعد",
+    "type" : "medinan",
+    "id" : 13,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/013.mp3",
+    "downloadStatus" : 0,
+    "name" : "Ar-Rad",
+    "total_verses" : 43
+  },
+  {
+    "id" : 14,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "ابراهيم",
+    "translation" : "Abraham",
+    "isDownloading" : false,
+    "total_verses" : 52,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/014.mp3",
+    "name" : "Ibrahim"
+  },
+  {
+    "arabic" : "الحجر",
+    "time_array" : [
+
+    ],
+    "id" : 15,
+    "translation" : "The Rocky Tract",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/015.mp3",
+    "total_verses" : 99,
+    "type" : "meccan",
+    "name" : "Al-Hijr"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "name" : "An-Nahl",
+    "total_verses" : 128,
+    "arabic" : "النحل",
+    "isDownloaded" : false,
+    "id" : 16,
+    "translation" : "The Bee",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/016.mp3",
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Isra",
+    "id" : 17,
+    "arabic" : "الإسراء",
+    "total_verses" : 111,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/017.mp3",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "translation" : "The Night Journey"
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 110,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/018.mp3",
+    "arabic" : "الكهف",
+    "translation" : "The Cave",
+    "isDownloaded" : false,
+    "id" : 18,
+    "downloadStatus" : 0,
+    "name" : "Al-Kahf",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/019.mp3",
+    "id" : 19,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "مريم",
+    "name" : "Maryam",
+    "total_verses" : 98,
+    "translation" : "Mary"
+  },
+  {
+    "id" : 20,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "Ta-Ha",
+    "name" : "Ta-Ha",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/020.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "طه",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "total_verses" : 135
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Anbiya",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/021.mp3",
+    "isDownloading" : false,
+    "id" : 21,
+    "translation" : "The Prophets",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "arabic" : "الأنبياء",
+    "total_verses" : 112
+  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Pilgrimage",
+    "arabic" : "الحج",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/022.mp3",
+    "name" : "Al-Hajj",
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "id" : 22,
+    "total_verses" : 78,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 118,
+    "translation" : "The Believers",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/023.mp3",
+    "name" : "Al-Muminoon",
+    "arabic" : "المؤمنون",
+    "id" : 23
+  },
+  {
+    "type" : "medinan",
+    "isDownloading" : false,
+    "arabic" : "النور",
+    "id" : 24,
+    "name" : "An-Nur",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/024.mp3",
+    "total_verses" : 64,
+    "translation" : "The Light"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/025.mp3",
+    "downloadStatus" : 0,
+    "translation" : "The Criterion",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 77,
+    "name" : "Al-Furqan",
+    "isDownloading" : false,
+    "arabic" : "الفرقان",
+    "id" : 25,
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 26,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/026.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Poets",
+    "isDownloaded" : false,
+    "name" : "Ash-Shuara",
+    "arabic" : "الشعراء",
+    "total_verses" : 227
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/027.mp3",
+    "arabic" : "النمل",
+    "id" : 27,
+    "time_array" : [
+
+    ],
+    "total_verses" : 93,
+    "type" : "meccan",
+    "name" : "An-Naml",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Ant"
+  },
+  {
+    "translation" : "The Stories",
+    "id" : 28,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Qasas",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/028.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "القصص",
+    "isDownloaded" : false,
+    "total_verses" : 88,
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Ankabut",
+    "total_verses" : 69,
+    "id" : 29,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "translation" : "The Spider",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/029.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "العنكبوت"
+  },
+  {
+    "name" : "Ar-Rum",
+    "total_verses" : 60,
+    "downloadStatus" : 0,
+    "translation" : "The Romans",
+    "id" : 30,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/030.mp3",
+    "isDownloading" : false,
+    "arabic" : "الروم",
+    "isDownloaded" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 34,
+    "arabic" : "لقمان",
+    "isDownloading" : false,
+    "name" : "Luqman",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 31,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/031.mp3",
+    "translation" : "Luqman"
+  },
+  {
+    "translation" : "The Prostration",
+    "id" : 32,
+    "isDownloaded" : false,
+    "total_verses" : 30,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/032.mp3",
+    "arabic" : "السجدة",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "name" : "As-Sajda"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 33,
+    "total_verses" : 73,
+    "isDownloaded" : false,
+    "name" : "Al-Ahzab",
+    "time_array" : [
+
+    ],
+    "arabic" : "الأحزاب",
+    "type" : "medinan",
+    "translation" : "The Combined Forces",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/033.mp3"
+  },
+  {
+    "arabic" : "سبإ",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/034.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 54,
+    "translation" : "Sheba",
+    "id" : 34,
+    "time_array" : [
+
+    ],
+    "name" : "Saba"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 45,
+    "type" : "meccan",
+    "arabic" : "فاطر",
+    "translation" : "Originator",
+    "isDownloaded" : false,
+    "name" : "Fatir",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/035.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 35
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 36,
+    "name" : "Ya Sin",
+    "total_verses" : 83,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/036.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "Ya Sin",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "يس"
+  },
+  {
+    "name" : "As-Saaffat",
+    "translation" : "Those who set the Ranks",
+    "id" : 37,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/037.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "الصافات",
+    "total_verses" : 182,
+    "type" : "meccan",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The Letter Saad",
+    "isDownloading" : false,
+    "id" : 38,
+    "name" : "Sad",
+    "type" : "meccan",
+    "arabic" : "ص",
+    "total_verses" : 88,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/038.mp3"
+  },
+  {
+    "name" : "Az-Zumar",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "arabic" : "الزمر",
+    "time_array" : [
+
+    ],
+    "total_verses" : 75,
+    "id" : 39,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/039.mp3",
+    "translation" : "The Troops"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/040.mp3",
+    "name" : "Ghafir",
+    "time_array" : [
+
+    ],
+    "id" : 40,
+    "arabic" : "غافر",
+    "total_verses" : 85,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Forgiver",
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 54,
+    "id" : 41,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/041.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Fussilat",
+    "arabic" : "فصلت",
+    "translation" : "Explained in Detail"
+  },
+  {
+    "arabic" : "الشورى",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/042.mp3",
+    "id" : 42,
+    "name" : "Ash-Shura",
+    "time_array" : [
+
+    ],
+    "translation" : "The Consultation",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 53,
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "الزخرف",
+    "time_array" : [
+
+    ],
+    "total_verses" : 89,
+    "translation" : "The Ornaments of Gold",
+    "name" : "Az-Zukhruf",
+    "isDownloaded" : false,
+    "id" : 43,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/043.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "الدخان",
+    "name" : "Ad-Dukhan",
+    "total_verses" : 59,
+    "id" : 44,
+    "translation" : "The Smoke",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/044.mp3",
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 37,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "الجاثية",
+    "translation" : "The Crouching",
+    "downloadStatus" : 0,
+    "id" : 45,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/045.mp3",
+    "name" : "Al-Jathiya",
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/046.mp3",
+    "arabic" : "الأحقاف",
+    "time_array" : [
+
+    ],
+    "total_verses" : 35,
+    "isDownloading" : false,
+    "translation" : "The Wind-Curved Sandhills",
+    "id" : 46,
+    "downloadStatus" : 0,
+    "name" : "Al-Ahqaf",
+    "isDownloaded" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 47,
+    "translation" : "Muhammad",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/047.mp3",
+    "arabic" : "محمد",
+    "name" : "Muhammad",
+    "total_verses" : 38,
+    "type" : "medinan"
+  },
+  {
+    "total_verses" : 29,
+    "isDownloaded" : false,
+    "name" : "Al-Fath",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/048.mp3",
+    "isDownloading" : false,
+    "translation" : "The Victory",
+    "id" : 48,
+    "arabic" : "الفتح",
+    "type" : "medinan"
+  },
+  {
+    "arabic" : "الحجرات",
+    "downloadStatus" : 0,
+    "total_verses" : 18,
+    "translation" : "The Rooms",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "isDownloading" : false,
+    "name" : "Al-Hujurat",
+    "id" : 49,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/049.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 50,
+    "type" : "meccan",
+    "arabic" : "ق",
+    "name" : "Qaf",
+    "total_verses" : 45,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/050.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Letter Qaf",
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 60,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "translation" : "The Winnowing Winds",
+    "id" : 51,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/051.mp3",
+    "arabic" : "الذاريات",
+    "name" : "Adh-Dhariyat",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 49,
+    "id" : 52,
+    "arabic" : "الطور",
+    "type" : "meccan",
+    "name" : "At-Tur",
+    "translation" : "The Mount",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/052.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "id" : 53,
+    "arabic" : "النجم",
+    "time_array" : [
+
+    ],
+    "total_verses" : 62,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/053.mp3",
+    "name" : "An-Najm",
+    "translation" : "The Star",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/054.mp3",
+    "id" : 54,
+    "name" : "Al-Qamar",
+    "downloadStatus" : 0,
+    "total_verses" : 55,
+    "translation" : "The Moon",
+    "type" : "meccan",
+    "arabic" : "القمر",
+    "isDownloading" : false
+  },
+  {
+    "translation" : "The Beneficent",
+    "total_verses" : 78,
+    "arabic" : "الرحمن",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Ar-Rahman",
+    "type" : "medinan",
+    "id" : 55,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/055.mp3"
+  },
+  {
+    "id" : 56,
+    "total_verses" : 96,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "translation" : "The Inevitable",
+    "isDownloaded" : false,
+    "arabic" : "الواقعة",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/056.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Waqia",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 29,
+    "name" : "Al-Hadid",
+    "type" : "medinan",
+    "id" : 57,
+    "downloadStatus" : 0,
+    "arabic" : "الحديد",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/057.mp3",
+    "translation" : "The Iron"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "id" : 58,
+    "arabic" : "المجادلة",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/058.mp3",
+    "name" : "Al-Mujadila",
+    "translation" : "The Pleading Woman",
+    "type" : "medinan",
+    "total_verses" : 22,
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Exile",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/059.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 24,
+    "isDownloading" : false,
+    "name" : "Al-Hashr",
+    "type" : "medinan",
+    "arabic" : "الحشر",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 59
+  },
+  {
+    "arabic" : "الممتحنة",
+    "downloadStatus" : 0,
+    "name" : "Al-Mumtahina",
+    "translation" : "She that is to be examined",
+    "isDownloading" : false,
+    "id" : 60,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/060.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 13,
+    "type" : "medinan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "id" : 61,
+    "translation" : "The Ranks",
+    "type" : "medinan",
+    "total_verses" : 14,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/061.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "الصف",
+    "name" : "As-Saff"
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "arabic" : "الجمعة",
+    "isDownloading" : false,
+    "name" : "Al-Jumua",
+    "total_verses" : 11,
+    "translation" : "The Congregation, Friday",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/062.mp3",
+    "id" : 62
+  },
+  {
+    "id" : 63,
+    "downloadStatus" : 0,
+    "name" : "Al-Munafiqun",
+    "total_verses" : 11,
+    "isDownloading" : false,
+    "arabic" : "المنافقون",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/063.mp3",
+    "translation" : "The Hypocrites",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 64,
+    "translation" : "The Mutual Disillusion",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "التغابن",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/064.mp3",
+    "name" : "At-Taghabun",
+    "total_verses" : 18
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "الطلاق",
+    "translation" : "The Divorce",
+    "name" : "At-Talaq",
+    "time_array" : [
+
+    ],
+    "total_verses" : 12,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "id" : 65,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/065.mp3"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 12,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/066.mp3",
+    "id" : 66,
+    "translation" : "The Prohibition",
+    "name" : "At-Tahrim",
+    "isDownloading" : false,
+    "arabic" : "التحريم",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "name" : "Al-Mulk",
+    "arabic" : "الملك",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/067.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "translation" : "The Sovereignty",
+    "id" : 67,
+    "type" : "meccan",
+    "total_verses" : 30
+  },
+  {
+    "translation" : "The Pen",
+    "arabic" : "القلم",
+    "id" : 68,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "Al-Qalam",
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/068.mp3",
+    "total_verses" : 52
+  },
+  {
+    "time_array" : [
+
+    ],
+    "arabic" : "الحاقة",
+    "isDownloaded" : false,
+    "id" : 69,
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/069.mp3",
+    "name" : "Al-Haaqqa",
+    "total_verses" : 52,
+    "translation" : "The Reality",
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 70,
+    "translation" : "The Ascending Stairways",
+    "total_verses" : 44,
+    "name" : "Al-Maarij",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/070.mp3",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "arabic" : "المعارج",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "Noah",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/071.mp3",
+    "name" : "Nuh",
+    "type" : "meccan",
+    "id" : 71,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "نوح",
+    "total_verses" : 28
+  },
+  {
+    "id" : 72,
+    "arabic" : "الجن",
+    "isDownloading" : false,
+    "name" : "Al-Jinn",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/072.mp3",
+    "total_verses" : 28,
+    "translation" : "The Jinn",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "id" : 73,
+    "name" : "Al-Muzzammil",
+    "isDownloading" : false,
+    "total_verses" : 20,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Enshrouded One",
+    "downloadStatus" : 0,
+    "arabic" : "المزمل",
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/073.mp3"
+  },
+  {
+    "translation" : "The Cloaked One",
+    "total_verses" : 56,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 74,
+    "isDownloaded" : false,
+    "arabic" : "المدثر",
+    "name" : "Al-Muddathir",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/074.mp3"
+  },
+  {
+    "id" : 75,
+    "translation" : "The Resurrection",
+    "arabic" : "القيامة",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/075.mp3",
+    "name" : "Al-Qiyama",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 40,
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "الانسان",
+    "id" : 76,
+    "name" : "Al-Insan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/076.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 31,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "translation" : "The Man",
+    "type" : "medinan"
+  },
+  {
+    "type" : "meccan",
+    "id" : 77,
+    "isDownloaded" : false,
+    "arabic" : "المرسلات",
+    "total_verses" : 50,
+    "name" : "Al-Mursalat",
+    "translation" : "The Emissaries",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/077.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 78,
+    "arabic" : "النبإ",
+    "name" : "An-Naba",
+    "total_verses" : 40,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "translation" : "The Tidings",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/078.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/079.mp3",
+    "total_verses" : 46,
+    "type" : "meccan",
+    "translation" : "Those who drag forth",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 79,
+    "arabic" : "النازعات",
+    "name" : "An-Naziat"
+  },
+  {
+    "id" : 80,
+    "name" : "Abasa",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "He Frowned",
+    "type" : "meccan",
+    "arabic" : "عبس",
+    "downloadStatus" : 0,
+    "total_verses" : 42,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/080.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "The Overthrowing",
+    "arabic" : "التكوير",
+    "downloadStatus" : 0,
+    "name" : "At-Takwir",
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/081.mp3",
+    "isDownloaded" : false,
+    "id" : 81,
+    "total_verses" : 29,
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 19,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/082.mp3",
+    "arabic" : "الإنفطار",
+    "translation" : "The Cleaving",
+    "id" : 82,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "name" : "Al-Infitar",
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Defrauding",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/083.mp3",
+    "downloadStatus" : 0,
+    "id" : 83,
+    "arabic" : "المطففين",
+    "total_verses" : 36,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "name" : "Al-Mutaffifin"
+  },
+  {
+    "translation" : "The Sundering",
+    "arabic" : "الإنشقاق",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 25,
+    "type" : "meccan",
+    "name" : "Al-Inshiqaq",
+    "id" : 84,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/084.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Mansions of the Stars",
+    "name" : "Al-Burooj",
+    "time_array" : [
+
+    ],
+    "id" : 85,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "total_verses" : 22,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/085.mp3",
+    "arabic" : "البروج",
+    "isDownloaded" : false
+  },
+  {
+    "name" : "At-Tariq",
+    "translation" : "The Nightcommer",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/086.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "id" : 86,
+    "total_verses" : 17,
+    "isDownloaded" : false,
+    "arabic" : "الطارق",
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Al-Ala",
+    "isDownloaded" : false,
+    "id" : 87,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/087.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 19,
+    "translation" : "The Most High",
+    "isDownloading" : false,
+    "arabic" : "الأعلى",
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Al-Ghashiyah",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/088.mp3",
+    "downloadStatus" : 0,
+    "translation" : "The Overwhelming",
+    "isDownloading" : false,
+    "id" : 88,
+    "arabic" : "الغاشية",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "total_verses" : 26
+  },
+  {
+    "translation" : "The Dawn",
+    "type" : "meccan",
+    "id" : 89,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/089.mp3",
+    "arabic" : "الفجر",
+    "isDownloading" : false,
+    "name" : "Al-Fajr",
+    "total_verses" : 30
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 90,
+    "time_array" : [
+
+    ],
+    "translation" : "The City",
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/090.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "البلد",
+    "name" : "Al-Balad",
+    "total_verses" : 20
+  },
+  {
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "name" : "Ash-Shams",
+    "id" : 91,
+    "isDownloading" : false,
+    "total_verses" : 15,
+    "translation" : "The Sun",
+    "arabic" : "الشمس",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/091.mp3",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/092.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Night",
+    "arabic" : "الليل",
+    "isDownloaded" : false,
+    "total_verses" : 21,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Lail",
+    "id" : 92
+  },
+  {
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/093.mp3",
+    "name" : "Ad-Dhuha",
+    "id" : 93,
+    "arabic" : "الضحى",
+    "total_verses" : 11,
+    "translation" : "The Morning Hours",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Inshirah",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "id" : 94,
+    "translation" : "The Relief",
+    "total_verses" : 8,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/094.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "الشرح",
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Fig",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "التين",
+    "time_array" : [
+
+    ],
+    "name" : "At-Tin",
+    "total_verses" : 8,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/095.mp3",
+    "id" : 95,
+    "downloadStatus" : 0,
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/096.mp3",
+    "isDownloaded" : false,
+    "arabic" : "العلق",
+    "id" : 96,
+    "translation" : "The Clot",
+    "name" : "Al-Alaq",
+    "total_verses" : 19,
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/097.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Qadr",
+    "arabic" : "القدر",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 97,
+    "downloadStatus" : 0,
+    "total_verses" : 5,
+    "translation" : "The Power",
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 8,
+    "id" : 98,
+    "arabic" : "البينة",
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/098.mp3",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Clear Proof",
+    "isDownloaded" : false,
+    "name" : "Al-Bayyina"
+  },
+  {
+    "arabic" : "الزلزلة",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/099.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Az-Zalzala",
+    "type" : "medinan",
+    "id" : 99,
+    "total_verses" : 8,
+    "translation" : "The Earthquake"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "id" : 100,
+    "name" : "Al-Adiyat",
+    "total_verses" : 11,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/100.mp3",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "translation" : "The Courser",
+    "isDownloaded" : false,
+    "arabic" : "العاديات"
+  },
+  {
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 101,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/101.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Calamity",
+    "downloadStatus" : 0,
+    "name" : "Al-Qaria",
+    "arabic" : "القارعة",
+    "total_verses" : 11
+  },
+  {
+    "id" : 102,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/102.mp3",
+    "total_verses" : 8,
+    "downloadStatus" : 0,
+    "arabic" : "التكاثر",
+    "name" : "At-Takathur",
+    "translation" : "The Rivalry in world increase",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Asr",
+    "downloadStatus" : 0,
+    "translation" : "The Declining Day",
+    "type" : "meccan",
+    "arabic" : "العصر",
+    "total_verses" : 3,
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/103.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 103,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/104.mp3",
+    "id" : 104,
+    "isDownloaded" : false,
+    "translation" : "The Traducer",
+    "arabic" : "الهمزة",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Al-Humaza",
+    "total_verses" : 9,
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/105.mp3",
+    "name" : "Al-Fil",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 105,
+    "total_verses" : 5,
+    "translation" : "The Elephant",
+    "isDownloading" : false,
+    "arabic" : "الفيل"
+  },
+  {
+    "total_verses" : 4,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/106.mp3",
+    "translation" : "Quraysh",
+    "id" : 106,
+    "name" : "Quraysh",
+    "downloadStatus" : 0,
+    "arabic" : "قريش",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 107,
+    "translation" : "The Small kindnesses",
+    "total_verses" : 7,
+    "arabic" : "الماعون",
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/107.mp3",
+    "name" : "Al-Maun",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "الكوثر",
+    "total_verses" : 3,
+    "translation" : "The Abundance",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Al-Kawthar",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/108.mp3",
+    "id" : 108,
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Kafirun",
+    "isDownloading" : false,
+    "arabic" : "الكافرون",
+    "total_verses" : 6,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/109.mp3",
+    "translation" : "The Disbelievers",
+    "id" : 109,
+    "downloadStatus" : 0,
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/110.mp3",
+    "arabic" : "النصر",
+    "downloadStatus" : 0,
+    "name" : "An-Nasr",
+    "translation" : "The Divine Support",
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 110
+  },
+  {
+    "isDownloading" : false,
+    "id" : 111,
+    "downloadStatus" : 0,
+    "name" : "Al-Masad",
+    "time_array" : [
+
+    ],
+    "translation" : "The Palm Fiber",
+    "total_verses" : 5,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/111.mp3",
+    "arabic" : "المسد"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/112.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "The Sincerity",
+    "isDownloading" : false,
+    "id" : 112,
+    "arabic" : "الإخلاص",
+    "type" : "meccan",
+    "name" : "Al-Ikhlas",
+    "total_verses" : 4
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "الفلق",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/113.mp3",
+    "isDownloaded" : false,
+    "translation" : "The Daybreak",
+    "downloadStatus" : 0,
+    "id" : 113,
+    "time_array" : [
+
+    ],
+    "total_verses" : 5,
+    "type" : "meccan",
+    "name" : "Al-Falaq"
+  },
+  {
+    "translation" : "Mankind",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Al-Nas",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 6,
+    "arabic" : "الناس",
+    "link" : "https://cdn.mp3quran.net/audio/hatem-waer/r1/114.mp3",
+    "isDownloaded" : false,
+    "id" : 114
+  }
+]
