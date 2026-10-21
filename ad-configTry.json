@@ -168,6 +168,17 @@
         "timeIntervalSeconds": 100
     },
     
+    "com.ahmadnakore.AbdullahAliJabir": {
+        "adsPerMinute": 1,
+        "timeIntervalSeconds": 100,
+        "ShowHomeTab": true
+    },
+    
+    "com.ahmadnakore.YaseerAlDossari": {
+        "adsPerMinute": 1,
+        "timeIntervalSeconds": 100
+    },
+    
     "com.ahmadnakore.AbdullahiAbbaZaria": {
         "ShowHomeTab": true,
         "showHStack": true,
