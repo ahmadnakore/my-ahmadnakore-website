@@ -173,6 +173,11 @@
         "timeIntervalSeconds": 100,
         "ShowHomeTab": true
     },
+    "com.ahmadnakore.SalahBukhatir": {
+        "adsPerMinute": 1,
+        "timeIntervalSeconds": 100,
+        "ShowHomeTab": true
+    },
     
     "com.ahmadnakore.YaseerAlDossari": {
         "adsPerMinute": 1,
