@@ -1,0 +1,1713 @@
+[
+    {
+        "translation" : "The Opener",
+        "isDownloaded" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/001%20-%20Surat%20Al%20Fatiha%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloading" : false,
+        "id" : 1,
+        "arabic" : "الفاتحة",
+        "total_verses" : 7,
+        "type" : "meccan",
+        "downloadStatus" : 0,
+        "name" : "Al-Fatiha",
+        "time_array" : [
+            
+        ]
+    },
+    {
+        "total_verses" : 286,
+        "isDownloaded" : false,
+        "translation" : "The Cow",
+        "type" : "medinan",
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/002%20-%20Surat%20Al%20Baqara%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "time_array" : [
+            
+        ],
+        "name" : "Al-Baqara",
+        "downloadStatus" : 0,
+        "id" : 2,
+        "arabic" : "البقرة"
+    },
+    {
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "name" : "Al Imran",
+        "type" : "medinan",
+        "arabic" : "آل عمران",
+        "translation" : "Family of Imran",
+        "id" : 3,
+        "isDownloaded" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/003%20-%20Surat%20Ali%20Imran%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 200
+    },
+    {
+        "total_verses" : 176,
+        "time_array" : [
+            
+        ],
+        "id" : 4,
+        "translation" : "The Women",
+        "type" : "medinan",
+        "name" : "An-Nisa",
+        "arabic" : "النساء",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/004%20-%20Surat%20An%20Nisa_i%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "isDownloaded" : false,
+        "isDownloading" : false
+    },
+    {
+        "name" : "Al-Maida",
+        "time_array" : [
+            
+        ],
+        "downloadStatus" : 0,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/005%20-%20Surat%20Al%20Ma_idah%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "type" : "medinan",
+        "id" : 5,
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "arabic" : "المائدة",
+        "translation" : "The Table Spread",
+        "total_verses" : 120
+    },
+    {
+        "isDownloaded" : false,
+        "translation" : "The Cattle",
+        "id" : 6,
+        "isDownloading" : false,
+        "time_array" : [
+            
+        ],
+        "arabic" : "الأنعام",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/006%20-%20Surat%20Al%20An_am%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "name" : "Al-Anam",
+        "type" : "meccan",
+        "total_verses" : 165
+    },
+    {
+        "time_array" : [
+            
+        ],
+        "total_verses" : 206,
+        "translation" : "The Heights",
+        "id" : 7,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/007%20-%20Surat%20Al%20A_araf%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Araf",
+        "type" : "meccan",
+        "isDownloaded" : false,
+        "arabic" : "الأعراف",
+        "downloadStatus" : 0,
+        "isDownloading" : false
+    },
+    {
+        "arabic" : "الأنفال",
+        "isDownloaded" : false,
+        "id" : 8,
+        "time_array" : [
+            
+        ],
+        "total_verses" : 75,
+        "translation" : "The Spoils of War",
+        "type" : "medinan",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/008%20-%20Surat%20Al%20Anfal%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloading" : false,
+        "downloadStatus" : 0,
+        "name" : "Al-Anfal"
+    },
+    {
+        "id" : 9,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/009%20-%20Surat%20At%20Taubah%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloading" : false,
+        "arabic" : "التوبة",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 129,
+        "type" : "medinan",
+        "isDownloaded" : false,
+        "name" : "At-Tawba",
+        "downloadStatus" : 0,
+        "translation" : "The Repentance"
+    },
+    {
+        "time_array" : [
+            
+        ],
+        "id" : 10,
+        "type" : "meccan",
+        "isDownloading" : false,
+        "name" : "Yunus",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/010%20-%20Surat%20Yunus%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "total_verses" : 109,
+        "arabic" : "يونس",
+        "translation" : "Jonah",
+        "downloadStatus" : 0,
+        "isDownloaded" : false
+    },
+    {
+        "arabic" : "هود",
+        "time_array" : [
+            
+        ],
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/011%20-%20Surat%20Hud%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "translation" : "Hud",
+        "type" : "meccan",
+        "isDownloaded" : false,
+        "name" : "Hud",
+        "total_verses" : 123,
+        "id" : 11,
+        "downloadStatus" : 0
+    },
+    {
+        "translation" : "Joseph",
+        "id" : 12,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/012%20-%20Surat%20Yusuf%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Yusuf",
+        "arabic" : "يوسف",
+        "type" : "meccan",
+        "total_verses" : 111,
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "time_array" : [
+            
+        ],
+        "isDownloaded" : false
+    },
+    {
+        "id" : 13,
+        "arabic" : "الرعد",
+        "name" : "Ar-Rad",
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/013%20-%20Surat%20Ar%20Ra_ad%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "translation" : "The Thunder",
+        "time_array" : [
+            
+        ],
+        "type" : "medinan",
+        "downloadStatus" : 0,
+        "total_verses" : 43
+    },
+    {
+        "arabic" : "ابراهيم",
+        "total_verses" : 52,
+        "translation" : "Abraham",
+        "type" : "meccan",
+        "downloadStatus" : 0,
+        "name" : "Ibrahim",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/014%20-%20Surat%20Ibrahim%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "id" : 14,
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "time_array" : [
+            
+        ]
+    },
+    {
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/015%20-%20Surat%20Al%20Hijr%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Hijr",
+        "time_array" : [
+            
+        ],
+        "type" : "meccan",
+        "arabic" : "الحجر",
+        "translation" : "The Rocky Tract",
+        "isDownloaded" : false,
+        "total_verses" : 99,
+        "id" : 15,
+        "isDownloading" : false,
+        "downloadStatus" : 0
+    },
+    {
+        "total_verses" : 128,
+        "type" : "meccan",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/016%20-%20Surat%20An%20Nahl%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "An-Nahl",
+        "time_array" : [
+            
+        ],
+        "downloadStatus" : 0,
+        "translation" : "The Bee",
+        "id" : 16,
+        "arabic" : "النحل",
+        "isDownloaded" : false,
+        "isDownloading" : false
+    },
+    {
+        "time_array" : [
+            
+        ],
+        "arabic" : "الإسراء",
+        "downloadStatus" : 0,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/017%20-%20Surat%20Al%20Is_ra%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Isra",
+        "isDownloaded" : false,
+        "total_verses" : 111,
+        "id" : 17,
+        "translation" : "The Night Journey",
+        "isDownloading" : false,
+        "type" : "meccan"
+    },
+    {
+        "id" : 18,
+        "isDownloaded" : false,
+        "time_array" : [
+            
+        ],
+        "type" : "meccan",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/018%20-%20Surat%20Al%20Kahf%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Kahf",
+        "total_verses" : 110,
+        "translation" : "The Cave",
+        "isDownloading" : false,
+        "arabic" : "الكهف",
+        "downloadStatus" : 0
+    },
+    {
+        "name" : "Maryam",
+        "type" : "meccan",
+        "arabic" : "مريم",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 98,
+        "isDownloaded" : false,
+        "id" : 19,
+        "translation" : "Mary",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/019%20-%20Surat%20Maryam%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloading" : false,
+        "downloadStatus" : 0
+    },
+    {
+        "arabic" : "طه",
+        "time_array" : [
+            
+        ],
+        "translation" : "Ta-Ha",
+        "downloadStatus" : 0,
+        "total_verses" : 135,
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "id" : 20,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/020%20-%20Surat%20Ta%20Ha%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Ta-Ha",
+        "type" : "meccan"
+    },
+    {
+        "time_array" : [
+            
+        ],
+        "total_verses" : 112,
+        "translation" : "The Prophets",
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/021%20-%20Surat%20Al%20Anbiya%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "arabic" : "الأنبياء",
+        "type" : "meccan",
+        "downloadStatus" : 0,
+        "name" : "Al-Anbiya",
+        "id" : 21,
+        "isDownloaded" : false
+    },
+    {
+        "total_verses" : 78,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/022%20-%20Surat%20Al%20Hajj%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "type" : "medinan",
+        "id" : 22,
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "isDownloaded" : false,
+        "arabic" : "الحج",
+        "name" : "Al-Hajj",
+        "time_array" : [
+            
+        ],
+        "translation" : "The Pilgrimage"
+    },
+    {
+        "isDownloading" : false,
+        "arabic" : "المؤمنون",
+        "id" : 23,
+        "isDownloaded" : false,
+        "downloadStatus" : 0,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/023%20-%20Surat%20Al%20Mu_minun%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Muminoon",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 118,
+        "translation" : "The Believers",
+        "type" : "meccan"
+    },
+    {
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "translation" : "The Light",
+        "arabic" : "النور",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/024%20-%20Surat%20An%20Nur%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloaded" : false,
+        "total_verses" : 64,
+        "id" : 24,
+        "name" : "An-Nur",
+        "time_array" : [
+            
+        ],
+        "type" : "medinan"
+    },
+    {
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "id" : 25,
+        "downloadStatus" : 0,
+        "type" : "meccan",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/025%20-%20Surat%20Al%20Furqan%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "total_verses" : 77,
+        "arabic" : "الفرقان",
+        "name" : "Al-Furqan",
+        "time_array" : [
+            
+        ],
+        "translation" : "The Criterion"
+    },
+    {
+        "total_verses" : 227,
+        "downloadStatus" : 0,
+        "translation" : "The Poets",
+        "isDownloading" : false,
+        "name" : "Ash-Shuara",
+        "type" : "meccan",
+        "arabic" : "الشعراء",
+        "id" : 26,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/026%20-%20Surat%20Ash%20Shu_ara%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloaded" : false,
+        "time_array" : [
+            
+        ]
+    },
+    {
+        "isDownloading" : false,
+        "name" : "An-Naml",
+        "id" : 27,
+        "downloadStatus" : 0,
+        "total_verses" : 93,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/027%20-%20Surat%20An%20Naml%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloaded" : false,
+        "translation" : "The Ant",
+        "type" : "meccan",
+        "time_array" : [
+            
+        ],
+        "arabic" : "النمل"
+    },
+    {
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/028%20-%20Surat%20Al%20Qasas%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "type" : "meccan",
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "total_verses" : 88,
+        "translation" : "The Stories",
+        "name" : "Al-Qasas",
+        "arabic" : "القصص",
+        "id" : 28,
+        "time_array" : [
+            
+        ]
+    },
+    {
+        "isDownloaded" : false,
+        "id" : 29,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/029%20-%20Surat%20Al%20Ankabut%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "arabic" : "العنكبوت",
+        "name" : "Al-Ankabut",
+        "total_verses" : 69,
+        "translation" : "The Spider",
+        "type" : "meccan",
+        "time_array" : [
+            
+        ],
+        "isDownloading" : false
+    },
+    {
+        "downloadStatus" : 0,
+        "arabic" : "الروم",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/030%20-%20Surat%20Ar%20Rum%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Ar-Rum",
+        "translation" : "The Romans",
+        "total_verses" : 60,
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "id" : 30,
+        "type" : "meccan",
+        "time_array" : [
+            
+        ]
+    },
+    {
+        "translation" : "Luqman",
+        "downloadStatus" : 0,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/031%20-%20Surat%20Luqman%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "id" : 31,
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "name" : "Luqman",
+        "time_array" : [
+            
+        ],
+        "arabic" : "لقمان",
+        "total_verses" : 34,
+        "type" : "meccan"
+    },
+    {
+        "isDownloaded" : false,
+        "arabic" : "السجدة",
+        "downloadStatus" : 0,
+        "time_array" : [
+            
+        ],
+        "name" : "As-Sajda",
+        "total_verses" : 30,
+        "id" : 32,
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/032%20-%20Surat%20As%20Sajdah%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "type" : "meccan",
+        "translation" : "The Prostration"
+    },
+    {
+        "downloadStatus" : 0,
+        "name" : "Al-Ahzab",
+        "translation" : "The Combined Forces",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/033%20-%20Surat%20Al%20Ahzab%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "id" : 33,
+        "arabic" : "الأحزاب",
+        "isDownloading" : false,
+        "isDownloaded" : false,
+        "time_array" : [
+            
+        ],
+        "total_verses" : 73,
+        "type" : "medinan"
+    },
+    {
+        "isDownloading" : false,
+        "isDownloaded" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/034%20-%20Surat%20Saba%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "arabic" : "سبإ",
+        "time_array" : [
+            
+        ],
+        "downloadStatus" : 0,
+        "type" : "meccan",
+        "total_verses" : 54,
+        "name" : "Saba",
+        "id" : 34,
+        "translation" : "Sheba"
+    },
+    {
+        "isDownloaded" : false,
+        "total_verses" : 45,
+        "translation" : "Originator",
+        "arabic" : "فاطر",
+        "type" : "meccan",
+        "isDownloading" : false,
+        "downloadStatus" : 0,
+        "name" : "Fatir",
+        "time_array" : [
+            
+        ],
+        "id" : 35,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/035%20-%20Surat%20Fatir%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3"
+    },
+    {
+        "time_array" : [
+            
+        ],
+        "id" : 36,
+        "type" : "meccan",
+        "total_verses" : 83,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/036%20-%20Surat%20Yasin%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloading" : false,
+        "downloadStatus" : 0,
+        "translation" : "Ya Sin",
+        "isDownloaded" : false,
+        "arabic" : "يس",
+        "name" : "Ya Sin"
+    },
+    {
+        "arabic" : "الصافات",
+        "isDownloading" : false,
+        "type" : "meccan",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/037%20-%20Surat%20As%20Saffat%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "isDownloaded" : false,
+        "total_verses" : 182,
+        "name" : "As-Saaffat",
+        "time_array" : [
+            
+        ],
+        "translation" : "Those who set the Ranks",
+        "id" : 37
+    },
+    {
+        "total_verses" : 88,
+        "type" : "meccan",
+        "isDownloaded" : false,
+        "id" : 38,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/038%20-%20Surat%20Sad%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Sad",
+        "translation" : "The Letter Saad",
+        "time_array" : [
+            
+        ],
+        "arabic" : "ص",
+        "downloadStatus" : 0,
+        "isDownloading" : false
+    },
+    {
+        "isDownloaded" : false,
+        "arabic" : "الزمر",
+        "downloadStatus" : 0,
+        "translation" : "The Troops",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/039%20-%20Surat%20Az%20Zumar%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "total_verses" : 75,
+        "type" : "meccan",
+        "isDownloading" : false,
+        "time_array" : [
+            
+        ],
+        "id" : 39,
+        "name" : "Az-Zumar"
+    },
+    {
+        "type" : "meccan",
+        "isDownloading" : false,
+        "isDownloaded" : false,
+        "translation" : "The Forgiver",
+        "downloadStatus" : 0,
+        "name" : "Ghafir",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/040%20-%20Surat%20Ghafir%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "total_verses" : 85,
+        "time_array" : [
+            
+        ],
+        "arabic" : "غافر",
+        "id" : 40
+    },
+    {
+        "name" : "Fussilat",
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "type" : "meccan",
+        "time_array" : [
+            
+        ],
+        "isDownloaded" : false,
+        "arabic" : "فصلت",
+        "total_verses" : 54,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/041%20-%20Surat%20Fussilat%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "id" : 41,
+        "translation" : "Explained in Detail"
+    },
+    {
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/042%20-%20Surat%20Ash%20Shura%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "id" : 42,
+        "downloadStatus" : 0,
+        "time_array" : [
+            
+        ],
+        "arabic" : "الشورى",
+        "translation" : "The Consultation",
+        "type" : "meccan",
+        "total_verses" : 53,
+        "isDownloaded" : false,
+        "name" : "Ash-Shura"
+    },
+    {
+        "isDownloaded" : false,
+        "id" : 43,
+        "name" : "Az-Zukhruf",
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/043%20-%20Surat%20Az%20Zukhruf%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 89,
+        "type" : "meccan",
+        "translation" : "The Ornaments of Gold",
+        "arabic" : "الزخرف"
+    },
+    {
+        "isDownloaded" : false,
+        "time_array" : [
+            
+        ],
+        "total_verses" : 59,
+        "translation" : "The Smoke",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/044%20-%20Surat%20Ad%20Dukhan%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "arabic" : "الدخان",
+        "isDownloading" : false,
+        "id" : 44,
+        "name" : "Ad-Dukhan",
+        "type" : "meccan"
+    },
+    {
+        "isDownloading" : false,
+        "name" : "Al-Jathiya",
+        "id" : 45,
+        "isDownloaded" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/045%20-%20Surat%20Al%20Jathiyah%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "total_verses" : 37,
+        "translation" : "The Crouching",
+        "type" : "meccan",
+        "arabic" : "الجاثية",
+        "time_array" : [
+            
+        ]
+    },
+    {
+        "total_verses" : 35,
+        "arabic" : "الأحقاف",
+        "downloadStatus" : 0,
+        "time_array" : [
+            
+        ],
+        "type" : "meccan",
+        "name" : "Al-Ahqaf",
+        "translation" : "The Wind-Curved Sandhills",
+        "id" : 46,
+        "isDownloaded" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/046%20-%20Surat%20Al%20Ahqaf%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloading" : false
+    },
+    {
+        "arabic" : "محمد",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/047%20-%20Surat%20Muhammad%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloaded" : false,
+        "translation" : "Muhammad",
+        "time_array" : [
+            
+        ],
+        "id" : 47,
+        "name" : "Muhammad",
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "total_verses" : 38,
+        "type" : "medinan"
+    },
+    {
+        "arabic" : "الفتح",
+        "time_array" : [
+            
+        ],
+        "id" : 48,
+        "total_verses" : 29,
+        "type" : "medinan",
+        "translation" : "The Victory",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/048%20-%20Surat%20Al%20Fath%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Fath",
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "downloadStatus" : 0
+    },
+    {
+        "translation" : "The Rooms",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/049%20-%20Surat%20Al%20Hujurat%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "name" : "Al-Hujurat",
+        "id" : 49,
+        "arabic" : "الحجرات",
+        "total_verses" : 18,
+        "time_array" : [
+            
+        ],
+        "isDownloaded" : false,
+        "type" : "medinan"
+    },
+    {
+        "isDownloading" : false,
+        "isDownloaded" : false,
+        "arabic" : "ق",
+        "downloadStatus" : 0,
+        "name" : "Qaf",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 45,
+        "type" : "meccan",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/050%20-%20Surat%20Qaf%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "id" : 50,
+        "translation" : "The Letter Qaf"
+    },
+    {
+        "downloadStatus" : 0,
+        "arabic" : "الذاريات",
+        "id" : 51,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/051%20-%20Surat%20Adh%20Dhariyat%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "name" : "Adh-Dhariyat",
+        "time_array" : [
+            
+        ],
+        "type" : "meccan",
+        "total_verses" : 60,
+        "translation" : "The Winnowing Winds"
+    },
+    {
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/052%20-%20Surat%20At%20Tur%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "time_array" : [
+            
+        ],
+        "translation" : "The Mount",
+        "total_verses" : 49,
+        "arabic" : "الطور",
+        "type" : "meccan",
+        "id" : 52,
+        "name" : "At-Tur",
+        "isDownloading" : false,
+        "isDownloaded" : false
+    },
+    {
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/053%20-%20Surat%20An%20Najm%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloading" : false,
+        "downloadStatus" : 0,
+        "name" : "An-Najm",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 62,
+        "isDownloaded" : false,
+        "arabic" : "النجم",
+        "id" : 53,
+        "type" : "meccan",
+        "translation" : "The Star"
+    },
+    {
+        "name" : "Al-Qamar",
+        "time_array" : [
+            
+        ],
+        "id" : 54,
+        "total_verses" : 55,
+        "isDownloaded" : false,
+        "type" : "meccan",
+        "downloadStatus" : 0,
+        "arabic" : "القمر",
+        "translation" : "The Moon",
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/054%20-%20Surat%20Al%20Qamar%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3"
+    },
+    {
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/055%20-%20Surat%20Ar%20Rahman%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Ar-Rahman",
+        "total_verses" : 78,
+        "arabic" : "الرحمن",
+        "translation" : "The Beneficent",
+        "id" : 55,
+        "isDownloading" : false,
+        "time_array" : [
+            
+        ],
+        "type" : "medinan",
+        "isDownloaded" : false,
+        "downloadStatus" : 0
+    },
+    {
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "total_verses" : 96,
+        "id" : 56,
+        "translation" : "The Inevitable",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/056%20-%20Surat%20Al%20Waqi_a%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "type" : "meccan",
+        "name" : "Al-Waqia",
+        "time_array" : [
+            
+        ],
+        "arabic" : "الواقعة",
+        "downloadStatus" : 0
+    },
+    {
+        "isDownloading" : false,
+        "arabic" : "الحديد",
+        "time_array" : [
+            
+        ],
+        "type" : "medinan",
+        "id" : 57,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/057%20-%20Surat%20Al%20Hadid%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Hadid",
+        "downloadStatus" : 0,
+        "translation" : "The Iron",
+        "isDownloaded" : false,
+        "total_verses" : 29
+    },
+    {
+        "type" : "medinan",
+        "id" : 58,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/058%20-%20Surat%20Al%20Mujadila%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "arabic" : "المجادلة",
+        "time_array" : [
+            
+        ],
+        "isDownloaded" : false,
+        "name" : "Al-Mujadila",
+        "isDownloading" : false,
+        "total_verses" : 22,
+        "translation" : "The Pleading Woman",
+        "downloadStatus" : 0
+    },
+    {
+        "translation" : "The Exile",
+        "type" : "medinan",
+        "total_verses" : 24,
+        "id" : 59,
+        "time_array" : [
+            
+        ],
+        "name" : "Al-Hashr",
+        "arabic" : "الحشر",
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "isDownloaded" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/059%20-%20Surat%20Al%20Hashr%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3"
+    },
+    {
+        "translation" : "She that is to be examined",
+        "type" : "medinan",
+        "time_array" : [
+            
+        ],
+        "isDownloaded" : false,
+        "total_verses" : 13,
+        "isDownloading" : false,
+        "downloadStatus" : 0,
+        "id" : 60,
+        "name" : "Al-Mumtahina",
+        "arabic" : "الممتحنة",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/060%20-%20Surat%20Mumtahina%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3"
+    },
+    {
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/061%20-%20Surat%20As%20Saffi%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "arabic" : "الصف",
+        "name" : "As-Saff",
+        "id" : 61,
+        "time_array" : [
+            
+        ],
+        "type" : "medinan",
+        "downloadStatus" : 0,
+        "translation" : "The Ranks",
+        "isDownloaded" : false,
+        "total_verses" : 14
+    },
+    {
+        "id" : 62,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/062%20-%20Surat%20Al%20Jumu_a%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "total_verses" : 11,
+        "name" : "Al-Jumua",
+        "time_array" : [
+            
+        ],
+        "translation" : "The Congregation, Friday",
+        "isDownloading" : false,
+        "type" : "medinan",
+        "isDownloaded" : false,
+        "arabic" : "الجمعة"
+    },
+    {
+        "name" : "Al-Munafiqun",
+        "translation" : "The Hypocrites",
+        "type" : "medinan",
+        "id" : 63,
+        "isDownloading" : false,
+        "total_verses" : 11,
+        "time_array" : [
+            
+        ],
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/063%20-%20Surat%20Al%20Munafiqun%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "arabic" : "المنافقون",
+        "downloadStatus" : 0,
+        "isDownloaded" : false
+    },
+    {
+        "isDownloading" : false,
+        "downloadStatus" : 0,
+        "total_verses" : 18,
+        "name" : "At-Taghabun",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/064%20-%20Surat%20At%20Taghabun%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "id" : 64,
+        "isDownloaded" : false,
+        "translation" : "The Mutual Disillusion",
+        "type" : "medinan",
+        "time_array" : [
+            
+        ],
+        "arabic" : "التغابن"
+    },
+    {
+        "total_verses" : 12,
+        "downloadStatus" : 0,
+        "id" : 65,
+        "translation" : "The Divorce",
+        "type" : "medinan",
+        "name" : "At-Talaq",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/065%20-%20Surat%20At%20Talaq%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "arabic" : "الطلاق",
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "time_array" : [
+            
+        ]
+    },
+    {
+        "isDownloaded" : false,
+        "name" : "At-Tahrim",
+        "type" : "medinan",
+        "arabic" : "التحريم",
+        "total_verses" : 12,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/066%20-%20Surat%20At%20Tahrim%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "id" : 66,
+        "isDownloading" : false,
+        "translation" : "The Prohibition",
+        "time_array" : [
+            
+        ],
+        "downloadStatus" : 0
+    },
+    {
+        "name" : "Al-Mulk",
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/067%20-%20Surat%20Al%20Mulk%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "id" : 67,
+        "time_array" : [
+            
+        ],
+        "type" : "meccan",
+        "translation" : "The Sovereignty",
+        "arabic" : "الملك",
+        "isDownloaded" : false,
+        "total_verses" : 30
+    },
+    {
+        "type" : "meccan",
+        "translation" : "The Pen",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/068%20-%20Surat%20Al%20Qalam%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloading" : false,
+        "id" : 68,
+        "isDownloaded" : false,
+        "downloadStatus" : 0,
+        "arabic" : "القلم",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 52,
+        "name" : "Al-Qalam"
+    },
+    {
+        "isDownloaded" : false,
+        "downloadStatus" : 0,
+        "translation" : "The Reality",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/069%20-%20Surat%20Al%20Haqqah%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "time_array" : [
+            
+        ],
+        "isDownloading" : false,
+        "name" : "Al-Haaqqa",
+        "total_verses" : 52,
+        "arabic" : "الحاقة",
+        "id" : 69,
+        "type" : "meccan"
+    },
+    {
+        "time_array" : [
+            
+        ],
+        "isDownloading" : false,
+        "arabic" : "المعارج",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/070%20-%20Surat%20Al%20Ma_arij%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "isDownloaded" : false,
+        "name" : "Al-Maarij",
+        "total_verses" : 44,
+        "translation" : "The Ascending Stairways",
+        "type" : "meccan",
+        "id" : 70
+    },
+    {
+        "time_array" : [
+            
+        ],
+        "isDownloaded" : false,
+        "downloadStatus" : 0,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/071%20-%20Surat%20Nooh%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "total_verses" : 28,
+        "translation" : "Noah",
+        "arabic" : "نوح",
+        "isDownloading" : false,
+        "type" : "meccan",
+        "name" : "Nuh",
+        "id" : 71
+    },
+    {
+        "total_verses" : 28,
+        "downloadStatus" : 0,
+        "type" : "meccan",
+        "translation" : "The Jinn",
+        "arabic" : "الجن",
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/072%20-%20Surat%20Al%20Jinn%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Jinn",
+        "isDownloaded" : false,
+        "time_array" : [
+            
+        ],
+        "id" : 72
+    },
+    {
+        "translation" : "The Enshrouded One",
+        "name" : "Al-Muzzammil",
+        "isDownloading" : false,
+        "downloadStatus" : 0,
+        "id" : 73,
+        "arabic" : "المزمل",
+        "isDownloaded" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/073%20-%20Surat%20Al%20Muzzammil%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 20,
+        "type" : "meccan"
+    },
+    {
+        "isDownloaded" : false,
+        "name" : "Al-Muddathir",
+        "translation" : "The Cloaked One",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/074%20-%20Surat%20Al%20Muddathir%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "id" : 74,
+        "arabic" : "المدثر",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 56,
+        "type" : "meccan",
+        "downloadStatus" : 0,
+        "isDownloading" : false
+    },
+    {
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/075%20-%20Surat%20Al%20Qiyama%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloading" : false,
+        "id" : 75,
+        "name" : "Al-Qiyama",
+        "time_array" : [
+            
+        ],
+        "arabic" : "القيامة",
+        "total_verses" : 40,
+        "isDownloaded" : false,
+        "translation" : "The Resurrection",
+        "downloadStatus" : 0,
+        "type" : "meccan"
+    },
+    {
+        "downloadStatus" : 0,
+        "translation" : "The Man",
+        "isDownloading" : false,
+        "total_verses" : 31,
+        "type" : "medinan",
+        "name" : "Al-Insan",
+        "time_array" : [
+            
+        ],
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/076%20-%20Surat%20Al%20Insan%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "id" : 76,
+        "arabic" : "الانسان",
+        "isDownloaded" : false
+    },
+    {
+        "type" : "meccan",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/077%20-%20Surat%20Al%20Mursalat%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloaded" : false,
+        "downloadStatus" : 0,
+        "translation" : "The Emissaries",
+        "total_verses" : 50,
+        "arabic" : "المرسلات",
+        "id" : 77,
+        "isDownloading" : false,
+        "name" : "Al-Mursalat",
+        "time_array" : [
+            
+        ]
+    },
+    {
+        "total_verses" : 40,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/078%20-%20Surat%20An%20Naba_i%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "type" : "meccan",
+        "id" : 78,
+        "name" : "An-Naba",
+        "isDownloading" : false,
+        "downloadStatus" : 0,
+        "isDownloaded" : false,
+        "arabic" : "النبإ",
+        "time_array" : [
+            
+        ],
+        "translation" : "The Tidings"
+    },
+    {
+        "type" : "meccan",
+        "name" : "An-Naziat",
+        "time_array" : [
+            
+        ],
+        "isDownloading" : false,
+        "total_verses" : 46,
+        "translation" : "Those who drag forth",
+        "arabic" : "النازعات",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/079%20-%20Surat%20An%20Nazi_at%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "isDownloaded" : false,
+        "id" : 79
+    },
+    {
+        "name" : "Abasa",
+        "time_array" : [
+            
+        ],
+        "translation" : "He Frowned",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/080%20-%20Surat%20Abasa%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloaded" : false,
+        "id" : 80,
+        "downloadStatus" : 0,
+        "total_verses" : 42,
+        "type" : "meccan",
+        "arabic" : "عبس",
+        "isDownloading" : false
+    },
+    {
+        "id" : 81,
+        "translation" : "The Overthrowing",
+        "downloadStatus" : 0,
+        "isDownloaded" : false,
+        "arabic" : "التكوير",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/081%20-%20Surat%20At%20Takwir%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "At-Takwir",
+        "time_array" : [
+            
+        ],
+        "isDownloading" : false,
+        "type" : "meccan",
+        "total_verses" : 29
+    },
+    {
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/082%20-%20Surat%20Al%20Infitar%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Infitar",
+        "translation" : "The Cleaving",
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "isDownloaded" : false,
+        "type" : "meccan",
+        "arabic" : "الإنفطار",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 19,
+        "id" : 82
+    },
+    {
+        "arabic" : "المطففين",
+        "isDownloading" : false,
+        "downloadStatus" : 0,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/083%20-%20Surat%20Al%20Mutaffifin%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "type" : "meccan",
+        "translation" : "The Defrauding",
+        "id" : 83,
+        "isDownloaded" : false,
+        "name" : "Al-Mutaffifin",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 36
+    },
+    {
+        "downloadStatus" : 0,
+        "translation" : "The Sundering",
+        "type" : "meccan",
+        "isDownloaded" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/084%20-%20Surat%20Inshiqaq%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Inshiqaq",
+        "time_array" : [
+            
+        ],
+        "arabic" : "الإنشقاق",
+        "total_verses" : 25,
+        "id" : 84,
+        "isDownloading" : false
+    },
+    {
+        "total_verses" : 22,
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "arabic" : "البروج",
+        "downloadStatus" : 0,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/085%20-%20Surat%20Al%20Burooj%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "id" : 85,
+        "name" : "Al-Burooj",
+        "time_array" : [
+            
+        ],
+        "translation" : "The Mansions of the Stars",
+        "type" : "meccan"
+    },
+    {
+        "isDownloading" : false,
+        "translation" : "The Nightcommer",
+        "arabic" : "الطارق",
+        "id" : 86,
+        "isDownloaded" : false,
+        "name" : "At-Tariq",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/086%20-%20Surat%20At%20Tariq%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "time_array" : [
+            
+        ],
+        "type" : "meccan",
+        "downloadStatus" : 0,
+        "total_verses" : 17
+    },
+    {
+        "total_verses" : 19,
+        "translation" : "The Most High",
+        "type" : "meccan",
+        "id" : 87,
+        "downloadStatus" : 0,
+        "arabic" : "الأعلى",
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/087%20-%20Surat%20Al%20A_ala%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloaded" : false,
+        "name" : "Al-Ala",
+        "time_array" : [
+            
+        ]
+    },
+    {
+        "name" : "Al-Ghashiyah",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/088%20-%20Surat%20Al%20Ghashia%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloading" : false,
+        "time_array" : [
+            
+        ],
+        "arabic" : "الغاشية",
+        "downloadStatus" : 0,
+        "isDownloaded" : false,
+        "total_verses" : 26,
+        "translation" : "The Overwhelming",
+        "type" : "meccan",
+        "id" : 88
+    },
+    {
+        "total_verses" : 30,
+        "isDownloading" : false,
+        "id" : 89,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/089%20-%20Surat%20Al%20Fajr%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "type" : "meccan",
+        "time_array" : [
+            
+        ],
+        "downloadStatus" : 0,
+        "name" : "Al-Fajr",
+        "arabic" : "الفجر",
+        "isDownloaded" : false,
+        "translation" : "The Dawn"
+    },
+    {
+        "isDownloaded" : false,
+        "arabic" : "البلد",
+        "id" : 90,
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/090%20-%20Surat%20Al%20Balad%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Balad",
+        "time_array" : [
+            
+        ],
+        "translation" : "The City",
+        "total_verses" : 20,
+        "type" : "meccan"
+    },
+    {
+        "isDownloaded" : false,
+        "time_array" : [
+            
+        ],
+        "arabic" : "الشمس",
+        "downloadStatus" : 0,
+        "name" : "Ash-Shams",
+        "total_verses" : 15,
+        "translation" : "The Sun",
+        "type" : "meccan",
+        "id" : 91,
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/091%20-%20Surat%20Ash%20Shams%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3"
+    },
+    {
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/092%20-%20Surat%20Al%20Lail%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloading" : false,
+        "translation" : "The Night",
+        "isDownloaded" : false,
+        "id" : 92,
+        "type" : "meccan",
+        "downloadStatus" : 0,
+        "total_verses" : 21,
+        "name" : "Al-Lail",
+        "time_array" : [
+            
+        ],
+        "arabic" : "الليل"
+    },
+    {
+        "id" : 93,
+        "downloadStatus" : 0,
+        "name" : "Ad-Dhuha",
+        "total_verses" : 11,
+        "time_array" : [
+            
+        ],
+        "arabic" : "الضحى",
+        "type" : "meccan",
+        "translation" : "The Morning Hours",
+        "isDownloading" : false,
+        "isDownloaded" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/093%20-%20Surat%20Al%20Dhuha%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3"
+    },
+    {
+        "arabic" : "الشرح",
+        "isDownloading" : false,
+        "isDownloaded" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/094%20-%20Surat%20Al%20Inshirah%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "total_verses" : 8,
+        "translation" : "The Relief",
+        "type" : "meccan",
+        "downloadStatus" : 0,
+        "name" : "Al-Inshirah",
+        "id" : 94,
+        "time_array" : [
+            
+        ]
+    },
+    {
+        "translation" : "The Fig",
+        "arabic" : "التين",
+        "downloadStatus" : 0,
+        "isDownloaded" : false,
+        "id" : 95,
+        "name" : "At-Tin",
+        "type" : "meccan",
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/095%20-%20Surat%20At%20Tin%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 8
+    },
+    {
+        "id" : 96,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/096%20-%20Surat%20Al%20Alaq%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "total_verses" : 19,
+        "isDownloading" : false,
+        "downloadStatus" : 0,
+        "arabic" : "العلق",
+        "name" : "Al-Alaq",
+        "time_array" : [
+            
+        ],
+        "translation" : "The Clot",
+        "isDownloaded" : false,
+        "type" : "meccan"
+    },
+    {
+        "id" : 97,
+        "arabic" : "القدر",
+        "time_array" : [
+            
+        ],
+        "downloadStatus" : 0,
+        "total_verses" : 5,
+        "translation" : "The Power",
+        "type" : "meccan",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/097%20-%20Surat%20Al%20Qadr%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloaded" : false,
+        "isDownloading" : false,
+        "name" : "Al-Qadr"
+    },
+    {
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/098%20-%20Surat%20Al%20Bayyinah%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "arabic" : "البينة",
+        "downloadStatus" : 0,
+        "type" : "medinan",
+        "time_array" : [
+            
+        ],
+        "id" : 98,
+        "isDownloaded" : false,
+        "name" : "Al-Bayyina",
+        "isDownloading" : false,
+        "translation" : "The Clear Proof",
+        "total_verses" : 8
+    },
+    {
+        "type" : "medinan",
+        "total_verses" : 8,
+        "name" : "Az-Zalzala",
+        "isDownloading" : false,
+        "downloadStatus" : 0,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/099%20-%20Surat%20Al%20Zalzalah%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "id" : 99,
+        "time_array" : [
+            
+        ],
+        "arabic" : "الزلزلة",
+        "translation" : "The Earthquake",
+        "isDownloaded" : false
+    },
+    {
+        "arabic" : "العاديات",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/100%20-%20Surat%20Al%20Adiyat%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Adiyat",
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "isDownloaded" : false,
+        "total_verses" : 11,
+        "type" : "meccan",
+        "id" : 100,
+        "translation" : "The Courser",
+        "time_array" : [
+            
+        ]
+    },
+    {
+        "arabic" : "القارعة",
+        "downloadStatus" : 0,
+        "translation" : "The Calamity",
+        "isDownloaded" : false,
+        "time_array" : [
+            
+        ],
+        "total_verses" : 11,
+        "type" : "meccan",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/101%20-%20Surat%20Al%20Qari_a%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Qaria",
+        "id" : 101,
+        "isDownloading" : false
+    },
+    {
+        "total_verses" : 8,
+        "translation" : "The Rivalry in world increase",
+        "id" : 102,
+        "type" : "meccan",
+        "isDownloaded" : false,
+        "arabic" : "التكاثر",
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/102%20-%20Surat%20At%20Takathur%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "name" : "At-Takathur",
+        "time_array" : [
+            
+        ]
+    },
+    {
+        "name" : "Al-Asr",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/103%20-%20Surat%20Al%20Asr%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloaded" : false,
+        "id" : 103,
+        "arabic" : "العصر",
+        "total_verses" : 3,
+        "downloadStatus" : 0,
+        "time_array" : [
+            
+        ],
+        "isDownloading" : false,
+        "translation" : "The Declining Day",
+        "type" : "meccan"
+    },
+    {
+        "arabic" : "الهمزة",
+        "isDownloading" : false,
+        "id" : 104,
+        "isDownloaded" : false,
+        "name" : "Al-Humaza",
+        "total_verses" : 9,
+        "translation" : "The Traducer",
+        "type" : "meccan",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/104%20-%20Surat%20Al%20Humaza%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "time_array" : [
+            
+        ]
+    },
+    {
+        "type" : "meccan",
+        "id" : 105,
+        "arabic" : "الفيل",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/105%20-%20Surat%20Al%20Fil%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "time_array" : [
+            
+        ],
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "name" : "Al-Fil",
+        "translation" : "The Elephant",
+        "total_verses" : 5,
+        "isDownloaded" : false
+    },
+    {
+        "downloadStatus" : 0,
+        "id" : 106,
+        "type" : "meccan",
+        "translation" : "Quraysh",
+        "total_verses" : 4,
+        "isDownloading" : false,
+        "name" : "Quraysh",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/106%20-%20Surat%20Al%20Quraish%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "time_array" : [
+            
+        ],
+        "isDownloaded" : false,
+        "arabic" : "قريش"
+    },
+    {
+        "total_verses" : 7,
+        "id" : 107,
+        "name" : "Al-Maun",
+        "time_array" : [
+            
+        ],
+        "translation" : "The Small kindnesses",
+        "arabic" : "الماعون",
+        "type" : "meccan",
+        "isDownloading" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/107%20-%20Surat%20Al%20Ma_un%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "isDownloaded" : false
+    },
+    {
+        "id" : 108,
+        "isDownloading" : false,
+        "downloadStatus" : 0,
+        "arabic" : "الكوثر",
+        "isDownloaded" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/108%20-%20Surat%20Al%20Kauthar%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "name" : "Al-Kawthar",
+        "total_verses" : 3,
+        "time_array" : [
+            
+        ],
+        "translation" : "The Abundance",
+        "type" : "meccan"
+    },
+    {
+        "isDownloading" : false,
+        "arabic" : "الكافرون",
+        "total_verses" : 6,
+        "name" : "Al-Kafirun",
+        "id" : 109,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/109%20-%20Surat%20Al%20Kafiroon%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "time_array" : [
+            
+        ],
+        "downloadStatus" : 0,
+        "type" : "meccan",
+        "isDownloaded" : false,
+        "translation" : "The Disbelievers"
+    },
+    {
+        "isDownloaded" : false,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/110%20-%20Surat%20An%20Nasr%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloading" : false,
+        "name" : "An-Nasr",
+        "id" : 110,
+        "arabic" : "النصر",
+        "time_array" : [
+            
+        ],
+        "total_verses" : 3,
+        "downloadStatus" : 0,
+        "translation" : "The Divine Support",
+        "type" : "medinan"
+    },
+    {
+        "arabic" : "المسد",
+        "id" : 111,
+        "name" : "Al-Masad",
+        "downloadStatus" : 0,
+        "time_array" : [
+            
+        ],
+        "total_verses" : 5,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/111%20-%20Surat%20Al%20Masad%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "isDownloaded" : false,
+        "translation" : "The Palm Fiber",
+        "type" : "meccan",
+        "isDownloading" : false
+    },
+    {
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/112%20-%20Surat%20Al%20Ikhlas%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "total_verses" : 4,
+        "translation" : "The Sincerity",
+        "id" : 112,
+        "isDownloading" : false,
+        "arabic" : "الإخلاص",
+        "time_array" : [
+            
+        ],
+        "isDownloaded" : false,
+        "name" : "Al-Ikhlas",
+        "downloadStatus" : 0,
+        "type" : "meccan"
+    },
+    {
+        "arabic" : "الفلق",
+        "isDownloaded" : false,
+        "name" : "Al-Falaq",
+        "type" : "meccan",
+        "downloadStatus" : 0,
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/113%20-%20Surat%20Al%20Falaq%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "time_array" : [
+            
+        ],
+        "isDownloading" : false,
+        "total_verses" : 5,
+        "translation" : "The Daybreak",
+        "id" : 113
+    },
+    {
+        "id" : 114,
+        "isDownloaded" : false,
+        "name" : "Al-Nas",
+        "translation" : "Mankind",
+        "type" : "meccan",
+        "arabic" : "الناس",
+        "link" : "https://archive.org/download/sunna4u.com_quran_kebbi/114%20-%20Surat%20An%20Nas%20-%20Sheikh%20Usman%20Abubakar%20Birnin%20Kebbi%20-%20sunna4u.com%20%20.mp3",
+        "downloadStatus" : 0,
+        "isDownloading" : false,
+        "time_array" : [
+            
+        ],
+        "total_verses" : 6
+    }
+]
+
