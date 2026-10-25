@@ -1,0 +1,951 @@
+[
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Al-Fatiha",
+    "total_verses" : 7,
+    "translation" : "The Opener",
+    "type" : "meccan",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/001.mp3",
+    "arabic" : "الفاتحة",
+    "downloadStatus" : 0,
+    "id" : 1
+  },
+  {
+    "type" : "meccan",
+    "translation" : "Joseph",
+    "isDownloaded" : false,
+    "arabic" : "يوسف",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/012.mp3",
+    "downloadStatus" : 0,
+    "total_verses" : 111,
+    "isDownloading" : false,
+    "id" : 12,
+    "name" : "Yusuf"
+  },
+  {
+    "id" : 14,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/014.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "ابراهيم",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 52,
+    "translation" : "Abraham",
+    "name" : "Ibrahim"
+  },
+  
+  {
+    "arabic" : "يس",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "name" : "Ya Sin",
+    "total_verses" : 83,
+    "time_array" : [
+
+    ],
+    "translation" : "Ya Sin",
+    "id" : 36,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/036.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/037.mp3",
+    "downloadStatus" : 0,
+    "total_verses" : 182,
+    "type" : "meccan",
+    "id" : 37,
+    "arabic" : "الصافات",
+    "time_array" : [
+
+    ],
+    "translation" : "Those who set the Ranks",
+    "name" : "As-Saaffat",
+    "isDownloaded" : false
+  },
+  
+  {
+    "name" : "Ad-Dukhan",
+    "id" : 44,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/044.mp3",
+    "total_verses" : 59,
+    "arabic" : "الدخان",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "translation" : "The Smoke"
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "الجاثية",
+    "isDownloading" : false,
+    "name" : "Al-Jathiya",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 45,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/045.mp3",
+    "downloadStatus" : 0,
+    "total_verses" : 37,
+    "translation" : "The Crouching"
+  },
+  
+  {
+    "id" : 50,
+    "isDownloading" : false,
+    "arabic" : "ق",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/050.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 45,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Letter Qaf",
+    "name" : "Qaf",
+    "type" : "meccan"
+  },
+  {
+    "id" : 51,
+    "name" : "Adh-Dhariyat",
+    "time_array" : [
+
+    ],
+    "total_verses" : 60,
+    "type" : "meccan",
+    "translation" : "The Winnowing Winds",
+    "isDownloaded" : false,
+    "arabic" : "الذاريات",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/051.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 49,
+    "isDownloaded" : false,
+    "id" : 52,
+    "arabic" : "الطور",
+    "translation" : "The Mount",
+    "isDownloading" : false,
+    "name" : "At-Tur",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/052.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "id" : 53,
+    "total_verses" : 62,
+    "arabic" : "النجم",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Star",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/053.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "An-Najm"
+  },
+  {
+    "name" : "Al-Qamar",
+    "time_array" : [
+
+    ],
+    "total_verses" : 55,
+    "translation" : "The Moon",
+    "downloadStatus" : 0,
+    "id" : 54,
+    "isDownloaded" : false,
+    "arabic" : "القمر",
+    "type" : "meccan",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/054.mp3",
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 55,
+    "translation" : "The Beneficent",
+    "name" : "Ar-Rahman",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/055.mp3",
+    "total_verses" : 78,
+    "type" : "medinan",
+    "arabic" : "الرحمن"
+  },
+  {
+    "downloadStatus" : 0,
+    "total_verses" : 96,
+    "id" : 56,
+    "name" : "Al-Waqia",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/056.mp3",
+    "isDownloading" : false,
+    "arabic" : "الواقعة",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "The Inevitable",
+    "type" : "meccan"
+  },
+  {
+    "id" : 57,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/057.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الحديد",
+    "name" : "Al-Hadid",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 29,
+    "translation" : "The Iron"
+  },
+  
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "الملك",
+    "total_verses" : 30,
+    "name" : "Al-Mulk",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 67,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/067.mp3",
+    "translation" : "The Sovereignty",
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "القلم",
+    "isDownloaded" : false,
+    "id" : 68,
+    "total_verses" : 52,
+    "name" : "Al-Qalam",
+    "time_array" : [
+
+    ],
+    "translation" : "The Pen",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/068.mp3"
+  },
+  {
+    "arabic" : "الحاقة",
+    "time_array" : [
+
+    ],
+    "total_verses" : 52,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "translation" : "The Reality",
+    "id" : 69,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/069.mp3",
+    "downloadStatus" : 0,
+    "name" : "Al-Haaqqa"
+  },
+  {
+    "isDownloaded" : false,
+    "translation" : "The Ascending Stairways",
+    "name" : "Al-Maarij",
+    "arabic" : "المعارج",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/070.mp3",
+    "total_verses" : 44,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 70,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "نوح",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 28,
+    "downloadStatus" : 0,
+    "name" : "Nuh",
+    "type" : "meccan",
+    "id" : 71,
+    "translation" : "Noah",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/071.mp3"
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Jinn",
+    "type" : "meccan",
+    "name" : "Al-Jinn",
+    "downloadStatus" : 0,
+    "arabic" : "الجن",
+    "id" : 72,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 28,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/072.mp3"
+  },
+  {
+    "id" : 73,
+    "type" : "meccan",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/073.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 20,
+    "name" : "Al-Muzzammil",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "المزمل",
+    "translation" : "The Enshrouded One"
+  },
+  {
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/074.mp3",
+    "arabic" : "المدثر",
+    "isDownloading" : false,
+    "total_verses" : 56,
+    "translation" : "The Cloaked One",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Muddathir",
+    "id" : 74,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 40,
+    "translation" : "The Resurrection",
+    "id" : 75,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/075.mp3",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "القيامة",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "Al-Qiyama"
+  },
+  {
+    "type" : "medinan",
+    "arabic" : "الانسان",
+    "translation" : "The Man",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/076.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 76,
+    "name" : "Al-Insan",
+    "isDownloading" : false,
+    "total_verses" : 31,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 50,
+    "translation" : "The Emissaries",
+    "id" : 77,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/077.mp3",
+    "arabic" : "المرسلات",
+    "isDownloading" : false,
+    "name" : "Al-Mursalat"
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/078.mp3",
+    "name" : "An-Naba",
+    "arabic" : "النبإ",
+    "time_array" : [
+
+    ],
+    "translation" : "The Tidings",
+    "id" : 78,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 40,
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 46,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/079.mp3",
+    "isDownloaded" : false,
+    "id" : 79,
+    "arabic" : "النازعات",
+    "time_array" : [
+
+    ],
+    "translation" : "Those who drag forth",
+    "type" : "meccan",
+    "name" : "An-Naziat",
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "id" : 80,
+    "arabic" : "عبس",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "name" : "Abasa",
+    "total_verses" : 42,
+    "downloadStatus" : 0,
+    "translation" : "He Frowned",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/080.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/081.mp3",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "arabic" : "التكوير",
+    "isDownloaded" : false,
+    "total_verses" : 29,
+    "id" : 81,
+    "translation" : "The Overthrowing",
+    "name" : "At-Takwir",
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/082.mp3",
+    "isDownloaded" : false,
+    "id" : 82,
+    "time_array" : [
+
+    ],
+    "translation" : "The Cleaving",
+    "downloadStatus" : 0,
+    "name" : "Al-Infitar",
+    "arabic" : "الإنفطار",
+    "type" : "meccan",
+    "total_verses" : 19,
+    "isDownloading" : false
+  },
+  {
+    "name" : "Al-Mutaffifin",
+    "isDownloaded" : false,
+    "arabic" : "المطففين",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/083.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 36,
+    "type" : "meccan",
+    "id" : 83,
+    "isDownloading" : false,
+    "translation" : "The Defrauding"
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الإنشقاق",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 84,
+    "translation" : "The Sundering",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/084.mp3",
+    "name" : "Al-Inshiqaq",
+    "total_verses" : 25
+  },
+  {
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/085.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 85,
+    "translation" : "The Mansions of the Stars",
+    "time_array" : [
+
+    ],
+    "total_verses" : 22,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "arabic" : "البروج",
+    "name" : "Al-Burooj"
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/086.mp3",
+    "downloadStatus" : 0,
+    "translation" : "The Nightcommer",
+    "total_verses" : 17,
+    "time_array" : [
+
+    ],
+    "arabic" : "الطارق",
+    "isDownloaded" : false,
+    "name" : "At-Tariq",
+    "type" : "meccan",
+    "id" : 86
+  },
+  {
+    "total_verses" : 19,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/087.mp3",
+    "translation" : "The Most High",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "name" : "Al-Ala",
+    "arabic" : "الأعلى",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 87
+  },
+  {
+    "type" : "meccan",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "id" : 88,
+    "name" : "Al-Ghashiyah",
+    "downloadStatus" : 0,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/088.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الغاشية",
+    "translation" : "The Overwhelming",
+    "total_verses" : 26
+  },
+  {
+    "total_verses" : 30,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/089.mp3",
+    "arabic" : "الفجر",
+    "id" : 89,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Dawn",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Al-Fajr"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 20,
+    "name" : "Al-Balad",
+    "isDownloaded" : false,
+    "translation" : "The City",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/090.mp3",
+    "arabic" : "البلد",
+    "id" : 90
+  },
+  {
+    "translation" : "The Sun",
+    "name" : "Ash-Shams",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/091.mp3",
+    "isDownloading" : false,
+    "id" : 91,
+    "total_verses" : 15,
+    "arabic" : "الشمس",
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "الليل",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/092.mp3",
+    "translation" : "The Night",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 21,
+    "name" : "Al-Lail",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 92
+  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Morning Hours",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/093.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الضحى",
+    "isDownloading" : false,
+    "name" : "Ad-Dhuha",
+    "total_verses" : 11,
+    "type" : "meccan",
+    "id" : 93
+  },
+  {
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 94,
+    "translation" : "The Relief",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 8,
+    "arabic" : "الشرح",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/094.mp3",
+    "name" : "Al-Inshirah"
+  },
+  {
+    "arabic" : "التين",
+    "translation" : "The Fig",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/095.mp3",
+    "type" : "meccan",
+    "name" : "At-Tin",
+    "total_verses" : 8,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 95,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Alaq",
+    "isDownloading" : false,
+    "total_verses" : 19,
+    "downloadStatus" : 0,
+    "arabic" : "العلق",
+    "id" : 96,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/096.mp3",
+    "translation" : "The Clot",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 5,
+    "translation" : "The Power",
+    "type" : "meccan",
+    "arabic" : "القدر",
+    "name" : "Al-Qadr",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/097.mp3",
+    "id" : 97
+  },
+  {
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/098.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Bayyina",
+    "time_array" : [
+
+    ],
+    "translation" : "The Clear Proof",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "total_verses" : 8,
+    "isDownloaded" : false,
+    "arabic" : "البينة",
+    "id" : 98
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/099.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Az-Zalzala",
+    "isDownloading" : false,
+    "id" : 99,
+    "type" : "medinan",
+    "translation" : "The Earthquake",
+    "arabic" : "الزلزلة",
+    "total_verses" : 8
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "id" : 100,
+    "type" : "meccan",
+    "translation" : "The Courser",
+    "total_verses" : 11,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/100.mp3",
+    "arabic" : "العاديات",
+    "isDownloaded" : false,
+    "name" : "Al-Adiyat"
+  },
+  {
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/101.mp3",
+    "translation" : "The Calamity",
+    "type" : "meccan",
+    "name" : "Al-Qaria",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "total_verses" : 11,
+    "arabic" : "القارعة",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 101
+  },
+  {
+    "isDownloading" : false,
+    "type" : "meccan",
+    "id" : 102,
+    "total_verses" : 8,
+    "translation" : "The Rivalry in world increase",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/102.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "name" : "At-Takathur",
+    "arabic" : "التكاثر",
+    "downloadStatus" : 0
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Al-Asr",
+    "translation" : "The Declining Day",
+    "type" : "meccan",
+    "total_verses" : 3,
+    "arabic" : "العصر",
+    "isDownloading" : false,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/103.mp3",
+    "isDownloaded" : false,
+    "id" : 103
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 104,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/104.mp3",
+    "name" : "Al-Humaza",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "arabic" : "الهمزة",
+    "time_array" : [
+
+    ],
+    "total_verses" : 9,
+    "translation" : "The Traducer"
+  },
+  {
+    "total_verses" : 5,
+    "isDownloading" : false,
+    "arabic" : "الفيل",
+    "time_array" : [
+
+    ],
+    "translation" : "The Elephant",
+    "id" : 105,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/105.mp3",
+    "isDownloaded" : false,
+    "name" : "Al-Fil",
+    "downloadStatus" : 0,
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "قريش",
+    "id" : 106,
+    "name" : "Quraysh",
+    "isDownloaded" : false,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/106.mp3",
+    "type" : "meccan",
+    "translation" : "Quraysh",
+    "time_array" : [
+
+    ],
+    "total_verses" : 4
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/107.mp3",
+    "total_verses" : 7,
+    "translation" : "The Small kindnesses",
+    "downloadStatus" : 0,
+    "id" : 107,
+    "name" : "Al-Maun",
+    "arabic" : "الماعون"
+  },
+  {
+    "arabic" : "الكوثر",
+    "name" : "Al-Kawthar",
+    "type" : "meccan",
+    "total_verses" : 3,
+    "isDownloading" : false,
+    "translation" : "The Abundance",
+    "id" : 108,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/108.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "الكافرون",
+    "isDownloading" : false,
+    "name" : "Al-Kafirun",
+    "translation" : "The Disbelievers",
+    "type" : "meccan",
+    "id" : 109,
+    "total_verses" : 6,
+    "isDownloaded" : false,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/109.mp3"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "name" : "An-Nasr",
+    "isDownloading" : false,
+    "id" : 110,
+    "downloadStatus" : 0,
+    "translation" : "The Divine Support",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/110.mp3",
+    "type" : "medinan",
+    "arabic" : "النصر",
+    "isDownloaded" : false
+  },
+  {
+    "type" : "meccan",
+    "name" : "Al-Masad",
+    "total_verses" : 5,
+    "isDownloading" : false,
+    "arabic" : "المسد",
+    "translation" : "The Palm Fiber",
+    "downloadStatus" : 0,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/111.mp3",
+    "isDownloaded" : false,
+    "id" : 111,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 4,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "id" : 112,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/112.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الإخلاص",
+    "isDownloading" : false,
+    "name" : "Al-Ikhlas",
+    "translation" : "The Sincerity"
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 5,
+    "name" : "Al-Falaq",
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/113.mp3",
+    "id" : 113,
+    "arabic" : "الفلق",
+    "translation" : "The Daybreak",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0
+  },
+  {
+    "id" : 114,
+    "link" : "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/114.mp3",
+    "arabic" : "الناس",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 6,
+    "name" : "Al-Nas",
+    "translation" : "Mankind",
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  }
+]

@@ -1,0 +1,1712 @@
+[
+  {
+    "isDownloaded" : false,
+    "translation" : "The Opener",
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/001.mp3",
+    "arabic" : "الفاتحة",
+    "total_verses" : 7,
+    "type" : "meccan",
+    "name" : "Al-Fatiha",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "id" : 1
+  },
+  {
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "id" : 2,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/002.mp3",
+    "arabic" : "البقرة",
+    "name" : "Al-Baqara",
+    "total_verses" : 286,
+    "translation" : "The Cow"
+  },
+  {
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "name" : "Al Imran",
+    "id" : 3,
+    "arabic" : "آل عمران",
+    "downloadStatus" : 0,
+    "translation" : "Family of Imran",
+    "isDownloading" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/003.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 200
+  },
+  {
+    "name" : "An-Nisa",
+    "arabic" : "النساء",
+    "time_array" : [
+
+    ],
+    "total_verses" : 176,
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/004.mp3",
+    "downloadStatus" : 0,
+    "translation" : "The Women",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "id" : 4
+  },
+  {
+    "name" : "Al-Maida",
+    "time_array" : [
+
+    ],
+    "total_verses" : 120,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/005.mp3",
+    "translation" : "The Table Spread",
+    "type" : "medinan",
+    "arabic" : "المائدة",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "id" : 5,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 6,
+    "downloadStatus" : 0,
+    "arabic" : "الأنعام",
+    "name" : "Al-Anam",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/006.mp3",
+    "translation" : "The Cattle",
+    "total_verses" : 165
+  },
+  {
+    "time_array" : [
+
+    ],
+    "name" : "Al-Araf",
+    "total_verses" : 206,
+    "arabic" : "الأعراف",
+    "isDownloading" : false,
+    "id" : 7,
+    "downloadStatus" : 0,
+    "translation" : "The Heights",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/007.mp3"
+  },
+  {
+    "id" : 8,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "الأنفال",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/008.mp3",
+    "name" : "Al-Anfal",
+    "translation" : "The Spoils of War",
+    "total_verses" : 75,
+    "type" : "medinan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "At-Tawba",
+    "total_verses" : 129,
+    "isDownloading" : false,
+    "arabic" : "التوبة",
+    "translation" : "The Repentance",
+    "id" : 9,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/009.mp3",
+    "type" : "medinan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "id" : 10,
+    "name" : "Yunus",
+    "total_verses" : 109,
+    "translation" : "Jonah",
+    "arabic" : "يونس",
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/010.mp3",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "name" : "Hud",
+    "total_verses" : 123,
+    "translation" : "Hud",
+    "arabic" : "هود",
+    "downloadStatus" : 0,
+    "id" : 11,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/011.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "يوسف",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/012.mp3",
+    "name" : "Yusuf",
+    "total_verses" : 111,
+    "type" : "meccan",
+    "translation" : "Joseph",
+    "id" : 12,
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Thunder",
+    "isDownloading" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/013.mp3",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "id" : 13,
+    "isDownloaded" : false,
+    "name" : "Ar-Rad",
+    "time_array" : [
+
+    ],
+    "arabic" : "الرعد",
+    "total_verses" : 43
+  },
+  {
+    "arabic" : "ابراهيم",
+    "total_verses" : 52,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/014.mp3",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "id" : 14,
+    "translation" : "Abraham",
+    "name" : "Ibrahim",
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "type" : "meccan",
+    "name" : "Al-Hijr",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 15,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/015.mp3",
+    "arabic" : "الحجر",
+    "time_array" : [
+
+    ],
+    "translation" : "The Rocky Tract",
+    "isDownloaded" : false,
+    "total_verses" : 99
+  },
+  {
+    "name" : "An-Nahl",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "id" : 16,
+    "downloadStatus" : 0,
+    "arabic" : "النحل",
+    "total_verses" : 128,
+    "translation" : "The Bee",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/016.mp3"
+  },
+  {
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/017.mp3",
+    "arabic" : "الإسراء",
+    "id" : 17,
+    "name" : "Al-Isra",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Night Journey",
+    "total_verses" : 111,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "الكهف",
+    "name" : "Al-Kahf",
+    "translation" : "The Cave",
+    "id" : 18,
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/018.mp3",
+    "total_verses" : 110,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false
+  },
+  {
+    "total_verses" : 98,
+    "name" : "Maryam",
+    "isDownloading" : false,
+    "arabic" : "مريم",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "Mary",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/019.mp3",
+    "id" : 19
+  },
+  {
+    "name" : "Ta-Ha",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 135,
+    "isDownloading" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/020.mp3",
+    "translation" : "Ta-Ha",
+    "arabic" : "طه",
+    "id" : 20,
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/021.mp3",
+    "type" : "meccan",
+    "id" : 21,
+    "isDownloaded" : false,
+    "arabic" : "الأنبياء",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 112,
+    "translation" : "The Prophets",
+    "name" : "Al-Anbiya"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "translation" : "The Pilgrimage",
+    "isDownloaded" : false,
+    "arabic" : "الحج",
+    "name" : "Al-Hajj",
+    "type" : "medinan",
+    "total_verses" : 78,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/022.mp3",
+    "id" : 22,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "The Believers",
+    "isDownloaded" : false,
+    "name" : "Al-Muminoon",
+    "total_verses" : 118,
+    "isDownloading" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/023.mp3",
+    "id" : 23,
+    "downloadStatus" : 0,
+    "arabic" : "المؤمنون",
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/024.mp3",
+    "name" : "An-Nur",
+    "total_verses" : 64,
+    "translation" : "The Light",
+    "arabic" : "النور",
+    "type" : "medinan",
+    "id" : 24,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "الفرقان",
+    "id" : 25,
+    "name" : "Al-Furqan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 77,
+    "translation" : "The Criterion",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/025.mp3",
+    "isDownloaded" : false,
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 227,
+    "translation" : "The Poets",
+    "id" : 26,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Ash-Shuara",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "الشعراء",
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/026.mp3"
+  },
+  {
+    "total_verses" : 93,
+    "arabic" : "النمل",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/027.mp3",
+    "isDownloading" : false,
+    "id" : 27,
+    "isDownloaded" : false,
+    "name" : "An-Naml",
+    "translation" : "The Ant",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/028.mp3",
+    "translation" : "The Stories",
+    "id" : 28,
+    "arabic" : "القصص",
+    "time_array" : [
+
+    ],
+    "total_verses" : 88,
+    "name" : "Al-Qasas",
+    "type" : "meccan",
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "العنكبوت",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/029.mp3",
+    "translation" : "The Spider",
+    "isDownloading" : false,
+    "name" : "Al-Ankabut",
+    "id" : 29,
+    "total_verses" : 69,
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "name" : "Ar-Rum",
+    "translation" : "The Romans",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 30,
+    "arabic" : "الروم",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/030.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 60
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "لقمان",
+    "time_array" : [
+
+    ],
+    "name" : "Luqman",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/031.mp3",
+    "total_verses" : 34,
+    "isDownloaded" : false,
+    "id" : 31,
+    "translation" : "Luqman",
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "id" : 32,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "As-Sajda",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/032.mp3",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "arabic" : "السجدة",
+    "translation" : "The Prostration",
+    "total_verses" : 30
+  },
+  {
+    "name" : "Al-Ahzab",
+    "type" : "medinan",
+    "arabic" : "الأحزاب",
+    "translation" : "The Combined Forces",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 73,
+    "isDownloaded" : false,
+    "id" : 33,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/033.mp3"
+  },
+  {
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/034.mp3",
+    "name" : "Saba",
+    "arabic" : "سبإ",
+    "total_verses" : 54,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "translation" : "Sheba",
+    "isDownloaded" : false,
+    "id" : 34,
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 45,
+    "name" : "Fatir",
+    "type" : "meccan",
+    "translation" : "Originator",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/035.mp3",
+    "arabic" : "فاطر",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "id" : 35
+  },
+  {
+    "translation" : "Ya Sin",
+    "arabic" : "يس",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/036.mp3",
+    "name" : "Ya Sin",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 36,
+    "time_array" : [
+
+    ],
+    "total_verses" : 83,
+    "downloadStatus" : 0,
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/037.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "الصافات",
+    "total_verses" : 182,
+    "translation" : "Those who set the Ranks",
+    "downloadStatus" : 0,
+    "id" : 37,
+    "name" : "As-Saaffat"
+  },
+  {
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/038.mp3",
+    "isDownloading" : false,
+    "name" : "Sad",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 38,
+    "downloadStatus" : 0,
+    "arabic" : "ص",
+    "total_verses" : 88,
+    "translation" : "The Letter Saad",
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/039.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Troops",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 75,
+    "name" : "Az-Zumar",
+    "type" : "meccan",
+    "arabic" : "الزمر",
+    "id" : 39
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Ghafir",
+    "translation" : "The Forgiver",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/040.mp3",
+    "type" : "meccan",
+    "arabic" : "غافر",
+    "time_array" : [
+
+    ],
+    "id" : 40,
+    "downloadStatus" : 0,
+    "total_verses" : 85
+  },
+  {
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/041.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 41,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "فصلت",
+    "name" : "Fussilat",
+    "total_verses" : 54,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "translation" : "Explained in Detail"
+  },
+  {
+    "id" : 42,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 53,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "الشورى",
+    "name" : "Ash-Shura",
+    "translation" : "The Consultation",
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/042.mp3"
+  },
+  {
+    "id" : 43,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The Ornaments of Gold",
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/043.mp3",
+    "arabic" : "الزخرف",
+    "total_verses" : 89,
+    "name" : "Az-Zukhruf",
+    "isDownloading" : false,
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Smoke",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/044.mp3",
+    "time_array" : [
+
+    ],
+    "name" : "Ad-Dukhan",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "arabic" : "الدخان",
+    "total_verses" : 59,
+    "id" : 44,
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "id" : 45,
+    "translation" : "The Crouching",
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/045.mp3",
+    "arabic" : "الجاثية",
+    "name" : "Al-Jathiya",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "total_verses" : 37,
+    "isDownloading" : false
+  },
+  {
+    "id" : 46,
+    "translation" : "The Wind-Curved Sandhills",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/046.mp3",
+    "name" : "Al-Ahqaf",
+    "total_verses" : 35,
+    "arabic" : "الأحقاف",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/047.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "arabic" : "محمد",
+    "name" : "Muhammad",
+    "translation" : "Muhammad",
+    "id" : 47,
+    "isDownloaded" : false,
+    "total_verses" : 38,
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Al-Fath",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/048.mp3",
+    "type" : "medinan",
+    "total_verses" : 29,
+    "time_array" : [
+
+    ],
+    "translation" : "The Victory",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 48,
+    "arabic" : "الفتح"
+  },
+  {
+    "arabic" : "الحجرات",
+    "isDownloading" : false,
+    "translation" : "The Rooms",
+    "id" : 49,
+    "name" : "Al-Hujurat",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/049.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 18,
+    "isDownloaded" : false,
+    "type" : "medinan"
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 45,
+    "arabic" : "ق",
+    "id" : 50,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "translation" : "The Letter Qaf",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/050.mp3",
+    "name" : "Qaf"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 60,
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/051.mp3",
+    "name" : "Adh-Dhariyat",
+    "translation" : "The Winnowing Winds",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 51,
+    "isDownloading" : false,
+    "arabic" : "الذاريات"
+  },
+  {
+    "translation" : "The Mount",
+    "isDownloading" : false,
+    "name" : "At-Tur",
+    "time_array" : [
+
+    ],
+    "total_verses" : 49,
+    "id" : 52,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/052.mp3",
+    "arabic" : "الطور",
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 62,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "An-Najm",
+    "arabic" : "النجم",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/053.mp3",
+    "isDownloaded" : false,
+    "id" : 53,
+    "translation" : "The Star",
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/054.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "القمر",
+    "total_verses" : 55,
+    "translation" : "The Moon",
+    "id" : 54,
+    "name" : "Al-Qamar",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/055.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "الرحمن",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "id" : 55,
+    "name" : "Ar-Rahman",
+    "total_verses" : 78,
+    "translation" : "The Beneficent",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Inevitable",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/056.mp3",
+    "downloadStatus" : 0,
+    "total_verses" : 96,
+    "arabic" : "الواقعة",
+    "id" : 56,
+    "isDownloaded" : false,
+    "name" : "Al-Waqia"
+  },
+  {
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/057.mp3",
+    "translation" : "The Iron",
+    "id" : 57,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "الحديد",
+    "name" : "Al-Hadid",
+    "total_verses" : 29,
+    "time_array" : [
+
+    ],
+    "type" : "medinan"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "المجادلة",
+    "isDownloading" : false,
+    "name" : "Al-Mujadila",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/058.mp3",
+    "translation" : "The Pleading Woman",
+    "id" : 58,
+    "time_array" : [
+
+    ],
+    "total_verses" : 22,
+    "isDownloaded" : false,
+    "type" : "medinan"
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Al-Hashr",
+    "arabic" : "الحشر",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/059.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 24,
+    "translation" : "The Exile",
+    "id" : 59
+  },
+  {
+    "total_verses" : 13,
+    "id" : 60,
+    "arabic" : "الممتحنة",
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "name" : "Al-Mumtahina",
+    "time_array" : [
+
+    ],
+    "translation" : "She that is to be examined",
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/060.mp3",
+    "isDownloading" : false
+  },
+  {
+    "name" : "As-Saff",
+    "isDownloaded" : false,
+    "total_verses" : 14,
+    "translation" : "The Ranks",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/061.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "الصف",
+    "id" : 61
+  },
+  {
+    "name" : "Al-Jumua",
+    "total_verses" : 11,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 62,
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Congregation, Friday",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/062.mp3",
+    "arabic" : "الجمعة"
+  },
+  {
+    "arabic" : "المنافقون",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 63,
+    "total_verses" : 11,
+    "name" : "Al-Munafiqun",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/063.mp3",
+    "translation" : "The Hypocrites"
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/064.mp3",
+    "total_verses" : 18,
+    "translation" : "The Mutual Disillusion",
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "id" : 64,
+    "arabic" : "التغابن",
+    "name" : "At-Taghabun",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 12,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "الطلاق",
+    "id" : 65,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/065.mp3",
+    "isDownloading" : false,
+    "name" : "At-Talaq",
+    "translation" : "The Divorce"
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "التحريم",
+    "downloadStatus" : 0,
+    "translation" : "The Prohibition",
+    "type" : "medinan",
+    "id" : 66,
+    "time_array" : [
+
+    ],
+    "total_verses" : 12,
+    "isDownloading" : false,
+    "name" : "At-Tahrim",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/066.mp3"
+  },
+  {
+    "arabic" : "الملك",
+    "isDownloading" : false,
+    "total_verses" : 30,
+    "translation" : "The Sovereignty",
+    "name" : "Al-Mulk",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 67,
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/067.mp3"
+  },
+  {
+    "id" : 68,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Pen",
+    "type" : "meccan",
+    "total_verses" : 52,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Al-Qalam",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/068.mp3",
+    "arabic" : "القلم"
+  },
+  {
+    "total_verses" : 52,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "name" : "Al-Haaqqa",
+    "isDownloading" : false,
+    "translation" : "The Reality",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/069.mp3",
+    "id" : 69,
+    "downloadStatus" : 0,
+    "arabic" : "الحاقة",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "المعارج",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Ascending Stairways",
+    "name" : "Al-Maarij",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/070.mp3",
+    "isDownloaded" : false,
+    "id" : 70,
+    "time_array" : [
+
+    ],
+    "total_verses" : 44,
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/071.mp3",
+    "id" : 71,
+    "arabic" : "نوح",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 28,
+    "translation" : "Noah",
+    "name" : "Nuh",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "الجن",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Al-Jinn",
+    "type" : "meccan",
+    "total_verses" : 28,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/072.mp3",
+    "translation" : "The Jinn",
+    "id" : 72
+  },
+  {
+    "time_array" : [
+
+    ],
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/073.mp3",
+    "name" : "Al-Muzzammil",
+    "downloadStatus" : 0,
+    "translation" : "The Enshrouded One",
+    "total_verses" : 20,
+    "id" : 73,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "arabic" : "المزمل",
+    "isDownloaded" : false
+  },
+  {
+    "total_verses" : 56,
+    "arabic" : "المدثر",
+    "time_array" : [
+
+    ],
+    "id" : 74,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "translation" : "The Cloaked One",
+    "downloadStatus" : 0,
+    "name" : "Al-Muddathir",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/074.mp3",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "القيامة",
+    "isDownloaded" : false,
+    "id" : 75,
+    "name" : "Al-Qiyama",
+    "total_verses" : 40,
+    "translation" : "The Resurrection",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/075.mp3",
+    "isDownloading" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 31,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/076.mp3",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "id" : 76,
+    "translation" : "The Man",
+    "arabic" : "الانسان",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Insan"
+  },
+  {
+    "name" : "Al-Mursalat",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 50,
+    "translation" : "The Emissaries",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "arabic" : "المرسلات",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/077.mp3",
+    "id" : 77
+  },
+  {
+    "translation" : "The Tidings",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "arabic" : "النبإ",
+    "name" : "An-Naba",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 40,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/078.mp3",
+    "isDownloaded" : false,
+    "id" : 78
+  },
+  {
+    "name" : "An-Naziat",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 46,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "translation" : "Those who drag forth",
+    "arabic" : "النازعات",
+    "id" : 79,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/079.mp3"
+  },
+  {
+    "isDownloading" : false,
+    "type" : "meccan",
+    "arabic" : "عبس",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "He Frowned",
+    "total_verses" : 42,
+    "name" : "Abasa",
+    "id" : 80,
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/080.mp3"
+  },
+  {
+    "arabic" : "التكوير",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/081.mp3",
+    "name" : "At-Takwir",
+    "isDownloading" : false,
+    "total_verses" : 29,
+    "id" : 81,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Overthrowing",
+    "type" : "meccan",
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Al-Infitar",
+    "arabic" : "الإنفطار",
+    "time_array" : [
+
+    ],
+    "id" : 82,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/082.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 19,
+    "type" : "meccan",
+    "translation" : "The Cleaving",
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/083.mp3",
+    "total_verses" : 36,
+    "name" : "Al-Mutaffifin",
+    "time_array" : [
+
+    ],
+    "translation" : "The Defrauding",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "المطففين",
+    "id" : 83
+  },
+  {
+    "name" : "Al-Inshiqaq",
+    "time_array" : [
+
+    ],
+    "arabic" : "الإنشقاق",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 84,
+    "isDownloaded" : false,
+    "total_verses" : 25,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/084.mp3",
+    "translation" : "The Sundering",
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/085.mp3",
+    "arabic" : "البروج",
+    "isDownloaded" : false,
+    "id" : 85,
+    "time_array" : [
+
+    ],
+    "total_verses" : 22,
+    "translation" : "The Mansions of the Stars",
+    "name" : "Al-Burooj",
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "الطارق",
+    "translation" : "The Nightcommer",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/086.mp3",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "name" : "At-Tariq",
+    "id" : 86,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 17
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/087.mp3",
+    "total_verses" : 19,
+    "arabic" : "الأعلى",
+    "isDownloaded" : false,
+    "translation" : "The Most High",
+    "name" : "Al-Ala",
+    "id" : 87
+  },
+  {
+    "arabic" : "الغاشية",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "Al-Ghashiyah",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "translation" : "The Overwhelming",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/088.mp3",
+    "id" : 88,
+    "total_verses" : 26,
+    "type" : "meccan"
+  },
+  {
+    "id" : 89,
+    "arabic" : "الفجر",
+    "name" : "Al-Fajr",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/089.mp3",
+    "isDownloading" : false,
+    "total_verses" : 30,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Dawn",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/090.mp3",
+    "id" : 90,
+    "translation" : "The City",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "البلد",
+    "name" : "Al-Balad",
+    "total_verses" : 20,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "The Sun",
+    "id" : 91,
+    "arabic" : "الشمس",
+    "downloadStatus" : 0,
+    "total_verses" : 15,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Ash-Shams",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/091.mp3"
+  },
+  {
+    "name" : "Al-Lail",
+    "id" : 92,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 21,
+    "time_array" : [
+
+    ],
+    "translation" : "The Night",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/092.mp3",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "arabic" : "الليل"
+  },
+  {
+    "isDownloading" : false,
+    "id" : 93,
+    "downloadStatus" : 0,
+    "name" : "Ad-Dhuha",
+    "time_array" : [
+
+    ],
+    "total_verses" : 11,
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/093.mp3",
+    "arabic" : "الضحى",
+    "translation" : "The Morning Hours",
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "الشرح",
+    "isDownloading" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/094.mp3",
+    "id" : 94,
+    "downloadStatus" : 0,
+    "name" : "Al-Inshirah",
+    "total_verses" : 8,
+    "translation" : "The Relief"
+  },
+  {
+    "type" : "meccan",
+    "total_verses" : 8,
+    "arabic" : "التين",
+    "name" : "At-Tin",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/095.mp3",
+    "id" : 95,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Fig",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "id" : 96,
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/096.mp3",
+    "arabic" : "العلق",
+    "name" : "Al-Alaq",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 19,
+    "downloadStatus" : 0,
+    "translation" : "The Clot"
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 97,
+    "arabic" : "القدر",
+    "name" : "Al-Qadr",
+    "translation" : "The Power",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/097.mp3",
+    "total_verses" : 5,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 98,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/098.mp3",
+    "translation" : "The Clear Proof",
+    "isDownloaded" : false,
+    "total_verses" : 8,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "isDownloading" : false,
+    "arabic" : "البينة",
+    "downloadStatus" : 0,
+    "name" : "Al-Bayyina"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "الزلزلة",
+    "total_verses" : 8,
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Az-Zalzala",
+    "translation" : "The Earthquake",
+    "id" : 99,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/099.mp3"
+  },
+  {
+    "total_verses" : 11,
+    "arabic" : "العاديات",
+    "translation" : "The Courser",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Adiyat",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/100.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 100,
+    "isDownloaded" : false
+  },
+  {
+    "name" : "Al-Qaria",
+    "total_verses" : 11,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/101.mp3",
+    "isDownloading" : false,
+    "translation" : "The Calamity",
+    "id" : 101,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "القارعة"
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 102,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Rivalry in world increase",
+    "arabic" : "التكاثر",
+    "type" : "meccan",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/102.mp3",
+    "isDownloading" : false,
+    "total_verses" : 8,
+    "name" : "At-Takathur"
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "translation" : "The Declining Day",
+    "name" : "Al-Asr",
+    "type" : "meccan",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/103.mp3",
+    "isDownloaded" : false,
+    "id" : 103,
+    "isDownloading" : false,
+    "arabic" : "العصر"
+  },
+  {
+    "total_verses" : 9,
+    "translation" : "The Traducer",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "الهمزة",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Humaza",
+    "id" : 104,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/104.mp3",
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "الفيل",
+    "id" : 105,
+    "downloadStatus" : 0,
+    "translation" : "The Elephant",
+    "total_verses" : 5,
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/105.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Al-Fil",
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/106.mp3",
+    "name" : "Quraysh",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "Quraysh",
+    "total_verses" : 4,
+    "arabic" : "قريش",
+    "id" : 106
+  },
+  {
+    "total_verses" : 7,
+    "isDownloaded" : false,
+    "translation" : "The Small kindnesses",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/107.mp3",
+    "type" : "meccan",
+    "arabic" : "الماعون",
+    "isDownloading" : false,
+    "name" : "Al-Maun",
+    "downloadStatus" : 0,
+    "id" : 107
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/108.mp3",
+    "isDownloading" : false,
+    "translation" : "The Abundance",
+    "total_verses" : 3,
+    "downloadStatus" : 0,
+    "arabic" : "الكوثر",
+    "name" : "Al-Kawthar",
+    "id" : 108,
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Al-Kafirun",
+    "time_array" : [
+
+    ],
+    "id" : 109,
+    "downloadStatus" : 0,
+    "total_verses" : 6,
+    "arabic" : "الكافرون",
+    "translation" : "The Disbelievers",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/109.mp3",
+    "type" : "meccan",
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "النصر",
+    "total_verses" : 3,
+    "isDownloading" : false,
+    "name" : "An-Nasr",
+    "id" : 110,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/110.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Divine Support",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/111.mp3",
+    "id" : 111,
+    "arabic" : "المسد",
+    "downloadStatus" : 0,
+    "name" : "Al-Masad",
+    "translation" : "The Palm Fiber",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "total_verses" : 5
+  },
+  {
+    "name" : "Al-Ikhlas",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 4,
+    "translation" : "The Sincerity",
+    "arabic" : "الإخلاص",
+    "downloadStatus" : 0,
+    "id" : 112,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/112.mp3"
+  },
+  {
+    "type" : "meccan",
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/113.mp3",
+    "arabic" : "الفلق",
+    "translation" : "The Daybreak",
+    "name" : "Al-Falaq",
+    "id" : 113,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 5,
+    "downloadStatus" : 0
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/114.mp3",
+    "translation" : "Mankind",
+    "isDownloading" : false,
+    "total_verses" : 6,
+    "id" : 114,
+    "isDownloaded" : false,
+    "arabic" : "الناس",
+    "name" : "Al-Nas"
+  }
+]

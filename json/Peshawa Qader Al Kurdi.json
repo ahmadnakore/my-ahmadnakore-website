@@ -1,0 +1,1712 @@
+[
+  {
+    "translation" : "The Opener",
+    "arabic" : "الفاتحة",
+    "name" : "Al-Fatiha",
+    "total_verses" : 7,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/001.mp3",
+    "isDownloading" : false,
+    "id" : 1,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloading" : false,
+    "id" : 2,
+    "name" : "Al-Baqara",
+    "translation" : "The Cow",
+    "downloadStatus" : 0,
+    "total_verses" : 286,
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/002.mp3",
+    "arabic" : "البقرة",
+    "time_array" : [
+
+    ],
+    "type" : "medinan"
+  },
+  {
+    "name" : "Al Imran",
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "arabic" : "آل عمران",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/003.mp3",
+    "id" : 3,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 200,
+    "downloadStatus" : 0,
+    "translation" : "Family of Imran"
+  },
+  {
+    "type" : "medinan",
+    "arabic" : "النساء",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "translation" : "The Women",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/004.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "id" : 4,
+    "name" : "An-Nisa",
+    "total_verses" : 176
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "المائدة",
+    "name" : "Al-Maida",
+    "id" : 5,
+    "time_array" : [
+
+    ],
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/005.mp3",
+    "downloadStatus" : 0,
+    "total_verses" : 120,
+    "translation" : "The Table Spread",
+    "type" : "medinan"
+  },
+  {
+    "id" : 6,
+    "name" : "Al-Anam",
+    "translation" : "The Cattle",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/006.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 165,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الأنعام"
+  },
+  {
+    "id" : 7,
+    "translation" : "The Heights",
+    "isDownloaded" : false,
+    "total_verses" : 206,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الأعراف",
+    "name" : "Al-Araf",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/007.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Anfal",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 75,
+    "type" : "medinan",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/008.mp3",
+    "translation" : "The Spoils of War",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "id" : 8,
+    "arabic" : "الأنفال"
+  },
+  {
+    "type" : "medinan",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/009.mp3",
+    "arabic" : "التوبة",
+    "id" : 9,
+    "isDownloaded" : false,
+    "name" : "At-Tawba",
+    "time_array" : [
+
+    ],
+    "translation" : "The Repentance",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 129
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/010.mp3",
+    "arabic" : "يونس",
+    "name" : "Yunus",
+    "id" : 10,
+    "type" : "meccan",
+    "translation" : "Jonah",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 109,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "هود",
+    "id" : 11,
+    "total_verses" : 123,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/011.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "Hud",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "name" : "Hud"
+  },
+  {
+    "name" : "Yusuf",
+    "isDownloading" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/012.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 111,
+    "id" : 12,
+    "translation" : "Joseph",
+    "arabic" : "يوسف",
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/013.mp3",
+    "name" : "Ar-Rad",
+    "time_array" : [
+
+    ],
+    "total_verses" : 43,
+    "id" : 13,
+    "arabic" : "الرعد",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Thunder",
+    "type" : "medinan"
+  },
+  {
+    "arabic" : "ابراهيم",
+    "total_verses" : 52,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/014.mp3",
+    "translation" : "Abraham",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Ibrahim",
+    "isDownloaded" : false,
+    "id" : 14,
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/015.mp3",
+    "translation" : "The Rocky Tract",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Hijr",
+    "time_array" : [
+
+    ],
+    "total_verses" : 99,
+    "id" : 15,
+    "type" : "meccan",
+    "arabic" : "الحجر"
+  },
+  {
+    "arabic" : "النحل",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/016.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 16,
+    "name" : "An-Nahl",
+    "total_verses" : 128,
+    "time_array" : [
+
+    ],
+    "translation" : "The Bee",
+    "isDownloading" : false,
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/017.mp3",
+    "arabic" : "الإسراء",
+    "name" : "Al-Isra",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 17,
+    "time_array" : [
+
+    ],
+    "translation" : "The Night Journey",
+    "isDownloading" : false,
+    "total_verses" : 111
+  },
+  {
+    "isDownloading" : false,
+    "id" : 18,
+    "time_array" : [
+
+    ],
+    "total_verses" : 110,
+    "translation" : "The Cave",
+    "isDownloaded" : false,
+    "arabic" : "الكهف",
+    "name" : "Al-Kahf",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/018.mp3"
+  },
+  {
+    "translation" : "Mary",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/019.mp3",
+    "name" : "Maryam",
+    "type" : "meccan",
+    "arabic" : "مريم",
+    "isDownloading" : false,
+    "id" : 19,
+    "time_array" : [
+
+    ],
+    "total_verses" : 98
+  },
+  {
+    "total_verses" : 135,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/020.mp3",
+    "downloadStatus" : 0,
+    "translation" : "Ta-Ha",
+    "id" : 20,
+    "arabic" : "طه",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Ta-Ha"
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/021.mp3",
+    "arabic" : "الأنبياء",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 112,
+    "isDownloading" : false,
+    "id" : 21,
+    "translation" : "The Prophets",
+    "name" : "Al-Anbiya",
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "الحج",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Al-Hajj",
+    "translation" : "The Pilgrimage",
+    "downloadStatus" : 0,
+    "id" : 22,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/022.mp3",
+    "total_verses" : 78,
+    "type" : "medinan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 118,
+    "type" : "meccan",
+    "arabic" : "المؤمنون",
+    "id" : 23,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/023.mp3",
+    "name" : "Al-Muminoon",
+    "downloadStatus" : 0,
+    "translation" : "The Believers",
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "type" : "medinan",
+    "id" : 24,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "An-Nur",
+    "total_verses" : 64,
+    "isDownloading" : false,
+    "translation" : "The Light",
+    "isDownloaded" : false,
+    "arabic" : "النور",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/024.mp3"
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/025.mp3",
+    "arabic" : "الفرقان",
+    "downloadStatus" : 0,
+    "name" : "Al-Furqan",
+    "total_verses" : 77,
+    "translation" : "The Criterion",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 25,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 227,
+    "arabic" : "الشعراء",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 26,
+    "name" : "Ash-Shuara",
+    "translation" : "The Poets",
+    "type" : "meccan",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/026.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/027.mp3",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "total_verses" : 93,
+    "arabic" : "النمل",
+    "id" : 27,
+    "name" : "An-Naml",
+    "time_array" : [
+
+    ],
+    "translation" : "The Ant"
+  },
+  {
+    "translation" : "The Stories",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Qasas",
+    "type" : "meccan",
+    "arabic" : "القصص",
+    "id" : 28,
+    "total_verses" : 88,
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/028.mp3"
+  },
+  {
+    "total_verses" : 69,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/029.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Spider",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "العنكبوت",
+    "isDownloading" : false,
+    "name" : "Al-Ankabut",
+    "type" : "meccan",
+    "id" : 29
+  },
+  {
+    "arabic" : "الروم",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 60,
+    "name" : "Ar-Rum",
+    "translation" : "The Romans",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/030.mp3",
+    "id" : 30,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/031.mp3",
+    "isDownloaded" : false,
+    "translation" : "Luqman",
+    "total_verses" : 34,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "id" : 31,
+    "arabic" : "لقمان",
+    "name" : "Luqman",
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 32,
+    "total_verses" : 30,
+    "type" : "meccan",
+    "arabic" : "السجدة",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/032.mp3",
+    "translation" : "The Prostration",
+    "isDownloading" : false,
+    "name" : "As-Sajda",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false
+  },
+  {
+    "type" : "medinan",
+    "total_verses" : 73,
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/033.mp3",
+    "arabic" : "الأحزاب",
+    "id" : 33,
+    "name" : "Al-Ahzab",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Combined Forces"
+  },
+  {
+    "name" : "Saba",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/034.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "سبإ",
+    "isDownloaded" : false,
+    "id" : 34,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "total_verses" : 54,
+    "time_array" : [
+
+    ],
+    "translation" : "Sheba"
+  },
+  {
+    "arabic" : "فاطر",
+    "isDownloaded" : false,
+    "translation" : "Originator",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 35,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/035.mp3",
+    "downloadStatus" : 0,
+    "name" : "Fatir",
+    "time_array" : [
+
+    ],
+    "total_verses" : 45
+  },
+  {
+    "translation" : "Ya Sin",
+    "isDownloading" : false,
+    "name" : "Ya Sin",
+    "id" : 36,
+    "total_verses" : 83,
+    "time_array" : [
+
+    ],
+    "arabic" : "يس",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/036.mp3"
+  },
+  {
+    "arabic" : "الصافات",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 37,
+    "time_array" : [
+
+    ],
+    "translation" : "Those who set the Ranks",
+    "type" : "meccan",
+    "total_verses" : 182,
+    "name" : "As-Saaffat",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/037.mp3"
+  },
+  {
+    "arabic" : "ص",
+    "name" : "Sad",
+    "translation" : "The Letter Saad",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/038.mp3",
+    "id" : 38,
+    "downloadStatus" : 0,
+    "total_verses" : 88,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloading" : false,
+    "isDownloaded" : false
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "الزمر",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "id" : 39,
+    "total_verses" : 75,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/039.mp3",
+    "translation" : "The Troops",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Az-Zumar"
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/040.mp3",
+    "translation" : "The Forgiver",
+    "name" : "Ghafir",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "غافر",
+    "id" : 40,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 85,
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/041.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 54,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 41,
+    "translation" : "Explained in Detail",
+    "name" : "Fussilat",
+    "arabic" : "فصلت"
+  },
+  {
+    "id" : 42,
+    "total_verses" : 53,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/042.mp3",
+    "isDownloaded" : false,
+    "translation" : "The Consultation",
+    "name" : "Ash-Shura",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "arabic" : "الشورى"
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "الزخرف",
+    "name" : "Az-Zukhruf",
+    "id" : 43,
+    "type" : "meccan",
+    "total_verses" : 89,
+    "translation" : "The Ornaments of Gold",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/043.mp3"
+  },
+  {
+    "translation" : "The Smoke",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "id" : 44,
+    "name" : "Ad-Dukhan",
+    "isDownloaded" : false,
+    "total_verses" : 59,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/044.mp3",
+    "isDownloading" : false,
+    "arabic" : "الدخان",
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 45,
+    "downloadStatus" : 0,
+    "name" : "Al-Jathiya",
+    "type" : "meccan",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/045.mp3",
+    "arabic" : "الجاثية",
+    "total_verses" : 37,
+    "isDownloading" : false,
+    "translation" : "The Crouching"
+  },
+  {
+    "translation" : "The Wind-Curved Sandhills",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/046.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "الأحقاف",
+    "isDownloaded" : false,
+    "id" : 46,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Ahqaf",
+    "total_verses" : 35,
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "محمد",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/047.mp3",
+    "type" : "medinan",
+    "name" : "Muhammad",
+    "total_verses" : 38,
+    "downloadStatus" : 0,
+    "id" : 47,
+    "time_array" : [
+
+    ],
+    "translation" : "Muhammad",
+    "isDownloading" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 29,
+    "arabic" : "الفتح",
+    "name" : "Al-Fath",
+    "isDownloaded" : false,
+    "translation" : "The Victory",
+    "id" : 48,
+    "type" : "medinan",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/048.mp3"
+  },
+  {
+    "arabic" : "الحجرات",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/049.mp3",
+    "isDownloading" : false,
+    "id" : 49,
+    "name" : "Al-Hujurat",
+    "downloadStatus" : 0,
+    "total_verses" : 18,
+    "translation" : "The Rooms",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "isDownloaded" : false
+  },
+  {
+    "total_verses" : 45,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/050.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "ق",
+    "id" : 50,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "name" : "Qaf",
+    "translation" : "The Letter Qaf",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/051.mp3",
+    "id" : 51,
+    "time_array" : [
+
+    ],
+    "name" : "Adh-Dhariyat",
+    "translation" : "The Winnowing Winds",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الذاريات",
+    "isDownloaded" : false,
+    "total_verses" : 60,
+    "isDownloading" : false
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "name" : "At-Tur",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/052.mp3",
+    "translation" : "The Mount",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 52,
+    "total_verses" : 49,
+    "arabic" : "الطور",
+    "isDownloading" : false
+  },
+  {
+    "translation" : "The Star",
+    "total_verses" : 62,
+    "isDownloaded" : false,
+    "arabic" : "النجم",
+    "isDownloading" : false,
+    "id" : 53,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/053.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "An-Najm"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "id" : 54,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Qamar",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/054.mp3",
+    "total_verses" : 55,
+    "translation" : "The Moon",
+    "arabic" : "القمر"
+  },
+  {
+    "id" : 55,
+    "name" : "Ar-Rahman",
+    "arabic" : "الرحمن",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 78,
+    "translation" : "The Beneficent",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/055.mp3",
+    "type" : "medinan",
+    "isDownloading" : false
+  },
+  {
+    "id" : 56,
+    "total_verses" : 96,
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/056.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Inevitable",
+    "downloadStatus" : 0,
+    "arabic" : "الواقعة",
+    "type" : "meccan",
+    "name" : "Al-Waqia",
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 29,
+    "id" : 57,
+    "arabic" : "الحديد",
+    "name" : "Al-Hadid",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Iron",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/057.mp3"
+  },
+  {
+    "id" : 58,
+    "arabic" : "المجادلة",
+    "name" : "Al-Mujadila",
+    "isDownloaded" : false,
+    "translation" : "The Pleading Woman",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "total_verses" : 22,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/058.mp3"
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/059.mp3",
+    "id" : 59,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "isDownloading" : false,
+    "translation" : "The Exile",
+    "total_verses" : 24,
+    "name" : "Al-Hashr",
+    "isDownloaded" : false,
+    "arabic" : "الحشر"
+  },
+  {
+    "isDownloading" : false,
+    "id" : 60,
+    "translation" : "She that is to be examined",
+    "name" : "Al-Mumtahina",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/060.mp3",
+    "isDownloaded" : false,
+    "total_verses" : 13,
+    "arabic" : "الممتحنة",
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "id" : 61,
+    "name" : "As-Saff",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/061.mp3",
+    "arabic" : "الصف",
+    "isDownloading" : false,
+    "total_verses" : 14,
+    "translation" : "The Ranks",
+    "time_array" : [
+
+    ],
+    "type" : "medinan"
+  },
+  {
+    "name" : "Al-Jumua",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/062.mp3",
+    "translation" : "The Congregation, Friday",
+    "arabic" : "الجمعة",
+    "id" : 62,
+    "time_array" : [
+
+    ],
+    "total_verses" : 11
+  },
+  {
+    "translation" : "The Hypocrites",
+    "arabic" : "المنافقون",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/063.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 63,
+    "name" : "Al-Munafiqun",
+    "isDownloaded" : false,
+    "total_verses" : 11,
+    "time_array" : [
+
+    ],
+    "type" : "medinan"
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/064.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "التغابن",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 18,
+    "name" : "At-Taghabun",
+    "id" : 64,
+    "translation" : "The Mutual Disillusion",
+    "type" : "medinan",
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "الطلاق",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "translation" : "The Divorce",
+    "total_verses" : 12,
+    "id" : 65,
+    "isDownloaded" : false,
+    "name" : "At-Talaq",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/065.mp3",
+    "isDownloading" : false
+  },
+  {
+    "id" : 66,
+    "name" : "At-Tahrim",
+    "type" : "medinan",
+    "arabic" : "التحريم",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/066.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 12,
+    "translation" : "The Prohibition"
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 67,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/067.mp3",
+    "translation" : "The Sovereignty",
+    "isDownloaded" : false,
+    "arabic" : "الملك",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Al-Mulk",
+    "total_verses" : 30,
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/068.mp3",
+    "total_verses" : 52,
+    "id" : 68,
+    "translation" : "The Pen",
+    "arabic" : "القلم",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Al-Qalam"
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/069.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "الحاقة",
+    "id" : 69,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Haaqqa",
+    "translation" : "The Reality",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 52
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 44,
+    "translation" : "The Ascending Stairways",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 70,
+    "isDownloading" : false,
+    "name" : "Al-Maarij",
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/070.mp3",
+    "arabic" : "المعارج"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "arabic" : "نوح",
+    "name" : "Nuh",
+    "total_verses" : 28,
+    "translation" : "Noah",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/071.mp3",
+    "id" : 71,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الجن",
+    "total_verses" : 28,
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/072.mp3",
+    "id" : 72,
+    "name" : "Al-Jinn",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "translation" : "The Jinn"
+  },
+  {
+    "id" : 73,
+    "translation" : "The Enshrouded One",
+    "name" : "Al-Muzzammil",
+    "time_array" : [
+
+    ],
+    "total_verses" : 20,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "arabic" : "المزمل",
+    "isDownloading" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/073.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Cloaked One",
+    "total_verses" : 56,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 74,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/074.mp3",
+    "arabic" : "المدثر",
+    "name" : "Al-Muddathir"
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 40,
+    "arabic" : "القيامة",
+    "name" : "Al-Qiyama",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/075.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Resurrection",
+    "id" : 75
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 31,
+    "id" : 76,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/076.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Man",
+    "name" : "Al-Insan",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "arabic" : "الانسان"
+  },
+  {
+    "arabic" : "المرسلات",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/077.mp3",
+    "name" : "Al-Mursalat",
+    "downloadStatus" : 0,
+    "total_verses" : 50,
+    "translation" : "The Emissaries",
+    "isDownloading" : false,
+    "id" : 77,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "The Tidings",
+    "type" : "meccan",
+    "arabic" : "النبإ",
+    "isDownloaded" : false,
+    "total_verses" : 40,
+    "id" : 78,
+    "time_array" : [
+
+    ],
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/078.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "An-Naba"
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/079.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "النازعات",
+    "name" : "An-Naziat",
+    "translation" : "Those who drag forth",
+    "id" : 79,
+    "type" : "meccan",
+    "total_verses" : 46,
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "meccan",
+    "arabic" : "عبس",
+    "isDownloaded" : false,
+    "name" : "Abasa",
+    "total_verses" : 42,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/080.mp3",
+    "translation" : "He Frowned",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 80,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "التكوير",
+    "name" : "At-Takwir",
+    "total_verses" : 29,
+    "translation" : "The Overthrowing",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/081.mp3",
+    "type" : "meccan",
+    "id" : 81,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "translation" : "The Cleaving",
+    "name" : "Al-Infitar",
+    "type" : "meccan",
+    "id" : 82,
+    "isDownloading" : false,
+    "arabic" : "الإنفطار",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/082.mp3",
+    "downloadStatus" : 0,
+    "total_verses" : 19,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "المطففين",
+    "downloadStatus" : 0,
+    "total_verses" : 36,
+    "type" : "meccan",
+    "id" : 83,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Mutaffifin",
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/083.mp3",
+    "isDownloading" : false,
+    "translation" : "The Defrauding"
+  },
+  {
+    "arabic" : "الإنشقاق",
+    "id" : 84,
+    "total_verses" : 25,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "name" : "Al-Inshiqaq",
+    "time_array" : [
+
+    ],
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/084.mp3",
+    "isDownloading" : false,
+    "translation" : "The Sundering",
+    "downloadStatus" : 0
+  },
+  {
+    "total_verses" : 22,
+    "translation" : "The Mansions of the Stars",
+    "isDownloading" : false,
+    "arabic" : "البروج",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "Al-Burooj",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/085.mp3",
+    "id" : 85
+  },
+  {
+    "arabic" : "الطارق",
+    "isDownloading" : false,
+    "translation" : "The Nightcommer",
+    "time_array" : [
+
+    ],
+    "total_verses" : 17,
+    "id" : 86,
+    "type" : "meccan",
+    "name" : "At-Tariq",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/086.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/087.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "id" : 87,
+    "translation" : "The Most High",
+    "total_verses" : 19,
+    "isDownloaded" : false,
+    "arabic" : "الأعلى",
+    "name" : "Al-Ala"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "Al-Ghashiyah",
+    "type" : "meccan",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/088.mp3",
+    "total_verses" : 26,
+    "isDownloading" : false,
+    "id" : 88,
+    "arabic" : "الغاشية",
+    "downloadStatus" : 0,
+    "translation" : "The Overwhelming"
+  },
+  {
+    "translation" : "The Dawn",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 30,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Al-Fajr",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/089.mp3",
+    "id" : 89,
+    "isDownloading" : false,
+    "arabic" : "الفجر"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 20,
+    "arabic" : "البلد",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 90,
+    "translation" : "The City",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/090.mp3",
+    "name" : "Al-Balad",
+    "isDownloaded" : false
+  },
+  {
+    "translation" : "The Sun",
+    "total_verses" : 15,
+    "name" : "Ash-Shams",
+    "arabic" : "الشمس",
+    "type" : "meccan",
+    "id" : 91,
+    "time_array" : [
+
+    ],
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/091.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "الليل",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 21,
+    "id" : 92,
+    "type" : "meccan",
+    "translation" : "The Night",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/092.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Lail"
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/093.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Ad-Dhuha",
+    "total_verses" : 11,
+    "id" : 93,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Morning Hours",
+    "arabic" : "الضحى"
+  },
+  {
+    "id" : 94,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/094.mp3",
+    "arabic" : "الشرح",
+    "translation" : "The Relief",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Inshirah",
+    "total_verses" : 8,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/095.mp3",
+    "type" : "meccan",
+    "arabic" : "التين",
+    "downloadStatus" : 0,
+    "id" : 95,
+    "time_array" : [
+
+    ],
+    "total_verses" : 8,
+    "isDownloaded" : false,
+    "name" : "At-Tin",
+    "translation" : "The Fig"
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/096.mp3",
+    "arabic" : "العلق",
+    "id" : 96,
+    "name" : "Al-Alaq",
+    "time_array" : [
+
+    ],
+    "total_verses" : 19,
+    "translation" : "The Clot",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 5,
+    "type" : "meccan",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/097.mp3",
+    "name" : "Al-Qadr",
+    "translation" : "The Power",
+    "arabic" : "القدر",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 97
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/098.mp3",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "id" : 98,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "البينة",
+    "downloadStatus" : 0,
+    "translation" : "The Clear Proof",
+    "total_verses" : 8,
+    "name" : "Al-Bayyina"
+  },
+  {
+    "total_verses" : 8,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/099.mp3",
+    "name" : "Az-Zalzala",
+    "translation" : "The Earthquake",
+    "arabic" : "الزلزلة",
+    "isDownloading" : false,
+    "id" : 99,
+    "time_array" : [
+
+    ],
+    "type" : "medinan"
+  },
+  {
+    "id" : 100,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 11,
+    "type" : "meccan",
+    "name" : "Al-Adiyat",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/100.mp3",
+    "arabic" : "العاديات",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "translation" : "The Courser"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 11,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 101,
+    "translation" : "The Calamity",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/101.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "القارعة",
+    "name" : "Al-Qaria"
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/102.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "id" : 102,
+    "name" : "At-Takathur",
+    "type" : "meccan",
+    "total_verses" : 8,
+    "time_array" : [
+
+    ],
+    "arabic" : "التكاثر",
+    "downloadStatus" : 0,
+    "translation" : "The Rivalry in world increase"
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/103.mp3",
+    "id" : 103,
+    "total_verses" : 3,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "العصر",
+    "translation" : "The Declining Day",
+    "name" : "Al-Asr"
+  },
+  {
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الهمزة",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/104.mp3",
+    "isDownloading" : false,
+    "id" : 104,
+    "time_array" : [
+
+    ],
+    "total_verses" : 9,
+    "name" : "Al-Humaza",
+    "translation" : "The Traducer"
+  },
+  {
+    "type" : "meccan",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/105.mp3",
+    "name" : "Al-Fil",
+    "id" : 105,
+    "time_array" : [
+
+    ],
+    "arabic" : "الفيل",
+    "total_verses" : 5,
+    "isDownloaded" : false,
+    "translation" : "The Elephant"
+  },
+  {
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/106.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "translation" : "Quraysh",
+    "total_verses" : 4,
+    "name" : "Quraysh",
+    "arabic" : "قريش",
+    "id" : 106
+  },
+  {
+    "total_verses" : 7,
+    "arabic" : "الماعون",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/107.mp3",
+    "translation" : "The Small kindnesses",
+    "isDownloading" : false,
+    "name" : "Al-Maun",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 107
+  },
+  {
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 108,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Kawthar",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/108.mp3",
+    "arabic" : "الكوثر",
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "translation" : "The Abundance"
+  },
+  {
+    "type" : "meccan",
+    "isDownloading" : false,
+    "arabic" : "الكافرون",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/109.mp3",
+    "id" : 109,
+    "time_array" : [
+
+    ],
+    "translation" : "The Disbelievers",
+    "isDownloaded" : false,
+    "total_verses" : 6,
+    "downloadStatus" : 0,
+    "name" : "Al-Kafirun"
+  },
+  {
+    "translation" : "The Divine Support",
+    "downloadStatus" : 0,
+    "arabic" : "النصر",
+    "time_array" : [
+
+    ],
+    "id" : 110,
+    "isDownloading" : false,
+    "name" : "An-Nasr",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/110.mp3",
+    "total_verses" : 3,
+    "isDownloaded" : false,
+    "type" : "medinan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "The Palm Fiber",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/111.mp3",
+    "total_verses" : 5,
+    "type" : "meccan",
+    "name" : "Al-Masad",
+    "arabic" : "المسد",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 111
+  },
+  {
+    "isDownloading" : false,
+    "id" : 112,
+    "translation" : "The Sincerity",
+    "type" : "meccan",
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/112.mp3",
+    "arabic" : "الإخلاص",
+    "time_array" : [
+
+    ],
+    "total_verses" : 4,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Ikhlas"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 5,
+    "translation" : "The Daybreak",
+    "id" : 113,
+    "isDownloaded" : false,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/113.mp3",
+    "arabic" : "الفلق",
+    "name" : "Al-Falaq",
+    "isDownloading" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/114.mp3",
+    "total_verses" : 6,
+    "id" : 114,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "الناس",
+    "isDownloading" : false,
+    "name" : "Al-Nas",
+    "translation" : "Mankind",
+    "type" : "meccan"
+  }
+]
