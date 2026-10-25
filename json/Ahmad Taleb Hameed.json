@@ -119,21 +119,6 @@
     "isDownloading" : false,
     "type" : "medinan"
   },
-//  {
-//    "isDownloading" : false,
-//    "type" : "medinan",
-//    "arabic" : "التوبة",
-//    "name" : "At-Tawba",
-//    "total_verses" : 129,
-//    "id" : 9,
-//    "time_array" : [
-//
-//    ],
-//    "translation" : "The Repentance",
-//    "isDownloaded" : false,
-//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/009.mp3",
-//    "downloadStatus" : 0
-//  },
   {
     "total_verses" : 109,
     "type" : "meccan",
@@ -194,21 +179,6 @@
     "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/013.mp3",
     "translation" : "The Thunder"
   },
-//  {
-//    "isDownloaded" : false,
-//    "total_verses" : 52,
-//    "type" : "meccan",
-//    "name" : "Ibrahim",
-//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/014.mp3",
-//    "translation" : "Abraham",
-//    "isDownloading" : false,
-//    "downloadStatus" : 0,
-//    "time_array" : [
-//
-//    ],
-//    "id" : 14,
-//    "arabic" : "ابراهيم"
-//  },
   {
     "id" : 15,
     "isDownloading" : false,
@@ -224,36 +194,6 @@
     "downloadStatus" : 0,
     "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/015.mp3"
   },
-//  {
-//    "total_verses" : 128,
-//    "type" : "meccan",
-//    "id" : 16,
-//    "isDownloading" : false,
-//    "name" : "An-Nahl",
-//    "translation" : "The Bee",
-//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/016.mp3",
-//    "time_array" : [
-//
-//    ],
-//    "arabic" : "النحل",
-//    "downloadStatus" : 0,
-//    "isDownloaded" : false
-//  },
-//  {
-//    "time_array" : [
-//
-//    ],
-//    "total_verses" : 111,
-//    "isDownloading" : false,
-//    "translation" : "The Night Journey",
-//    "isDownloaded" : false,
-//    "arabic" : "الإسراء",
-//    "downloadStatus" : 0,
-//    "name" : "Al-Isra",
-//    "id" : 17,
-//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/017.mp3",
-//    "type" : "meccan"
-//  },
   {
     "type" : "meccan",
     "isDownloading" : false,
@@ -329,36 +269,6 @@
     "id" : 22,
     "name" : "Al-Hajj"
   },
-//  {
-//    "total_verses" : 118,
-//    "id" : 23,
-//    "type" : "meccan",
-//    "isDownloaded" : false,
-//    "name" : "Al-Muminoon",
-//    "downloadStatus" : 0,
-//    "translation" : "The Believers",
-//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/023.mp3",
-//    "isDownloading" : false,
-//    "time_array" : [
-//
-//    ],
-//    "arabic" : "المؤمنون"
-//  },
-//  {
-//    "time_array" : [
-//
-//    ],
-//    "translation" : "The Light",
-//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/024.mp3",
-//    "id" : 24,
-//    "type" : "medinan",
-//    "total_verses" : 64,
-//    "isDownloaded" : false,
-//    "downloadStatus" : 0,
-//    "arabic" : "النور",
-//    "isDownloading" : false,
-//    "name" : "An-Nur"
-//  },
   {
     "downloadStatus" : 0,
     "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/025.mp3",
@@ -479,21 +389,6 @@
     "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/032.mp3",
     "downloadStatus" : 0
   },
-//  {
-//    "isDownloaded" : false,
-//    "downloadStatus" : 0,
-//    "time_array" : [
-//
-//    ],
-//    "total_verses" : 73,
-//    "translation" : "The Combined Forces",
-//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/033.mp3",
-//    "isDownloading" : false,
-//    "type" : "medinan",
-//    "arabic" : "الأحزاب",
-//    "name" : "Al-Ahzab",
-//    "id" : 33
-//  },
   {
     "time_array" : [
 

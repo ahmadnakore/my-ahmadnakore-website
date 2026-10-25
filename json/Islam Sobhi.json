@@ -119,21 +119,6 @@
     "id" : 8,
     "isDownloaded" : false
   },
-//  {
-//    "type" : "medinan",
-//    "isDownloaded" : false,
-//    "isDownloading" : false,
-//    "translation" : "The Repentance",
-//    "total_verses" : 129,
-//    "arabic" : "التوبة",
-//    "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/009.mp3",
-//    "time_array" : [
-//
-//    ],
-//    "downloadStatus" : 0,
-//    "name" : "At-Tawba",
-//    "id" : 9
-//  },
   {
     "downloadStatus" : 0,
     "time_array" : [
@@ -224,21 +209,6 @@
     "translation" : "The Rocky Tract",
     "isDownloading" : false
   },
-//  {
-//    "translation" : "The Bee",
-//    "time_array" : [
-//
-//    ],
-//    "name" : "An-Nahl",
-//    "arabic" : "النحل",
-//    "isDownloading" : false,
-//    "isDownloaded" : false,
-//    "type" : "meccan",
-//    "downloadStatus" : 0,
-//    "id" : 16,
-//    "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/016.mp3",
-//    "total_verses" : 128
-//  },
   {
     "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/017.mp3",
     "translation" : "The Night Journey",
@@ -314,21 +284,6 @@
     "id" : 21,
     "isDownloaded" : false
   },
-//  {
-//    "isDownloading" : false,
-//    "total_verses" : 78,
-//    "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/022.mp3",
-//    "downloadStatus" : 0,
-//    "type" : "medinan",
-//    "translation" : "The Pilgrimage",
-//    "id" : 22,
-//    "isDownloaded" : false,
-//    "name" : "Al-Hajj",
-//    "arabic" : "الحج",
-//    "time_array" : [
-//
-//    ]
-//  },
   {
     "isDownloading" : false,
     "translation" : "The Believers",
@@ -404,21 +359,6 @@
     "id" : 27,
     "translation" : "The Ant"
   },
-//  {
-//    "arabic" : "القصص",
-//    "id" : 28,
-//    "name" : "Al-Qasas",
-//    "total_verses" : 88,
-//    "translation" : "The Stories",
-//    "time_array" : [
-//
-//    ],
-//    "downloadStatus" : 0,
-//    "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/028.mp3",
-//    "isDownloading" : false,
-//    "isDownloaded" : false,
-//    "type" : "meccan"
-//  },
   {
     "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/029.mp3",
     "time_array" : [
@@ -479,21 +419,6 @@
     "translation" : "The Prostration",
     "isDownloading" : false
   },
-//  {
-//    "isDownloading" : false,
-//    "downloadStatus" : 0,
-//    "isDownloaded" : false,
-//    "name" : "Al-Ahzab",
-//    "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/033.mp3",
-//    "time_array" : [
-//
-//    ],
-//    "type" : "medinan",
-//    "id" : 33,
-//    "arabic" : "الأحزاب",
-//    "translation" : "The Combined Forces",
-//    "total_verses" : 73
-//  },
   {
     "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/034.mp3",
     "downloadStatus" : 0,
@@ -539,21 +464,6 @@
     "isDownloaded" : false,
     "downloadStatus" : 0
   },
-//  {
-//    "id" : 37,
-//    "isDownloading" : false,
-//    "name" : "As-Saaffat",
-//    "total_verses" : 182,
-//    "time_array" : [
-//
-//    ],
-//    "translation" : "Those who set the Ranks",
-//    "arabic" : "الصافات",
-//    "downloadStatus" : 0,
-//    "isDownloaded" : false,
-//    "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/037.mp3",
-//    "type" : "meccan"
-//  },
   {
     "total_verses" : 88,
     "type" : "meccan",
@@ -569,36 +479,6 @@
     "id" : 38,
     "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/038.mp3"
   },
-//  {
-//    "arabic" : "الزمر",
-//    "time_array" : [
-//
-//    ],
-//    "total_verses" : 75,
-//    "isDownloaded" : false,
-//    "name" : "Az-Zumar",
-//    "id" : 39,
-//    "translation" : "The Troops",
-//    "downloadStatus" : 0,
-//    "isDownloading" : false,
-//    "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/039.mp3",
-//    "type" : "meccan"
-//  },
-//  {
-//    "arabic" : "غافر",
-//    "time_array" : [
-//
-//    ],
-//    "downloadStatus" : 0,
-//    "id" : 40,
-//    "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/040.mp3",
-//    "name" : "Ghafir",
-//    "total_verses" : 85,
-//    "isDownloading" : false,
-//    "translation" : "The Forgiver",
-//    "type" : "meccan",
-//    "isDownloaded" : false
-//  },
   {
     "isDownloading" : false,
     "downloadStatus" : 0,
@@ -659,21 +539,6 @@
     "id" : 44,
     "downloadStatus" : 0
   },
-//  {
-//    "arabic" : "الجاثية",
-//    "name" : "Al-Jathiya",
-//    "type" : "meccan",
-//    "translation" : "The Crouching",
-//    "isDownloaded" : false,
-//    "time_array" : [
-//
-//    ],
-//    "isDownloading" : false,
-//    "id" : 45,
-//    "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/045.mp3",
-//    "total_verses" : 37,
-//    "downloadStatus" : 0
-//  },
   {
     "isDownloading" : false,
     "type" : "meccan",
@@ -959,21 +824,6 @@
 
     ]
   },
-//  {
-//    "type" : "medinan",
-//    "name" : "At-Talaq",
-//    "total_verses" : 12,
-//    "downloadStatus" : 0,
-//    "id" : 65,
-//    "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/065.mp3",
-//    "time_array" : [
-//
-//    ],
-//    "isDownloading" : false,
-//    "isDownloaded" : false,
-//    "arabic" : "الطلاق",
-//    "translation" : "The Divorce"
-//  },
   {
     "isDownloaded" : false,
     "isDownloading" : false,
@@ -1019,21 +869,6 @@
     "total_verses" : 52,
     "isDownloaded" : false
   },
-//  {
-//    "id" : 69,
-//    "type" : "meccan",
-//    "arabic" : "الحاقة",
-//    "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/069.mp3",
-//    "translation" : "The Reality",
-//    "isDownloaded" : false,
-//    "name" : "Al-Haaqqa",
-//    "total_verses" : 52,
-//    "downloadStatus" : 0,
-//    "time_array" : [
-//
-//    ],
-//    "isDownloading" : false
-//  },
   {
     "type" : "meccan",
     "time_array" : [
@@ -1664,21 +1499,6 @@
     "isDownloaded" : false,
     "translation" : "The Palm Fiber"
   },
-//  {
-//    "isDownloaded" : false,
-//    "arabic" : "الإخلاص",
-//    "type" : "meccan",
-//    "downloadStatus" : 0,
-//    "id" : 112,
-//    "time_array" : [
-//
-//    ],
-//    "total_verses" : 4,
-//    "translation" : "The Sincerity",
-//    "link" : "https://ia801406.us.archive.org/12/items/002_20221103_202211/112.mp3",
-//    "isDownloading" : false,
-//    "name" : "Al-Ikhlas"
-//  },
   {
     "name" : "Al-Falaq",
     "isDownloading" : false,
