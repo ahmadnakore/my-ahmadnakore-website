@@ -1,0 +1,1714 @@
+[
+//  {
+//    "isDownloaded" : false,
+//    "name" : "Al-Fatiha",
+//    "translation" : "The Opener",
+//    "type" : "meccan",
+//    "id" : 1,
+//    "link" : "https://archive.org/download/002_20250321/001.mp3",
+//    "arabic" : "الفاتحة",
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 7,
+//    "isDownloading" : false,
+//    "downloadStatus" : 0
+//  },
+  {
+    "link" : "https://archive.org/download/002_20250321/002.mp3",
+    "name" : "Al-Baqara",
+    "translation" : "The Cow",
+    "arabic" : "البقرة",
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 286,
+    "time_array" : [
+
+    ],
+    "id" : 2
+  },
+  {
+    "arabic" : "آل عمران",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "Family of Imran",
+    "link" : "https://archive.org/download/002_20250321/003.mp3",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "name" : "Al Imran",
+    "total_verses" : 200,
+    "id" : 3
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "translation" : "The Women",
+    "link" : "https://archive.org/download/002_20250321/004.mp3",
+    "name" : "An-Nisa",
+    "id" : 4,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "total_verses" : 176,
+    "isDownloaded" : false,
+    "arabic" : "النساء"
+  },
+//  {
+//    "link" : "https://archive.org/download/002_20250321/005.mp3",
+//    "isDownloading" : false,
+//    "isDownloaded" : false,
+//    "arabic" : "المائدة",
+//    "name" : "Al-Maida",
+//    "downloadStatus" : 0,
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 120,
+//    "translation" : "The Table Spread",
+//    "id" : 5,
+//    "type" : "medinan"
+//  },
+//  {
+//    "isDownloading" : false,
+//    "time_array" : [
+//
+//    ],
+//    "translation" : "The Cattle",
+//    "id" : 6,
+//    "total_verses" : 165,
+//    "type" : "meccan",
+//    "link" : "https://archive.org/download/002_20250321/006.mp3",
+//    "arabic" : "الأنعام",
+//    "downloadStatus" : 0,
+//    "isDownloaded" : false,
+//    "name" : "Al-Anam"
+//  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Heights",
+    "link" : "https://archive.org/download/002_20250321/007.mp3",
+    "id" : 7,
+    "isDownloading" : false,
+    "arabic" : "الأعراف",
+    "total_verses" : 206,
+    "type" : "meccan",
+    "name" : "Al-Araf",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "الأنفال",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/002_20250321/008.mp3",
+    "name" : "Al-Anfal",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "The Spoils of War",
+    "total_verses" : 75,
+    "type" : "medinan",
+    "id" : 8
+  },
+//  {
+//    "isDownloaded" : false,
+//    "isDownloading" : false,
+//    "name" : "At-Tawba",
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 129,
+//    "downloadStatus" : 0,
+//    "type" : "medinan",
+//    "arabic" : "التوبة",
+//    "link" : "https://archive.org/download/002_20250321/009.mp3",
+//    "translation" : "The Repentance",
+//    "id" : 9
+//  },
+  {
+    "id" : 10,
+    "downloadStatus" : 0,
+    "translation" : "Jonah",
+    "time_array" : [
+
+    ],
+    "total_verses" : 109,
+    "type" : "meccan",
+    "arabic" : "يونس",
+    "name" : "Yunus",
+    "link" : "https://archive.org/download/002_20250321/010.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false
+  },
+//  {
+//    "isDownloading" : false,
+//    "link" : "https://archive.org/download/002_20250321/011.mp3",
+//    "name" : "Hud",
+//    "type" : "meccan",
+//    "time_array" : [
+//
+//    ],
+//    "downloadStatus" : 0,
+//    "isDownloaded" : false,
+//    "total_verses" : 123,
+//    "translation" : "Hud",
+//    "id" : 11,
+//    "arabic" : "هود"
+//  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 111,
+    "translation" : "Joseph",
+    "arabic" : "يوسف",
+    "name" : "Yusuf",
+    "id" : 12,
+    "link" : "https://archive.org/download/002_20250321/012.mp3",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "الرعد",
+    "name" : "Ar-Rad",
+    "translation" : "The Thunder",
+    "time_array" : [
+
+    ],
+    "id" : 13,
+    "link" : "https://archive.org/download/002_20250321/013.mp3",
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 43
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Ibrahim",
+    "id" : 14,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://archive.org/download/002_20250321/014.mp3",
+    "total_verses" : 52,
+    "translation" : "Abraham",
+    "arabic" : "ابراهيم",
+    "isDownloading" : false
+  },
+  {
+    "name" : "Al-Hijr",
+    "translation" : "The Rocky Tract",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/002_20250321/015.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الحجر",
+    "total_verses" : 99,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 15
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/002_20250321/016.mp3",
+    "isDownloading" : false,
+    "total_verses" : 128,
+    "type" : "meccan",
+    "id" : 16,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "The Bee",
+    "arabic" : "النحل",
+    "name" : "An-Nahl"
+  },
+  {
+    "total_verses" : 111,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Night Journey",
+    "id" : 17,
+    "name" : "Al-Isra",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "arabic" : "الإسراء",
+    "link" : "https://archive.org/download/002_20250321/017.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Cave",
+    "id" : 18,
+    "link" : "https://archive.org/download/002_20250321/018.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "الكهف",
+    "total_verses" : 110,
+    "type" : "meccan",
+    "name" : "Al-Kahf"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 19,
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/002_20250321/019.mp3",
+    "name" : "Maryam",
+    "time_array" : [
+
+    ],
+    "arabic" : "مريم",
+    "type" : "meccan",
+    "translation" : "Mary",
+    "isDownloading" : false,
+    "total_verses" : 98
+  },
+  {
+    "type" : "meccan",
+    "id" : 20,
+    "isDownloading" : false,
+    "name" : "Ta-Ha",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/002_20250321/020.mp3",
+    "arabic" : "طه",
+    "total_verses" : 135,
+    "downloadStatus" : 0,
+    "translation" : "Ta-Ha"
+  },
+  {
+    "isDownloading" : false,
+    "type" : "meccan",
+    "name" : "Al-Anbiya",
+    "id" : 21,
+    "arabic" : "الأنبياء",
+    "time_array" : [
+
+    ],
+    "total_verses" : 112,
+    "translation" : "The Prophets",
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/002_20250321/021.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 78,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Hajj",
+    "translation" : "The Pilgrimage",
+    "type" : "medinan",
+    "arabic" : "الحج",
+    "isDownloaded" : false,
+    "id" : 22,
+    "link" : "https://archive.org/download/002_20250321/022.mp3"
+  },
+  {
+    "link" : "https://archive.org/download/002_20250321/023.mp3",
+    "arabic" : "المؤمنون",
+    "downloadStatus" : 0,
+    "name" : "Al-Muminoon",
+    "translation" : "The Believers",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 118,
+    "id" : 23
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "النور",
+    "link" : "https://archive.org/download/002_20250321/024.mp3",
+    "isDownloading" : false,
+    "name" : "An-Nur",
+    "time_array" : [
+
+    ],
+    "total_verses" : 64,
+    "translation" : "The Light",
+    "id" : 24,
+    "type" : "medinan"
+  },
+  {
+    "arabic" : "الفرقان",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/002_20250321/025.mp3",
+    "id" : 25,
+    "total_verses" : 77,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Criterion",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "name" : "Al-Furqan"
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Poets",
+    "link" : "https://archive.org/download/002_20250321/026.mp3",
+    "isDownloaded" : false,
+    "id" : 26,
+    "downloadStatus" : 0,
+    "name" : "Ash-Shuara",
+    "total_verses" : 227,
+    "type" : "meccan",
+    "arabic" : "الشعراء"
+  },
+  {
+    "type" : "meccan",
+    "translation" : "The Ant",
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/002_20250321/027.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "An-Naml",
+    "total_verses" : 93,
+    "arabic" : "النمل",
+    "id" : 27,
+    "isDownloading" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "The Stories",
+    "id" : 28,
+    "name" : "Al-Qasas",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "arabic" : "القصص",
+    "total_verses" : 88,
+    "link" : "https://archive.org/download/002_20250321/028.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/002_20250321/029.mp3",
+    "translation" : "The Spider",
+    "isDownloaded" : false,
+    "total_verses" : 69,
+    "isDownloading" : false,
+    "arabic" : "العنكبوت",
+    "id" : 29,
+    "downloadStatus" : 0,
+    "name" : "Al-Ankabut",
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/002_20250321/030.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Romans",
+    "isDownloaded" : false,
+    "arabic" : "الروم",
+    "total_verses" : 60,
+    "type" : "meccan",
+    "id" : 30,
+    "name" : "Ar-Rum"
+  },
+  {
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/002_20250321/031.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "لقمان",
+    "translation" : "Luqman",
+    "time_array" : [
+
+    ],
+    "id" : 31,
+    "name" : "Luqman",
+    "total_verses" : 34
+  },
+  {
+    "isDownloading" : false,
+    "name" : "As-Sajda",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "id" : 32,
+    "link" : "https://archive.org/download/002_20250321/032.mp3",
+    "arabic" : "السجدة",
+    "downloadStatus" : 0,
+    "total_verses" : 30,
+    "translation" : "The Prostration"
+  },
+//  {
+//    "id" : 33,
+//    "arabic" : "الأحزاب",
+//    "downloadStatus" : 0,
+//    "name" : "Al-Ahzab",
+//    "total_verses" : 73,
+//    "isDownloaded" : false,
+//    "type" : "medinan",
+//    "link" : "https://archive.org/download/002_20250321/033.mp3",
+//    "translation" : "The Combined Forces",
+//    "isDownloading" : false,
+//    "time_array" : [
+//
+//    ]
+//  },
+  {
+    "translation" : "Sheba",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "سبإ",
+    "id" : 34,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "link" : "https://archive.org/download/002_20250321/034.mp3",
+    "downloadStatus" : 0,
+    "total_verses" : 54,
+    "name" : "Saba"
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 35,
+    "isDownloaded" : false,
+    "name" : "Fatir",
+    "arabic" : "فاطر",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "Originator",
+    "type" : "meccan",
+    "link" : "https://archive.org/download/002_20250321/035.mp3",
+    "total_verses" : 45
+  },
+  {
+    "link" : "https://archive.org/download/002_20250321/036.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Ya Sin",
+    "total_verses" : 83,
+    "id" : 36,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "يس",
+    "translation" : "Ya Sin"
+  },
+  {
+    "id" : 37,
+    "arabic" : "الصافات",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 182,
+    "link" : "https://archive.org/download/002_20250321/037.mp3",
+    "name" : "As-Saaffat",
+    "translation" : "Those who set the Ranks",
+    "type" : "meccan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 88,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/002_20250321/038.mp3",
+    "isDownloading" : false,
+    "id" : 38,
+    "type" : "meccan",
+    "translation" : "The Letter Saad",
+    "arabic" : "ص",
+    "time_array" : [
+
+    ],
+    "name" : "Sad",
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 75,
+    "isDownloaded" : false,
+    "arabic" : "الزمر",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "translation" : "The Troops",
+    "link" : "https://archive.org/download/002_20250321/039.mp3",
+    "id" : 39,
+    "name" : "Az-Zumar"
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Ghafir",
+    "type" : "meccan",
+    "link" : "https://archive.org/download/002_20250321/040.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 40,
+    "total_verses" : 85,
+    "translation" : "The Forgiver",
+    "arabic" : "غافر"
+  },
+  {
+    "type" : "meccan",
+    "link" : "https://archive.org/download/002_20250321/041.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "Explained in Detail",
+    "arabic" : "فصلت",
+    "total_verses" : 54,
+    "downloadStatus" : 0,
+    "name" : "Fussilat",
+    "isDownloading" : false,
+    "id" : 41
+  },
+  {
+    "downloadStatus" : 0,
+    "name" : "Ash-Shura",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 42,
+    "translation" : "The Consultation",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 53,
+    "link" : "https://archive.org/download/002_20250321/042.mp3",
+    "arabic" : "الشورى"
+  },
+  {
+    "name" : "Az-Zukhruf",
+    "total_verses" : 89,
+    "id" : 43,
+    "type" : "meccan",
+    "arabic" : "الزخرف",
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/002_20250321/043.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Ornaments of Gold",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الدخان",
+    "id" : 44,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "total_verses" : 59,
+    "translation" : "The Smoke",
+    "name" : "Ad-Dukhan",
+    "link" : "https://archive.org/download/002_20250321/044.mp3"
+  },
+  {
+    "type" : "meccan",
+    "id" : 45,
+    "link" : "https://archive.org/download/002_20250321/045.mp3",
+    "isDownloading" : false,
+    "arabic" : "الجاثية",
+    "name" : "Al-Jathiya",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 37,
+    "translation" : "The Crouching"
+  },
+  {
+    "link" : "https://archive.org/download/002_20250321/046.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Ahqaf",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 35,
+    "translation" : "The Wind-Curved Sandhills",
+    "id" : 46,
+    "arabic" : "الأحقاف",
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "محمد",
+    "type" : "medinan",
+    "link" : "https://archive.org/download/002_20250321/047.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Muhammad",
+    "id" : 47,
+    "time_array" : [
+
+    ],
+    "total_verses" : 38,
+    "translation" : "Muhammad"
+  },
+  {
+    "translation" : "The Victory",
+    "time_array" : [
+
+    ],
+    "id" : 48,
+    "link" : "https://archive.org/download/002_20250321/048.mp3",
+    "isDownloaded" : false,
+    "total_verses" : 29,
+    "isDownloading" : false,
+    "arabic" : "الفتح",
+    "downloadStatus" : 0,
+    "name" : "Al-Fath",
+    "type" : "medinan"
+  },
+  {
+    "link" : "https://archive.org/download/002_20250321/049.mp3",
+    "arabic" : "الحجرات",
+    "id" : 49,
+    "downloadStatus" : 0,
+    "translation" : "The Rooms",
+    "total_verses" : 18,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "name" : "Al-Hujurat"
+  },
+  {
+    "downloadStatus" : 0,
+    "total_verses" : 45,
+    "isDownloaded" : false,
+    "arabic" : "ق",
+    "id" : 50,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/002_20250321/050.mp3",
+    "translation" : "The Letter Qaf",
+    "name" : "Qaf",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/002_20250321/051.mp3",
+    "downloadStatus" : 0,
+    "total_verses" : 60,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Adh-Dhariyat",
+    "type" : "meccan",
+    "arabic" : "الذاريات",
+    "translation" : "The Winnowing Winds",
+    "id" : 51
+  },
+  {
+    "id" : 52,
+    "total_verses" : 49,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "name" : "At-Tur",
+    "translation" : "The Mount",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/002_20250321/052.mp3",
+    "arabic" : "الطور"
+  },
+  {
+    "id" : 53,
+    "link" : "https://archive.org/download/002_20250321/053.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 62,
+    "downloadStatus" : 0,
+    "name" : "An-Najm",
+    "translation" : "The Star",
+    "type" : "meccan",
+    "arabic" : "النجم"
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "القمر",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/002_20250321/054.mp3",
+    "translation" : "The Moon",
+    "type" : "meccan",
+    "id" : 54,
+    "total_verses" : 55,
+    "name" : "Al-Qamar"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 55,
+    "downloadStatus" : 0,
+    "translation" : "The Beneficent",
+    "arabic" : "الرحمن",
+    "isDownloading" : false,
+    "name" : "Ar-Rahman",
+    "time_array" : [
+
+    ],
+    "total_verses" : 78,
+    "type" : "medinan",
+    "link" : "https://archive.org/download/002_20250321/055.mp3"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "الواقعة",
+    "isDownloading" : false,
+    "name" : "Al-Waqia",
+    "id" : 56,
+    "time_array" : [
+
+    ],
+    "translation" : "The Inevitable",
+    "link" : "https://archive.org/download/002_20250321/056.mp3",
+    "total_verses" : 96,
+    "isDownloaded" : false,
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 57,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "translation" : "The Iron",
+    "link" : "https://archive.org/download/002_20250321/057.mp3",
+    "total_verses" : 29,
+    "arabic" : "الحديد",
+    "isDownloaded" : false,
+    "name" : "Al-Hadid",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 22,
+    "id" : 58,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/002_20250321/058.mp3",
+    "type" : "medinan",
+    "name" : "Al-Mujadila",
+    "translation" : "The Pleading Woman",
+    "arabic" : "المجادلة",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 59,
+    "link" : "https://archive.org/download/002_20250321/059.mp3",
+    "translation" : "The Exile",
+    "name" : "Al-Hashr",
+    "arabic" : "الحشر",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 24,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 60,
+    "total_verses" : 13,
+    "downloadStatus" : 0,
+    "name" : "Al-Mumtahina",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "She that is to be examined",
+    "type" : "medinan",
+    "link" : "https://archive.org/download/002_20250321/060.mp3",
+    "arabic" : "الممتحنة"
+  },
+  {
+    "translation" : "The Ranks",
+    "id" : 61,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/002_20250321/061.mp3",
+    "name" : "As-Saff",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "arabic" : "الصف",
+    "time_array" : [
+
+    ],
+    "total_verses" : 14,
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Congregation, Friday",
+    "type" : "medinan",
+    "name" : "Al-Jumua",
+    "arabic" : "الجمعة",
+    "id" : 62,
+    "total_verses" : 11,
+    "link" : "https://archive.org/download/002_20250321/062.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://archive.org/download/002_20250321/063.mp3",
+    "name" : "Al-Munafiqun",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "المنافقون",
+    "type" : "medinan",
+    "id" : 63,
+    "downloadStatus" : 0,
+    "translation" : "The Hypocrites",
+    "total_verses" : 11,
+    "isDownloading" : false
+  },
+//  {
+//    "time_array" : [
+//
+//    ],
+//    "downloadStatus" : 0,
+//    "isDownloading" : false,
+//    "name" : "At-Taghabun",
+//    "arabic" : "التغابن",
+//    "link" : "https://archive.org/download/002_20250321/064.mp3",
+//    "isDownloaded" : false,
+//    "id" : 64,
+//    "total_verses" : 18,
+//    "translation" : "The Mutual Disillusion",
+//    "type" : "medinan"
+//  },
+//  {
+//    "downloadStatus" : 0,
+//    "translation" : "The Divorce",
+//    "id" : 65,
+//    "isDownloaded" : false,
+//    "link" : "https://archive.org/download/002_20250321/065.mp3",
+//    "name" : "At-Talaq",
+//    "total_verses" : 12,
+//    "type" : "medinan",
+//    "isDownloading" : false,
+//    "time_array" : [
+//
+//    ],
+//    "arabic" : "الطلاق"
+//  },
+//  {
+//    "link" : "https://archive.org/download/002_20250321/066.mp3",
+//    "isDownloading" : false,
+//    "downloadStatus" : 0,
+//    "arabic" : "التحريم",
+//    "name" : "At-Tahrim",
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 12,
+//    "translation" : "The Prohibition",
+//    "type" : "medinan",
+//    "id" : 66,
+//    "isDownloaded" : false
+//  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "translation" : "The Sovereignty",
+    "link" : "https://archive.org/download/002_20250321/067.mp3",
+    "isDownloaded" : false,
+    "id" : 67,
+    "arabic" : "الملك",
+    "downloadStatus" : 0,
+    "name" : "Al-Mulk",
+    "total_verses" : 30
+  },
+//  {
+//    "translation" : "The Pen",
+//    "total_verses" : 52,
+//    "name" : "Al-Qalam",
+//    "link" : "https://archive.org/download/002_20250321/068.mp3",
+//    "isDownloading" : false,
+//    "arabic" : "القلم",
+//    "downloadStatus" : 0,
+//    "time_array" : [
+//
+//    ],
+//    "type" : "meccan",
+//    "isDownloaded" : false,
+//    "id" : 68
+//  },
+//  {
+//    "translation" : "The Reality",
+//    "isDownloading" : false,
+//    "arabic" : "الحاقة",
+//    "name" : "Al-Haaqqa",
+//    "isDownloaded" : false,
+//    "total_verses" : 52,
+//    "type" : "meccan",
+//    "id" : 69,
+//    "downloadStatus" : 0,
+//    "time_array" : [
+//
+//    ],
+//    "link" : "https://archive.org/download/002_20250321/069.mp3"
+//  },
+//  {
+//    "arabic" : "المعارج",
+//    "total_verses" : 44,
+//    "translation" : "The Ascending Stairways",
+//    "id" : 70,
+//    "downloadStatus" : 0,
+//    "name" : "Al-Maarij",
+//    "link" : "https://archive.org/download/002_20250321/070.mp3",
+//    "time_array" : [
+//
+//    ],
+//    "isDownloading" : false,
+//    "isDownloaded" : false,
+//    "type" : "meccan"
+//  },
+//  {
+//    "link" : "https://archive.org/download/002_20250321/071.mp3",
+//    "name" : "Nuh",
+//    "type" : "meccan",
+//    "downloadStatus" : 0,
+//    "isDownloaded" : false,
+//    "id" : 71,
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 28,
+//    "translation" : "Noah",
+//    "isDownloading" : false,
+//    "arabic" : "نوح"
+//  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 72,
+    "arabic" : "الجن",
+    "name" : "Al-Jinn",
+    "time_array" : [
+
+    ],
+    "total_verses" : 28,
+    "translation" : "The Jinn",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "link" : "https://archive.org/download/002_20250321/072.mp3"
+  },
+//  {
+//    "type" : "meccan",
+//    "link" : "https://archive.org/download/002_20250321/073.mp3",
+//    "id" : 73,
+//    "arabic" : "المزمل",
+//    "time_array" : [
+//
+//    ],
+//    "name" : "Al-Muzzammil",
+//    "downloadStatus" : 0,
+//    "total_verses" : 20,
+//    "translation" : "The Enshrouded One",
+//    "isDownloading" : false,
+//    "isDownloaded" : false
+//  },
+//  {
+//    "arabic" : "المدثر",
+//    "translation" : "The Cloaked One",
+//    "type" : "meccan",
+//    "isDownloaded" : false,
+//    "id" : 74,
+//    "total_verses" : 56,
+//    "time_array" : [
+//
+//    ],
+//    "isDownloading" : false,
+//    "link" : "https://archive.org/download/002_20250321/074.mp3",
+//    "downloadStatus" : 0,
+//    "name" : "Al-Muddathir"
+//  },
+//  {
+//    "time_array" : [
+//
+//    ],
+//    "translation" : "The Resurrection",
+//    "downloadStatus" : 0,
+//    "type" : "meccan",
+//    "arabic" : "القيامة",
+//    "link" : "https://archive.org/download/002_20250321/075.mp3",
+//    "isDownloading" : false,
+//    "name" : "Al-Qiyama",
+//    "total_verses" : 40,
+//    "id" : 75,
+//    "isDownloaded" : false
+//  },
+//  {
+//    "total_verses" : 31,
+//    "type" : "medinan",
+//    "translation" : "The Man",
+//    "id" : 76,
+//    "arabic" : "الانسان",
+//    "name" : "Al-Insan",
+//    "downloadStatus" : 0,
+//    "isDownloading" : false,
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "link" : "https://archive.org/download/002_20250321/076.mp3"
+//  },
+//  {
+//    "name" : "Al-Mursalat",
+//    "downloadStatus" : 0,
+//    "isDownloading" : false,
+//    "isDownloaded" : false,
+//    "id" : 77,
+//    "type" : "meccan",
+//    "time_array" : [
+//
+//    ],
+//    "translation" : "The Emissaries",
+//    "total_verses" : 50,
+//    "link" : "https://archive.org/download/002_20250321/077.mp3",
+//    "arabic" : "المرسلات"
+//  },
+//  {
+//    "arabic" : "النبإ",
+//    "total_verses" : 40,
+//    "downloadStatus" : 0,
+//    "translation" : "The Tidings",
+//    "type" : "meccan",
+//    "isDownloaded" : false,
+//    "name" : "An-Naba",
+//    "time_array" : [
+//
+//    ],
+//    "id" : 78,
+//    "link" : "https://archive.org/download/002_20250321/078.mp3",
+//    "isDownloading" : false
+//  },
+//  {
+//    "name" : "An-Naziat",
+//    "type" : "meccan",
+//    "isDownloading" : false,
+//    "isDownloaded" : false,
+//    "translation" : "Those who drag forth",
+//    "downloadStatus" : 0,
+//    "total_verses" : 46,
+//    "time_array" : [
+//
+//    ],
+//    "id" : 79,
+//    "link" : "https://archive.org/download/002_20250321/079.mp3",
+//    "arabic" : "النازعات"
+//  },
+//  {
+//    "translation" : "He Frowned",
+//    "downloadStatus" : 0,
+//    "id" : 80,
+//    "isDownloaded" : false,
+//    "link" : "https://archive.org/download/002_20250321/080.mp3",
+//    "arabic" : "عبس",
+//    "time_array" : [
+//
+//    ],
+//    "isDownloading" : false,
+//    "name" : "Abasa",
+//    "total_verses" : 42,
+//    "type" : "meccan"
+//  },
+//  {
+//    "time_array" : [
+//
+//    ],
+//    "isDownloading" : false,
+//    "arabic" : "التكوير",
+//    "id" : 81,
+//    "name" : "At-Takwir",
+//    "total_verses" : 29,
+//    "translation" : "The Overthrowing",
+//    "isDownloaded" : false,
+//    "downloadStatus" : 0,
+//    "link" : "https://archive.org/download/002_20250321/081.mp3",
+//    "type" : "meccan"
+//  },
+//  {
+//    "translation" : "The Cleaving",
+//    "id" : 82,
+//    "link" : "https://archive.org/download/002_20250321/082.mp3",
+//    "name" : "Al-Infitar",
+//    "total_verses" : 19,
+//    "time_array" : [
+//
+//    ],
+//    "type" : "meccan",
+//    "isDownloaded" : false,
+//    "downloadStatus" : 0,
+//    "arabic" : "الإنفطار",
+//    "isDownloading" : false
+//  },
+//  {
+//    "type" : "meccan",
+//    "isDownloading" : false,
+//    "arabic" : "المطففين",
+//    "link" : "https://archive.org/download/002_20250321/083.mp3",
+//    "time_array" : [
+//
+//    ],
+//    "id" : 83,
+//    "name" : "Al-Mutaffifin",
+//    "downloadStatus" : 0,
+//    "total_verses" : 36,
+//    "isDownloaded" : false,
+//    "translation" : "The Defrauding"
+//  },
+//  {
+//    "isDownloading" : false,
+//    "translation" : "The Sundering",
+//    "id" : 84,
+//    "link" : "https://archive.org/download/002_20250321/084.mp3",
+//    "name" : "Al-Inshiqaq",
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 25,
+//    "downloadStatus" : 0,
+//    "arabic" : "الإنشقاق",
+//    "type" : "meccan",
+//    "isDownloaded" : false
+//  },
+//  {
+//    "downloadStatus" : 0,
+//    "arabic" : "البروج",
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "translation" : "The Mansions of the Stars",
+//    "type" : "meccan",
+//    "id" : 85,
+//    "link" : "https://archive.org/download/002_20250321/085.mp3",
+//    "name" : "Al-Burooj",
+//    "total_verses" : 22,
+//    "isDownloading" : false
+//  },
+//  {
+//    "link" : "https://archive.org/download/002_20250321/086.mp3",
+//    "downloadStatus" : 0,
+//    "id" : 86,
+//    "arabic" : "الطارق",
+//    "total_verses" : 17,
+//    "translation" : "The Nightcommer",
+//    "isDownloading" : false,
+//    "type" : "meccan",
+//    "time_array" : [
+//
+//    ],
+//    "name" : "At-Tariq",
+//    "isDownloaded" : false
+//  },
+//  {
+//    "total_verses" : 19,
+//    "isDownloaded" : false,
+//    "link" : "https://archive.org/download/002_20250321/087.mp3",
+//    "downloadStatus" : 0,
+//    "id" : 87,
+//    "arabic" : "الأعلى",
+//    "translation" : "The Most High",
+//    "name" : "Al-Ala",
+//    "isDownloading" : false,
+//    "type" : "meccan",
+//    "time_array" : [
+//
+//    ]
+//  },
+//  {
+//    "id" : 88,
+//    "isDownloading" : false,
+//    "downloadStatus" : 0,
+//    "link" : "https://archive.org/download/002_20250321/088.mp3",
+//    "name" : "Al-Ghashiyah",
+//    "arabic" : "الغاشية",
+//    "translation" : "The Overwhelming",
+//    "isDownloaded" : false,
+//    "type" : "meccan",
+//    "total_verses" : 26,
+//    "time_array" : [
+//
+//    ]
+//  },
+//  {
+//    "type" : "meccan",
+//    "id" : 89,
+//    "total_verses" : 30,
+//    "isDownloading" : false,
+//    "downloadStatus" : 0,
+//    "translation" : "The Dawn",
+//    "link" : "https://archive.org/download/002_20250321/089.mp3",
+//    "isDownloaded" : false,
+//    "name" : "Al-Fajr",
+//    "time_array" : [
+//
+//    ],
+//    "arabic" : "الفجر"
+//  },
+//  {
+//    "total_verses" : 20,
+//    "translation" : "The City",
+//    "downloadStatus" : 0,
+//    "arabic" : "البلد",
+//    "id" : 90,
+//    "name" : "Al-Balad",
+//    "isDownloading" : false,
+//    "type" : "meccan",
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "link" : "https://archive.org/download/002_20250321/090.mp3"
+//  },
+//  {
+//    "translation" : "The Sun",
+//    "name" : "Ash-Shams",
+//    "downloadStatus" : 0,
+//    "total_verses" : 15,
+//    "type" : "meccan",
+//    "isDownloading" : false,
+//    "id" : 91,
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "arabic" : "الشمس",
+//    "link" : "https://archive.org/download/002_20250321/091.mp3"
+//  },
+//  {
+//    "id" : 92,
+//    "isDownloading" : false,
+//    "time_array" : [
+//
+//    ],
+//    "type" : "meccan",
+//    "downloadStatus" : 0,
+//    "isDownloaded" : false,
+//    "arabic" : "الليل",
+//    "translation" : "The Night",
+//    "link" : "https://archive.org/download/002_20250321/092.mp3",
+//    "total_verses" : 21,
+//    "name" : "Al-Lail"
+//  },
+//  {
+//    "translation" : "The Morning Hours",
+//    "id" : 93,
+//    "name" : "Ad-Dhuha",
+//    "type" : "meccan",
+//    "isDownloaded" : false,
+//    "arabic" : "الضحى",
+//    "isDownloading" : false,
+//    "downloadStatus" : 0,
+//    "total_verses" : 11,
+//    "link" : "https://archive.org/download/002_20250321/093.mp3",
+//    "time_array" : [
+//
+//    ]
+//  },
+//  {
+//    "type" : "meccan",
+//    "total_verses" : 8,
+//    "isDownloaded" : false,
+//    "isDownloading" : false,
+//    "downloadStatus" : 0,
+//    "name" : "Al-Inshirah",
+//    "time_array" : [
+//
+//    ],
+//    "arabic" : "الشرح",
+//    "link" : "https://archive.org/download/002_20250321/094.mp3",
+//    "id" : 94,
+//    "translation" : "The Relief"
+//  },
+//  {
+//    "isDownloaded" : false,
+//    "link" : "https://archive.org/download/002_20250321/095.mp3",
+//    "arabic" : "التين",
+//    "isDownloading" : false,
+//    "type" : "meccan",
+//    "translation" : "The Fig",
+//    "name" : "At-Tin",
+//    "downloadStatus" : 0,
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 8,
+//    "id" : 95
+//  },
+//  {
+//    "time_array" : [
+//
+//    ],
+//    "downloadStatus" : 0,
+//    "isDownloaded" : false,
+//    "type" : "meccan",
+//    "id" : 96,
+//    "link" : "https://archive.org/download/002_20250321/096.mp3",
+//    "name" : "Al-Alaq",
+//    "total_verses" : 19,
+//    "translation" : "The Clot",
+//    "isDownloading" : false,
+//    "arabic" : "العلق"
+//  },
+//  {
+//    "isDownloaded" : false,
+//    "id" : 97,
+//    "name" : "Al-Qadr",
+//    "translation" : "The Power",
+//    "link" : "https://archive.org/download/002_20250321/097.mp3",
+//    "isDownloading" : false,
+//    "arabic" : "القدر",
+//    "type" : "meccan",
+//    "total_verses" : 5,
+//    "time_array" : [
+//
+//    ],
+//    "downloadStatus" : 0
+//  },
+//  {
+//    "downloadStatus" : 0,
+//    "translation" : "The Clear Proof",
+//    "type" : "medinan",
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "arabic" : "البينة",
+//    "name" : "Al-Bayyina",
+//    "id" : 98,
+//    "total_verses" : 8,
+//    "link" : "https://archive.org/download/002_20250321/098.mp3",
+//    "isDownloading" : false
+//  },
+  {
+    "translation" : "The Earthquake",
+    "arabic" : "الزلزلة",
+    "name" : "Az-Zalzala",
+    "id" : 99,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "link" : "https://archive.org/download/002_20250321/099.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 8
+  }
+  
+//  ,
+//  {
+//    "id" : 100,
+//    "name" : "Al-Adiyat",
+//    "translation" : "The Courser",
+//    "downloadStatus" : 0,
+//    "isDownloaded" : false,
+//    "type" : "meccan",
+//    "total_verses" : 11,
+//    "time_array" : [
+//
+//    ],
+//    "arabic" : "العاديات",
+//    "link" : "https://archive.org/download/002_20250321/100.mp3",
+//    "isDownloading" : false
+//  },
+//  {
+//    "link" : "https://archive.org/download/002_20250321/101.mp3",
+//    "isDownloaded" : false,
+//    "name" : "Al-Qaria",
+//    "time_array" : [
+//
+//    ],
+//    "isDownloading" : false,
+//    "arabic" : "القارعة",
+//    "id" : 101,
+//    "downloadStatus" : 0,
+//    "total_verses" : 11,
+//    "translation" : "The Calamity",
+//    "type" : "meccan"
+//  },
+//  {
+//    "name" : "At-Takathur",
+//    "isDownloaded" : false,
+//    "id" : 102,
+//    "link" : "https://archive.org/download/002_20250321/102.mp3",
+//    "isDownloading" : false,
+//    "time_array" : [
+//
+//    ],
+//    "type" : "meccan",
+//    "total_verses" : 8,
+//    "translation" : "The Rivalry in world increase",
+//    "downloadStatus" : 0,
+//    "arabic" : "التكاثر"
+//  },
+//  {
+//    "downloadStatus" : 0,
+//    "translation" : "The Declining Day",
+//    "isDownloaded" : false,
+//    "time_array" : [
+//
+//    ],
+//    "id" : 103,
+//    "isDownloading" : false,
+//    "type" : "meccan",
+//    "arabic" : "العصر",
+//    "name" : "Al-Asr",
+//    "total_verses" : 3,
+//    "link" : "https://archive.org/download/002_20250321/103.mp3"
+//  },
+//  {
+//    "id" : 104,
+//    "link" : "https://archive.org/download/002_20250321/104.mp3",
+//    "type" : "meccan",
+//    "isDownloading" : false,
+//    "arabic" : "الهمزة",
+//    "translation" : "The Traducer",
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "downloadStatus" : 0,
+//    "name" : "Al-Humaza",
+//    "total_verses" : 9
+//  },
+//  {
+//    "link" : "https://archive.org/download/002_20250321/105.mp3",
+//    "arabic" : "الفيل",
+//    "name" : "Al-Fil",
+//    "translation" : "The Elephant",
+//    "downloadStatus" : 0,
+//    "id" : 105,
+//    "total_verses" : 5,
+//    "type" : "meccan",
+//    "isDownloaded" : false,
+//    "time_array" : [
+//
+//    ],
+//    "isDownloading" : false
+//  },
+//  {
+//    "isDownloaded" : false,
+//    "isDownloading" : false,
+//    "name" : "Quraysh",
+//    "total_verses" : 4,
+//    "id" : 106,
+//    "downloadStatus" : 0,
+//    "link" : "https://archive.org/download/002_20250321/106.mp3",
+//    "arabic" : "قريش",
+//    "time_array" : [
+//
+//    ],
+//    "translation" : "Quraysh",
+//    "type" : "meccan"
+//  },
+//  {
+//    "isDownloaded" : false,
+//    "downloadStatus" : 0,
+//    "translation" : "The Small kindnesses",
+//    "type" : "meccan",
+//    "link" : "https://archive.org/download/002_20250321/107.mp3",
+//    "time_array" : [
+//
+//    ],
+//    "arabic" : "الماعون",
+//    "name" : "Al-Maun",
+//    "id" : 107,
+//    "isDownloading" : false,
+//    "total_verses" : 7
+//  },
+//  {
+//    "arabic" : "الكوثر",
+//    "downloadStatus" : 0,
+//    "total_verses" : 3,
+//    "isDownloading" : false,
+//    "time_array" : [
+//
+//    ],
+//    "translation" : "The Abundance",
+//    "type" : "meccan",
+//    "isDownloaded" : false,
+//    "name" : "Al-Kawthar",
+//    "id" : 108,
+//    "link" : "https://archive.org/download/002_20250321/108.mp3"
+//  },
+//  {
+//    "total_verses" : 6,
+//    "id" : 109,
+//    "link" : "https://archive.org/download/002_20250321/109.mp3",
+//    "isDownloading" : false,
+//    "type" : "meccan",
+//    "downloadStatus" : 0,
+//    "name" : "Al-Kafirun",
+//    "isDownloaded" : false,
+//    "time_array" : [
+//
+//    ],
+//    "translation" : "The Disbelievers",
+//    "arabic" : "الكافرون"
+//  },
+//  {
+//    "id" : 110,
+//    "isDownloading" : false,
+//    "type" : "medinan",
+//    "isDownloaded" : false,
+//    "arabic" : "النصر",
+//    "time_array" : [
+//
+//    ],
+//    "name" : "An-Nasr",
+//    "link" : "https://archive.org/download/002_20250321/110.mp3",
+//    "downloadStatus" : 0,
+//    "total_verses" : 3,
+//    "translation" : "The Divine Support"
+//  },
+//  {
+//    "total_verses" : 5,
+//    "isDownloaded" : false,
+//    "isDownloading" : false,
+//    "link" : "https://archive.org/download/002_20250321/111.mp3",
+//    "id" : 111,
+//    "downloadStatus" : 0,
+//    "time_array" : [
+//
+//    ],
+//    "arabic" : "المسد",
+//    "translation" : "The Palm Fiber",
+//    "type" : "meccan",
+//    "name" : "Al-Masad"
+//  },
+//  {
+//    "downloadStatus" : 0,
+//    "total_verses" : 4,
+//    "arabic" : "الإخلاص",
+//    "type" : "meccan",
+//    "translation" : "The Sincerity",
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "id" : 112,
+//    "link" : "https://archive.org/download/002_20250321/112.mp3",
+//    "isDownloading" : false,
+//    "name" : "Al-Ikhlas"
+//  },
+//  {
+//    "link" : "https://archive.org/download/002_20250321/113.mp3",
+//    "name" : "Al-Falaq",
+//    "id" : 113,
+//    "isDownloaded" : false,
+//    "downloadStatus" : 0,
+//    "isDownloading" : false,
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 5,
+//    "translation" : "The Daybreak",
+//    "type" : "meccan",
+//    "arabic" : "الفلق"
+//  },
+//  {
+//    "isDownloading" : false,
+//    "type" : "meccan",
+//    "time_array" : [
+//
+//    ],
+//    "id" : 114,
+//    "link" : "https://archive.org/download/002_20250321/114.mp3",
+//    "downloadStatus" : 0,
+//    "total_verses" : 6,
+//    "name" : "Al-Nas",
+//    "translation" : "Mankind",
+//    "arabic" : "الناس",
+//    "isDownloaded" : false
+//  }
+]

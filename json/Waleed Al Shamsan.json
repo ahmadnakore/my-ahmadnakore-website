@@ -1,0 +1,1712 @@
+[
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 7,
+    "name" : "Al-Fatiha",
+    "arabic" : "الفاتحة",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/001.mp3",
+    "id" : 1,
+    "translation" : "The Opener",
+    "type" : "meccan"
+  },
+//  {
+//    "name" : "Al-Baqara",
+//    "total_verses" : 286,
+//    "id" : 2,
+//    "time_array" : [
+//
+//    ],
+//    "type" : "medinan",
+//    "isDownloading" : false,
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/002.mp3",
+//    "arabic" : "البقرة",
+//    "translation" : "The Cow",
+//    "isDownloaded" : false,
+//    "downloadStatus" : 0
+//  },
+//  {
+//    "time_array" : [
+//
+//    ],
+//    "translation" : "Family of Imran",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/003.mp3",
+//    "isDownloaded" : false,
+//    "isDownloading" : false,
+//    "arabic" : "آل عمران",
+//    "name" : "Al Imran",
+//    "type" : "medinan",
+//    "id" : 3,
+//    "downloadStatus" : 0,
+//    "total_verses" : 200
+//  },
+  {
+    "id" : 4,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 176,
+    "name" : "An-Nisa",
+    "isDownloading" : false,
+    "arabic" : "النساء",
+    "translation" : "The Women",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/004.mp3"
+  },
+//  {
+//    "time_array" : [
+//
+//    ],
+//    "name" : "Al-Maida",
+//    "id" : 5,
+//    "isDownloading" : false,
+//    "isDownloaded" : false,
+//    "total_verses" : 120,
+//    "translation" : "The Table Spread",
+//    "type" : "medinan",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/005.mp3",
+//    "downloadStatus" : 0,
+//    "arabic" : "المائدة"
+//  },
+  {
+    "name" : "Al-Anam",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/006.mp3",
+    "total_verses" : 165,
+    "time_array" : [
+
+    ],
+    "translation" : "The Cattle",
+    "id" : 6,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "arabic" : "الأنعام"
+  },
+  {
+    "downloadStatus" : 0,
+    "name" : "Al-Araf",
+    "time_array" : [
+
+    ],
+    "translation" : "The Heights",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/007.mp3",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 7,
+    "isDownloaded" : false,
+    "arabic" : "الأعراف",
+    "total_verses" : 206
+  },
+  {
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "arabic" : "الأنفال",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/008.mp3",
+    "isDownloading" : false,
+    "id" : 8,
+    "total_verses" : 75,
+    "name" : "Al-Anfal",
+    "translation" : "The Spoils of War"
+  },
+//  {
+//    "name" : "At-Tawba",
+//    "time_array" : [
+//
+//    ],
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/009.mp3",
+//    "type" : "medinan",
+//    "isDownloaded" : false,
+//    "downloadStatus" : 0,
+//    "translation" : "The Repentance",
+//    "total_verses" : 129,
+//    "isDownloading" : false,
+//    "arabic" : "التوبة",
+//    "id" : 9
+//  },
+//  {
+//    "type" : "meccan",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/010.mp3",
+//    "downloadStatus" : 0,
+//    "id" : 10,
+//    "name" : "Yunus",
+//    "isDownloading" : false,
+//    "translation" : "Jonah",
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "arabic" : "يونس",
+//    "total_verses" : 109
+//  },
+  {
+    "id" : 11,
+    "total_verses" : 123,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "translation" : "Hud",
+    "arabic" : "هود",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Hud",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/011.mp3",
+    "time_array" : [
+
+    ]
+  },
+//  {
+//    "isDownloading" : false,
+//    "downloadStatus" : 0,
+//    "arabic" : "يوسف",
+//    "type" : "meccan",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/012.mp3",
+//    "translation" : "Joseph",
+//    "total_verses" : 111,
+//    "isDownloaded" : false,
+//    "id" : 12,
+//    "time_array" : [
+//
+//    ],
+//    "name" : "Yusuf"
+//  },
+//  {
+//    "time_array" : [
+//
+//    ],
+//    "name" : "Ar-Rad",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/013.mp3",
+//    "id" : 13,
+//    "downloadStatus" : 0,
+//    "isDownloading" : false,
+//    "total_verses" : 43,
+//    "translation" : "The Thunder",
+//    "type" : "medinan",
+//    "isDownloaded" : false,
+//    "arabic" : "الرعد"
+//  },
+//  {
+//    "total_verses" : 52,
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/014.mp3",
+//    "downloadStatus" : 0,
+//    "isDownloading" : false,
+//    "translation" : "Abraham",
+//    "type" : "meccan",
+//    "id" : 14,
+//    "isDownloaded" : false,
+//    "name" : "Ibrahim",
+//    "arabic" : "ابراهيم",
+//    "time_array" : [
+//
+//    ]
+//  },
+//  {
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/015.mp3",
+//    "translation" : "The Rocky Tract",
+//    "type" : "meccan",
+//    "isDownloaded" : false,
+//    "name" : "Al-Hijr",
+//    "downloadStatus" : 0,
+//    "isDownloading" : false,
+//    "arabic" : "الحجر",
+//    "total_verses" : 99,
+//    "id" : 15,
+//    "time_array" : [
+//
+//    ]
+//  },
+//  {
+//    "name" : "An-Nahl",
+//    "isDownloaded" : false,
+//    "downloadStatus" : 0,
+//    "arabic" : "النحل",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/016.mp3",
+//    "total_verses" : 128,
+//    "isDownloading" : false,
+//    "id" : 16,
+//    "time_array" : [
+//
+//    ],
+//    "type" : "meccan",
+//    "translation" : "The Bee"
+//  },
+  {
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/017.mp3",
+    "id" : 17,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "الإسراء",
+    "translation" : "The Night Journey",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "total_verses" : 111,
+    "name" : "Al-Isra"
+  },
+//  {
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/018.mp3",
+//    "id" : 18,
+//    "isDownloaded" : false,
+//    "isDownloading" : false,
+//    "arabic" : "الكهف",
+//    "name" : "Al-Kahf",
+//    "downloadStatus" : 0,
+//    "translation" : "The Cave",
+//    "type" : "meccan",
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 110
+//  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "Mary",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/019.mp3",
+    "name" : "Maryam",
+    "total_verses" : 98,
+    "type" : "meccan",
+    "id" : 19,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "مريم"
+  },
+  {
+    "translation" : "Ta-Ha",
+    "isDownloading" : false,
+    "id" : 20,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "total_verses" : 135,
+    "time_array" : [
+
+    ],
+    "arabic" : "طه",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/020.mp3",
+    "name" : "Ta-Ha"
+  },
+//  {
+//    "time_array" : [
+//
+//    ],
+//    "id" : 21,
+//    "arabic" : "الأنبياء",
+//    "downloadStatus" : 0,
+//    "name" : "Al-Anbiya",
+//    "total_verses" : 112,
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/021.mp3",
+//    "isDownloaded" : false,
+//    "isDownloading" : false,
+//    "translation" : "The Prophets",
+//    "type" : "meccan"
+//  },
+//  {
+//    "isDownloading" : false,
+//    "arabic" : "الحج",
+//    "downloadStatus" : 0,
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/022.mp3",
+//    "id" : 22,
+//    "total_verses" : 78,
+//    "name" : "Al-Hajj",
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "translation" : "The Pilgrimage",
+//    "type" : "medinan"
+//  },
+//  {
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "translation" : "The Believers",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/023.mp3",
+//    "isDownloading" : false,
+//    "total_verses" : 118,
+//    "id" : 23,
+//    "downloadStatus" : 0,
+//    "name" : "Al-Muminoon",
+//    "type" : "meccan",
+//    "arabic" : "المؤمنون"
+//  },
+  {
+    "name" : "An-Nur",
+    "translation" : "The Light",
+    "id" : 24,
+    "time_array" : [
+
+    ],
+    "total_verses" : 64,
+    "arabic" : "النور",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/024.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/025.mp3",
+    "id" : 25,
+    "translation" : "The Criterion",
+    "total_verses" : 77,
+    "name" : "Al-Furqan",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "arabic" : "الفرقان"
+  },
+  {
+    "id" : 26,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/026.mp3",
+    "isDownloading" : false,
+    "name" : "Ash-Shuara",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "الشعراء",
+    "total_verses" : 227,
+    "translation" : "The Poets",
+    "downloadStatus" : 0,
+    "type" : "meccan"
+  },
+//  {
+//    "isDownloading" : false,
+//    "type" : "meccan",
+//    "time_array" : [
+//
+//    ],
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/027.mp3",
+//    "total_verses" : 93,
+//    "translation" : "The Ant",
+//    "downloadStatus" : 0,
+//    "arabic" : "النمل",
+//    "isDownloaded" : false,
+//    "name" : "An-Naml",
+//    "id" : 27
+//  },
+//  {
+//    "downloadStatus" : 0,
+//    "name" : "Al-Qasas",
+//    "id" : 28,
+//    "total_verses" : 88,
+//    "type" : "meccan",
+//    "translation" : "The Stories",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/028.mp3",
+//    "isDownloaded" : false,
+//    "isDownloading" : false,
+//    "arabic" : "القصص",
+//    "time_array" : [
+//
+//    ]
+//  },
+  {
+    "id" : 29,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/029.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Ankabut",
+    "total_verses" : 69,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "arabic" : "العنكبوت",
+    "translation" : "The Spider"
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "الروم",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/030.mp3",
+    "id" : 30,
+    "downloadStatus" : 0,
+    "name" : "Ar-Rum",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 60,
+    "translation" : "The Romans",
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 34,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "لقمان",
+    "id" : 31,
+    "time_array" : [
+
+    ],
+    "translation" : "Luqman",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/031.mp3",
+    "name" : "Luqman",
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "arabic" : "السجدة",
+    "isDownloading" : false,
+    "total_verses" : 30,
+    "id" : 32,
+    "name" : "As-Sajda",
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/032.mp3",
+    "translation" : "The Prostration"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Ahzab",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/033.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الأحزاب",
+    "id" : 33,
+    "total_verses" : 73,
+    "translation" : "The Combined Forces",
+    "type" : "medinan",
+    "time_array" : [
+
+    ]
+  },
+//  {
+//    "total_verses" : 54,
+//    "translation" : "Sheba",
+//    "type" : "meccan",
+//    "isDownloaded" : false,
+//    "arabic" : "سبإ",
+//    "id" : 34,
+//    "name" : "Saba",
+//    "time_array" : [
+//
+//    ],
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/034.mp3",
+//    "isDownloading" : false,
+//    "downloadStatus" : 0
+//  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "id" : 35,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Fatir",
+    "translation" : "Originator",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/035.mp3",
+    "type" : "meccan",
+    "arabic" : "فاطر",
+    "total_verses" : 45
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/036.mp3",
+    "id" : 36,
+    "arabic" : "يس",
+    "downloadStatus" : 0,
+    "name" : "Ya Sin",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 83,
+    "translation" : "Ya Sin",
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 182,
+    "downloadStatus" : 0,
+    "id" : 37,
+    "name" : "As-Saaffat",
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/037.mp3",
+    "arabic" : "الصافات",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "translation" : "Those who set the Ranks"
+  },
+//  {
+//    "isDownloading" : false,
+//    "name" : "Sad",
+//    "arabic" : "ص",
+//    "isDownloaded" : false,
+//    "downloadStatus" : 0,
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 88,
+//    "translation" : "The Letter Saad",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/038.mp3",
+//    "type" : "meccan",
+//    "id" : 38
+//  },
+//  {
+//    "total_verses" : 75,
+//    "translation" : "The Troops",
+//    "type" : "meccan",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/039.mp3",
+//    "downloadStatus" : 0,
+//    "arabic" : "الزمر",
+//    "isDownloading" : false,
+//    "name" : "Az-Zumar",
+//    "isDownloaded" : false,
+//    "id" : 39,
+//    "time_array" : [
+//
+//    ]
+//  },
+//  {
+//    "isDownloaded" : false,
+//    "name" : "Ghafir",
+//    "isDownloading" : false,
+//    "arabic" : "غافر",
+//    "total_verses" : 85,
+//    "time_array" : [
+//
+//    ],
+//    "translation" : "The Forgiver",
+//    "type" : "meccan",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/040.mp3",
+//    "id" : 40,
+//    "downloadStatus" : 0
+//  },
+  {
+    "type" : "meccan",
+    "translation" : "Explained in Detail",
+    "id" : 41,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/041.mp3",
+    "total_verses" : 54,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "arabic" : "فصلت",
+    "name" : "Fussilat"
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Consultation",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 53,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/042.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "الشورى",
+    "name" : "Ash-Shura",
+    "id" : 42
+  },
+  {
+    "name" : "Az-Zukhruf",
+    "total_verses" : 89,
+    "translation" : "The Ornaments of Gold",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/043.mp3",
+    "isDownloading" : false,
+    "arabic" : "الزخرف",
+    "id" : 43,
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Ad-Dukhan",
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/044.mp3",
+    "arabic" : "الدخان",
+    "total_verses" : 59,
+    "translation" : "The Smoke",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 44,
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Crouching",
+    "arabic" : "الجاثية",
+    "name" : "Al-Jathiya",
+    "isDownloaded" : false,
+    "id" : 45,
+    "total_verses" : 37,
+    "type" : "meccan",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/045.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+//  {
+//    "downloadStatus" : 0,
+//    "isDownloading" : false,
+//    "total_verses" : 35,
+//    "translation" : "The Wind-Curved Sandhills",
+//    "type" : "meccan",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/046.mp3",
+//    "arabic" : "الأحقاف",
+//    "id" : 46,
+//    "isDownloaded" : false,
+//    "name" : "Al-Ahqaf",
+//    "time_array" : [
+//
+//    ]
+//  },
+  {
+    "id" : 47,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/047.mp3",
+    "arabic" : "محمد",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "Muhammad",
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "name" : "Muhammad",
+    "total_verses" : 38
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "الفتح",
+    "id" : 48,
+    "isDownloading" : false,
+    "name" : "Al-Fath",
+    "total_verses" : 29,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/048.mp3",
+    "translation" : "The Victory"
+  },
+//  {
+//    "downloadStatus" : 0,
+//    "arabic" : "الحجرات",
+//    "id" : 49,
+//    "translation" : "The Rooms",
+//    "isDownloading" : false,
+//    "isDownloaded" : false,
+//    "name" : "Al-Hujurat",
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 18,
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/049.mp3",
+//    "type" : "medinan"
+//  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "ق",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/050.mp3",
+    "id" : 50,
+    "name" : "Qaf",
+    "total_verses" : 45,
+    "translation" : "The Letter Qaf",
+    "isDownloading" : false
+  },
+  {
+    "type" : "meccan",
+    "total_verses" : 60,
+    "id" : 51,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/051.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Winnowing Winds",
+    "isDownloading" : false,
+    "name" : "Adh-Dhariyat",
+    "isDownloaded" : false,
+    "arabic" : "الذاريات"
+  },
+  {
+    "id" : 52,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/052.mp3",
+    "arabic" : "الطور",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "translation" : "The Mount",
+    "name" : "At-Tur",
+    "total_verses" : 49
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/053.mp3",
+    "isDownloading" : false,
+    "name" : "An-Najm",
+    "total_verses" : 62,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "النجم",
+    "translation" : "The Star",
+    "id" : 53
+  },
+  {
+    "translation" : "The Moon",
+    "total_verses" : 55,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Qamar",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/054.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 54,
+    "type" : "meccan",
+    "arabic" : "القمر"
+  },
+  {
+    "translation" : "The Beneficent",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الرحمن",
+    "name" : "Ar-Rahman",
+    "total_verses" : 78,
+    "id" : 55,
+    "type" : "medinan",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/055.mp3",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 56,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/056.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Waqia",
+    "arabic" : "الواقعة",
+    "time_array" : [
+
+    ],
+    "total_verses" : 96,
+    "type" : "meccan",
+    "translation" : "The Inevitable",
+    "isDownloading" : false
+  },
+  {
+    "translation" : "The Iron",
+    "name" : "Al-Hadid",
+    "type" : "medinan",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/057.mp3",
+    "arabic" : "الحديد",
+    "time_array" : [
+
+    ],
+    "total_verses" : 29,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 57,
+    "isDownloading" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "translation" : "The Pleading Woman",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/058.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "id" : 58,
+    "arabic" : "المجادلة",
+    "name" : "Al-Mujadila",
+    "total_verses" : 22
+  },
+  {
+    "arabic" : "الحشر",
+    "translation" : "The Exile",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "total_verses" : 24,
+    "id" : 59,
+    "isDownloaded" : false,
+    "name" : "Al-Hashr",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/059.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/060.mp3",
+    "downloadStatus" : 0,
+    "name" : "Al-Mumtahina",
+    "isDownloading" : false,
+    "arabic" : "الممتحنة",
+    "type" : "medinan",
+    "id" : 60,
+    "translation" : "She that is to be examined",
+    "total_verses" : 13
+  },
+//  {
+//    "isDownloading" : false,
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "id" : 61,
+//    "total_verses" : 14,
+//    "translation" : "The Ranks",
+//    "type" : "medinan",
+//    "arabic" : "الصف",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/061.mp3",
+//    "name" : "As-Saff",
+//    "downloadStatus" : 0
+//  },
+  {
+    "name" : "Al-Jumua",
+    "id" : 62,
+    "translation" : "The Congregation, Friday",
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/062.mp3",
+    "arabic" : "الجمعة",
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "total_verses" : 11,
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "medinan",
+    "name" : "Al-Munafiqun",
+    "total_verses" : 11,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/063.mp3",
+    "id" : 63,
+    "isDownloading" : false,
+    "arabic" : "المنافقون",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "translation" : "The Hypocrites"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 18,
+    "id" : 64,
+    "isDownloading" : false,
+    "arabic" : "التغابن",
+    "translation" : "The Mutual Disillusion",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/064.mp3",
+    "type" : "medinan",
+    "name" : "At-Taghabun",
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/065.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 65,
+    "isDownloaded" : false,
+    "translation" : "The Divorce",
+    "type" : "medinan",
+    "arabic" : "الطلاق",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 12,
+    "name" : "At-Talaq"
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/066.mp3",
+    "name" : "At-Tahrim",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "translation" : "The Prohibition",
+    "total_verses" : 12,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "id" : 66,
+    "arabic" : "التحريم"
+  },
+  {
+    "arabic" : "الملك",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 30,
+    "id" : 67,
+    "name" : "Al-Mulk",
+    "type" : "meccan",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/067.mp3",
+    "translation" : "The Sovereignty",
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/068.mp3",
+    "id" : 68,
+    "translation" : "The Pen",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 52,
+    "name" : "Al-Qalam",
+    "arabic" : "القلم",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+//  {
+//    "isDownloading" : false,
+//    "downloadStatus" : 0,
+//    "id" : 69,
+//    "total_verses" : 52,
+//    "type" : "meccan",
+//    "isDownloaded" : false,
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/069.mp3",
+//    "arabic" : "الحاقة",
+//    "name" : "Al-Haaqqa",
+//    "translation" : "The Reality",
+//    "time_array" : [
+//
+//    ]
+//  },
+  {
+    "arabic" : "المعارج",
+    "name" : "Al-Maarij",
+    "translation" : "The Ascending Stairways",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 44,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/070.mp3",
+    "id" : 70,
+    "downloadStatus" : 0
+  },
+//  {
+//    "id" : 71,
+//    "arabic" : "نوح",
+//    "type" : "meccan",
+//    "name" : "Nuh",
+//    "isDownloading" : false,
+//    "translation" : "Noah",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/071.mp3",
+//    "total_verses" : 28,
+//    "downloadStatus" : 0,
+//    "isDownloaded" : false,
+//    "time_array" : [
+//
+//    ]
+//  },
+//  {
+//    "time_array" : [
+//
+//    ],
+//    "isDownloading" : false,
+//    "total_verses" : 28,
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/072.mp3",
+//    "id" : 72,
+//    "downloadStatus" : 0,
+//    "arabic" : "الجن",
+//    "isDownloaded" : false,
+//    "type" : "meccan",
+//    "name" : "Al-Jinn",
+//    "translation" : "The Jinn"
+//  },
+//  {
+//    "type" : "meccan",
+//    "downloadStatus" : 0,
+//    "name" : "Al-Muzzammil",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/073.mp3",
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "isDownloading" : false,
+//    "total_verses" : 20,
+//    "arabic" : "المزمل",
+//    "id" : 73,
+//    "translation" : "The Enshrouded One"
+//  },
+//  {
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/074.mp3",
+//    "downloadStatus" : 0,
+//    "isDownloading" : false,
+//    "name" : "Al-Muddathir",
+//    "translation" : "The Cloaked One",
+//    "arabic" : "المدثر",
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "type" : "meccan",
+//    "id" : 74,
+//    "total_verses" : 56
+//  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Resurrection",
+    "id" : 75,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/075.mp3",
+    "arabic" : "القيامة",
+    "isDownloaded" : false,
+    "total_verses" : 40,
+    "name" : "Al-Qiyama",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Man",
+    "name" : "Al-Insan",
+    "total_verses" : 31,
+    "type" : "medinan",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/076.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الانسان",
+    "downloadStatus" : 0,
+    "id" : 76
+  },
+//  {
+//    "id" : 77,
+//    "translation" : "The Emissaries",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/077.mp3",
+//    "isDownloading" : false,
+//    "arabic" : "المرسلات",
+//    "name" : "Al-Mursalat",
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 50,
+//    "downloadStatus" : 0,
+//    "type" : "meccan",
+//    "isDownloaded" : false
+//  },
+  {
+    "arabic" : "النبإ",
+    "total_verses" : 40,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/078.mp3",
+    "translation" : "The Tidings",
+    "isDownloading" : false,
+    "name" : "An-Naba",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 78,
+    "downloadStatus" : 0
+  },
+//  {
+//    "id" : 79,
+//    "time_array" : [
+//
+//    ],
+//    "isDownloaded" : false,
+//    "downloadStatus" : 0,
+//    "name" : "An-Naziat",
+//    "total_verses" : 46,
+//    "type" : "meccan",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/079.mp3",
+//    "arabic" : "النازعات",
+//    "isDownloading" : false,
+//    "translation" : "Those who drag forth"
+//  },
+//  {
+//    "isDownloaded" : false,
+//    "downloadStatus" : 0,
+//    "arabic" : "عبس",
+//    "name" : "Abasa",
+//    "translation" : "He Frowned",
+//    "type" : "meccan",
+//    "id" : 80,
+//    "isDownloading" : false,
+//    "total_verses" : 42,
+//    "time_array" : [
+//
+//    ],
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/080.mp3"
+//  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "التكوير",
+    "id" : 81,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/081.mp3",
+    "name" : "At-Takwir",
+    "total_verses" : 29,
+    "translation" : "The Overthrowing"
+  },
+  {
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/082.mp3",
+    "id" : 82,
+    "isDownloaded" : false,
+    "arabic" : "الإنفطار",
+    "name" : "Al-Infitar",
+    "total_verses" : 19,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "translation" : "The Cleaving",
+    "type" : "meccan"
+  },
+//  {
+//    "translation" : "The Defrauding",
+//    "total_verses" : 36,
+//    "id" : 83,
+//    "arabic" : "المطففين",
+//    "type" : "meccan",
+//    "isDownloaded" : false,
+//    "name" : "Al-Mutaffifin",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/083.mp3",
+//    "isDownloading" : false,
+//    "downloadStatus" : 0,
+//    "time_array" : [
+//
+//    ]
+//  },
+//  {
+//    "translation" : "The Sundering",
+//    "arabic" : "الإنشقاق",
+//    "downloadStatus" : 0,
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/084.mp3",
+//    "isDownloaded" : false,
+//    "isDownloading" : false,
+//    "id" : 84,
+//    "type" : "meccan",
+//    "name" : "Al-Inshiqaq",
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 25
+//  },
+  {
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/085.mp3",
+    "id" : 85,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Burooj",
+    "total_verses" : 22,
+    "translation" : "The Mansions of the Stars",
+    "isDownloading" : false,
+    "arabic" : "البروج",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "الطارق",
+    "isDownloading" : false,
+    "translation" : "The Nightcommer",
+    "type" : "meccan",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/086.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "At-Tariq",
+    "id" : 86,
+    "isDownloaded" : false,
+    "total_verses" : 17
+  },
+//  {
+//    "id" : 87,
+//    "isDownloaded" : false,
+//    "translation" : "The Most High",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/087.mp3",
+//    "name" : "Al-Ala",
+//    "time_array" : [
+//
+//    ],
+//    "downloadStatus" : 0,
+//    "arabic" : "الأعلى",
+//    "total_verses" : 19,
+//    "type" : "meccan",
+//    "isDownloading" : false
+//  },
+//  {
+//    "id" : 88,
+//    "translation" : "The Overwhelming",
+//    "total_verses" : 26,
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/088.mp3",
+//    "isDownloaded" : false,
+//    "isDownloading" : false,
+//    "time_array" : [
+//
+//    ],
+//    "type" : "meccan",
+//    "arabic" : "الغاشية",
+//    "name" : "Al-Ghashiyah",
+//    "downloadStatus" : 0
+//  },
+//  {
+//    "arabic" : "الفجر",
+//    "type" : "meccan",
+//    "name" : "Al-Fajr",
+//    "isDownloaded" : false,
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/089.mp3",
+//    "downloadStatus" : 0,
+//    "isDownloading" : false,
+//    "translation" : "The Dawn",
+//    "total_verses" : 30,
+//    "time_array" : [
+//
+//    ],
+//    "id" : 89
+//  },
+//  {
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/090.mp3",
+//    "isDownloaded" : false,
+//    "total_verses" : 20,
+//    "time_array" : [
+//
+//    ],
+//    "translation" : "The City",
+//    "downloadStatus" : 0,
+//    "type" : "meccan",
+//    "arabic" : "البلد",
+//    "name" : "Al-Balad",
+//    "id" : 90,
+//    "isDownloading" : false
+//  },
+//  {
+//    "downloadStatus" : 0,
+//    "name" : "Ash-Shams",
+//    "isDownloading" : false,
+//    "id" : 91,
+//    "type" : "meccan",
+//    "total_verses" : 15,
+//    "isDownloaded" : false,
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/091.mp3",
+//    "translation" : "The Sun",
+//    "time_array" : [
+//
+//    ],
+//    "arabic" : "الشمس"
+//  },
+//  {
+//    "time_array" : [
+//
+//    ],
+//    "translation" : "The Night",
+//    "isDownloaded" : false,
+//    "name" : "Al-Lail",
+//    "downloadStatus" : 0,
+//    "arabic" : "الليل",
+//    "type" : "meccan",
+//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/092.mp3",
+//    "total_verses" : 21,
+//    "id" : 92,
+//    "isDownloading" : false
+//  },
+  {
+    "id" : 93,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/093.mp3",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Ad-Dhuha",
+    "time_array" : [
+
+    ],
+    "total_verses" : 11,
+    "arabic" : "الضحى",
+    "translation" : "The Morning Hours"
+  },
+  {
+    "translation" : "The Relief",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/094.mp3",
+    "total_verses" : 8,
+    "downloadStatus" : 0,
+    "id" : 94,
+    "isDownloading" : false,
+    "arabic" : "الشرح",
+    "name" : "Al-Inshirah"
+  },
+  {
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/095.mp3",
+    "translation" : "The Fig",
+    "isDownloading" : false,
+    "id" : 95,
+    "name" : "At-Tin",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 8,
+    "type" : "meccan",
+    "arabic" : "التين"
+  },
+  {
+    "arabic" : "العلق",
+    "total_verses" : 19,
+    "time_array" : [
+
+    ],
+    "id" : 96,
+    "name" : "Al-Alaq",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/096.mp3",
+    "isDownloaded" : false,
+    "translation" : "The Clot",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0
+  },
+  {
+    "total_verses" : 5,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 97,
+    "arabic" : "القدر",
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/097.mp3",
+    "name" : "Al-Qadr",
+    "translation" : "The Power",
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "medinan",
+    "id" : 98,
+    "arabic" : "البينة",
+    "isDownloaded" : false,
+    "total_verses" : 8,
+    "name" : "Al-Bayyina",
+    "translation" : "The Clear Proof",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/098.mp3",
+    "isDownloading" : false
+  },
+  {
+    "type" : "medinan",
+    "translation" : "The Earthquake",
+    "id" : 99,
+    "isDownloaded" : false,
+    "arabic" : "الزلزلة",
+    "total_verses" : 8,
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/099.mp3",
+    "isDownloading" : false,
+    "name" : "Az-Zalzala",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/100.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 100,
+    "name" : "Al-Adiyat",
+    "total_verses" : 11,
+    "translation" : "The Courser",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "arabic" : "العاديات"
+  },
+  {
+    "arabic" : "القارعة",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/101.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "Al-Qaria",
+    "id" : 101,
+    "total_verses" : 11,
+    "translation" : "The Calamity",
+    "type" : "meccan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 102,
+    "isDownloaded" : false,
+    "total_verses" : 8,
+    "arabic" : "التكاثر",
+    "translation" : "The Rivalry in world increase",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/102.mp3",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "name" : "At-Takathur",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "type" : "meccan",
+    "total_verses" : 3,
+    "name" : "Al-Asr",
+    "arabic" : "العصر",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/103.mp3",
+    "isDownloaded" : false,
+    "id" : 103,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The Declining Day",
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 9,
+    "translation" : "The Traducer",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 104,
+    "arabic" : "الهمزة",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/104.mp3",
+    "name" : "Al-Humaza",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "الفيل",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 5,
+    "type" : "meccan",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/105.mp3",
+    "id" : 105,
+    "translation" : "The Elephant",
+    "isDownloaded" : false,
+    "name" : "Al-Fil"
+  },
+  {
+    "arabic" : "قريش",
+    "id" : 106,
+    "total_verses" : 4,
+    "isDownloaded" : false,
+    "translation" : "Quraysh",
+    "name" : "Quraysh",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/106.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Maun",
+    "isDownloading" : false,
+    "total_verses" : 7,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/107.mp3",
+    "arabic" : "الماعون",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 107,
+    "translation" : "The Small kindnesses"
+  },
+  {
+    "name" : "Al-Kawthar",
+    "type" : "meccan",
+    "id" : 108,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/108.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "الكوثر",
+    "total_verses" : 3,
+    "translation" : "The Abundance"
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Al-Kafirun",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الكافرون",
+    "id" : 109,
+    "time_array" : [
+
+    ],
+    "translation" : "The Disbelievers",
+    "total_verses" : 6,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/109.mp3",
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 3,
+    "id" : 110,
+    "downloadStatus" : 0,
+    "translation" : "The Divine Support",
+    "isDownloaded" : false,
+    "arabic" : "النصر",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/110.mp3",
+    "name" : "An-Nasr",
+    "time_array" : [
+
+    ],
+    "type" : "medinan"
+  },
+  {
+    "total_verses" : 5,
+    "downloadStatus" : 0,
+    "translation" : "The Palm Fiber",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/111.mp3",
+    "id" : 111,
+    "isDownloaded" : false,
+    "arabic" : "المسد",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Masad"
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "الإخلاص",
+    "id" : 112,
+    "translation" : "The Sincerity",
+    "name" : "Al-Ikhlas",
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/112.mp3",
+    "type" : "meccan",
+    "total_verses" : 4,
+    "isDownloaded" : false
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "id" : 113,
+    "translation" : "The Daybreak",
+    "arabic" : "الفلق",
+    "downloadStatus" : 0,
+    "name" : "Al-Falaq",
+    "time_array" : [
+
+    ],
+    "total_verses" : 5,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/113.mp3"
+  },
+  {
+    "name" : "Al-Nas",
+    "type" : "meccan",
+    "id" : 114,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://archive.org/download/Waleed-Al-Shamsan/114.mp3",
+    "translation" : "Mankind",
+    "arabic" : "الناس",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 6
+  }
+]

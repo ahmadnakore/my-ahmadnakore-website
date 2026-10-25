@@ -1,0 +1,1712 @@
+[
+  {
+    "name" : "Al-Fatiha",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/001.mp3",
+    "total_verses" : 7,
+    "time_array" : [
+
+    ],
+    "id" : 1,
+    "isDownloading" : false,
+    "arabic" : "الفاتحة",
+    "translation" : "The Opener",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 2,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Baqara",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/002.mp3",
+    "type" : "medinan",
+    "translation" : "The Cow",
+    "total_verses" : 286,
+    "arabic" : "البقرة"
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/003.mp3",
+    "isDownloading" : false,
+    "id" : 3,
+    "name" : "Al Imran",
+    "type" : "medinan",
+    "arabic" : "آل عمران",
+    "total_verses" : 200,
+    "translation" : "Family of Imran",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 176,
+    "time_array" : [
+
+    ],
+    "id" : 4,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/004.mp3",
+    "arabic" : "النساء",
+    "translation" : "The Women",
+    "downloadStatus" : 0,
+    "name" : "An-Nisa",
+    "type" : "medinan",
+    "isDownloaded" : false
+  },
+  {
+    "type" : "medinan",
+    "arabic" : "المائدة",
+    "id" : 5,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Table Spread",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 120,
+    "name" : "Al-Maida",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/005.mp3"
+  },
+  {
+    "arabic" : "الأنعام",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Al-Anam",
+    "translation" : "The Cattle",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/006.mp3",
+    "id" : 6,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 165
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "الأعراف",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/007.mp3",
+    "id" : 7,
+    "downloadStatus" : 0,
+    "name" : "Al-Araf",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 206,
+    "translation" : "The Heights"
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "name" : "Al-Anfal",
+    "arabic" : "الأنفال",
+    "total_verses" : 75,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/008.mp3",
+    "downloadStatus" : 0,
+    "id" : 8,
+    "translation" : "The Spoils of War"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "التوبة",
+    "name" : "At-Tawba",
+    "translation" : "The Repentance",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 9,
+    "total_verses" : 129,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/009.mp3"
+  },
+  {
+    "name" : "Yunus",
+    "total_verses" : 109,
+    "translation" : "Jonah",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/010.mp3",
+    "isDownloaded" : false,
+    "arabic" : "يونس",
+    "downloadStatus" : 0,
+    "id" : 10,
+    "isDownloading" : false
+  },
+  {
+    "type" : "meccan",
+    "total_verses" : 123,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/011.mp3",
+    "isDownloaded" : false,
+    "id" : 11,
+    "downloadStatus" : 0,
+    "translation" : "Hud",
+    "arabic" : "هود",
+    "name" : "Hud",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 111,
+    "arabic" : "يوسف",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/012.mp3",
+    "translation" : "Joseph",
+    "name" : "Yusuf",
+    "isDownloaded" : false,
+    "id" : 12
+  },
+  {
+    "id" : 13,
+    "name" : "Ar-Rad",
+    "total_verses" : 43,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الرعد",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "translation" : "The Thunder",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/013.mp3"
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/014.mp3",
+    "arabic" : "ابراهيم",
+    "id" : 14,
+    "type" : "meccan",
+    "total_verses" : 52,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Ibrahim",
+    "translation" : "Abraham",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "The Rocky Tract",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Hijr",
+    "time_array" : [
+
+    ],
+    "total_verses" : 99,
+    "type" : "meccan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/015.mp3",
+    "arabic" : "الحجر",
+    "id" : 15,
+    "isDownloaded" : false
+  },
+  {
+    "type" : "meccan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/016.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 16,
+    "total_verses" : 128,
+    "arabic" : "النحل",
+    "name" : "An-Nahl",
+    "downloadStatus" : 0,
+    "translation" : "The Bee",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 17,
+    "name" : "Al-Isra",
+    "downloadStatus" : 0,
+    "arabic" : "الإسراء",
+    "total_verses" : 111,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/017.mp3",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Night Journey"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/018.mp3",
+    "name" : "Al-Kahf",
+    "arabic" : "الكهف",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "id" : 18,
+    "total_verses" : 110,
+    "translation" : "The Cave",
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 19,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "Mary",
+    "total_verses" : 98,
+    "type" : "meccan",
+    "name" : "Maryam",
+    "arabic" : "مريم",
+    "isDownloading" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/019.mp3"
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/020.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "طه",
+    "total_verses" : 135,
+    "translation" : "Ta-Ha",
+    "type" : "meccan",
+    "name" : "Ta-Ha",
+    "downloadStatus" : 0,
+    "id" : 20,
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Prophets",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الأنبياء",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/021.mp3",
+    "name" : "Al-Anbiya",
+    "isDownloading" : false,
+    "total_verses" : 112,
+    "id" : 21
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "الحج",
+    "total_verses" : 78,
+    "translation" : "The Pilgrimage",
+    "type" : "medinan",
+    "id" : 22,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "Al-Hajj",
+    "downloadStatus" : 0,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/022.mp3"
+  },
+  {
+    "id" : 23,
+    "time_array" : [
+
+    ],
+    "arabic" : "المؤمنون",
+    "translation" : "The Believers",
+    "name" : "Al-Muminoon",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/023.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 118,
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Light",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/024.mp3",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "id" : 24,
+    "isDownloaded" : false,
+    "name" : "An-Nur",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "النور",
+    "total_verses" : 64
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/025.mp3",
+    "total_verses" : 77,
+    "time_array" : [
+
+    ],
+    "id" : 25,
+    "isDownloading" : false,
+    "translation" : "The Criterion",
+    "type" : "meccan",
+    "arabic" : "الفرقان",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Al-Furqan"
+  },
+  {
+    "total_verses" : 227,
+    "type" : "meccan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/026.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Ash-Shuara",
+    "arabic" : "الشعراء",
+    "id" : 26,
+    "isDownloaded" : false,
+    "translation" : "The Poets"
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "النمل",
+    "downloadStatus" : 0,
+    "translation" : "The Ant",
+    "id" : 27,
+    "isDownloading" : false,
+    "total_verses" : 93,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/027.mp3",
+    "name" : "An-Naml",
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/028.mp3",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 88,
+    "translation" : "The Stories",
+    "isDownloaded" : false,
+    "arabic" : "القصص",
+    "id" : 28,
+    "name" : "Al-Qasas",
+    "downloadStatus" : 0
+  },
+  {
+    "total_verses" : 69,
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/029.mp3",
+    "name" : "Al-Ankabut",
+    "translation" : "The Spider",
+    "id" : 29,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "العنكبوت",
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "الروم",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "translation" : "The Romans",
+    "total_verses" : 60,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/030.mp3",
+    "name" : "Ar-Rum",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "id" : 30
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "لقمان",
+    "time_array" : [
+
+    ],
+    "total_verses" : 34,
+    "isDownloading" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/031.mp3",
+    "name" : "Luqman",
+    "translation" : "Luqman",
+    "type" : "meccan",
+    "id" : 31,
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Prostration",
+    "downloadStatus" : 0,
+    "total_verses" : 30,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "As-Sajda",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/032.mp3",
+    "arabic" : "السجدة",
+    "id" : 32
+  },
+  {
+    "translation" : "The Combined Forces",
+    "total_verses" : 73,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "id" : 33,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/033.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Al-Ahzab",
+    "arabic" : "الأحزاب"
+  },
+  {
+    "translation" : "Sheba",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/034.mp3",
+    "name" : "Saba",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "سبإ",
+    "total_verses" : 54,
+    "id" : 34
+  },
+  {
+    "id" : 35,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/035.mp3",
+    "downloadStatus" : 0,
+    "name" : "Fatir",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 45,
+    "type" : "meccan",
+    "translation" : "Originator",
+    "isDownloaded" : false,
+    "arabic" : "فاطر"
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "translation" : "Ya Sin",
+    "id" : 36,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/036.mp3",
+    "total_verses" : 83,
+    "type" : "meccan",
+    "arabic" : "يس",
+    "name" : "Ya Sin",
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "meccan",
+    "name" : "As-Saaffat",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/037.mp3",
+    "isDownloading" : false,
+    "id" : 37,
+    "total_verses" : 182,
+    "translation" : "Those who set the Ranks",
+    "arabic" : "الصافات"
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Letter Saad",
+    "total_verses" : 88,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/038.mp3",
+    "isDownloading" : false,
+    "arabic" : "ص",
+    "type" : "meccan",
+    "name" : "Sad",
+    "id" : 38,
+    "isDownloaded" : false
+  },
+  {
+    "total_verses" : 75,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/039.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الزمر",
+    "id" : 39,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "translation" : "The Troops",
+    "name" : "Az-Zumar"
+  },
+  {
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Ghafir",
+    "arabic" : "غافر",
+    "isDownloading" : false,
+    "total_verses" : 85,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/040.mp3",
+    "translation" : "The Forgiver",
+    "id" : 40,
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "فصلت",
+    "id" : 41,
+    "isDownloading" : false,
+    "name" : "Fussilat",
+    "total_verses" : 54,
+    "time_array" : [
+
+    ],
+    "translation" : "Explained in Detail",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/041.mp3"
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/042.mp3",
+    "name" : "Ash-Shura",
+    "arabic" : "الشورى",
+    "isDownloaded" : false,
+    "id" : 42,
+    "isDownloading" : false,
+    "total_verses" : 53,
+    "translation" : "The Consultation",
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "الزخرف",
+    "name" : "Az-Zukhruf",
+    "time_array" : [
+
+    ],
+    "total_verses" : 89,
+    "isDownloaded" : false,
+    "id" : 43,
+    "downloadStatus" : 0,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/043.mp3",
+    "translation" : "The Ornaments of Gold",
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "name" : "Ad-Dukhan",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/044.mp3",
+    "isDownloaded" : false,
+    "id" : 44,
+    "isDownloading" : false,
+    "translation" : "The Smoke",
+    "arabic" : "الدخان",
+    "total_verses" : 59
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Crouching",
+    "arabic" : "الجاثية",
+    "type" : "meccan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/045.mp3",
+    "name" : "Al-Jathiya",
+    "isDownloaded" : false,
+    "id" : 45,
+    "downloadStatus" : 0,
+    "total_verses" : 37,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "total_verses" : 35,
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/046.mp3",
+    "name" : "Al-Ahqaf",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "arabic" : "الأحقاف",
+    "id" : 46,
+    "translation" : "The Wind-Curved Sandhills",
+    "isDownloading" : false
+  },
+  {
+    "type" : "medinan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/047.mp3",
+    "arabic" : "محمد",
+    "total_verses" : 38,
+    "name" : "Muhammad",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 47,
+    "isDownloading" : false,
+    "translation" : "Muhammad"
+  },
+  {
+    "translation" : "The Victory",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "arabic" : "الفتح",
+    "total_verses" : 29,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/048.mp3",
+    "name" : "Al-Fath",
+    "id" : 48,
+    "isDownloading" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "الحجرات",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Rooms",
+    "type" : "medinan",
+    "name" : "Al-Hujurat",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/049.mp3",
+    "id" : 49,
+    "total_verses" : 18
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "translation" : "The Letter Qaf",
+    "id" : 50,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/050.mp3",
+    "name" : "Qaf",
+    "total_verses" : 45,
+    "arabic" : "ق"
+  },
+  {
+    "total_verses" : 60,
+    "translation" : "The Winnowing Winds",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الذاريات",
+    "time_array" : [
+
+    ],
+    "name" : "Adh-Dhariyat",
+    "type" : "meccan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/051.mp3",
+    "isDownloading" : false,
+    "id" : 51
+  },
+  {
+    "type" : "meccan",
+    "translation" : "The Mount",
+    "id" : 52,
+    "downloadStatus" : 0,
+    "total_verses" : 49,
+    "arabic" : "الطور",
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/052.mp3",
+    "name" : "At-Tur",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/053.mp3",
+    "total_verses" : 62,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Star",
+    "id" : 53,
+    "isDownloading" : false,
+    "name" : "An-Najm",
+    "arabic" : "النجم"
+  },
+  {
+    "translation" : "The Moon",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "name" : "Al-Qamar",
+    "downloadStatus" : 0,
+    "id" : 54,
+    "isDownloading" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/054.mp3",
+    "arabic" : "القمر",
+    "time_array" : [
+
+    ],
+    "total_verses" : 55
+  },
+  {
+    "translation" : "The Beneficent",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/055.mp3",
+    "name" : "Ar-Rahman",
+    "arabic" : "الرحمن",
+    "id" : 55,
+    "total_verses" : 78
+  },
+  {
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "id" : 56,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/056.mp3",
+    "arabic" : "الواقعة",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Inevitable",
+    "name" : "Al-Waqia",
+    "total_verses" : 96
+  },
+  {
+    "type" : "medinan",
+    "translation" : "The Iron",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Hadid",
+    "arabic" : "الحديد",
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/057.mp3",
+    "id" : 57,
+    "time_array" : [
+
+    ],
+    "total_verses" : 29
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "المجادلة",
+    "type" : "medinan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/058.mp3",
+    "isDownloading" : false,
+    "total_verses" : 22,
+    "id" : 58,
+    "isDownloaded" : false,
+    "name" : "Al-Mujadila",
+    "time_array" : [
+
+    ],
+    "translation" : "The Pleading Woman"
+  },
+  {
+    "translation" : "The Exile",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "medinan",
+    "name" : "Al-Hashr",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/059.mp3",
+    "arabic" : "الحشر",
+    "id" : 59,
+    "downloadStatus" : 0,
+    "total_verses" : 24
+  },
+  {
+    "name" : "Al-Mumtahina",
+    "downloadStatus" : 0,
+    "translation" : "She that is to be examined",
+    "arabic" : "الممتحنة",
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/060.mp3",
+    "isDownloaded" : false,
+    "id" : 60,
+    "total_verses" : 13,
+    "isDownloading" : false
+  },
+  {
+    "translation" : "The Ranks",
+    "id" : 61,
+    "name" : "As-Saff",
+    "type" : "medinan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/061.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الصف",
+    "time_array" : [
+
+    ],
+    "total_verses" : 14,
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/062.mp3",
+    "name" : "Al-Jumua",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "الجمعة",
+    "time_array" : [
+
+    ],
+    "total_verses" : 11,
+    "type" : "medinan",
+    "translation" : "The Congregation, Friday",
+    "downloadStatus" : 0,
+    "id" : 62
+  },
+  {
+    "id" : 63,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 11,
+    "translation" : "The Hypocrites",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/063.mp3",
+    "name" : "Al-Munafiqun",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "المنافقون"
+  },
+  {
+    "type" : "medinan",
+    "name" : "At-Taghabun",
+    "id" : 64,
+    "time_array" : [
+
+    ],
+    "translation" : "The Mutual Disillusion",
+    "downloadStatus" : 0,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/064.mp3",
+    "total_verses" : 18,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "التغابن"
+  },
+  {
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "arabic" : "الطلاق",
+    "isDownloading" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/065.mp3",
+    "downloadStatus" : 0,
+    "id" : 65,
+    "name" : "At-Talaq",
+    "total_verses" : 12,
+    "time_array" : [
+
+    ],
+    "translation" : "The Divorce"
+  },
+  {
+    "isDownloading" : false,
+    "name" : "At-Tahrim",
+    "total_verses" : 12,
+    "type" : "medinan",
+    "translation" : "The Prohibition",
+    "downloadStatus" : 0,
+    "id" : 66,
+    "arabic" : "التحريم",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/066.mp3"
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/067.mp3",
+    "isDownloading" : false,
+    "translation" : "The Sovereignty",
+    "isDownloaded" : false,
+    "arabic" : "الملك",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Al-Mulk",
+    "total_verses" : 30,
+    "id" : 67
+  },
+  {
+    "time_array" : [
+
+    ],
+    "id" : 68,
+    "arabic" : "القلم",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/068.mp3",
+    "name" : "Al-Qalam",
+    "total_verses" : 52,
+    "isDownloading" : false,
+    "translation" : "The Pen",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "الحاقة",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/069.mp3",
+    "id" : 69,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Haaqqa",
+    "time_array" : [
+
+    ],
+    "translation" : "The Reality",
+    "isDownloaded" : false,
+    "total_verses" : 52,
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "translation" : "The Ascending Stairways",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "name" : "Al-Maarij",
+    "arabic" : "المعارج",
+    "id" : 70,
+    "time_array" : [
+
+    ],
+    "total_verses" : 44,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/070.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Nuh",
+    "arabic" : "نوح",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/071.mp3",
+    "translation" : "Noah",
+    "total_verses" : 28,
+    "id" : 71
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/072.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Jinn",
+    "arabic" : "الجن",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Jinn",
+    "total_verses" : 28,
+    "id" : 72
+  },
+  {
+    "type" : "meccan",
+    "name" : "Al-Muzzammil",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 20,
+    "translation" : "The Enshrouded One",
+    "arabic" : "المزمل",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/073.mp3",
+    "id" : 73,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Muddathir",
+    "time_array" : [
+
+    ],
+    "id" : 74,
+    "downloadStatus" : 0,
+    "total_verses" : 56,
+    "arabic" : "المدثر",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "translation" : "The Cloaked One",
+    "isDownloading" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/074.mp3"
+  },
+  {
+    "name" : "Al-Qiyama",
+    "translation" : "The Resurrection",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/075.mp3",
+    "isDownloading" : false,
+    "id" : 75,
+    "time_array" : [
+
+    ],
+    "arabic" : "القيامة",
+    "total_verses" : 40,
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "translation" : "The Man",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/076.mp3",
+    "total_verses" : 31,
+    "id" : 76,
+    "arabic" : "الانسان",
+    "name" : "Al-Insan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/077.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Emissaries",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "arabic" : "المرسلات",
+    "isDownloading" : false,
+    "name" : "Al-Mursalat",
+    "id" : 77,
+    "total_verses" : 50
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/078.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "An-Naba",
+    "translation" : "The Tidings",
+    "arabic" : "النبإ",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 40,
+    "id" : 78,
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/079.mp3",
+    "translation" : "Those who drag forth",
+    "name" : "An-Naziat",
+    "total_verses" : 46,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "النازعات",
+    "id" : 79
+  },
+  {
+    "type" : "meccan",
+    "arabic" : "عبس",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/080.mp3",
+    "downloadStatus" : 0,
+    "name" : "Abasa",
+    "time_array" : [
+
+    ],
+    "id" : 80,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 42,
+    "translation" : "He Frowned"
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/081.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 29,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 81,
+    "arabic" : "التكوير",
+    "downloadStatus" : 0,
+    "name" : "At-Takwir",
+    "translation" : "The Overthrowing"
+  },
+  {
+    "name" : "Al-Infitar",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 19,
+    "downloadStatus" : 0,
+    "arabic" : "الإنفطار",
+    "id" : 82,
+    "time_array" : [
+
+    ],
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/082.mp3",
+    "translation" : "The Cleaving",
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "name" : "Al-Mutaffifin",
+    "total_verses" : 36,
+    "translation" : "The Defrauding",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "المطففين",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/083.mp3",
+    "id" : 83
+  },
+  {
+    "total_verses" : 25,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/084.mp3",
+    "id" : 84,
+    "translation" : "The Sundering",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "الإنشقاق",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Inshiqaq",
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/085.mp3",
+    "id" : 85,
+    "translation" : "The Mansions of the Stars",
+    "type" : "meccan",
+    "total_verses" : 22,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Al-Burooj",
+    "downloadStatus" : 0,
+    "arabic" : "البروج",
+    "isDownloaded" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "The Nightcommer",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/086.mp3",
+    "id" : 86,
+    "arabic" : "الطارق",
+    "downloadStatus" : 0,
+    "name" : "At-Tariq",
+    "total_verses" : 17
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "الأعلى",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/087.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Most High",
+    "total_verses" : 19,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Ala",
+    "type" : "meccan",
+    "id" : 87
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/088.mp3",
+    "name" : "Al-Ghashiyah",
+    "id" : 88,
+    "total_verses" : 26,
+    "isDownloading" : false,
+    "arabic" : "الغاشية",
+    "translation" : "The Overwhelming",
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "The Dawn",
+    "total_verses" : 30,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 89,
+    "arabic" : "الفجر",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/089.mp3",
+    "name" : "Al-Fajr"
+  },
+  {
+    "name" : "Al-Balad",
+    "total_verses" : 20,
+    "isDownloaded" : false,
+    "arabic" : "البلد",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/090.mp3",
+    "id" : 90,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The City"
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/091.mp3",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "translation" : "The Sun",
+    "id" : 91,
+    "name" : "Ash-Shams",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 15,
+    "arabic" : "الشمس"
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/092.mp3",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "translation" : "The Night",
+    "arabic" : "الليل",
+    "name" : "Al-Lail",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "id" : 92,
+    "time_array" : [
+
+    ],
+    "total_verses" : 21
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 93,
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/093.mp3",
+    "total_verses" : 11,
+    "isDownloading" : false,
+    "name" : "Ad-Dhuha",
+    "time_array" : [
+
+    ],
+    "arabic" : "الضحى",
+    "translation" : "The Morning Hours",
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 94,
+    "translation" : "The Relief",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/094.mp3",
+    "arabic" : "الشرح",
+    "name" : "Al-Inshirah",
+    "total_verses" : 8
+  },
+  {
+    "type" : "meccan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/095.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 8,
+    "id" : 95,
+    "arabic" : "التين",
+    "translation" : "The Fig",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "At-Tin"
+  },
+  {
+    "name" : "Al-Alaq",
+    "total_verses" : 19,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "translation" : "The Clot",
+    "downloadStatus" : 0,
+    "id" : 96,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/096.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "العلق"
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "القدر",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 5,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Qadr",
+    "translation" : "The Power",
+    "type" : "meccan",
+    "id" : 97,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/097.mp3"
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 98,
+    "time_array" : [
+
+    ],
+    "total_verses" : 8,
+    "translation" : "The Clear Proof",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "البينة",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/098.mp3",
+    "name" : "Al-Bayyina",
+    "type" : "medinan"
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/099.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Earthquake",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 99,
+    "name" : "Az-Zalzala",
+    "total_verses" : 8,
+    "type" : "medinan",
+    "arabic" : "الزلزلة"
+  },
+  {
+    "name" : "Al-Adiyat",
+    "translation" : "The Courser",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "arabic" : "العاديات",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 11,
+    "isDownloaded" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/100.mp3",
+    "id" : 100
+  },
+  {
+    "translation" : "The Calamity",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/101.mp3",
+    "arabic" : "القارعة",
+    "total_verses" : 11,
+    "isDownloaded" : false,
+    "id" : 101,
+    "name" : "Al-Qaria",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloading" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "id" : 102,
+    "isDownloading" : false,
+    "arabic" : "التكاثر",
+    "name" : "At-Takathur",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/102.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 8,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "translation" : "The Rivalry in world increase"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "العصر",
+    "id" : 103,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "total_verses" : 3,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/103.mp3",
+    "name" : "Al-Asr",
+    "translation" : "The Declining Day"
+  },
+  {
+    "total_verses" : 9,
+    "id" : 104,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Al-Humaza",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/104.mp3",
+    "isDownloading" : false,
+    "arabic" : "الهمزة",
+    "translation" : "The Traducer"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 105,
+    "name" : "Al-Fil",
+    "arabic" : "الفيل",
+    "isDownloading" : false,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/105.mp3",
+    "total_verses" : 5,
+    "translation" : "The Elephant",
+    "type" : "meccan"
+  },
+  {
+    "id" : 106,
+    "translation" : "Quraysh",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/106.mp3",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "name" : "Quraysh",
+    "total_verses" : 4,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "قريش"
+  },
+  {
+    "id" : 107,
+    "type" : "meccan",
+    "translation" : "The Small kindnesses",
+    "time_array" : [
+
+    ],
+    "arabic" : "الماعون",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/107.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Al-Maun",
+    "total_verses" : 7,
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/108.mp3",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "name" : "Al-Kawthar",
+    "arabic" : "الكوثر",
+    "translation" : "The Abundance",
+    "isDownloading" : false,
+    "total_verses" : 3,
+    "id" : 108,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 109,
+    "arabic" : "الكافرون",
+    "name" : "Al-Kafirun",
+    "translation" : "The Disbelievers",
+    "total_verses" : 6,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/109.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "النصر",
+    "translation" : "The Divine Support",
+    "id" : 110,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/110.mp3",
+    "downloadStatus" : 0,
+    "name" : "An-Nasr",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "type" : "medinan"
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/111.mp3",
+    "total_verses" : 5,
+    "translation" : "The Palm Fiber",
+    "id" : 111,
+    "type" : "meccan",
+    "arabic" : "المسد",
+    "isDownloaded" : false,
+    "name" : "Al-Masad"
+  },
+  {
+    "total_verses" : 4,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "name" : "Al-Ikhlas",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/112.mp3",
+    "translation" : "The Sincerity",
+    "isDownloading" : false,
+    "arabic" : "الإخلاص",
+    "isDownloaded" : false,
+    "id" : 112,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Falaq",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Daybreak",
+    "id" : 113,
+    "arabic" : "الفلق",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 5,
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/113.mp3"
+  },
+  {
+    "id" : 114,
+    "isDownloading" : false,
+    "arabic" : "الناس",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 6,
+    "isDownloaded" : false,
+    "translation" : "Mankind",
+    "type" : "meccan",
+    "link" : "https://ia800700.us.archive.org/16/items/okasha-kamini-al-bazzi/114.mp3",
+    "name" : "Al-Nas"
+  }
+]

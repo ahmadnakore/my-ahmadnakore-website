@@ -1,0 +1,1712 @@
+[
+  {
+    "translation" : "The Opener",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Al-Fatiha",
+    "id" : 1,
+    "arabic" : "الفاتحة",
+    "total_verses" : 7,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/001.mp3",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 286,
+    "id" : 2,
+    "translation" : "The Cow",
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/002.mp3",
+    "arabic" : "البقرة",
+    "name" : "Al-Baqara"
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "آل عمران",
+    "name" : "Al Imran",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/003.mp3",
+    "total_verses" : 200,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "Family of Imran",
+    "id" : 3
+  },
+  {
+    "total_verses" : 176,
+    "id" : 4,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/004.mp3",
+    "isDownloading" : false,
+    "name" : "An-Nisa",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "The Women",
+    "type" : "medinan",
+    "arabic" : "النساء",
+    "downloadStatus" : 0
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 120,
+    "name" : "Al-Maida",
+    "downloadStatus" : 0,
+    "translation" : "The Table Spread",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "المائدة",
+    "id" : 5,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/005.mp3"
+  },
+  {
+    "total_verses" : 165,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/006.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Anam",
+    "downloadStatus" : 0,
+    "translation" : "The Cattle",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 6,
+    "time_array" : [
+
+    ],
+    "arabic" : "الأنعام"
+  },
+  {
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/007.mp3",
+    "total_verses" : 206,
+    "time_array" : [
+
+    ],
+    "translation" : "The Heights",
+    "downloadStatus" : 0,
+    "arabic" : "الأعراف",
+    "id" : 7,
+    "isDownloaded" : false,
+    "name" : "Al-Araf",
+    "isDownloading" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 75,
+    "translation" : "The Spoils of War",
+    "id" : 8,
+    "downloadStatus" : 0,
+    "name" : "Al-Anfal",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/008.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الأنفال",
+    "isDownloading" : false,
+    "type" : "medinan"
+  },
+//  {
+//    "isDownloading" : false,
+//    "type" : "medinan",
+//    "arabic" : "التوبة",
+//    "name" : "At-Tawba",
+//    "total_verses" : 129,
+//    "id" : 9,
+//    "time_array" : [
+//
+//    ],
+//    "translation" : "The Repentance",
+//    "isDownloaded" : false,
+//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/009.mp3",
+//    "downloadStatus" : 0
+//  },
+  {
+    "total_verses" : 109,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "arabic" : "يونس",
+    "downloadStatus" : 0,
+    "name" : "Yunus",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/010.mp3",
+    "isDownloaded" : false,
+    "translation" : "Jonah",
+    "id" : 10
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 123,
+    "id" : 11,
+    "arabic" : "هود",
+    "translation" : "Hud",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "name" : "Hud",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/011.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "يوسف",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/012.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Yusuf",
+    "id" : 12,
+    "total_verses" : 111,
+    "translation" : "Joseph"
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 13,
+    "time_array" : [
+
+    ],
+    "name" : "Ar-Rad",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "arabic" : "الرعد",
+    "isDownloading" : false,
+    "total_verses" : 43,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/013.mp3",
+    "translation" : "The Thunder"
+  },
+//  {
+//    "isDownloaded" : false,
+//    "total_verses" : 52,
+//    "type" : "meccan",
+//    "name" : "Ibrahim",
+//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/014.mp3",
+//    "translation" : "Abraham",
+//    "isDownloading" : false,
+//    "downloadStatus" : 0,
+//    "time_array" : [
+//
+//    ],
+//    "id" : 14,
+//    "arabic" : "ابراهيم"
+//  },
+  {
+    "id" : 15,
+    "isDownloading" : false,
+    "name" : "Al-Hijr",
+    "total_verses" : 99,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Rocky Tract",
+    "arabic" : "الحجر",
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/015.mp3"
+  },
+//  {
+//    "total_verses" : 128,
+//    "type" : "meccan",
+//    "id" : 16,
+//    "isDownloading" : false,
+//    "name" : "An-Nahl",
+//    "translation" : "The Bee",
+//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/016.mp3",
+//    "time_array" : [
+//
+//    ],
+//    "arabic" : "النحل",
+//    "downloadStatus" : 0,
+//    "isDownloaded" : false
+//  },
+//  {
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 111,
+//    "isDownloading" : false,
+//    "translation" : "The Night Journey",
+//    "isDownloaded" : false,
+//    "arabic" : "الإسراء",
+//    "downloadStatus" : 0,
+//    "name" : "Al-Isra",
+//    "id" : 17,
+//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/017.mp3",
+//    "type" : "meccan"
+//  },
+  {
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/018.mp3",
+    "arabic" : "الكهف",
+    "name" : "Al-Kahf",
+    "time_array" : [
+
+    ],
+    "total_verses" : 110,
+    "translation" : "The Cave",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 18
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Maryam",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "Mary",
+    "type" : "meccan",
+    "arabic" : "مريم",
+    "total_verses" : 98,
+    "id" : 19,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/019.mp3"
+  },
+  {
+    "total_verses" : 135,
+    "arabic" : "طه",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/020.mp3",
+    "name" : "Ta-Ha",
+    "translation" : "Ta-Ha",
+    "isDownloading" : false,
+    "id" : 20,
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/021.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 21,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "Al-Anbiya",
+    "translation" : "The Prophets",
+    "downloadStatus" : 0,
+    "total_verses" : 112,
+    "arabic" : "الأنبياء",
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Pilgrimage",
+    "isDownloaded" : false,
+    "arabic" : "الحج",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 78,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/022.mp3",
+    "id" : 22,
+    "name" : "Al-Hajj"
+  },
+//  {
+//    "total_verses" : 118,
+//    "id" : 23,
+//    "type" : "meccan",
+//    "isDownloaded" : false,
+//    "name" : "Al-Muminoon",
+//    "downloadStatus" : 0,
+//    "translation" : "The Believers",
+//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/023.mp3",
+//    "isDownloading" : false,
+//    "time_array" : [
+//
+//    ],
+//    "arabic" : "المؤمنون"
+//  },
+//  {
+//    "time_array" : [
+//
+//    ],
+//    "translation" : "The Light",
+//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/024.mp3",
+//    "id" : 24,
+//    "type" : "medinan",
+//    "total_verses" : 64,
+//    "isDownloaded" : false,
+//    "downloadStatus" : 0,
+//    "arabic" : "النور",
+//    "isDownloading" : false,
+//    "name" : "An-Nur"
+//  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/025.mp3",
+    "id" : 25,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "Al-Furqan",
+    "type" : "meccan",
+    "translation" : "The Criterion",
+    "isDownloading" : false,
+    "arabic" : "الفرقان",
+    "total_verses" : 77
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 26,
+    "name" : "Ash-Shuara",
+    "total_verses" : 227,
+    "translation" : "The Poets",
+    "isDownloaded" : false,
+    "arabic" : "الشعراء",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/026.mp3"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 93,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "An-Naml",
+    "id" : 27,
+    "type" : "meccan",
+    "arabic" : "النمل",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/027.mp3",
+    "translation" : "The Ant",
+    "isDownloaded" : false
+  },
+  {
+    "total_verses" : 88,
+    "translation" : "The Stories",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/028.mp3",
+    "arabic" : "القصص",
+    "id" : 28,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Qasas",
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Ankabut",
+    "type" : "meccan",
+    "total_verses" : 69,
+    "isDownloading" : false,
+    "arabic" : "العنكبوت",
+    "id" : 29,
+    "time_array" : [
+
+    ],
+    "translation" : "The Spider",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/029.mp3"
+  },
+  {
+    "arabic" : "الروم",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 60,
+    "translation" : "The Romans",
+    "name" : "Ar-Rum",
+    "time_array" : [
+
+    ],
+    "id" : 30,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/030.mp3"
+  },
+  {
+    "name" : "Luqman",
+    "arabic" : "لقمان",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/031.mp3",
+    "downloadStatus" : 0,
+    "id" : 31,
+    "translation" : "Luqman",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 34,
+    "isDownloading" : false,
+    "isDownloaded" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 30,
+    "type" : "meccan",
+    "id" : 32,
+    "translation" : "The Prostration",
+    "isDownloading" : false,
+    "arabic" : "السجدة",
+    "isDownloaded" : false,
+    "name" : "As-Sajda",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/032.mp3",
+    "downloadStatus" : 0
+  },
+//  {
+//    "isDownloaded" : false,
+//    "downloadStatus" : 0,
+//    "time_array" : [
+//
+//    ],
+//    "total_verses" : 73,
+//    "translation" : "The Combined Forces",
+//    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/033.mp3",
+//    "isDownloading" : false,
+//    "type" : "medinan",
+//    "arabic" : "الأحزاب",
+//    "name" : "Al-Ahzab",
+//    "id" : 33
+//  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "Sheba",
+    "arabic" : "سبإ",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 34,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/034.mp3",
+    "isDownloading" : false,
+    "total_verses" : 54,
+    "name" : "Saba",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 45,
+    "translation" : "Originator",
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/035.mp3",
+    "arabic" : "فاطر",
+    "isDownloading" : false,
+    "name" : "Fatir",
+    "id" : 35
+  },
+  {
+    "translation" : "Ya Sin",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/036.mp3",
+    "total_verses" : 83,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 36,
+    "type" : "meccan",
+    "name" : "Ya Sin",
+    "arabic" : "يس"
+  },
+  {
+    "id" : 37,
+    "total_verses" : 182,
+    "isDownloaded" : false,
+    "arabic" : "الصافات",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/037.mp3",
+    "isDownloading" : false,
+    "name" : "As-Saaffat",
+    "type" : "meccan",
+    "translation" : "Those who set the Ranks"
+  },
+  {
+    "type" : "meccan",
+    "arabic" : "ص",
+    "isDownloaded" : false,
+    "name" : "Sad",
+    "time_array" : [
+
+    ],
+    "translation" : "The Letter Saad",
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/038.mp3",
+    "total_verses" : 88,
+    "isDownloading" : false,
+    "id" : 38
+  },
+  {
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/039.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 75,
+    "arabic" : "الزمر",
+    "id" : 39,
+    "isDownloaded" : false,
+    "name" : "Az-Zumar",
+    "time_array" : [
+
+    ],
+    "translation" : "The Troops"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/040.mp3",
+    "time_array" : [
+
+    ],
+    "id" : 40,
+    "arabic" : "غافر",
+    "total_verses" : 85,
+    "isDownloaded" : false,
+    "name" : "Ghafir",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Forgiver",
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "Explained in Detail",
+    "arabic" : "فصلت",
+    "type" : "meccan",
+    "total_verses" : 54,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Fussilat",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/041.mp3",
+    "id" : 41
+  },
+  {
+    "total_verses" : 53,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/042.mp3",
+    "isDownloading" : false,
+    "id" : 42,
+    "time_array" : [
+
+    ],
+    "translation" : "The Consultation",
+    "arabic" : "الشورى",
+    "name" : "Ash-Shura"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "arabic" : "الزخرف",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/043.mp3",
+    "translation" : "The Ornaments of Gold",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "total_verses" : 89,
+    "name" : "Az-Zukhruf",
+    "downloadStatus" : 0,
+    "id" : 43,
+    "isDownloading" : false
+  },
+  {
+    "id" : 44,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/044.mp3",
+    "arabic" : "الدخان",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 59,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "name" : "Ad-Dukhan",
+    "downloadStatus" : 0,
+    "translation" : "The Smoke"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Crouching",
+    "type" : "meccan",
+    "arabic" : "الجاثية",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/045.mp3",
+    "id" : 45,
+    "total_verses" : 37,
+    "name" : "Al-Jathiya"
+  },
+  {
+    "total_verses" : 35,
+    "downloadStatus" : 0,
+    "translation" : "The Wind-Curved Sandhills",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/046.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "arabic" : "الأحقاف",
+    "id" : 46,
+    "name" : "Al-Ahqaf",
+    "isDownloading" : false
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 47,
+    "name" : "Muhammad",
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "arabic" : "محمد",
+    "translation" : "Muhammad",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/047.mp3",
+    "total_verses" : 38,
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "id" : 48,
+    "name" : "Al-Fath",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 29,
+    "translation" : "The Victory",
+    "type" : "medinan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/048.mp3",
+    "arabic" : "الفتح"
+  },
+  {
+    "total_verses" : 18,
+    "downloadStatus" : 0,
+    "id" : 49,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Al-Hujurat",
+    "time_array" : [
+
+    ],
+    "arabic" : "الحجرات",
+    "translation" : "The Rooms",
+    "type" : "medinan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/049.mp3"
+  },
+  {
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "arabic" : "ق",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/050.mp3",
+    "downloadStatus" : 0,
+    "name" : "Qaf",
+    "total_verses" : 45,
+    "isDownloading" : false,
+    "translation" : "The Letter Qaf",
+    "id" : 50,
+    "isDownloaded" : false
+  },
+  {
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Winnowing Winds",
+    "isDownloading" : false,
+    "name" : "Adh-Dhariyat",
+    "downloadStatus" : 0,
+    "id" : 51,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/051.mp3",
+    "arabic" : "الذاريات",
+    "isDownloaded" : false,
+    "total_verses" : 60
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/052.mp3",
+    "arabic" : "الطور",
+    "id" : 52,
+    "name" : "At-Tur",
+    "time_array" : [
+
+    ],
+    "total_verses" : 49,
+    "type" : "meccan",
+    "translation" : "The Mount",
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "النجم",
+    "isDownloaded" : false,
+    "total_verses" : 62,
+    "id" : 53,
+    "type" : "meccan",
+    "translation" : "The Star",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/053.mp3",
+    "name" : "An-Najm",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 54,
+    "time_array" : [
+
+    ],
+    "translation" : "The Moon",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/054.mp3",
+    "arabic" : "القمر",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Al-Qamar",
+    "total_verses" : 55,
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 78,
+    "id" : 55,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/055.mp3",
+    "arabic" : "الرحمن",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Ar-Rahman",
+    "translation" : "The Beneficent",
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 96,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/056.mp3",
+    "arabic" : "الواقعة",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 56,
+    "translation" : "The Inevitable",
+    "type" : "meccan",
+    "name" : "Al-Waqia"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/057.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الحديد",
+    "total_verses" : 29,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "translation" : "The Iron",
+    "type" : "medinan",
+    "id" : 57,
+    "name" : "Al-Hadid"
+  },
+  {
+    "type" : "medinan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/058.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 22,
+    "id" : 58,
+    "name" : "Al-Mujadila",
+    "translation" : "The Pleading Woman",
+    "arabic" : "المجادلة"
+  },
+  {
+    "type" : "medinan",
+    "id" : 59,
+    "arabic" : "الحشر",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 24,
+    "translation" : "The Exile",
+    "name" : "Al-Hashr",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/059.mp3"
+  },
+  {
+    "id" : 60,
+    "isDownloading" : false,
+    "type" : "medinan",
+    "name" : "Al-Mumtahina",
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/060.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 13,
+    "translation" : "She that is to be examined",
+    "arabic" : "الممتحنة"
+  },
+  {
+    "name" : "As-Saff",
+    "id" : 61,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/061.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الصف",
+    "translation" : "The Ranks",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "type" : "medinan",
+    "total_verses" : 14,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "The Congregation, Friday",
+    "isDownloading" : false,
+    "total_verses" : 11,
+    "isDownloaded" : false,
+    "arabic" : "الجمعة",
+    "id" : 62,
+    "type" : "medinan",
+    "name" : "Al-Jumua",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/062.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "medinan",
+    "arabic" : "المنافقون",
+    "id" : 63,
+    "total_verses" : 11,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Munafiqun",
+    "translation" : "The Hypocrites",
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/063.mp3"
+  },
+  {
+    "type" : "medinan",
+    "arabic" : "التغابن",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "At-Taghabun",
+    "total_verses" : 18,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/064.mp3",
+    "downloadStatus" : 0,
+    "translation" : "The Mutual Disillusion",
+    "isDownloading" : false,
+    "id" : 64
+  },
+  {
+    "arabic" : "الطلاق",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 12,
+    "id" : 65,
+    "name" : "At-Talaq",
+    "translation" : "The Divorce",
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/065.mp3",
+    "type" : "medinan"
+  },
+  {
+    "isDownloading" : false,
+    "name" : "At-Tahrim",
+    "time_array" : [
+
+    ],
+    "translation" : "The Prohibition",
+    "type" : "medinan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/066.mp3",
+    "isDownloaded" : false,
+    "total_verses" : 12,
+    "downloadStatus" : 0,
+    "arabic" : "التحريم",
+    "id" : 66
+  },
+  {
+    "arabic" : "الملك",
+    "isDownloading" : false,
+    "translation" : "The Sovereignty",
+    "id" : 67,
+    "type" : "meccan",
+    "total_verses" : 30,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Mulk",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/067.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/068.mp3",
+    "id" : 68,
+    "isDownloading" : false,
+    "name" : "Al-Qalam",
+    "downloadStatus" : 0,
+    "translation" : "The Pen",
+    "arabic" : "القلم",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 52
+  },
+  {
+    "translation" : "The Reality",
+    "isDownloading" : false,
+    "id" : 69,
+    "total_verses" : 52,
+    "name" : "Al-Haaqqa",
+    "type" : "meccan",
+    "arabic" : "الحاقة",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/069.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Al-Maarij",
+    "id" : 70,
+    "arabic" : "المعارج",
+    "time_array" : [
+
+    ],
+    "translation" : "The Ascending Stairways",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/070.mp3",
+    "total_verses" : 44,
+    "type" : "meccan",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Nuh",
+    "total_verses" : 28,
+    "time_array" : [
+
+    ],
+    "translation" : "Noah",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 71,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/071.mp3",
+    "arabic" : "نوح"
+  },
+  {
+    "arabic" : "الجن",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 72,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/072.mp3",
+    "name" : "Al-Jinn",
+    "translation" : "The Jinn",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 28
+  },
+  {
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/073.mp3",
+    "downloadStatus" : 0,
+    "name" : "Al-Muzzammil",
+    "arabic" : "المزمل",
+    "translation" : "The Enshrouded One",
+    "time_array" : [
+
+    ],
+    "id" : 73,
+    "isDownloaded" : false,
+    "total_verses" : 20
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 74,
+    "arabic" : "المدثر",
+    "translation" : "The Cloaked One",
+    "isDownloaded" : false,
+    "total_verses" : 56,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/074.mp3",
+    "name" : "Al-Muddathir"
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 40,
+    "id" : 75,
+    "arabic" : "القيامة",
+    "name" : "Al-Qiyama",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/075.mp3",
+    "translation" : "The Resurrection",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "id" : 76,
+    "name" : "Al-Insan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 31,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/076.mp3",
+    "arabic" : "الانسان",
+    "downloadStatus" : 0,
+    "translation" : "The Man"
+  },
+  {
+    "arabic" : "المرسلات",
+    "total_verses" : 50,
+    "type" : "meccan",
+    "translation" : "The Emissaries",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/077.mp3",
+    "name" : "Al-Mursalat",
+    "id" : 77,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 40,
+    "translation" : "The Tidings",
+    "type" : "meccan",
+    "arabic" : "النبإ",
+    "isDownloaded" : false,
+    "name" : "An-Naba",
+    "id" : 78,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/078.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "total_verses" : 46,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/079.mp3",
+    "isDownloading" : false,
+    "translation" : "Those who drag forth",
+    "id" : 79,
+    "isDownloaded" : false,
+    "name" : "An-Naziat",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "النازعات"
+  },
+  {
+    "id" : 80,
+    "time_array" : [
+
+    ],
+    "translation" : "He Frowned",
+    "isDownloading" : false,
+    "name" : "Abasa",
+    "total_verses" : 42,
+    "arabic" : "عبس",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/080.mp3",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloading" : false,
+    "id" : 81,
+    "name" : "At-Takwir",
+    "arabic" : "التكوير",
+    "translation" : "The Overthrowing",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/081.mp3",
+    "total_verses" : 29,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "The Cleaving",
+    "total_verses" : 19,
+    "arabic" : "الإنفطار",
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/082.mp3",
+    "isDownloaded" : false,
+    "name" : "Al-Infitar",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 82,
+    "isDownloading" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "المطففين",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/083.mp3",
+    "total_verses" : 36,
+    "name" : "Al-Mutaffifin",
+    "translation" : "The Defrauding",
+    "id" : 83,
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Inshiqaq",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Sundering",
+    "total_verses" : 25,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/084.mp3",
+    "id" : 84,
+    "arabic" : "الإنشقاق",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Al-Burooj",
+    "time_array" : [
+
+    ],
+    "translation" : "The Mansions of the Stars",
+    "type" : "meccan",
+    "id" : 85,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/085.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 22,
+    "arabic" : "البروج"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/086.mp3",
+    "id" : 86,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "At-Tariq",
+    "total_verses" : 17,
+    "translation" : "The Nightcommer",
+    "type" : "meccan",
+    "arabic" : "الطارق",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Ala",
+    "translation" : "The Most High",
+    "type" : "meccan",
+    "arabic" : "الأعلى",
+    "id" : 87,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/087.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 19,
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Al-Ghashiyah",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 26,
+    "isDownloading" : false,
+    "arabic" : "الغاشية",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "translation" : "The Overwhelming",
+    "id" : 88,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/088.mp3"
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/089.mp3",
+    "isDownloaded" : false,
+    "id" : 89,
+    "translation" : "The Dawn",
+    "type" : "meccan",
+    "arabic" : "الفجر",
+    "name" : "Al-Fajr",
+    "isDownloading" : false,
+    "total_verses" : 30
+  },
+  {
+    "arabic" : "البلد",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/090.mp3",
+    "isDownloading" : false,
+    "id" : 90,
+    "total_verses" : 20,
+    "isDownloaded" : false,
+    "name" : "Al-Balad",
+    "time_array" : [
+
+    ],
+    "translation" : "The City",
+    "type" : "meccan",
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "الشمس",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 91,
+    "name" : "Ash-Shams",
+    "time_array" : [
+
+    ],
+    "translation" : "The Sun",
+    "total_verses" : 15,
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/091.mp3",
+    "isDownloading" : false
+  },
+  {
+    "translation" : "The Night",
+    "isDownloaded" : false,
+    "id" : 92,
+    "name" : "Al-Lail",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/092.mp3",
+    "arabic" : "الليل",
+    "time_array" : [
+
+    ],
+    "total_verses" : 21
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/093.mp3",
+    "arabic" : "الضحى",
+    "downloadStatus" : 0,
+    "id" : 93,
+    "total_verses" : 11,
+    "translation" : "The Morning Hours",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "name" : "Ad-Dhuha"
+  },
+  {
+    "translation" : "The Relief",
+    "name" : "Al-Inshirah",
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/094.mp3",
+    "total_verses" : 8,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "arabic" : "الشرح",
+    "downloadStatus" : 0,
+    "id" : 94,
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 8,
+    "translation" : "The Fig",
+    "type" : "meccan",
+    "arabic" : "التين",
+    "name" : "At-Tin",
+    "id" : 95,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/095.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/096.mp3",
+    "arabic" : "العلق",
+    "id" : 96,
+    "isDownloaded" : false,
+    "translation" : "The Clot",
+    "type" : "meccan",
+    "total_verses" : 19,
+    "isDownloading" : false,
+    "name" : "Al-Alaq"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/097.mp3",
+    "total_verses" : 5,
+    "translation" : "The Power",
+    "type" : "meccan",
+    "name" : "Al-Qadr",
+    "isDownloaded" : false,
+    "arabic" : "القدر",
+    "id" : 97,
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "type" : "medinan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/098.mp3",
+    "arabic" : "البينة",
+    "translation" : "The Clear Proof",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 98,
+    "total_verses" : 8,
+    "name" : "Al-Bayyina",
+    "isDownloading" : false
+  },
+  {
+    "name" : "Az-Zalzala",
+    "arabic" : "الزلزلة",
+    "translation" : "The Earthquake",
+    "isDownloaded" : false,
+    "id" : 99,
+    "time_array" : [
+
+    ],
+    "total_verses" : 8,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/099.mp3",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "العاديات",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/100.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "id" : 100,
+    "total_verses" : 11,
+    "downloadStatus" : 0,
+    "name" : "Al-Adiyat",
+    "translation" : "The Courser"
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Al-Qaria",
+    "total_verses" : 11,
+    "isDownloaded" : false,
+    "translation" : "The Calamity",
+    "isDownloading" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/101.mp3",
+    "arabic" : "القارعة",
+    "id" : 101
+  },
+  {
+    "time_array" : [
+
+    ],
+    "id" : 102,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "التكاثر",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/102.mp3",
+    "total_verses" : 8,
+    "type" : "meccan",
+    "name" : "At-Takathur",
+    "translation" : "The Rivalry in world increase",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "translation" : "The Declining Day",
+    "name" : "Al-Asr",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/103.mp3",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "isDownloading" : false,
+    "id" : 103,
+    "arabic" : "العصر",
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Al-Humaza",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 9,
+    "translation" : "The Traducer",
+    "arabic" : "الهمزة",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/104.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 104,
+    "downloadStatus" : 0
+  },
+  {
+    "name" : "Al-Fil",
+    "downloadStatus" : 0,
+    "arabic" : "الفيل",
+    "total_verses" : 5,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/105.mp3",
+    "id" : 105,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "The Elephant",
+    "isDownloading" : false,
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "قريش",
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/106.mp3",
+    "downloadStatus" : 0,
+    "id" : 106,
+    "isDownloading" : false,
+    "translation" : "Quraysh",
+    "name" : "Quraysh",
+    "time_array" : [
+
+    ],
+    "total_verses" : 4
+  },
+  {
+    "total_verses" : 7,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/107.mp3",
+    "isDownloading" : false,
+    "id" : 107,
+    "isDownloaded" : false,
+    "arabic" : "الماعون",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The Small kindnesses",
+    "type" : "meccan",
+    "name" : "Al-Maun"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "name" : "Al-Kawthar",
+    "type" : "meccan",
+    "arabic" : "الكوثر",
+    "downloadStatus" : 0,
+    "id" : 108,
+    "isDownloading" : false,
+    "translation" : "The Abundance",
+    "isDownloaded" : false,
+    "total_verses" : 3,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/108.mp3"
+  },
+  {
+    "translation" : "The Disbelievers",
+    "total_verses" : 6,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/109.mp3",
+    "id" : 109,
+    "arabic" : "الكافرون",
+    "name" : "Al-Kafirun",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/110.mp3",
+    "total_verses" : 3,
+    "translation" : "The Divine Support",
+    "name" : "An-Nasr",
+    "isDownloaded" : false,
+    "arabic" : "النصر",
+    "id" : 110,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "medinan"
+  },
+  {
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/111.mp3",
+    "arabic" : "المسد",
+    "id" : 111,
+    "total_verses" : 5,
+    "type" : "meccan",
+    "translation" : "The Palm Fiber",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Masad"
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Al-Ikhlas",
+    "isDownloaded" : false,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/112.mp3",
+    "total_verses" : 4,
+    "arabic" : "الإخلاص",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 112,
+    "translation" : "The Sincerity"
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 5,
+    "name" : "Al-Falaq",
+    "translation" : "The Daybreak",
+    "id" : 113,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/113.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "الفلق"
+  },
+  {
+    "total_verses" : 6,
+    "downloadStatus" : 0,
+    "arabic" : "الناس",
+    "name" : "Al-Nas",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://cdn.mp3quran.net/audio/ahmad-humaid/r1/114.mp3",
+    "translation" : "Mankind",
+    "id" : 114,
+    "isDownloading" : false
+  }
+]
