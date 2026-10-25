@@ -719,21 +719,6 @@
     "downloadStatus" : 0,
     "id" : 76
   },
-//  {
-//    "id" : 77,
-//    "translation" : "The Emissaries",
-//    "link" : "https://archive.org/download/Waleed-Al-Shamsan/077.mp3",
-//    "isDownloading" : false,
-//    "arabic" : "المرسلات",
-//    "name" : "Al-Mursalat",
-//    "time_array" : [
-//
-//    ],
-//    "total_verses" : 50,
-//    "downloadStatus" : 0,
-//    "type" : "meccan",
-//    "isDownloaded" : false
-//  },
   {
     "arabic" : "النبإ",
     "total_verses" : 40,
