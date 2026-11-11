@@ -1,0 +1,122 @@
+[
+  {
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/Nasiru%20GWANDU/Q002%20Baqarah%20-%20Qaari%20Nasiru%20Gwandu%20%20-%20www.dawahnigeria.com.mp3",
+    "translation" : "The Cow",
+    "type" : "medinan",
+    "id" : 2,
+    "name" : "Al-Baqara",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "البقرة",
+    "time_array" : [
+
+    ],
+    "total_verses" : 286
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Nasiru%20GWANDU/Q003%20Al-Imran%20-%20Qaari%20Nasiru%20Gwandu%20%20-%20www.dawahnigeria.com.mp3",
+    "id" : 3,
+    "isDownloaded" : false,
+    "translation" : "Family of Imran",
+    "type" : "medinan",
+    "total_verses" : 200,
+    "name" : "Al Imran",
+    "isDownloading" : false,
+    "arabic" : "آل عمران",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "medinan",
+    "arabic" : "النساء",
+    "downloadStatus" : 0,
+    "id" : 4,
+    "link" : "https://media.dawahnigeria.com/dnquran/Nasiru%20GWANDU/Q004%20An-Nisa%20-%20Qaari%20Nasiru%20Gwandu%20%20-%20www.dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "name" : "An-Nisa",
+    "time_array" : [
+
+    ],
+    "total_verses" : 176,
+    "isDownloaded" : false,
+    "translation" : "The Women"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Nasiru%20GWANDU/Q005%20Al-Maidah%20-%20Qaari%20Nasiru%20Gwandu%20%20-%20www.dawahnigeria.com.mp3",
+    "id" : 5,
+    "name" : "Al-Maida",
+    "total_verses" : 120,
+    "translation" : "The Table Spread",
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "المائدة",
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 165,
+    "translation" : "The Cattle",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Anam",
+    "link" : "https://media.dawahnigeria.com/dnquran/Nasiru%20GWANDU/Q006%20Al-Anam%20-%20Qaari%20Nasiru%20Gwandu%20%20-%20www.dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "الأنعام",
+    "id" : 6,
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 111,
+    "arabic" : "يوسف",
+    "link" : "https://media.dawahnigeria.com/dnquran/Nasiru%20GWANDU/Q007%20Yusuf%20-%20Qaari%20Nasiru%20Gwandu%20%20-%20www.dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Yusuf",
+    "translation" : "Joseph",
+    "id" : 12,
+    "type" : "meccan"
+  },
+  {
+    "type" : "medinan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Nasiru%20GWANDU/Q013%20Rad%20-%20Qaari%20Nasiru%20Gwandu%20%20-%20www.dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 13,
+    "arabic" : "الرعد",
+    "isDownloading" : false,
+    "name" : "Ar-Rad",
+    "translation" : "The Thunder",
+    "total_verses" : 43
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "translation" : "Abraham",
+    "name" : "Ibrahim",
+    "time_array" : [
+
+    ],
+    "total_verses" : 52,
+    "id" : 14,
+    "link" : "https://media.dawahnigeria.com/dnquran/Nasiru%20GWANDU/Q014%20Ibrahim%20-%20Qaari%20Nasiru%20Gwandu%20%20-%20www.dawahnigeria.com.mp3",
+    "arabic" : "ابراهيم",
+    "isDownloaded" : false
+  }
+]

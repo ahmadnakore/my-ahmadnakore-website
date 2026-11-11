@@ -1,0 +1,557 @@
+[
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "name" : "An-Naba",
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q078%20Nabai-%20dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "النبإ",
+    "total_verses" : 40,
+    "translation" : "The Tidings",
+    "id" : 78,
+    "isDownloaded" : false,
+    "type" : "meccan"
+  },
+  {
+    "total_verses" : 46,
+    "isDownloading" : false,
+    "arabic" : "النازعات",
+    "name" : "An-Naziat",
+    "translation" : "Those who drag forth",
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q079%20Nazi'ah-%20dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 79
+  },
+  {
+    "id" : 80,
+    "total_verses" : 42,
+    "name" : "Abasa",
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q080%20Abasa-%20dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "arabic" : "عبس",
+    "isDownloaded" : false,
+    "translation" : "He Frowned",
+    "isDownloading" : false,
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "name" : "At-Takwir",
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q081%20Takweer-%20dawahnigeria.com.mp3",
+    "total_verses" : 29,
+    "type" : "meccan",
+    "arabic" : "التكوير",
+    "translation" : "The Overthrowing",
+    "id" : 81,
+    "isDownloading" : false,
+    "isDownloaded" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/QO82%20Infitaar-%20dawahnigeria.com.mp3",
+    "arabic" : "الإنفطار",
+    "total_verses" : 19,
+    "downloadStatus" : 0,
+    "id" : 82,
+    "isDownloaded" : false,
+    "name" : "Al-Infitar",
+    "translation" : "The Cleaving"
+  },
+  {
+    "translation" : "The Defrauding",
+    "type" : "meccan",
+    "total_verses" : 36,
+    "downloadStatus" : 0,
+    "arabic" : "المطففين",
+    "id" : 83,
+    "name" : "Al-Mutaffifin",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q083%20Mutaffifeen-%20dawahnigeria.com.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "الإنشقاق",
+    "total_verses" : 25,
+    "name" : "Al-Inshiqaq",
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q084%20Inshiqaaq-%20dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Sundering",
+    "type" : "meccan",
+    "id" : 84
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q085%20Burooj-%20dawahnigeria.com.mp3",
+    "total_verses" : 22,
+    "time_array" : [
+
+    ],
+    "id" : 85,
+    "translation" : "The Mansions of the Stars",
+    "name" : "Al-Burooj",
+    "arabic" : "البروج"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "الطارق",
+    "id" : 86,
+    "time_array" : [
+
+    ],
+    "translation" : "The Nightcommer",
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q086%20Taariq-%20dawahnigeria.com.mp3",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "name" : "At-Tariq",
+    "isDownloaded" : false,
+    "total_verses" : 17
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q087%20A'la-%20dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "الأعلى",
+    "id" : 87,
+    "total_verses" : 19,
+    "name" : "Al-Ala",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "translation" : "The Most High",
+    "isDownloaded" : false
+  },
+  {
+    "name" : "Al-Ghashiyah",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 26,
+    "arabic" : "الغاشية",
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q088-Gashiya-%20dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "translation" : "The Overwhelming",
+    "id" : 88
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "total_verses" : 30,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q89%20fajr-%20dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "arabic" : "الفجر",
+    "name" : "Al-Fajr",
+    "id" : 89,
+    "translation" : "The Dawn",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "arabic" : "البلد",
+    "id" : 90,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q90%20balad-%20dawahnigeria.com.mp3",
+    "name" : "Al-Balad",
+    "total_verses" : 20,
+    "translation" : "The City",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 15,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q91%20shams-%20dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "id" : 91,
+    "translation" : "The Sun",
+    "downloadStatus" : 0,
+    "arabic" : "الشمس",
+    "type" : "meccan",
+    "name" : "Ash-Shams"
+  },
+  {
+    "arabic" : "الليل",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q92%20layl-%20dawahnigeria.com.mp3",
+    "id" : 92,
+    "name" : "Al-Lail",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 21,
+    "isDownloading" : false,
+    "translation" : "The Night"
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 11,
+    "translation" : "The Morning Hours",
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q93%20duha-%20dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "الضحى",
+    "id" : 93,
+    "downloadStatus" : 0,
+    "name" : "Ad-Dhuha",
+    "isDownloading" : false
+  },
+  {
+    "isDownloading" : false,
+    "id" : 94,
+    "name" : "Al-Inshirah",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Relief",
+    "arabic" : "الشرح",
+    "total_verses" : 8,
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q94%20Sharh%20-%20www.dawahnigeria.mp3",
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q95%20tinn-%20dawahnigeria.com.mp3",
+    "translation" : "The Fig",
+    "id" : 95,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "At-Tin",
+    "time_array" : [
+
+    ],
+    "arabic" : "التين",
+    "isDownloaded" : false,
+    "total_verses" : 8
+  },
+  {
+    "translation" : "The Clot",
+    "total_verses" : 19,
+    "downloadStatus" : 0,
+    "arabic" : "العلق",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q96%20iqra-%20dawahnigeria.com.mp3",
+    "name" : "Al-Alaq",
+    "id" : 96,
+    "type" : "meccan",
+    "isDownloading" : false
+  },
+  {
+    "isDownloaded" : false,
+    "arabic" : "القدر",
+    "total_verses" : 5,
+    "time_array" : [
+
+    ],
+    "translation" : "The Power",
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q97%20qadr-%20dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "id" : 97,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "name" : "Al-Qadr"
+  },
+  {
+    "isDownloading" : false,
+    "id" : 98,
+    "total_verses" : 8,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Al-Bayyina",
+    "translation" : "The Clear Proof",
+    "type" : "medinan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q98%20bayyinah-%20dawahnigeria.com.mp3",
+    "arabic" : "البينة",
+    "isDownloaded" : false
+  },
+  {
+    "translation" : "The Earthquake",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "total_verses" : 8,
+    "downloadStatus" : 0,
+    "arabic" : "الزلزلة",
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q099%20zilzilah-%20dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "id" : 99,
+    "name" : "Az-Zalzala",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Al-Adiyat",
+    "time_array" : [
+
+    ],
+    "translation" : "The Courser",
+    "total_verses" : 11,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "arabic" : "العاديات",
+    "id" : 100,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q100%20'adiyah%20-%20dawahnigeria.com.mp3"
+  },
+  {
+    "total_verses" : 11,
+    "arabic" : "القارعة",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q101%20qori'a-%20dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Al-Qaria",
+    "id" : 101,
+    "translation" : "The Calamity"
+  },
+  {
+    "type" : "meccan",
+    "name" : "At-Takathur",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "total_verses" : 8,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 102,
+    "arabic" : "التكاثر",
+    "translation" : "The Rivalry in world increase",
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q102%20takathur-%20dawahnigeria.com.mp3"
+  },
+  {
+    "total_verses" : 3,
+    "type" : "meccan",
+    "id" : 103,
+    "name" : "Al-Asr",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q103%20asr-%20dawahnigeria.com.mp3",
+    "arabic" : "العصر",
+    "isDownloading" : false,
+    "translation" : "The Declining Day",
+    "downloadStatus" : 0
+  },
+  {
+    "translation" : "The Traducer",
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q104%20humazah-%20dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "الهمزة",
+    "id" : 104,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Al-Humaza",
+    "total_verses" : 9
+  },
+  {
+    "total_verses" : 5,
+    "arabic" : "الفيل",
+    "id" : 105,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q105%20fil-%20dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "name" : "Al-Fil",
+    "translation" : "The Elephant"
+  },
+  {
+    "id" : 106,
+    "translation" : "Quraysh",
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q106%20quraish-%20dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Quraysh",
+    "arabic" : "قريش",
+    "total_verses" : 4
+  },
+  {
+    "name" : "Al-Maun",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Small kindnesses",
+    "id" : 107,
+    "arabic" : "الماعون",
+    "total_verses" : 7,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q107%20maun-%20dawahnigeria.com.mp3",
+    "type" : "meccan"
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الكوثر",
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "type" : "meccan",
+    "translation" : "The Abundance",
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q108%20kawthar-%20dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "name" : "Al-Kawthar",
+    "id" : 108
+  },
+  {
+    "downloadStatus" : 0,
+    "total_verses" : 6,
+    "id" : 109,
+    "name" : "Al-Kafirun",
+    "arabic" : "الكافرون",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Disbelievers",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q109%20kafiroon-%20dawahnigeria.com.mp3"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q110%20nasr-%20dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 110,
+    "arabic" : "النصر",
+    "total_verses" : 3,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Divine Support",
+    "isDownloaded" : false,
+    "name" : "An-Nasr"
+  },
+  {
+    "isDownloading" : false,
+    "id" : 111,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q111%20masad-%20dawahnigeria.com.mp3",
+    "translation" : "The Palm Fiber",
+    "type" : "meccan",
+    "arabic" : "المسد",
+    "total_verses" : 5,
+    "isDownloaded" : false,
+    "name" : "Al-Masad"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q112%20ikhlas-%20dawahnigeria.com.mp3",
+    "total_verses" : 4,
+    "id" : 112,
+    "time_array" : [
+
+    ],
+    "arabic" : "الإخلاص",
+    "translation" : "The Sincerity",
+    "name" : "Al-Ikhlas",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 113,
+    "total_verses" : 5,
+    "type" : "meccan",
+    "name" : "Al-Falaq",
+    "translation" : "The Daybreak",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q113%20falaq-%20dawahnigeria.com.mp3",
+    "arabic" : "الفلق"
+  },
+  {
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "Mankind",
+    "name" : "Al-Nas",
+    "total_verses" : 6,
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Dr%20Abdur-Razaq%20Alaro%20(Yoruba%20translation)/Q114%20nas-%20dawahnigeria.com.mp3",
+    "arabic" : "الناس",
+    "id" : 114
+  }
+]

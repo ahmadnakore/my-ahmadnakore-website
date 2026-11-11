@@ -1,0 +1,1682 @@
+[
+  {
+    "arabic" : "الفاتحة",
+    "type" : "meccan",
+    "total_verses" : 7,
+    "isDownloaded" : false,
+    "name" : "Al-Fatiha",
+    "isDownloading" : false,
+    "id" : 1,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/001%20Fatihah_dawahnigeria.com.mp3",
+    "translation" : "The Opener"
+  },
+  {
+    "isDownloading" : false,
+    "type" : "medinan",
+    "arabic" : "البقرة",
+    "id" : 2,
+    "name" : "Al-Baqara",
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/02%20Baqarah%20-%20dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "total_verses" : 286,
+    "translation" : "The Cow",
+    "isDownloaded" : false
+  },
+  {
+    "translation" : "Family of Imran",
+    "type" : "medinan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/003%20Ali-Imran_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 3,
+    "isDownloaded" : false,
+    "arabic" : "آل عمران",
+    "name" : "Al Imran",
+    "time_array" : [
+
+    ],
+    "total_verses" : 200
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "An-Nisa",
+    "arabic" : "النساء",
+    "total_verses" : 176,
+    "translation" : "The Women",
+    "id" : 4,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/004%20Nisa_dawahnigeria.com.mp3"
+  },
+  {
+    "arabic" : "المائدة",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Maida",
+    "translation" : "The Table Spread",
+    "total_verses" : 120,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/005%20Ma'idah_dawahnigeria.com.mp3",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 5
+  },
+  {
+    "translation" : "The Cattle",
+    "arabic" : "الأنعام",
+    "id" : 6,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Anam",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/06%20An%27am%20-%20dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 165,
+    "type" : "meccan",
+    "downloadStatus" : 0
+  },
+  {
+    "type" : "meccan",
+    "id" : 7,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Heights",
+    "isDownloading" : false,
+    "arabic" : "الأعراف",
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/007%20A'raf_dawahnigeria.com.mp3",
+    "name" : "Al-Araf",
+    "total_verses" : 206
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/008%20Anfaal_dawahnigeria.com.mp3",
+    "id" : 8,
+    "translation" : "The Spoils of War",
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "arabic" : "الأنفال",
+    "downloadStatus" : 0,
+    "name" : "Al-Anfal",
+    "total_verses" : 75,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "At-Tawba",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/009%20Tawbah_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 9,
+    "isDownloading" : false,
+    "total_verses" : 129,
+    "arabic" : "التوبة",
+    "translation" : "The Repentance",
+    "type" : "medinan"
+  },
+  {
+    "arabic" : "يونس",
+    "isDownloading" : false,
+    "id" : 10,
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/010%20Yunus_dawahnigeria.com.mp3",
+    "name" : "Yunus",
+    "translation" : "Jonah",
+    "type" : "meccan",
+    "total_verses" : 109,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Hud",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "هود",
+    "total_verses" : 123,
+    "type" : "meccan",
+    "id" : 11,
+    "translation" : "Hud",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/011Hud_dawahnigeria.com.mp3"
+  },
+  {
+    "total_verses" : 111,
+    "id" : 12,
+    "type" : "meccan",
+    "arabic" : "يوسف",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/012%20Yusuf_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "name" : "Yusuf",
+    "time_array" : [
+
+    ],
+    "translation" : "Joseph"
+  },
+  {
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/013%20Ra'd_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "الرعد",
+    "id" : 13,
+    "name" : "Ar-Rad",
+    "total_verses" : 43,
+    "translation" : "The Thunder",
+    "isDownloading" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/014%20Ibrahim_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "ابراهيم",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "translation" : "Abraham",
+    "total_verses" : 52,
+    "name" : "Ibrahim",
+    "id" : 14
+  },
+  {
+    "downloadStatus" : 0,
+    "total_verses" : 99,
+    "type" : "meccan",
+    "id" : 15,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/015%20Hijr_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Rocky Tract",
+    "arabic" : "الحجر",
+    "name" : "Al-Hijr"
+  },
+  {
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/016%20Nahl_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "The Bee",
+    "id" : 16,
+    "isDownloading" : false,
+    "name" : "An-Nahl",
+    "downloadStatus" : 0,
+    "arabic" : "النحل",
+    "total_verses" : 128
+  },
+  {
+    "name" : "Al-Isra",
+    "isDownloaded" : false,
+    "translation" : "The Night Journey",
+    "total_verses" : 111,
+    "type" : "meccan",
+    "id" : 17,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "arabic" : "الإسراء",
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/017%20Israi_dawahnigeria.com.mp3"
+  },
+  {
+    "id" : 18,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/018%20Kahf_dawahnigeria.com.mp3",
+    "name" : "Al-Kahf",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 110,
+    "time_array" : [
+
+    ],
+    "translation" : "The Cave",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "الكهف"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/019%20Maryam_dawahnigeria.com.mp3",
+    "name" : "Maryam",
+    "id" : 19,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 98,
+    "arabic" : "مريم",
+    "translation" : "Mary",
+    "isDownloaded" : false
+  },
+  {
+    "id" : 20,
+    "arabic" : "طه",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 135,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/020%20Ta%20ha_dawahnigeria.com.mp3",
+    "translation" : "Ta-Ha",
+    "type" : "meccan",
+    "name" : "Ta-Ha"
+  },
+  {
+    "translation" : "The Prophets",
+    "downloadStatus" : 0,
+    "id" : 21,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Al-Anbiya",
+    "arabic" : "الأنبياء",
+    "total_verses" : 112,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/021%20Ambiyai_dawahnigeria.com.mp3"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/022%20Hajji_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "arabic" : "الحج",
+    "name" : "Al-Hajj",
+    "downloadStatus" : 0,
+    "total_verses" : 78,
+    "translation" : "The Pilgrimage",
+    "id" : 22,
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "المؤمنون",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Believers",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/023%20Muminun_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "id" : 23,
+    "downloadStatus" : 0,
+    "total_verses" : 118,
+    "name" : "Al-Muminoon"
+  },
+  {
+    "name" : "An-Nur",
+    "isDownloading" : false,
+    "total_verses" : 64,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "النور",
+    "translation" : "The Light",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "id" : 24,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/024%20Nur_dawahnigeria.com.mp3"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/025%20Furqan_dawahnigeria.com.mp3",
+    "arabic" : "الفرقان",
+    "isDownloaded" : false,
+    "name" : "Al-Furqan",
+    "id" : 25,
+    "total_verses" : 77,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "translation" : "The Criterion"
+  },
+  {
+    "id" : 26,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/026%20Shuarai_dawahnigeria.com.mp3",
+    "translation" : "The Poets",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "arabic" : "الشعراء",
+    "isDownloading" : false,
+    "name" : "Ash-Shuara",
+    "isDownloaded" : false,
+    "total_verses" : 227
+  },
+  {
+    "arabic" : "النمل",
+    "total_verses" : 93,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "An-Naml",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/027%20Naml_dawahnigeria.com.mp3",
+    "translation" : "The Ant",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 27
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "The Stories",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/028%20Qasas_dawahnigeria.com.mp3",
+    "arabic" : "القصص",
+    "id" : 28,
+    "downloadStatus" : 0,
+    "total_verses" : 88,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Al-Qasas",
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Ankabut",
+    "arabic" : "العنكبوت",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "id" : 29,
+    "total_verses" : 69,
+    "translation" : "The Spider",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/029%20Ankabut_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 60,
+    "arabic" : "الروم",
+    "time_array" : [
+
+    ],
+    "translation" : "The Romans",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/030%20Ruum_dawahnigeria.com.mp3",
+    "name" : "Ar-Rum",
+    "id" : 30
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/031%20Luqmaan_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "total_verses" : 34,
+    "arabic" : "لقمان",
+    "name" : "Luqman",
+    "id" : 31,
+    "translation" : "Luqman"
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/032%20SAJDAH_dawahnigeria.com.mp3",
+    "arabic" : "السجدة",
+    "isDownloading" : false,
+    "name" : "As-Sajda",
+    "total_verses" : 30,
+    "id" : 32,
+    "translation" : "The Prostration",
+    "time_array" : [
+
+    ],
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "الأحزاب",
+    "downloadStatus" : 0,
+    "total_verses" : 73,
+    "name" : "Al-Ahzab",
+    "translation" : "The Combined Forces",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 33,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/033%20Ahzab_dawahnigeria.com.mp3"
+  },
+  {
+    "id" : 34,
+    "translation" : "Sheba",
+    "isDownloaded" : false,
+    "arabic" : "سبإ",
+    "name" : "Saba",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 54,
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/034%20sabai_dawahnigeria.com.mp3",
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 45,
+    "id" : 35,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/035%20Faatir_dawahnigeria.com.mp3",
+    "name" : "Fatir",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "فاطر",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "translation" : "Originator"
+  },
+  {
+    "name" : "Ya Sin",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "arabic" : "يس",
+    "id" : 36,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/036%20Yasin_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "total_verses" : 83,
+    "translation" : "Ya Sin",
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "الصافات",
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/037%20Saaffat_dawahnigeria.com.mp3",
+    "total_verses" : 182,
+    "id" : 37,
+    "isDownloading" : false,
+    "name" : "As-Saaffat",
+    "translation" : "Those who set the Ranks",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 38,
+    "isDownloaded" : false,
+    "arabic" : "ص",
+    "translation" : "The Letter Saad",
+    "name" : "Sad",
+    "total_verses" : 88,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/038%20Saad_dawahnigeria.com.mp3"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/039%20Zumar_dawahnigeria.com.mp3",
+    "type" : "meccan",
+    "id" : 39,
+    "translation" : "The Troops",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 75,
+    "isDownloading" : false,
+    "name" : "Az-Zumar",
+    "arabic" : "الزمر"
+  },
+  {
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/040%20Gafir_dawahnigeria.com.mp3",
+    "translation" : "The Forgiver",
+    "id" : 40,
+    "arabic" : "غافر",
+    "time_array" : [
+
+    ],
+    "total_verses" : 85,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "name" : "Ghafir",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/041%20Fussilat_dawahnigeria.com.mp3",
+    "id" : 41,
+    "name" : "Fussilat",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 54,
+    "arabic" : "فصلت",
+    "translation" : "Explained in Detail",
+    "downloadStatus" : 0
+  },
+  {
+    "total_verses" : 53,
+    "translation" : "The Consultation",
+    "id" : 42,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "الشورى",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/042%20Shura_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Ash-Shura"
+  },
+  {
+    "arabic" : "الزخرف",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "total_verses" : 89,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/043%20Zukhruf_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 43,
+    "type" : "meccan",
+    "translation" : "The Ornaments of Gold",
+    "name" : "Az-Zukhruf"
+  },
+  {
+    "translation" : "The Smoke",
+    "arabic" : "الدخان",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/044%20Dukhan_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 59,
+    "type" : "meccan",
+    "name" : "Ad-Dukhan",
+    "id" : 44
+  },
+  {
+    "total_verses" : 37,
+    "type" : "meccan",
+    "id" : 45,
+    "isDownloaded" : false,
+    "translation" : "The Crouching",
+    "isDownloading" : false,
+    "arabic" : "الجاثية",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/045%20Jathiyah_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "name" : "Al-Jathiya",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "time_array" : [
+
+    ],
+    "id" : 46,
+    "translation" : "The Wind-Curved Sandhills",
+    "type" : "meccan",
+    "total_verses" : 35,
+    "name" : "Al-Ahqaf",
+    "arabic" : "الأحقاف",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/046%20Ahqaf_dawahnigeria.com.mp3",
+    "isDownloading" : false
+  },
+  {
+    "name" : "Muhammad",
+    "id" : 47,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/047%20Muhammad_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "total_verses" : 38,
+    "time_array" : [
+
+    ],
+    "arabic" : "محمد",
+    "translation" : "Muhammad",
+    "type" : "medinan"
+  },
+  {
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 29,
+    "arabic" : "الفتح",
+    "id" : 48,
+    "isDownloaded" : false,
+    "name" : "Al-Fath",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/048%20Fath_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "translation" : "The Victory"
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Al-Hujurat",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 18,
+    "id" : 49,
+    "translation" : "The Rooms",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "arabic" : "الحجرات",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/049%20Hujurat_dawahnigeria.com.mp3"
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 50,
+    "isDownloaded" : false,
+    "arabic" : "ق",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 45,
+    "isDownloading" : false,
+    "name" : "Qaf",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/050%20Qaaff_dawahnigeria.com.mp3",
+    "translation" : "The Letter Qaf"
+  },
+  {
+    "arabic" : "الذاريات",
+    "downloadStatus" : 0,
+    "name" : "Adh-Dhariyat",
+    "total_verses" : 60,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "id" : 51,
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/051%20Dhariyat_dawahnigeria.com.mp3",
+    "translation" : "The Winnowing Winds"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/052%20Toor_dawahnigeria.com.mp3",
+    "total_verses" : 49,
+    "isDownloading" : false,
+    "arabic" : "الطور",
+    "time_array" : [
+
+    ],
+    "name" : "At-Tur",
+    "downloadStatus" : 0,
+    "translation" : "The Mount",
+    "isDownloaded" : false,
+    "id" : 52,
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Star",
+    "total_verses" : 62,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "id" : 53,
+    "name" : "An-Najm",
+    "arabic" : "النجم",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/053%20Najm_dawahnigeria.com.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/054%20Qamar_dawahnigeria.com.mp3",
+    "translation" : "The Moon",
+    "total_verses" : 55,
+    "isDownloaded" : false,
+    "name" : "Al-Qamar",
+    "downloadStatus" : 0,
+    "id" : 54,
+    "arabic" : "القمر",
+    "isDownloading" : false
+  },
+  {
+    "arabic" : "الرحمن",
+    "name" : "Ar-Rahman",
+    "total_verses" : 78,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/055%20Rahman_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Beneficent",
+    "type" : "medinan",
+    "id" : 55
+  },
+  {
+    "total_verses" : 96,
+    "isDownloaded" : false,
+    "id" : 56,
+    "type" : "meccan",
+    "arabic" : "الواقعة",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/056%20Waqiah_dawahnigeria.com.mp3",
+    "name" : "Al-Waqia",
+    "time_array" : [
+
+    ],
+    "translation" : "The Inevitable",
+    "isDownloading" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 29,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "id" : 57,
+    "isDownloading" : false,
+    "type" : "medinan",
+    "arabic" : "الحديد",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/057%20Hadid_dawahnigeria.com.mp3",
+    "name" : "Al-Hadid",
+    "translation" : "The Iron"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "translation" : "The Pleading Woman",
+    "arabic" : "المجادلة",
+    "isDownloaded" : false,
+    "name" : "Al-Mujadila",
+    "total_verses" : 22,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/058%20Mujadalah_dawahnigeria.com.mp3",
+    "id" : 58
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/059%20Hashr_dawahnigeria.com.mp3",
+    "total_verses" : 24,
+    "id" : 59,
+    "name" : "Al-Hashr",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Exile",
+    "arabic" : "الحشر"
+  },
+  {
+    "arabic" : "الممتحنة",
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 13,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/060%20Mumtahanah_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "id" : 60,
+    "name" : "Al-Mumtahina",
+    "translation" : "She that is to be examined"
+  },
+  {
+    "type" : "medinan",
+    "name" : "As-Saff",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/061%20Saff_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "translation" : "The Ranks",
+    "downloadStatus" : 0,
+    "total_verses" : 14,
+    "arabic" : "الصف",
+    "isDownloading" : false,
+    "id" : 61,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "type" : "medinan",
+    "isDownloading" : false,
+    "arabic" : "الجمعة",
+    "id" : 62,
+    "translation" : "The Congregation, Friday",
+    "downloadStatus" : 0,
+    "name" : "Al-Jumua",
+    "time_array" : [
+
+    ],
+    "total_verses" : 11,
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/062%20Jumuah_dawahnigeria.com.mp3"
+  },
+  {
+    "translation" : "The Hypocrites",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 63,
+    "name" : "Al-Munafiqun",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/063%20Munafiqun_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "medinan",
+    "arabic" : "المنافقون",
+    "total_verses" : 11
+  },
+  {
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/064%20Tagabun_dawahnigeria.com.mp3",
+    "translation" : "The Mutual Disillusion",
+    "isDownloading" : false,
+    "id" : 64,
+    "arabic" : "التغابن",
+    "name" : "At-Taghabun",
+    "total_verses" : 18,
+    "isDownloaded" : false
+  },
+  {
+    "total_verses" : 12,
+    "downloadStatus" : 0,
+    "id" : 65,
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/065%20Talaq_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Divorce",
+    "arabic" : "الطلاق",
+    "type" : "medinan",
+    "isDownloading" : false,
+    "name" : "At-Talaq"
+  },
+  {
+    "name" : "At-Tahrim",
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/066%20Tahrim_dawahnigeria.com.mp3",
+    "arabic" : "التحريم",
+    "isDownloading" : false,
+    "total_verses" : 12,
+    "id" : 66,
+    "type" : "medinan",
+    "translation" : "The Prohibition",
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "arabic" : "الملك",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 67,
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/067%20Mulk_dawahnigeria.com.mp3",
+    "name" : "Al-Mulk",
+    "total_verses" : 30,
+    "isDownloading" : false,
+    "translation" : "The Sovereignty"
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 52,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/068%20Qalam_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "translation" : "The Pen",
+    "type" : "meccan",
+    "arabic" : "القلم",
+    "isDownloaded" : false,
+    "name" : "Al-Qalam",
+    "id" : 68,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 52,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Reality",
+    "id" : 69,
+    "arabic" : "الحاقة",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/069%20Haaqqah_dawahnigeria.com.mp3",
+    "name" : "Al-Haaqqa",
+    "isDownloaded" : false,
+    "type" : "meccan"
+  },
+  {
+    "name" : "Al-Maarij",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 44,
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/070%20Ma'arij_dawahnigeria.com.mp3",
+    "translation" : "The Ascending Stairways",
+    "isDownloading" : false,
+    "arabic" : "المعارج",
+    "isDownloaded" : false,
+    "id" : 70
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/071%20Nuh_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "total_verses" : 28,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "نوح",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "id" : 71,
+    "name" : "Nuh",
+    "translation" : "Noah"
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "name" : "Al-Jinn",
+    "id" : 72,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/072%20Jinn_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "total_verses" : 28,
+    "translation" : "The Jinn",
+    "arabic" : "الجن"
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Muzzammil",
+    "total_verses" : 20,
+    "translation" : "The Enshrouded One",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 73,
+    "arabic" : "المزمل",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/073%20Muzzammil_dawahnigeria.com.mp3",
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/074%20Muddathir_dawahnigeria.com.mp3",
+    "translation" : "The Cloaked One",
+    "name" : "Al-Muddathir",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 56,
+    "arabic" : "المدثر",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "id" : 74
+  },
+  {
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Al-Qiyama",
+    "type" : "meccan",
+    "translation" : "The Resurrection",
+    "id" : 75,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/075%20Qiyamah_dawahnigeria.com.mp3",
+    "total_verses" : 40,
+    "arabic" : "القيامة",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "arabic" : "الانسان",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/076%20Insan_dawahnigeria.com.mp3",
+    "id" : 76,
+    "total_verses" : 31,
+    "translation" : "The Man",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Al-Insan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 50,
+    "id" : 77,
+    "name" : "Al-Mursalat",
+    "downloadStatus" : 0,
+    "arabic" : "المرسلات",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/077%20Mursalat_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "translation" : "The Emissaries"
+  },
+  {
+    "name" : "An-Naziat",
+    "downloadStatus" : 0,
+    "arabic" : "النازعات",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 46,
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/079%20Naziat_dawahnigeria.com.mp3",
+    "id" : 79,
+    "translation" : "Those who drag forth"
+  },
+  {
+    "arabic" : "عبس",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/080%20Abasa_dawahnigeria.com.mp3",
+    "total_verses" : 42,
+    "translation" : "He Frowned",
+    "downloadStatus" : 0,
+    "id" : 80,
+    "isDownloading" : false,
+    "name" : "Abasa",
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "The Overthrowing",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "total_verses" : 29,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/081Takwir_dawahnigeria.com.mp3",
+    "id" : 81,
+    "isDownloading" : false,
+    "arabic" : "التكوير",
+    "name" : "At-Takwir"
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Al-Infitar",
+    "id" : 82,
+    "total_verses" : 19,
+    "translation" : "The Cleaving",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "الإنفطار",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/082%20Infitar_dawahnigeria.com.mp3",
+    "isDownloaded" : false
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/083%20Mutaffifin_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "id" : 83,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "The Defrauding",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "name" : "Al-Mutaffifin",
+    "total_verses" : 36,
+    "arabic" : "المطففين"
+  },
+  {
+    "id" : 84,
+    "type" : "meccan",
+    "total_verses" : 25,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/084%20Inshiqaq_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "translation" : "The Sundering",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "name" : "Al-Inshiqaq",
+    "arabic" : "الإنشقاق"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 22,
+    "arabic" : "البروج",
+    "name" : "Al-Burooj",
+    "translation" : "The Mansions of the Stars",
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/085%20Buruj_dawahnigeria.com.mp3",
+    "id" : 85,
+    "isDownloaded" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/086%20Taariq_dawahnigeria.com.mp3",
+    "arabic" : "الطارق",
+    "time_array" : [
+
+    ],
+    "total_verses" : 17,
+    "id" : 86,
+    "isDownloading" : false,
+    "translation" : "The Nightcommer",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "At-Tariq"
+  },
+  {
+    "name" : "Al-Ala",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 19,
+    "translation" : "The Most High",
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/087%20Aala_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 87,
+    "arabic" : "الأعلى"
+  },
+  {
+    "name" : "Al-Ghashiyah",
+    "id" : 88,
+    "translation" : "The Overwhelming",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "arabic" : "الغاشية",
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/088%20Gashiyah_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 26
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/089%20Fajr_dawahnigeria.com.mp3",
+    "translation" : "The Dawn",
+    "time_array" : [
+
+    ],
+    "total_verses" : 30,
+    "name" : "Al-Fajr",
+    "id" : 89,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الفجر",
+    "isDownloaded" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "البلد",
+    "isDownloading" : false,
+    "name" : "Al-Balad",
+    "total_verses" : 20,
+    "translation" : "The City",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/090%20Balad_dawahnigeria.com.mp3",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 90
+  },
+  {
+    "isDownloaded" : false,
+    "id" : 91,
+    "arabic" : "الشمس",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "Ash-Shams",
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/091%20Shams_dawahnigeria.com.mp3",
+    "translation" : "The Sun",
+    "total_verses" : 15,
+    "type" : "meccan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "name" : "Al-Lail",
+    "downloadStatus" : 0,
+    "arabic" : "الليل",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/092%20Layl_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "translation" : "The Night",
+    "total_verses" : 21,
+    "id" : 92
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/093%20Duha_dawahnigeria.com.mp3",
+    "name" : "Ad-Dhuha",
+    "arabic" : "الضحى",
+    "translation" : "The Morning Hours",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "isDownloading" : false,
+    "total_verses" : 11,
+    "id" : 93,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/094%20Sharh_dawahnigeria.com.mp3",
+    "arabic" : "الشرح",
+    "name" : "Al-Inshirah",
+    "downloadStatus" : 0,
+    "id" : 94,
+    "total_verses" : 8,
+    "isDownloading" : false,
+    "translation" : "The Relief"
+  },
+  {
+    "total_verses" : 8,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 95,
+    "translation" : "The Fig",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "arabic" : "التين",
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/095%20Tin_dawahnigeria.com.mp3",
+    "name" : "At-Tin"
+  },
+  {
+    "name" : "Al-Alaq",
+    "time_array" : [
+
+    ],
+    "translation" : "The Clot",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "total_verses" : 19,
+    "id" : 96,
+    "arabic" : "العلق",
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/096%20Alaq_dawahnigeria.com.mp3"
+  },
+  {
+    "id" : 97,
+    "arabic" : "القدر",
+    "name" : "Al-Qadr",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/097%20Qadr_dawahnigeria.com.mp3",
+    "total_verses" : 5,
+    "translation" : "The Power",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "arabic" : "البينة",
+    "name" : "Al-Bayyina",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/098%20Bayyinah_dawahnigeria.com.mp3",
+    "total_verses" : 8,
+    "isDownloaded" : false,
+    "translation" : "The Clear Proof",
+    "id" : 98,
+    "type" : "medinan"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Az-Zalzala",
+    "translation" : "The Earthquake",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/099%20Zalzala_dawahnigeria.com.mp3",
+    "id" : 99,
+    "type" : "medinan",
+    "total_verses" : 8,
+    "arabic" : "الزلزلة",
+    "isDownloaded" : false
+  },
+  {
+    "translation" : "The Courser",
+    "id" : 100,
+    "name" : "Al-Adiyat",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/100%20Adiyat_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 11,
+    "arabic" : "العاديات"
+  },
+  {
+    "id" : 101,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 11,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Calamity",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/101%20Qariah_dawahnigeria.com.mp3",
+    "name" : "Al-Qaria",
+    "type" : "meccan",
+    "arabic" : "القارعة"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "التكاثر",
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/102%20Takathur_dawahnigeria.com.mp3",
+    "total_verses" : 8,
+    "name" : "At-Takathur",
+    "id" : 102,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "translation" : "The Rivalry in world increase"
+  },
+  {
+    "arabic" : "العصر",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/103%20Asr_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "id" : 103,
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "name" : "Al-Asr",
+    "translation" : "The Declining Day",
+    "total_verses" : 3,
+    "type" : "meccan"
+  },
+  {
+    "translation" : "The Traducer",
+    "type" : "meccan",
+    "id" : 104,
+    "arabic" : "الهمزة",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/104%20Humazah_dawahnigeria.com.mp3",
+    "total_verses" : 9,
+    "isDownloading" : false,
+    "name" : "Al-Humaza",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 105,
+    "name" : "Al-Fil",
+    "translation" : "The Elephant",
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/105%20Fil_dawahnigeria.com.mp3",
+    "arabic" : "الفيل",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 5,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Quraysh",
+    "downloadStatus" : 0,
+    "id" : 106,
+    "total_verses" : 4,
+    "translation" : "Quraysh",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "arabic" : "قريش",
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/106%20Quraysh_dawahnigeria.com.mp3",
+    "isDownloading" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "الماعون",
+    "translation" : "The Small kindnesses",
+    "name" : "Al-Maun",
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/107%20Maun_dawahnigeria.com.mp3",
+    "total_verses" : 7,
+    "downloadStatus" : 0,
+    "id" : 107,
+    "isDownloading" : false
+  },
+  {
+    "id" : 108,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "total_verses" : 3,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/108%20Kauthar_dawahnigeria.com.mp3",
+    "name" : "Al-Kawthar",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "arabic" : "الكوثر",
+    "translation" : "The Abundance"
+  },
+  {
+    "downloadStatus" : 0,
+    "translation" : "The Disbelievers",
+    "total_verses" : 6,
+    "id" : 109,
+    "name" : "Al-Kafirun",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "الكافرون",
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/109%20Kafirun_dawahnigeria.com.mp3",
+    "isDownloading" : false
+  },
+  {
+    "time_array" : [
+
+    ],
+    "translation" : "The Divine Support",
+    "isDownloading" : false,
+    "name" : "An-Nasr",
+    "total_verses" : 3,
+    "type" : "medinan",
+    "arabic" : "النصر",
+    "downloadStatus" : 0,
+    "id" : 110,
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/110%20Nasr_dawahnigeria.com.mp3"
+  },
+  {
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/111%20Masad_dawahnigeria.com.mp3",
+    "id" : 111,
+    "isDownloaded" : false,
+    "translation" : "The Palm Fiber",
+    "name" : "Al-Masad",
+    "arabic" : "المسد",
+    "total_verses" : 5,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 4,
+    "id" : 112,
+    "translation" : "The Sincerity",
+    "type" : "meccan",
+    "name" : "Al-Ikhlas",
+    "arabic" : "الإخلاص",
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/112%20Ikhlas_dawahnigeria.com.mp3",
+    "isDownloading" : false
+  },
+  {
+    "translation" : "Mankind",
+    "type" : "meccan",
+    "arabic" : "الناس",
+    "name" : "Al-Nas",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 114,
+    "isDownloading" : false,
+    "total_verses" : 6,
+    "link" : "https://media.dawahnigeria.com/dnquran/Gwani%20Sadiqu/114%20Naas_dawahnigeria.com.mp3"
+  }
+]
