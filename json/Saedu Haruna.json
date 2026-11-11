@@ -1,0 +1,1712 @@
+[
+  {
+    "downloadStatus" : 0,
+    "name" : "Al-Fatiha",
+    "id" : 1,
+    "arabic" : "الفاتحة",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_001-Suratul-Fatiha_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "translation" : "The Opener",
+    "total_verses" : 7,
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "البقرة",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 2,
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_002-Suratul-Bakara_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "type" : "medinan",
+    "translation" : "The Cow",
+    "total_verses" : 286,
+    "name" : "Al-Baqara"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "arabic" : "آل عمران",
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_003-Suratul-Al-Imran_dawahnigeria.com.mp3",
+    "id" : 3,
+    "name" : "Al Imran",
+    "total_verses" : 200,
+    "translation" : "Family of Imran",
+    "type" : "medinan"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_004-Sutatun-Nisa'i_dawahnigeria.com.mp3",
+    "id" : 4,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "name" : "An-Nisa",
+    "time_array" : [
+
+    ],
+    "total_verses" : 176,
+    "type" : "medinan",
+    "arabic" : "النساء",
+    "translation" : "The Women",
+    "isDownloaded" : false
+  },
+  {
+    "id" : 5,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "translation" : "The Table Spread",
+    "type" : "medinan",
+    "total_verses" : 120,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Maida",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_005-Suratul-Ma'idah_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "arabic" : "المائدة"
+  },
+  {
+    "id" : 6,
+    "total_verses" : 165,
+    "isDownloaded" : false,
+    "translation" : "The Cattle",
+    "name" : "Al-Anam",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_006-Suratul-An'aam_dawahnigeria.com.mp3",
+    "arabic" : "الأنعام",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "الأعراف",
+    "name" : "Al-Araf",
+    "total_verses" : 206,
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_007-Suratul-A'araaf_dawahnigeria.com.mp3",
+    "translation" : "The Heights",
+    "type" : "meccan",
+    "id" : 7,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 8,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_008-Suratul-Anfaal_dawahnigeria.com.mp3",
+    "total_verses" : 75,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Anfal",
+    "isDownloading" : false,
+    "translation" : "The Spoils of War",
+    "arabic" : "الأنفال"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_009-Suratut-Tauba_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "التوبة",
+    "total_verses" : 129,
+    "type" : "medinan",
+    "isDownloading" : false,
+    "name" : "At-Tawba",
+    "id" : 9,
+    "translation" : "The Repentance",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "name" : "Yunus",
+    "total_verses" : 109,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "arabic" : "يونس",
+    "id" : 10,
+    "time_array" : [
+
+    ],
+    "translation" : "Jonah",
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_010-Suratu%20-Yunus_dawahnigeria.com.mp3"
+  },
+  {
+    "arabic" : "هود",
+    "translation" : "Hud",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_011-Suratu-Hudu_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "id" : 11,
+    "downloadStatus" : 0,
+    "name" : "Hud",
+    "type" : "meccan",
+    "total_verses" : 123
+  },
+  {
+    "total_verses" : 111,
+    "arabic" : "يوسف",
+    "id" : 12,
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Yusuf",
+    "translation" : "Joseph",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_012-Suratu-Yusuf_dawahnigeria.com.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_013-Suratur-Ra'adi_dawahnigeria.com.mp3",
+    "id" : 13,
+    "arabic" : "الرعد",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 43,
+    "translation" : "The Thunder",
+    "type" : "medinan",
+    "name" : "Ar-Rad"
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 52,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "Abraham",
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_014-Suratul-Ibrahim_dawahnigeria.com.mp3",
+    "id" : 14,
+    "arabic" : "ابراهيم",
+    "name" : "Ibrahim",
+    "isDownloaded" : false
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "Al-Hijr",
+    "time_array" : [
+
+    ],
+    "id" : 15,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "الحجر",
+    "total_verses" : 99,
+    "translation" : "The Rocky Tract",
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_015-Suratul-Hijri_dawahnigeria.com.mp3"
+  },
+  {
+    "arabic" : "النحل",
+    "total_verses" : 128,
+    "name" : "An-Nahl",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 16,
+    "time_array" : [
+
+    ],
+    "translation" : "The Bee",
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_016-Suratun-Nahli_dawahnigeria.com.mp3"
+  },
+  {
+    "arabic" : "الإسراء",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_017-Suratul-Israa_dawahnigeria.com.mp3",
+    "name" : "Al-Isra",
+    "time_array" : [
+
+    ],
+    "id" : 17,
+    "downloadStatus" : 0,
+    "total_verses" : 111,
+    "translation" : "The Night Journey"
+  },
+  {
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "total_verses" : 110,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_018-SuratuI-Kahfi_dawahnigeria.com.mp3",
+    "id" : 18,
+    "isDownloaded" : false,
+    "translation" : "The Cave",
+    "arabic" : "الكهف",
+    "name" : "Al-Kahf"
+  },
+  {
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "مريم",
+    "total_verses" : 98,
+    "type" : "meccan",
+    "id" : 19,
+    "name" : "Maryam",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_019-SuratuI-Maryam_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "translation" : "Mary"
+  },
+  {
+    "id" : 20,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Ta-Ha",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_020-Suratu-Daha_dawahnigeria.com.mp3",
+    "total_verses" : 135,
+    "arabic" : "طه",
+    "translation" : "Ta-Ha",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "arabic" : "الأنبياء",
+    "isDownloaded" : false,
+    "total_verses" : 112,
+    "name" : "Al-Anbiya",
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_021-Suratul-Anbiya'i_dawahnigeria.com.mp3",
+    "id" : 21,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "translation" : "The Prophets"
+  },
+  {
+    "total_verses" : 78,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_022-Suratul-Hajji_dawahnigeria.com.mp3",
+    "translation" : "The Pilgrimage",
+    "type" : "medinan",
+    "name" : "Al-Hajj",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "arabic" : "الحج",
+    "id" : 22
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 23,
+    "isDownloaded" : false,
+    "total_verses" : 118,
+    "name" : "Al-Muminoon",
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_023-Suratul-Mu'uminuna_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "arabic" : "المؤمنون",
+    "translation" : "The Believers"
+  },
+  {
+    "name" : "An-Nur",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "id" : 24,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_024-Suratun-Nurr_dawahnigeria.com.mp3",
+    "total_verses" : 64,
+    "arabic" : "النور",
+    "translation" : "The Light",
+    "isDownloaded" : false
+  },
+  {
+    "downloadStatus" : 0,
+    "total_verses" : 77,
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_025-Suratul-Fur'qaan_dawahnigeria.com.mp3",
+    "translation" : "The Criterion",
+    "arabic" : "الفرقان",
+    "name" : "Al-Furqan",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "id" : 25
+  },
+  {
+    "id" : 26,
+    "arabic" : "الشعراء",
+    "total_verses" : 227,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_026-Suratus-Shu'ara'a_dawahnigeria.com.mp3",
+    "name" : "Ash-Shuara",
+    "time_array" : [
+
+    ],
+    "translation" : "The Poets",
+    "isDownloading" : false,
+    "type" : "meccan"
+  },
+  {
+    "type" : "meccan",
+    "total_verses" : 93,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_027-Suratun-Namli_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "translation" : "The Ant",
+    "name" : "An-Naml",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "arabic" : "النمل",
+    "id" : 27
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_028-Suratul-Qasas_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "total_verses" : 88,
+    "downloadStatus" : 0,
+    "translation" : "The Stories",
+    "type" : "meccan",
+    "name" : "Al-Qasas",
+    "id" : 28,
+    "isDownloaded" : false,
+    "arabic" : "القصص",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "id" : 29,
+    "isDownloaded" : false,
+    "arabic" : "العنكبوت",
+    "name" : "Al-Ankabut",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_029-Suratul-Ankabut._dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "total_verses" : 69,
+    "translation" : "The Spider"
+  },
+  {
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 30,
+    "arabic" : "الروم",
+    "name" : "Ar-Rum",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 60,
+    "translation" : "The Romans",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_030-Suratur-Room_dawahnigeria.com.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_031-Suratu-Luqman_dawahnigeria.com.mp3",
+    "arabic" : "لقمان",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 31,
+    "translation" : "Luqman",
+    "type" : "meccan",
+    "name" : "Luqman",
+    "total_verses" : 34,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloading" : false,
+    "name" : "As-Sajda",
+    "total_verses" : 30,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 32,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_032-Suratus-Sajadah_dawahnigeria.com.mp3",
+    "arabic" : "السجدة",
+    "translation" : "The Prostration"
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Combined Forces",
+    "total_verses" : 73,
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_033-Suratul-Ahzab_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "id" : 33,
+    "arabic" : "الأحزاب",
+    "name" : "Al-Ahzab",
+    "type" : "medinan"
+  },
+  {
+    "type" : "meccan",
+    "translation" : "Sheba",
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_034-Suratus-Saba'i_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 34,
+    "total_verses" : 54,
+    "isDownloaded" : false,
+    "name" : "Saba",
+    "arabic" : "سبإ"
+  },
+  {
+    "arabic" : "فاطر",
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_035-Suraru-Fadir_dawahnigeria.com.mp3",
+    "total_verses" : 45,
+    "id" : 35,
+    "name" : "Fatir",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "translation" : "Originator"
+  },
+  {
+    "type" : "meccan",
+    "name" : "Ya Sin",
+    "arabic" : "يس",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_036-Suratu-Yaseen_dawahnigeria.com.mp3",
+    "translation" : "Ya Sin",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "id" : 36,
+    "total_verses" : 83
+  },
+  {
+    "translation" : "Those who set the Ranks",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "id" : 37,
+    "name" : "As-Saaffat",
+    "total_verses" : 182,
+    "arabic" : "الصافات",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_037-Suratus-Saffati_dawahnigeria.com.mp3"
+  },
+  {
+    "isDownloading" : false,
+    "translation" : "The Letter Saad",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_038-Suratus-Saad_dawahnigeria.com.mp3",
+    "type" : "meccan",
+    "arabic" : "ص",
+    "isDownloaded" : false,
+    "id" : 38,
+    "downloadStatus" : 0,
+    "name" : "Sad",
+    "time_array" : [
+
+    ],
+    "total_verses" : 88
+  },
+  {
+    "total_verses" : 75,
+    "name" : "Az-Zumar",
+    "translation" : "The Troops",
+    "id" : 39,
+    "arabic" : "الزمر",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_039-Suratuz-Zumar_dawahnigeria.com.mp3",
+    "isDownloading" : false
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Ghafir",
+    "isDownloading" : false,
+    "total_verses" : 85,
+    "type" : "meccan",
+    "arabic" : "غافر",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_040-Suratul-Ghafir_dawahnigeria.com.mp3",
+    "id" : 40,
+    "translation" : "The Forgiver",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "translation" : "Explained in Detail",
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_041-Suratul-Fusilat_dawahnigeria.com.mp3",
+    "arabic" : "فصلت",
+    "downloadStatus" : 0,
+    "id" : 41,
+    "name" : "Fussilat",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 54
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "الشورى",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_042-Suratus-Shuraa_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "id" : 42,
+    "total_verses" : 53,
+    "time_array" : [
+
+    ],
+    "translation" : "The Consultation",
+    "type" : "meccan",
+    "name" : "Ash-Shura"
+  },
+  {
+    "id" : 43,
+    "name" : "Az-Zukhruf",
+    "time_array" : [
+
+    ],
+    "total_verses" : 89,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "translation" : "The Ornaments of Gold",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_043-Suratuz-Zukhruf_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "الزخرف"
+  },
+  {
+    "arabic" : "الدخان",
+    "isDownloaded" : false,
+    "id" : 44,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_044-Suratud-Dukhaan_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "total_verses" : 59,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "name" : "Ad-Dukhan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Smoke"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 37,
+    "isDownloading" : false,
+    "name" : "Al-Jathiya",
+    "translation" : "The Crouching",
+    "isDownloaded" : false,
+    "id" : 45,
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "arabic" : "الجاثية",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_045-Suratul-Jasiyat._dawahnigeria.com.mp3"
+  },
+  {
+    "total_verses" : 35,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "Al-Ahqaf",
+    "translation" : "The Wind-Curved Sandhills",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_046-Suratul-Ahqaaf_dawahnigeria.com.mp3",
+    "arabic" : "الأحقاف",
+    "id" : 46
+  },
+  {
+    "id" : 47,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "name" : "Muhammad",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_047-Suratu-Muhammad_dawahnigeria.com.mp3",
+    "arabic" : "محمد",
+    "total_verses" : 38,
+    "isDownloaded" : false,
+    "translation" : "Muhammad"
+  },
+  {
+    "type" : "medinan",
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_048-Suratul-Fathi_dawahnigeria.com.mp3",
+    "id" : 48,
+    "translation" : "The Victory",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Fath",
+    "arabic" : "الفتح",
+    "total_verses" : 29
+  },
+  {
+    "name" : "Al-Hujurat",
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_049-Suratul-Hujurat._dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "type" : "medinan",
+    "id" : 49,
+    "arabic" : "الحجرات",
+    "total_verses" : 18,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "translation" : "The Rooms"
+  },
+  {
+    "id" : 50,
+    "time_array" : [
+
+    ],
+    "name" : "Qaf",
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_050-Suratu-Qaaf_dawahnigeria.com.mp3",
+    "translation" : "The Letter Qaf",
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "total_verses" : 45,
+    "isDownloaded" : false,
+    "arabic" : "ق"
+  },
+  {
+    "id" : 51,
+    "isDownloaded" : false,
+    "name" : "Adh-Dhariyat",
+    "total_verses" : 60,
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_051-Suratuz-Zariyaat._dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "arabic" : "الذاريات",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The Winnowing Winds"
+  },
+  {
+    "translation" : "The Mount",
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 49,
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_052-Suratud-Duuri_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "id" : 52,
+    "arabic" : "الطور",
+    "time_array" : [
+
+    ],
+    "name" : "At-Tur"
+  },
+  {
+    "arabic" : "النجم",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "id" : 53,
+    "translation" : "The Star",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_053-Suratun-Najmi_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "An-Najm",
+    "isDownloading" : false,
+    "total_verses" : 62
+  },
+  {
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_054-Suratul-Qamar_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "translation" : "The Moon",
+    "id" : 54,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "total_verses" : 55,
+    "name" : "Al-Qamar",
+    "downloadStatus" : 0,
+    "arabic" : "القمر"
+  },
+  {
+    "arabic" : "الرحمن",
+    "total_verses" : 78,
+    "translation" : "The Beneficent",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_055-Suratur-Rahman_dawahnigeria.com.mp3",
+    "id" : 55,
+    "isDownloading" : false,
+    "name" : "Ar-Rahman",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 56,
+    "arabic" : "الواقعة",
+    "name" : "Al-Waqia",
+    "type" : "meccan",
+    "translation" : "The Inevitable",
+    "total_verses" : 96,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_056-Suratul-Waqiah_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_057-Suratul-Hadid_dawahnigeria.com.mp3",
+    "name" : "Al-Hadid",
+    "type" : "medinan",
+    "arabic" : "الحديد",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 57,
+    "translation" : "The Iron",
+    "isDownloading" : false,
+    "total_verses" : 29
+  },
+  {
+    "translation" : "The Pleading Woman",
+    "type" : "medinan",
+    "arabic" : "المجادلة",
+    "name" : "Al-Mujadila",
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_058-Suratul-Mujadala_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "id" : 58,
+    "time_array" : [
+
+    ],
+    "total_verses" : 22,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "total_verses" : 24,
+    "arabic" : "الحشر",
+    "name" : "Al-Hashr",
+    "translation" : "The Exile",
+    "id" : 59,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_059-Suratul-Hashari_dawahnigeria.com.mp3",
+    "type" : "medinan"
+  },
+  {
+    "name" : "Al-Mumtahina",
+    "id" : 60,
+    "total_verses" : 13,
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_060-Suratul-Mumtahana_dawahnigeria.com.mp3",
+    "arabic" : "الممتحنة",
+    "type" : "medinan",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "translation" : "She that is to be examined"
+  },
+  {
+    "arabic" : "الصف",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_061-Suratus-Saffi_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "translation" : "The Ranks",
+    "downloadStatus" : 0,
+    "name" : "As-Saff",
+    "isDownloading" : false,
+    "id" : 61,
+    "total_verses" : 14
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الجمعة",
+    "id" : 62,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "translation" : "The Congregation, Friday",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_062-Suratul-Jumu'ah_dawahnigeria.com.mp3",
+    "name" : "Al-Jumua",
+    "type" : "medinan",
+    "total_verses" : 11
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 11,
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "المنافقون",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_063-Suratul-Munafiqun_dawahnigeria.com.mp3",
+    "id" : 63,
+    "name" : "Al-Munafiqun",
+    "translation" : "The Hypocrites"
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "total_verses" : 18,
+    "type" : "medinan",
+    "translation" : "The Mutual Disillusion",
+    "name" : "At-Taghabun",
+    "time_array" : [
+
+    ],
+    "arabic" : "التغابن",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_064-Suratut-Tagabun_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "id" : 64
+  },
+  {
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_065-Suratut-Talaaq_dawahnigeria.com.mp3",
+    "total_verses" : 12,
+    "id" : 65,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "arabic" : "الطلاق",
+    "time_array" : [
+
+    ],
+    "translation" : "The Divorce",
+    "type" : "medinan",
+    "name" : "At-Talaq"
+  },
+  {
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "arabic" : "التحريم",
+    "total_verses" : 12,
+    "type" : "medinan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_066-Suratut-Tahreem_dawahnigeria.com.mp3",
+    "id" : 66,
+    "translation" : "The Prohibition",
+    "isDownloaded" : false,
+    "name" : "At-Tahrim",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 30,
+    "id" : 67,
+    "arabic" : "الملك",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "Al-Mulk",
+    "translation" : "The Sovereignty",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_067-Suratul-Mulk_dawahnigeria.com.mp3"
+  },
+  {
+    "isDownloaded" : false,
+    "total_verses" : 52,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Pen",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_068-Suratul-Qalam_dawahnigeria.com.mp3",
+    "name" : "Al-Qalam",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "arabic" : "القلم",
+    "id" : 68
+  },
+  {
+    "name" : "Al-Haaqqa",
+    "arabic" : "الحاقة",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_069-Suratul-Haqqah_dawahnigeria.com.mp3",
+    "translation" : "The Reality",
+    "total_verses" : 52,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 69
+  },
+  {
+    "total_verses" : 44,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "name" : "Al-Maarij",
+    "id" : 70,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_070-Suratul-Ma'arij_dawahnigeria.com.mp3",
+    "arabic" : "المعارج",
+    "translation" : "The Ascending Stairways",
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "total_verses" : 28,
+    "arabic" : "نوح",
+    "isDownloaded" : false,
+    "id" : 71,
+    "name" : "Nuh",
+    "translation" : "Noah",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_071-Suratun-Nuhu_dawahnigeria.com.mp3",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_072-Suratul-Jinni_dawahnigeria.com.mp3",
+    "id" : 72,
+    "isDownloaded" : false,
+    "name" : "Al-Jinn",
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "translation" : "The Jinn",
+    "type" : "meccan",
+    "arabic" : "الجن",
+    "time_array" : [
+
+    ],
+    "total_verses" : 28
+  },
+  {
+    "translation" : "The Enshrouded One",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_073-Suratul-Muzzammil_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "arabic" : "المزمل",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Al-Muzzammil",
+    "time_array" : [
+
+    ],
+    "total_verses" : 20,
+    "type" : "meccan",
+    "id" : 73
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_074-Suratul-Mudassir_dawahnigeria.com.mp3",
+    "total_verses" : 56,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "arabic" : "المدثر",
+    "downloadStatus" : 0,
+    "id" : 74,
+    "translation" : "The Cloaked One",
+    "name" : "Al-Muddathir",
+    "isDownloading" : false
+  },
+  {
+    "translation" : "The Resurrection",
+    "total_verses" : 40,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_075-Suratul-Qiyamah_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "القيامة",
+    "id" : 75,
+    "type" : "meccan",
+    "name" : "Al-Qiyama",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_076-Suratul-Insaan_dawahnigeria.com.mp3",
+    "name" : "Al-Insan",
+    "type" : "medinan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "arabic" : "الانسان",
+    "id" : 76,
+    "total_verses" : 31,
+    "translation" : "The Man"
+  },
+  {
+    "translation" : "The Emissaries",
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 50,
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_077-Suratul-Mursalat._dawahnigeria.com.mp3",
+    "arabic" : "المرسلات",
+    "id" : 77,
+    "name" : "Al-Mursalat",
+    "downloadStatus" : 0,
+    "type" : "meccan"
+  },
+  {
+    "id" : 78,
+    "name" : "An-Naba",
+    "arabic" : "النبإ",
+    "isDownloaded" : false,
+    "total_verses" : 40,
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "translation" : "The Tidings",
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_078-Suratun-Naba'i_dawahnigeria.com.mp3",
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "name" : "An-Naziat",
+    "total_verses" : 46,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_079-Suratun-Nazi'at_dawahnigeria.com..mp3",
+    "type" : "meccan",
+    "arabic" : "النازعات",
+    "id" : 79,
+    "isDownloaded" : false,
+    "translation" : "Those who drag forth"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_080-Suratu-Abasa_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "total_verses" : 42,
+    "name" : "Abasa",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "id" : 80,
+    "translation" : "He Frowned",
+    "arabic" : "عبس"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_081-Suratut-Takwir_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "id" : 81,
+    "time_array" : [
+
+    ],
+    "total_verses" : 29,
+    "translation" : "The Overthrowing",
+    "type" : "meccan",
+    "arabic" : "التكوير",
+    "name" : "At-Takwir",
+    "downloadStatus" : 0,
+    "isDownloaded" : false
+  },
+  {
+    "total_verses" : 19,
+    "translation" : "The Cleaving",
+    "id" : 82,
+    "type" : "meccan",
+    "isDownloading" : false,
+    "name" : "Al-Infitar",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "arabic" : "الإنفطار",
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_082-Suratul-Infidar_dawahnigeria.com.mp3"
+  },
+  {
+    "id" : 83,
+    "translation" : "The Defrauding",
+    "type" : "meccan",
+    "name" : "Al-Mutaffifin",
+    "arabic" : "المطففين",
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_083-Suratul-Mudaffifin_dawahnigeria.com.mp3",
+    "total_verses" : 36,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "total_verses" : 25,
+    "translation" : "The Sundering",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "arabic" : "الإنشقاق",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_084-Suratul-Inshiqaq_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 84,
+    "name" : "Al-Inshiqaq"
+  },
+  {
+    "isDownloading" : false,
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "name" : "Al-Burooj",
+    "id" : 85,
+    "time_array" : [
+
+    ],
+    "translation" : "The Mansions of the Stars",
+    "arabic" : "البروج",
+    "total_verses" : 22,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_085-Suratul-Buruj_dawahnigeria.com.mp3",
+    "type" : "meccan"
+  },
+  {
+    "arabic" : "الطارق",
+    "isDownloading" : false,
+    "translation" : "The Nightcommer",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "id" : 86,
+    "name" : "At-Tariq",
+    "time_array" : [
+
+    ],
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_086-Suratud-Dariq_dawahnigeria.com.mp3",
+    "total_verses" : 17
+  },
+  {
+    "id" : 87,
+    "name" : "Al-Ala",
+    "total_verses" : 19,
+    "translation" : "The Most High",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "arabic" : "الأعلى",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_087-Suratul-A'ala_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "translation" : "The Overwhelming",
+    "total_verses" : 26,
+    "name" : "Al-Ghashiyah",
+    "arabic" : "الغاشية",
+    "isDownloading" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_088-Suratul-Gashiyah_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "downloadStatus" : 0,
+    "id" : 88,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloading" : false,
+    "name" : "Al-Fajr",
+    "arabic" : "الفجر",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_089-Suratul-Fajri_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "total_verses" : 30,
+    "type" : "meccan",
+    "translation" : "The Dawn",
+    "id" : 89,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "البلد",
+    "isDownloaded" : false,
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Balad",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_090-Suratul-Balad_dawahnigeria.com.mp3",
+    "id" : 90,
+    "total_verses" : 20,
+    "translation" : "The City",
+    "downloadStatus" : 0
+  },
+  {
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_091-Suratush-Shamsi_dawahnigeria.com.mp3",
+    "name" : "Ash-Shams",
+    "arabic" : "الشمس",
+    "total_verses" : 15,
+    "translation" : "The Sun",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "id" : 91
+  },
+  {
+    "id" : 92,
+    "arabic" : "الليل",
+    "time_array" : [
+
+    ],
+    "name" : "Al-Lail",
+    "downloadStatus" : 0,
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_092-Suratul-Laili_dawahnigeria.com.mp3",
+    "total_verses" : 21,
+    "isDownloading" : false,
+    "translation" : "The Night",
+    "isDownloaded" : false
+  },
+  {
+    "type" : "meccan",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "name" : "Ad-Dhuha",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_093-Suratud-Dhuha_dawahnigeria.com.mp3",
+    "arabic" : "الضحى",
+    "isDownloaded" : false,
+    "total_verses" : 11,
+    "translation" : "The Morning Hours",
+    "id" : 93,
+    "downloadStatus" : 0
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_094-Suratush-Sharhi_dawahnigeria.com.mp3",
+    "type" : "meccan",
+    "arabic" : "الشرح",
+    "total_verses" : 8,
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 94,
+    "name" : "Al-Inshirah",
+    "time_array" : [
+
+    ],
+    "translation" : "The Relief"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_095-Suratut-Teen_dawahnigeria.com.mp3",
+    "total_verses" : 8,
+    "downloadStatus" : 0,
+    "arabic" : "التين",
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "name" : "At-Tin",
+    "type" : "meccan",
+    "id" : 95,
+    "translation" : "The Fig"
+  },
+  {
+    "downloadStatus" : 0,
+    "id" : 96,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_096-Suratul-Alaq_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "name" : "Al-Alaq",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "type" : "meccan",
+    "translation" : "The Clot",
+    "arabic" : "العلق",
+    "total_verses" : 19
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_097-Suratul-Qadri_dawahnigeria.com.mp3",
+    "type" : "meccan",
+    "name" : "Al-Qadr",
+    "isDownloaded" : false,
+    "arabic" : "القدر",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "id" : 97,
+    "total_verses" : 5,
+    "translation" : "The Power"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_098-Suratul-Baiyinah_dawahnigeria.com.mp3",
+    "name" : "Al-Bayyina",
+    "id" : 98,
+    "arabic" : "البينة",
+    "downloadStatus" : 0,
+    "isDownloaded" : false,
+    "isDownloading" : false,
+    "total_verses" : 8,
+    "translation" : "The Clear Proof",
+    "type" : "medinan",
+    "time_array" : [
+
+    ]
+  },
+  {
+    "time_array" : [
+
+    ],
+    "total_verses" : 8,
+    "name" : "Az-Zalzala",
+    "id" : 99,
+    "translation" : "The Earthquake",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_099-Suratul-Zilzalah_dawahnigeria.com.mp3",
+    "type" : "medinan",
+    "isDownloaded" : false,
+    "arabic" : "الزلزلة",
+    "downloadStatus" : 0,
+    "isDownloading" : false
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_100-Suratul-Adiyat_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "arabic" : "العاديات",
+    "name" : "Al-Adiyat",
+    "time_array" : [
+
+    ],
+    "isDownloading" : false,
+    "total_verses" : 11,
+    "id" : 100,
+    "downloadStatus" : 0,
+    "translation" : "The Courser",
+    "type" : "meccan"
+  },
+  {
+    "downloadStatus" : 0,
+    "name" : "Al-Qaria",
+    "isDownloading" : false,
+    "isDownloaded" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 11,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_101-Suratul-Qari'ah_dawahnigeria.com.mp3",
+    "translation" : "The Calamity",
+    "arabic" : "القارعة",
+    "type" : "meccan",
+    "id" : 101
+  },
+  {
+    "isDownloaded" : false,
+    "name" : "At-Takathur",
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_102-Suratut-Takathur_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 102,
+    "type" : "meccan",
+    "total_verses" : 8,
+    "translation" : "The Rivalry in world increase",
+    "arabic" : "التكاثر"
+  },
+  {
+    "translation" : "The Declining Day",
+    "name" : "Al-Asr",
+    "type" : "meccan",
+    "total_verses" : 3,
+    "arabic" : "العصر",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_103-Suratul-Asri_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "id" : 103,
+    "time_array" : [
+
+    ]
+  },
+  {
+    "isDownloading" : false,
+    "total_verses" : 9,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_104-Suratul-Humazat_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "arabic" : "الهمزة",
+    "id" : 104,
+    "name" : "Al-Humaza",
+    "time_array" : [
+
+    ],
+    "downloadStatus" : 0,
+    "translation" : "The Traducer",
+    "type" : "meccan"
+  },
+  {
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_105-Suratul-Feel_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "name" : "Al-Fil",
+    "arabic" : "الفيل",
+    "time_array" : [
+
+    ],
+    "total_verses" : 5,
+    "translation" : "The Elephant",
+    "isDownloading" : false,
+    "id" : 105,
+    "type" : "meccan"
+  },
+  {
+    "translation" : "Quraysh",
+    "downloadStatus" : 0,
+    "id" : 106,
+    "name" : "Quraysh",
+    "arabic" : "قريش",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_106-Suratu-Quraish_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 4,
+    "isDownloaded" : false,
+    "type" : "meccan"
+  },
+  {
+    "isDownloading" : false,
+    "arabic" : "الماعون",
+    "time_array" : [
+
+    ],
+    "total_verses" : 7,
+    "downloadStatus" : 0,
+    "translation" : "The Small kindnesses",
+    "id" : 107,
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_107-Suratul-Ma'uun_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "name" : "Al-Maun"
+  },
+  {
+    "arabic" : "الكوثر",
+    "type" : "meccan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_108-Suratul-Kauthar_dawahnigeria.com.mp3",
+    "isDownloaded" : false,
+    "id" : 108,
+    "time_array" : [
+
+    ],
+    "name" : "Al-Kawthar",
+    "total_verses" : 3,
+    "translation" : "The Abundance",
+    "isDownloading" : false,
+    "downloadStatus" : 0
+  },
+  {
+    "isDownloaded" : false,
+    "downloadStatus" : 0,
+    "isDownloading" : false,
+    "id" : 109,
+    "name" : "Al-Kafirun",
+    "translation" : "The Disbelievers",
+    "total_verses" : 6,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_109-Suratul-Kafirun_dawahnigeria.com.mp3",
+    "type" : "meccan",
+    "time_array" : [
+
+    ],
+    "arabic" : "الكافرون"
+  },
+  {
+    "isDownloading" : false,
+    "name" : "An-Nasr",
+    "downloadStatus" : 0,
+    "arabic" : "النصر",
+    "time_array" : [
+
+    ],
+    "total_verses" : 3,
+    "translation" : "The Divine Support",
+    "id" : 110,
+    "isDownloaded" : false,
+    "type" : "medinan",
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_110-Suratun-Nasri_dawahnigeria.com.mp3"
+  },
+  {
+    "downloadStatus" : 0,
+    "arabic" : "المسد",
+    "name" : "Al-Masad",
+    "type" : "meccan",
+    "isDownloading" : false,
+    "time_array" : [
+
+    ],
+    "total_verses" : 5,
+    "translation" : "The Palm Fiber",
+    "isDownloaded" : false,
+    "id" : 111,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_111-Suratul-Masad_dawahnigeria.com.mp3"
+  },
+  {
+    "translation" : "The Sincerity",
+    "id" : 112,
+    "name" : "Al-Ikhlas",
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_112-Suratul-Ikhlas_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "arabic" : "الإخلاص",
+    "total_verses" : 4,
+    "type" : "meccan",
+    "isDownloaded" : false,
+    "isDownloading" : false
+  },
+  {
+    "name" : "Al-Falaq",
+    "total_verses" : 5,
+    "time_array" : [
+
+    ],
+    "isDownloaded" : false,
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_113-Suratul-Falaq_dawahnigeria.com.mp3",
+    "downloadStatus" : 0,
+    "translation" : "The Daybreak",
+    "isDownloading" : false,
+    "type" : "meccan",
+    "id" : 113,
+    "arabic" : "الفلق"
+  },
+  {
+    "time_array" : [
+
+    ],
+    "link" : "https://media.dawahnigeria.com/dnquran/MAL.SA'1D/Mallam-Sa'id_114-Suratun-Nass_dawahnigeria.com.mp3",
+    "isDownloading" : false,
+    "id" : 114,
+    "translation" : "Mankind",
+    "type" : "meccan",
+    "name" : "Al-Nas",
+    "downloadStatus" : 0,
+    "arabic" : "الناس",
+    "total_verses" : 6,
+    "isDownloaded" : false
+  }
+]
